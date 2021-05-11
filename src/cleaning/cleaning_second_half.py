@@ -1,4 +1,19 @@
 import pandas as pd 
+
+
+
+def clean_all_second_half():
+    df = load_data_or_legend()
+    legend = load_data_or_legend(False)
+    df = clean_term(df, legend)
+    df = clean_crime(df, legend)
+    df = clean_nationality(df, legend)
+    df['race'] = df['clean_nationality'].apply(lambda x: create_race_apply(x))
+    return df 
+
+
+
+
 def load_data_or_legend(data=True):
     """Loads legend or data
 
@@ -116,9 +131,18 @@ def clean_nationality_apply(x, dic):
     else:
         return x 
 
-
-def create_race(df):
     
+
+
+
+def create_race_apply(x):
+    if x in ['Black','Mexican', '?']:
+        return x
+    if x in ['Japan', 'China']:
+        return 'Asian'
+    else:
+        return 'White'
+
 
 if __name__=="__main__":
     df = load_data_or_legend()

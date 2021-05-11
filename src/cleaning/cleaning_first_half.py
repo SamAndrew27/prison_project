@@ -1,13 +1,15 @@
 
 import pandas as pd 
 
-def clean_all():
+def clean_all_first_half():
     df = load_data_or_legend()
     legend = load_data_or_legend(False)
     df = clean_term(df, legend)
     df = clean_crime(df, legend)
     df = clean_nativity(df, legend)
     df = clean_race(df, legend)
+    df['race_adjusted'] = df['clean_race'].apply(lambda x: race_adjusted_apply(x))
+    df['nativity_no_states'] = df['clean_nativity'].apply(lambda x: nat_no_states(x, legend))
     return df 
 
 def load_data_or_legend(data=True):
@@ -64,7 +66,7 @@ def clean_term_apply(x, dic):
             return x 
         else:
             if x == '?':
-                return None 
+                return x 
             else:
                 return [float(x)]
 
@@ -92,6 +94,7 @@ def clean_crime_apply(x,dic):
     Returns:
         str: type of crime
     """    
+    
     x = x.split('&')
     result = []
     for elem in x:
@@ -140,6 +143,20 @@ def clean_race_apply(x, dic):
     else:
         return x
 
+def race_adjusted_apply(x):
+    if x == 'Mulatto':
+        return 'Black'
+    if x == 'Mongolian':
+        return 'Asian'
+    else:
+        return x
+
+def nat_no_states(x, legend):
+    if x in list(legend['State Names'].dropna()):
+        return 'United States'
+    else:
+        return x
+
 if __name__=="__main__":
     # df= clean_crime()
     # vc = df.crime_clean.value_counts()
@@ -147,11 +164,13 @@ if __name__=="__main__":
     # print(result)
     # df = load_data_or_legend(False)
     # print(df.info())
-    df = clean_race()
-    vc = df['clean_race'].value_counts()
-    vc = list(vc.index)
+    # df = clean_race()
+    # vc = df['clean_race'].value_counts()
+    # vc = list(vc.index)
     
-    result = set()
-    for elem in vc:
-        result.add(elem)
-    print(result)
+    # result = set()
+    # for elem in vc:
+    #     result.add(elem)
+    # print(result)
+    df = clean_all_first_half()
+    print(df.info())
