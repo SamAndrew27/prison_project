@@ -1,7 +1,7 @@
 Term Legend,Race Legend,Crime Legend,Countries Legend,State Abbreviations,State Names
 ,,,,,
 L: Life,W:White,L: Larceny,I: Italy,AL,Alabama
-D: Death,B: Black/negro,F: Forgery,E: England,AK,Alaska
+D: Death,B: Black,F: Forgery,E: England,AK,Alaska
 ,M: Mexican,M: Murder,F: France,AZ,Arizona
 ,MU: Mulatto ,B: Burglary ,G: Germany,AR,Arkansas
 ,I: Indian,A: Assault ,IR: Ireland,CA,California
@@ -10,26 +10,26 @@ D: Death,B: Black/negro,F: Forgery,E: England,AK,Alaska
 ,,C: Counterfeiting ,M: Mexico,DE,Delaware
 ,,E: Embezzlement,P: Prussia,DC,District of Columbia
 ,,BI: Bigamy,R: Russia,FL,Florida
-,,AIM: Assault w/ intent to murder,S: Scotland,GA,Georgia
-,,AIR: Assault w/ intent to rape,IOM: Isle of Man,HI,Hawaii
+,,AIM: Assault w/ Intent to Murder,S: Scotland,GA,Georgia
+,,AIR: Assault w/ Intent to Rape,IOM: Isle of Man,HI,Hawaii
 ,,CON: Confidence Games,N: Norway,ID,Idaho
-,,AIK: Assault w/ intent to kill ,NS: Nova Scotia,IL,Illinois
-,,AIROB: ASSAULT w/ intent to rob,PO: Poland,IN,Indiana
-,,GL: Grand larceny,CU: Cuba,IA,Iowa
+,,AIK: Assault w/ Intent to Kill ,NS: Nova Scotia,IL,Illinois
+,,AIROB: Assault w/ Intent to Rob,PO: Poland,IN,Indiana
+,,GL: Grand Larceny,CU: Cuba,IA,Iowa
 ,,R: Robbery,W: Wales,KS,Kansas
 ,,FP: False Pretenses,SAX: Saxony,KY,Kentucky
-,,CAN: Crime Against Nature,BOH: BOHEMIA,LA,Louisiana
-,,RSG: Receiving Stolen Goods,,ME,Maine
-,,BUG: Buggary,,MD,Maryland
-,,MAY: Mayhem,,MA,Massachusetts
-,,U: Uttering,,MI,Michigan
+,,CAN: Crime Against Nature,BOH: Bohemia,LA,Louisiana
+,,RSG: Receiving Stolen Goods,IT: Indian Territory,ME,Maine
+,,BUG: Buggary,PE: Prince Edward's Island,MD,Maryland
+,,MAY: Mayhem,D: Denmark,MA,Massachusetts
+,,U: Uttering,SW: Sweden,MI,Michigan
 ,,LAB: Larceny as Bailee,,MN,Minnesota
 ,,VM: Voluntary Manslaughter,,MS,Mississippi
 ,,LFP: Larceny from Person,,MO,Missouri
-,,UF: UTTERING FORGERY,,MT,Montana
-,,AR: ARSON,,NE,Nebraska
-,,AT: ACESSORY TO,,NV,Nevada
-,,FA: FELONIOUIS ASSAULT,,NH,New Hampshire
+,,UF: Uttering Forgery,,MT,Montana
+,,AR: Arson,,NE,Nebraska
+,,AT: Accessory To,,NV,Nevada
+,,FA: Felonious Assault ,,NH,New Hampshire
 ,,P: Perjury,,NJ,New Jersey
 ,,,,NM,New Mexico
 ,,,,NY,New York

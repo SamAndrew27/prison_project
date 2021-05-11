@@ -57,7 +57,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 27,3,R,DC,W,50,2,1878
 43,5,F,G,W,50,2,1878
 36,2,L,MA,W,50,2,1878
-26,7,M,Ny,W,50,2,1878
+26,7,M,NY,W,50,2,1878
 32,3,L,G,W,50,2,1878
 27,10,R,A,W,50,2,1878
 25,L,M,I,W,50,2,1878
@@ -229,7 +229,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,5,AIROB,MA,W,68,3,1880
 ,4,AIR,OH,W,68,3,1880
 ,1,L,PA,W,68,3,1880
-,6,B & l & AIK,OH,B,68,3,1880
+,6,B & L & AIK,OH,B,68,3,1880
 ,5,C ,IR,W,68,3,1880
 ,5,B   ,LA,W,68,3,1880
 ,L,M,NM,M,68,3,1880
@@ -253,7 +253,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,10,AIM,IR,W,69,3,1880
 ,L,M,IR,W,69,3,1880
 ,L,M,E,W,69,3,1880
-,6,ML,IA,W,69,3,1880
+,6,L,IA,W,69,3,1880
 ,7,M,NE,W,69,3,1880
 ,6.5,B,E,W,69,3,1880
 ,2.5,L,MO,W,69,3,1880
@@ -294,11 +294,11 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,1.5,L,PA,W,71,4,1880
 ,1,L,M,M,71,4,1880
 ,2,AIM,IR,W,71,4,1880
-,7,B & l,NS,W,71,4,1880
+,7,B & L,NS,W,71,4,1880
 ,L,M,NY,W,71,4,1880
 ,L,M,OH,B,71,4,1880
 ,7,L,E,W,,5,1880
-,3.5,F,SAXONY,W,,5,1880
+,3.5,F,SAX,W,,5,1880
 ,3,L,MO,W,,5,1880
 ,3,B,MI,W,,5,1880
 ,3.5,B,KY,W,,5,1880
@@ -323,14 +323,14 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,L,M,NY,W,,5,1880
 ,2.5,L,IA,W,,5,1880
 ,2,MA,OH,W,,5,1880
-,3,ARSON,VA,B,,5,1880
+,3,AR,VA,B,,5,1880
 ,3.5,L,OH,W,,5,1880
-,1.5,L,BOHEMIA,W,,5,1880
+,1.5,L,BOH,W,,5,1880
 ,2,L,NY,W,,5,1880
 ,4,B & L,CT,W,,5,1880
 ,3,AIM,RI,W,,5,1880
 ,1.75,L,G,W,,5,1880
-,6,CHEAT,OH,W,,5,1880
+,6,Cheat,OH,W,,5,1880
 ,1.5,L,VT,W,,5,1880
 ,3,B,PA,W,,5,1880
 ,5,AIM,IR,W,,6,1880
@@ -360,7 +360,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,2,L,NY,W,,6,1880
 ,2,L,GA,W,,6,1880
 ,2.5,AIM,MS,W,,6,1880
-,0.33,MAYHEM,KY,MU,,6,1880
+,0.33,MAY,KY,MU,,6,1880
 ,3,L,NY,W,,6,1880
 ,3,L,TX,W,,6,1880
 ,2.5,AIR,IA,W,,6,1880
@@ -402,7 +402,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,L,M,PA,W,,1,1882
 ,1,RA,NM,M,,1,1882
 ,3,L,RI,W,,1,1882
-,1,ATTEMPTED ARSON,NY,W,,1,1882
+,1,Attempted Arson,NY,W,,1,1882
 ,6,L,NY,W,,1,1882
 ,L,M,I,W,,1,1882
 ,15,M,MO,W,,1,1882
@@ -445,11 +445,11 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,4,L,IL,W,,2,1882
 ,9,L,OH,B,,2,1882
 ,L,MA,MO,B,,2,1882
-,1,CHEAT,E,W,,2,1882
+,1,Cheat,E,W,,2,1882
 ,6,R,MI,W,,2,1882
-,3,F,SWITZERLAND,W,,2,1882
+,3,F,Switzerland,W,,2,1882
 ,4,L,IL,W,,2,1882
-,6,L,CUBA,W,,2,1882
+,6,L,CU,W,,2,1882
 ,7,MA,NY,W,,2,1882
 ,3,AIM,NY,W,,2,1882
 ,7,L,MO,W,,2,1882
@@ -465,7 +465,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,2,L,NJ,W,,2,1882
 ,2.5,L,OH,W,,2,1882
 ,4.5,AIM,MO,B,,2,1882
-,4,L,AUSTRALIA,W,,2,1882
+,4,L,Australia,W,,2,1882
 ,3,L,E,W,,2,1882
 ,10,F,MO,W,,2,1882
 ,4,R,NY,W,,2,1882
@@ -585,7 +585,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,3,R,G,W,,4,1882
 ,L,M,NY,W,,4,1882
 ,5,L,CO,W,,4,1882
-,8,L,BT,W,,4,1882
+,8,L,VT,W,,4,1882
 ,6,B,IL,W,,4,1882
 ,4,L,MD,W,,4,1882
 ,6,B & L,IL,W,,4,1882
@@ -606,9 +606,9 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,7,B & L,NS,W,,4,1882
 ,2,L,CA,W,,4,1882
 ,3,B & L,C,W,,4,1882
-,10,R,MA,WW,,4,1882
+,10,R,MA,W,,4,1882
 ,L,M,CT,W,,4,1882
-,L,M,SAXONY,W,,4,1882
+,L,M,SAX,W,,4,1882
 ,7,R,PA,W,,4,1882
 ,3,B,KY,W,,4,1882
 ,5,B,WI,W,,4,1882
@@ -694,7 +694,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,1.33,L,IA,W,,5,1882
 ,4,L,NC,W,,5,1882
 ,L,M,PA,W,33,1,1884
-,1,ASSISTING TO KILL,OH,B,33,1,1884
+,1,Assisting to Kill,OH,B,33,1,1884
 ,10,B,NY,W,33,1,1884
 ,15,GL,NY,W,33,1,1884
 ,37,R,VA,W,33,1,1884
@@ -734,7 +734,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,3,B,DC,W,34,2,1884
 ,4,L,MO,W,34,2,1884
 ,3.5,GL,G,W,34,2,1884
-,10,ASSISTING TO MURDER,IR,W,34,2,1884
+,10,Assisting to Murder,IR,W,34,2,1884
 ,3,L,NE,W,34,2,1884
 ,12,R,NY,W,34,2,1884
 ,2,B,KY,B,34,2,1884
@@ -788,9 +788,9 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,3.25-4,GL,OH,MU ,35,2,1884
 ,L,M,MO,MU ,35,2,1884
 ,6,R,MI,W,35,2,1884
-,6,L,CUBA,W,35,2,1884
+,6,L,CU,W,35,2,1884
 ,5,B,NY,W,35,2,1884
-,1,"FELONY, BRANDING STOCK",IL,W,35,2,1884
+,1,"Felony, Branding Stock",IL,W,35,2,1884
 ,8,L,TX,W,35,2,1884
 ,10,L,TX,W,35,2,1884
 ,1,FP,MO,B,35,2,1884
@@ -807,8 +807,8 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,6,L,NY,W,36,3,1884
 ,L,M,IR,W,36,3,1884
 ,4,AIK,MO,W,36,3,1884
-,4,F,HUNGARY,W,36,3,1884
-,4,L,CHINA,MONGOLIAN,36,3,1884
+,4,F,Hungary,W,36,3,1884
+,4,L,China,Mongolian,36,3,1884
 ,1,L,CO,M,36,3,1884
 ,4,F,OH,W,36,3,1884
 ,2,M,NM,M,36,3,1884
@@ -829,7 +829,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,14,GL,UT,W,36,3,1884
 ,3.5,L,IA,W,36,3,1884
 ,5,L,WI,W,36,3,1884
-,2.83-3,ABORTION,R,W,36,3,1884
+,2.83-3,Abortion,R,W,36,3,1884
 ,5,R,IL,W,36,3,1884
 ,2,GL,AR,W,36,3,1884
 ,2,L,NY,W,36,3,1884
@@ -840,7 +840,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,5,MA,MO,MU ,37,3,1884
 ,5,M,MD,W,37,3,1884
 ,4,L,NY,W,37,3,1884
-,1,RESCUE OF PRISONER,MI,W,37,3,1884
+,1,Rescue of Prisoner ,MI,W,37,3,1884
 ,1,L,IL,W,37,3,1884
 ,3,L,OH,W,37,3,1884
 ,3,L,IL,W,37,3,1884
@@ -860,8 +860,8 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,3,GL,C,W,37,3,1884
 ,6.5,GL,CO,I,37,3,1884
 ,1.5,FP,MA,W,37,3,1884
-,2,CONSPIRING TO MURDER,D ,W,37,3,1884
-,2,CONSPIRING TO MURDER,OH,W,37,3,1884
+,2,Conspiring to Murder,D ,W,37,3,1884
+,2,Conspiring to Murder,OH,W,37,3,1884
 ,L,M,IR,W,37,3,1884
 ,7,GL,IR,W,37,3,1884
 ,L,M,WI,W,37,3,1884
@@ -871,7 +871,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,2,L,MN,W,37,3,1884
 ,2,B,NY,W,37,3,1884
 ,3,L,G,W,37,3,1884
-,1,L,ALSACE,W,37,3,1884
+,1,L,Alsace,W,37,3,1884
 ,2,L,OH,W,37,3,1884
 ,3,L,MI,W,37,3,1884
 ,5,M,KY,B,37,3,1884
@@ -891,7 +891,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,2.5,GL,KS,W,,4,1884
 ,1,AIM,OH,W,,4,1884
 ,3,L,NM,M,,4,1884
-,1,RESCUE OF PRISONER,NE,W,,4,1884
+,1,Rescue of Prisoner ,NE,W,,4,1884
 ,14,M,AK,MU ,,4,1884
 ,4,L,MD,W,,4,1884
 ,3,L,G,W,,4,1884
@@ -914,7 +914,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,3,L,I,W,,4,1884
 ,1,GL,NM,M,,4,1884
 ,8,M,KY,W,,4,1884
-,1,L,KS,N,,4,1884
+,1,L,KS,B,,4,1884
 ,3,M,G,W,,4,1884
 ,15,RA,CO,M,,4,1884
 ,10,AIK,NY,W,,4,1884
@@ -1029,7 +1029,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,1,L,MN,W,,5,1884
 ,5,L,TX,W,,5,1884
 ,12,R,NY,W,,,1884
-,16,M (2ND DEGREE),VA,B,,6,1884
+,16,Murder (2ND DEGREE),VA,B,,6,1884
 ,4,B,C,W,,6,1884
 ,L,M,I,W,,6,1884
 ,3.83-4,GL,NY,W,,6,1884
@@ -1086,7 +1086,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,2,L & RSG,NM,W,,1,1888
 ,15,B & R,NY,W,,1,1888
 ,3,B & L,NJ,W,,1,1888
-,4,L 7 RSG,E,W,,1,1888
+,4,L & RSG,E,W,,1,1888
 ,2,B,NY,W,,1,1888
 ,2,F,F,W,,1,1888
 ,2,L,CO,W,,1,1888
@@ -1202,7 +1202,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,7.5-8,AIR,PA,W,,4,1888
 ,2,FP,E,W,,4,1888
 ,2,AIROB,LA,B,,4,1888
-,1,F (AND UTTER. FORG.),G,W,,4,1888
+,1,F & UF,G,W,,4,1888
 ,4,L,NY,W,,4,1888
 ,1,L,IL,W,,4,1888
 ,1,GL,E,W,,4,1888
@@ -1232,7 +1232,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,1,L,E,W,,5,1888
 ,1,L,KY,W,,5,1888
 ,5,M,W,W,,5,1888
-,1,L,ON THE SEA,W,,5,1888
+,1,L,On the Sea,W,,5,1888
 ,3,L,MO,B,,5,1888
 ,2,LAB,MA,B,,5,1888
 ,5,B,DC,W,,5,1888
@@ -1246,11 +1246,11 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,15,M,IR,W,,5,1888
 ,1,GL,NY,W,,5,1888
 ,2.5-3,L,PA,W,,5,1888
-,3,F & FU,F,W,,5,1888
+,3,F & UF,F,W,,5,1888
 ,2,B,MO,W,,5,1888
 ,2,GL,IR,W,,5,1888
 ,1,RSG,IL,W,,5,1888
-,2,L,AUSTRALIA,W,,5,1888
+,2,L,Australia,W,,5,1888
 ,1,L,IR,W,,5,1888
 ,15,GL,PA,W,,5,1888
 ,14,M,AR,B,,5,1888
@@ -1279,10 +1279,10 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,15,RA,CO,W,,6,1888
 ,5,GL,C ,W,,6,1888
 ,5,GL,NY,W,,6,1888
-,5,MALICIOUS MICHIEF,E,W,,6,1888
+,5,Malicious Mischief,E,W,,6,1888
 ,4,L & RSG,LA,W,,6,1888
-,10,L,T,W,,6,1888
-,4,F,EAST INDIES,W,,6,1888
+,10,L,TX,W,,6,1888
+,4,F,East Indies,W,,6,1888
 ,5,L,IR,W,,6,1888
 ,4,F,E,W,,6,1888
 ,7,AIM,CO,W,,6,1888
@@ -1327,7 +1327,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,3,B,MI,W,,7,1888
 ,2,B,NY,W,,7,1888
 ,5,GL,IR,W,,7,1888
-,3,B,AUSTRALIA,W,,7,1888
+,3,B,Australia,W,,7,1888
 ,21,M,I,W,,7,1888
 ,7,L,OH,W,,7,1888
 ,5,M,I,W,,7,1888
@@ -1400,7 +1400,7 @@ Age,Term,Crime,Nativity,Race,Page,File,Year
 ,1,B  ,OH,W,,9,1888
 ,2.5-3,F,MI,W,,9,1888
 ,1,GL,MI,W,,9,1888
-,2,SODOMY & BUG,NY,W,,9,1888
+,2,Sodomy & BUG,NY,W,,9,1888
 ,4,L,NY,W,,9,1888
 ,12,R,NY,W,,9,1888
 ,16,M,VA,B,,9,1888
