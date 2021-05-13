@@ -38,6 +38,7 @@ def clean_term(df, legend):
     dic = {}
     tl = legend['Term Legend'].dropna()
     for elem in tl:
+        elem = elem.strip()
         temp = elem.split(':')
         dic[temp[0]] = temp[1].strip()
     df['term_clean'] = df['Term'].apply(lambda x: clean_term_apply(x, dic))
@@ -60,10 +61,15 @@ def clean_term_apply(x, dic):
         return [x]
     else:
         if '-' in x:
+            result = []
             x = x.split('-')
             for elem in x:
-                elem = float(elem.strip())
-            return x 
+                elem = elem.strip()
+                if elem == 'L':
+                    result.append('Life')
+                else:
+                    result.append(float(elem))
+            return result
         else:
             if x == '?':
                 return x 
@@ -94,7 +100,9 @@ def clean_crime_apply(x,dic):
     Returns:
         str: type of crime
     """    
-    
+    if '(' in x:
+        cutoff = x.index('(')
+        x = x[:cutoff]
     x = x.split('&')
     result = []
     for elem in x:
@@ -158,6 +166,7 @@ def nat_no_states(x, legend):
         return x
 
 if __name__=="__main__":
+    pass
     # df= clean_crime()
     # vc = df.crime_clean.value_counts()
 
@@ -172,5 +181,5 @@ if __name__=="__main__":
     # for elem in vc:
     #     result.add(elem)
     # print(result)
-    df = clean_all_first_half()
-    print(df.info())
+    # df = clean_all_first_half()
+    # print(df.info())

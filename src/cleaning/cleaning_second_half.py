@@ -63,15 +63,17 @@ def clean_term_apply(x, dic):
     else:
         if '-' in x:
             x = x.split('-')
+            result = []
             for elem in x:
+                elem = elem.strip()
                 if elem == 'L':
-                    elem = 'Life'
+                    result.append('Life')
                 else:
-                    elem = float(elem.strip())
-            return x 
+                    result.append(float(elem))
+            return result
         else:
             if x == '?':
-                return None 
+                return [x] 
             else:
                 return [float(x)]
 
