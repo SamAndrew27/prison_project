@@ -6,7 +6,7 @@ def load_state_data_and_clean(save=False):
     df = df.rename(columns={'Unnamed: 0':'state'})
     result = pd.DataFrame(columns=['State', 'Year', 'Prisoners'], index= list(range(10000))) # stupid way to index and add, do something better 
     year_df = df.iloc[:, 1:]
-    yrs = list(df.columns)
+    yrs = list(year_df.columns)
 
     index = 0
     for idx, row in df.iterrows():
@@ -22,16 +22,21 @@ def load_state_data_and_clean(save=False):
     if save:
         result.to_csv('../../data/state_data_cleaned.csv')
     else:
-        return result 
+        return result
 
 
 
 
     return df 
 if __name__=="__main__":
-    df = load_state_data_and_clean()
+    load_state_data_and_clean(True)
+    # df = load_state_data_and_clean()
     # for idx, row in df.iterrows()
     # df = df.iloc[:, 1:]
     # print(list(df.columns))
-    print(df.info())
-    load_state_data_and_clean(True)
+    # print(df.info())
+    # load_state_data_and_clean(True)
+
+
+    # df = pd.read_csv('../../data/state_data.csv')
+    # df = df.rename(columns={'Unnamed: 0':'state'})

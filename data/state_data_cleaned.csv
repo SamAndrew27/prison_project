@@ -1,1475 +1,1424 @@
 ,State,Year,Prisoners
-0,Alabama,state,Alabama
-1,Alabama,1878,1.0
-2,Alabama,1880,0.0
-3,Alabama,1882,0
-4,Alabama,1884,1
-5,Alabama,1886,1
-6,Alabama,1888,0
-7,Alabama,1890,1
-8,Alabama,1892,1
-9,Alabama,1896,2
-10,Alabama,1900,6
-11,Alabama,1902,7
-12,Alabama,1906,8
-13,Alabama,1908,8
-14,Alabama,1912,6
-15,Alabama,1914,3
-16,Alabama,1916,5
-17,Alabama,1918,4
-18,Alabama,1920,2
-19,Alabama,1922,5
-20,Alabama,1924,9
-21,Alabama,1926,6
-22,Alabama,1928,5
-23,Alabama,1930,4
-24,Alabama,1932,12
-25,Alabama,1934,10
-26,Alabama,1936,4
-27,Alabama,1938,6
-28,Alabama,1940,6
-29,Alaska,state,Alaska
-30,Alaska,1878,0.0
-31,Alaska,1880,0.0
-32,Alaska,1882,0
-33,Alaska,1884,0
-34,Alaska,1886,0
-35,Alaska,1888,0
-36,Alaska,1890,0
-37,Alaska,1892,0
-38,Alaska,1896,0
-39,Alaska,1900,0
-40,Alaska,1902,0
-41,Alaska,1906,0
-42,Alaska,1908,0
-43,Alaska,1912,0
-44,Alaska,1914,0
-45,Alaska,1916,0
-46,Alaska,1918,0
-47,Alaska,1920,0
-48,Alaska,1922,1
-49,Alaska,1924,0
-50,Alaska,1926,0
-51,Alaska,1928,0
-52,Alaska,1930,0
-53,Alaska,1932,0
-54,Alaska,1934,0
-55,Alaska,1936,0
-56,Alaska,1938,0
-57,Alaska,1940,0
-58,Arizona,state,Arizona
-59,Arizona,1878,0.0
-60,Arizona,1880,0.0
-61,Arizona,1882,1
-62,Arizona,1884,1
-63,Arizona,1886,0
-64,Arizona,1888,0
-65,Arizona,1890,1
-66,Arizona,1892,1
-67,Arizona,1896,2
-68,Arizona,1900,1
-69,Arizona,1902,0
-70,Arizona,1906,2
-71,Arizona,1908,3
-72,Arizona,1912,2
-73,Arizona,1914,4
-74,Arizona,1916,1
-75,Arizona,1918,3
-76,Arizona,1920,5
-77,Arizona,1922,7
-78,Arizona,1924,0
-79,Arizona,1926,4
-80,Arizona,1928,4
-81,Arizona,1930,5
-82,Arizona,1932,3
-83,Arizona,1934,9
-84,Arizona,1936,5
-85,Arizona,1938,11
-86,Arizona,1940,4
-87,Arkansas,state,Arkansas
-88,Arkansas,1878,0.0
-89,Arkansas,1880,0.0
-90,Arkansas,1882,1
-91,Arkansas,1884,4
-92,Arkansas,1886,2
-93,Arkansas,1888,3
-94,Arkansas,1890,1
-95,Arkansas,1892,1
-96,Arkansas,1896,1
-97,Arkansas,1900,2
-98,Arkansas,1902,2
-99,Arkansas,1906,2
-100,Arkansas,1908,4
-101,Arkansas,1912,5
-102,Arkansas,1914,9
-103,Arkansas,1916,4
-104,Arkansas,1918,7
-105,Arkansas,1920,5
-106,Arkansas,1922,10
-107,Arkansas,1924,13
-108,Arkansas,1926,11
-109,Arkansas,1928,9
-110,Arkansas,1930,15
-111,Arkansas,1932,21
-112,Arkansas,1934,13
-113,Arkansas,1936,19
-114,Arkansas,1938,15
-115,Arkansas,1940,24
-116,California,state,California
-117,California,1878,1.0
-118,California,1880,1.0
-119,California,1882,5
-120,California,1884,2
-121,California,1886,3
-122,California,1888,5
-123,California,1890,3
-124,California,1892,12
-125,California,1896,9
-126,California,1900,13
-127,California,1902,9
-128,California,1906,4
-129,California,1908,11
-130,California,1912,14
-131,California,1914,9
-132,California,1916,14
-133,California,1918,5
-134,California,1920,6
-135,California,1922,11
-136,California,1924,8
-137,California,1926,9
-138,California,1928,17
-139,California,1930,15
-140,California,1932,10
-141,California,1934,13
-142,California,1936,20
-143,California,1938,15
-144,California,1940,6
-145,Colorado,state,Colorado
-148,Colorado,1882,3
-149,Colorado,1884,8
-150,Colorado,1886,2
-151,Colorado,1888,7
-152,Colorado,1890,13
-153,Colorado,1892,21
-154,Colorado,1896,31
-155,Colorado,1900,15
-156,Colorado,1902,40
-157,Colorado,1906,30
-158,Colorado,1908,50
-159,Colorado,1912,84
-160,Colorado,1914,64
-161,Colorado,1916,95
-162,Colorado,1918,60
-163,Colorado,1920,67
-164,Colorado,1922,83
-165,Colorado,1924,102
-166,Colorado,1926,144
-167,Colorado,1928,170
-168,Colorado,1930,187
-169,Colorado,1932,248
-170,Colorado,1934,276
-171,Colorado,1936,291
-172,Colorado,1938,293
-173,Colorado,1940,267
-174,Connecticut,state,Connecticut
-176,Connecticut,1880,1.0
-177,Connecticut,1882,3
-178,Connecticut,1884,1
-179,Connecticut,1886,3
-180,Connecticut,1888,4
-181,Connecticut,1890,6
-182,Connecticut,1892,4
-183,Connecticut,1896,2
-184,Connecticut,1900,6
-185,Connecticut,1902,3
-186,Connecticut,1906,2
-187,Connecticut,1908,5
-188,Connecticut,1912,2
-189,Connecticut,1914,4
-190,Connecticut,1916,2
-191,Connecticut,1918,2
-192,Connecticut,1920,1
-193,Connecticut,1922,1
-194,Connecticut,1924,1
-195,Connecticut,1926,2
-196,Connecticut,1928,3
-197,Connecticut,1930,2
-198,Connecticut,1932,5
-199,Connecticut,1934,2
-200,Connecticut,1936,1
-201,Connecticut,1938,4
-202,Connecticut,1940,1
-203,D.C.,state,D.C.
-204,D.C.,1878,6.0
-205,D.C.,1880,3.0
-206,D.C.,1882,2
-207,D.C.,1884,1
-208,D.C.,1886,2
-209,D.C.,1888,3
-210,D.C.,1890,1
-211,D.C.,1892,2
-212,D.C.,1896,0
-213,D.C.,1900,2
-214,D.C.,1902,1
-215,D.C.,1906,0
-216,D.C.,1908,4
-217,D.C.,1912,5
-218,D.C.,1914,2
-219,D.C.,1916,2
-220,D.C.,1918,1
-221,D.C.,1920,2
-222,D.C.,1922,1
-223,D.C.,1924,1
-224,D.C.,1926,2
-225,D.C.,1928,0
-226,D.C.,1930,1
-227,D.C.,1932,0
-228,D.C.,1934,2
-229,D.C.,1936,1
-230,D.C.,1938,0
-231,D.C.,1940,0
-232,Delaware,state,Delaware
-233,Delaware,1878,0.0
-234,Delaware,1880,0.0
-235,Delaware,1882,0
-236,Delaware,1884,0
-237,Delaware,1886,0
-238,Delaware,1888,1
-239,Delaware,1890,1
-240,Delaware,1892,0
-241,Delaware,1896,1
-242,Delaware,1900,1
-243,Delaware,1902,0
-244,Delaware,1906,0
-245,Delaware,1908,0
-246,Delaware,1912,0
-247,Delaware,1914,1
-248,Delaware,1916,0
-249,Delaware,1918,0
-250,Delaware,1920,0
-251,Delaware,1922,0
-252,Delaware,1924,0
-253,Delaware,1926,1
-254,Delaware,1928,0
-255,Delaware,1930,0
-256,Delaware,1932,1
-257,Delaware,1934,1
-258,Delaware,1936,0
-259,Delaware,1938,1
-260,Delaware,1940,0
-261,Florida,state,Florida
-264,Florida,1882,2
-265,Florida,1884,0
-266,Florida,1886,0
-267,Florida,1888,0
-268,Florida,1890,0
-269,Florida,1892,0
-270,Florida,1896,0
-271,Florida,1900,0
-272,Florida,1902,1
-273,Florida,1906,1
-274,Florida,1908,0
-275,Florida,1912,1
-276,Florida,1914,1
-277,Florida,1916,0
-278,Florida,1918,0
-279,Florida,1920,0
-280,Florida,1922,1
-281,Florida,1924,0
-282,Florida,1926,1
-283,Florida,1928,0
-284,Florida,1930,4
-285,Florida,1932,1
-286,Florida,1934,3
-287,Florida,1936,2
-288,Florida,1938,6
-289,Florida,1940,2
-290,Georgia,state,Georgia
-291,Georgia,1878,1.0
-292,Georgia,1880,1.0
-293,Georgia,1882,0
-294,Georgia,1884,1
-295,Georgia,1886,1
-296,Georgia,1888,0
-297,Georgia,1890,0
-298,Georgia,1892,0
-299,Georgia,1896,0
-300,Georgia,1900,6
-301,Georgia,1902,5
-302,Georgia,1906,4
-303,Georgia,1908,7
-304,Georgia,1912,7
-305,Georgia,1914,8
-306,Georgia,1916,5
-307,Georgia,1918,7
-308,Georgia,1920,6
-309,Georgia,1922,4
-310,Georgia,1924,5
-311,Georgia,1926,6
-312,Georgia,1928,7
-313,Georgia,1930,11
-314,Georgia,1932,4
-315,Georgia,1934,9
-316,Georgia,1936,5
-317,Georgia,1938,5
-318,Georgia,1940,3
-319,Idaho,state,Idaho
-320,Idaho,1878,0.0
-321,Idaho,1880,0.0
-322,Idaho,1882,0
-323,Idaho,1884,0
-324,Idaho,1886,0
-325,Idaho,1888,1
-326,Idaho,1890,0
-327,Idaho,1892,0
-328,Idaho,1896,0
-329,Idaho,1900,0
-330,Idaho,1902,0
-331,Idaho,1906,1
-332,Idaho,1908,0
-333,Idaho,1912,0
-334,Idaho,1914,0
-335,Idaho,1916,1
-336,Idaho,1918,2
-337,Idaho,1920,0
-338,Idaho,1922,1
-339,Idaho,1924,0
-340,Idaho,1926,1
-341,Idaho,1928,2
-342,Idaho,1930,3
-343,Idaho,1932,1
-344,Idaho,1934,3
-345,Idaho,1936,3
-346,Idaho,1938,7
-347,Idaho,1940,6
-348,Illinois ,state,Illinois 
-349,Illinois ,1878,3.0
-350,Illinois ,1880,9.0
-351,Illinois ,1882,20
-352,Illinois ,1884,26
-353,Illinois ,1886,15
-354,Illinois ,1888,27
-355,Illinois ,1890,45
-356,Illinois ,1892,61
-357,Illinois ,1896,35
-358,Illinois ,1900,35
-359,Illinois ,1902,49
-360,Illinois ,1906,42
-361,Illinois ,1908,43
-362,Illinois ,1912,46
-363,Illinois ,1914,34
-364,Illinois ,1916,53
-365,Illinois ,1918,24
-366,Illinois ,1920,30
-367,Illinois ,1922,51
-368,Illinois ,1924,36
-369,Illinois ,1926,35
-370,Illinois ,1928,60
-371,Illinois ,1930,60
-372,Illinois ,1932,62
-373,Illinois ,1934,58
-374,Illinois ,1936,49
-375,Illinois ,1938,51
-376,Illinois ,1940,49
-377,Indiana,state,Indiana
-378,Indiana,1878,4.0
-379,Indiana,1880,1.0
-380,Indiana,1882,9
-381,Indiana,1884,6
-382,Indiana,1886,9
-383,Indiana,1888,16
-384,Indiana,1890,14
-385,Indiana,1892,15
-386,Indiana,1896,10
-387,Indiana,1900,9
-388,Indiana,1902,15
-389,Indiana,1906,13
-390,Indiana,1908,7
-391,Indiana,1912,11
-392,Indiana,1914,18
-393,Indiana,1916,16
-394,Indiana,1918,10
-395,Indiana,1920,12
-396,Indiana,1922,6
-397,Indiana,1924,15
-398,Indiana,1926,17
-399,Indiana,1928,23
-400,Indiana,1930,14
-401,Indiana,1932,22
-402,Indiana,1934,24
-403,Indiana,1936,16
-404,Indiana,1938,23
-405,Indiana,1940,17
-406,Iowa,state,Iowa
-407,Iowa,1878,7.0
-408,Iowa,1880,8.0
-409,Iowa,1882,14
-410,Iowa,1884,10
-411,Iowa,1886,6
-412,Iowa,1888,5
-413,Iowa,1890,18
-414,Iowa,1892,34
-415,Iowa,1896,12
-416,Iowa,1900,22
-417,Iowa,1902,29
-418,Iowa,1906,21
-419,Iowa,1908,22
-420,Iowa,1912,25
-421,Iowa,1914,29
-422,Iowa,1916,24
-423,Iowa,1918,31
-424,Iowa,1920,24
-425,Iowa,1922,34
-426,Iowa,1924,22
-427,Iowa,1926,40
-428,Iowa,1928,37
-429,Iowa,1930,46
-430,Iowa,1932,40
-431,Iowa,1934,38
-432,Iowa,1936,40
-433,Iowa,1938,40
-434,Iowa,1940,25
-435,Kansas,state,Kansas
-436,Kansas,1878,1.0
-437,Kansas,1880,2.0
-438,Kansas,1882,4
-439,Kansas,1884,6
-440,Kansas,1886,1
-441,Kansas,1888,7
-442,Kansas,1890,7
-443,Kansas,1892,13
-444,Kansas,1896,11
-445,Kansas,1900,11
-446,Kansas,1902,25
-447,Kansas,1906,25
-448,Kansas,1908,25
-449,Kansas,1912,27
-450,Kansas,1914,41
-451,Kansas,1916,35
-452,Kansas,1918,25
-453,Kansas,1920,38
-454,Kansas,1922,39
-455,Kansas,1924,33
-456,Kansas,1926,68
-457,Kansas,1928,70
-458,Kansas,1930,61
-459,Kansas,1932,102
-460,Kansas,1934,64
-461,Kansas,1936,62
-462,Kansas,1938,102
-463,Kansas,1940,108
-464,Kentucky,state,Kentucky
-465,Kentucky,1878,2.0
-466,Kentucky,1880,8.0
-467,Kentucky,1882,9
-468,Kentucky,1884,13
-469,Kentucky,1886,13
-470,Kentucky,1888,12
-471,Kentucky,1890,14
-472,Kentucky,1892,14
-473,Kentucky,1896,15
-474,Kentucky,1900,11
-475,Kentucky,1902,24
-476,Kentucky,1906,19
-477,Kentucky,1908,21
-478,Kentucky,1912,12
-479,Kentucky,1914,20
-480,Kentucky,1916,17
-481,Kentucky,1918,7
-482,Kentucky,1920,13
-483,Kentucky,1922,16
-484,Kentucky,1924,16
-485,Kentucky,1926,22
-486,Kentucky,1928,19
-487,Kentucky,1930,14
-488,Kentucky,1932,24
-489,Kentucky,1934,16
-490,Kentucky,1936,28
-491,Kentucky,1938,22
-492,Kentucky,1940,16
-493,Louisiana ,state,Louisiana 
-494,Louisiana ,1878,2.0
-495,Louisiana ,1880,3.0
-496,Louisiana ,1882,1
-497,Louisiana ,1884,2
-498,Louisiana ,1886,2
-499,Louisiana ,1888,5
-500,Louisiana ,1890,2
-501,Louisiana ,1892,8
-502,Louisiana ,1896,7
-503,Louisiana ,1900,2
-504,Louisiana ,1902,9
-505,Louisiana ,1906,3
-506,Louisiana ,1908,2
-507,Louisiana ,1912,5
-508,Louisiana ,1914,7
-509,Louisiana ,1916,6
-510,Louisiana ,1918,2
-511,Louisiana ,1920,4
-512,Louisiana ,1922,7
-513,Louisiana ,1924,12
-514,Louisiana ,1926,13
-515,Louisiana ,1928,4
-516,Louisiana ,1930,5
-517,Louisiana ,1932,7
-518,Louisiana ,1934,6
-519,Louisiana ,1936,8
-520,Louisiana ,1938,6
-521,Louisiana ,1940,9
-522,Maine,state,Maine
-523,Maine,1878,0.0
-524,Maine,1880,2.0
-525,Maine,1882,3
-526,Maine,1884,3
-527,Maine,1886,0
-528,Maine,1888,3
-529,Maine,1890,1
-530,Maine,1892,4
-531,Maine,1896,3
-532,Maine,1900,3
-533,Maine,1902,4
-534,Maine,1906,2
-535,Maine,1908,8
-536,Maine,1912,1
-537,Maine,1914,1
-538,Maine,1916,1
-539,Maine,1918,0
-540,Maine,1920,0
-541,Maine,1922,0
-542,Maine,1924,3
-543,Maine,1926,0
-544,Maine,1928,1
-545,Maine,1930,3
-546,Maine,1932,4
-547,Maine,1934,5
-548,Maine,1936,0
-549,Maine,1938,2
-550,Maine,1940,3
-551,Maryland,state,Maryland
-552,Maryland,1878,1.0
-553,Maryland,1880,2.0
-554,Maryland,1882,4
-555,Maryland,1884,4
-556,Maryland,1886,4
-557,Maryland,1888,3
-558,Maryland,1890,3
-559,Maryland,1892,5
-560,Maryland,1896,2
-561,Maryland,1900,2
-562,Maryland,1902,4
-563,Maryland,1906,1
-564,Maryland,1908,5
-565,Maryland,1912,4
-566,Maryland,1914,6
-567,Maryland,1916,1
-568,Maryland,1918,1
-569,Maryland,1920,3
-570,Maryland,1922,3
-571,Maryland,1924,6
-572,Maryland,1926,4
-573,Maryland,1928,1
-574,Maryland,1930,2
-575,Maryland,1932,1
-576,Maryland,1934,4
-577,Maryland,1936,1
-578,Maryland,1938,3
-579,Maryland,1940,5
-580,Massachussetts ,state,Massachussetts 
-581,Massachussetts ,1878,5.0
-582,Massachussetts ,1880,6.0
-583,Massachussetts ,1882,12
-584,Massachussetts ,1884,7
-585,Massachussetts ,1886,6
-586,Massachussetts ,1888,8
-587,Massachussetts ,1890,14
-588,Massachussetts ,1892,16
-589,Massachussetts ,1896,15
-590,Massachussetts ,1900,12
-591,Massachussetts ,1902,10
-592,Massachussetts ,1906,10
-593,Massachussetts ,1908,9
-594,Massachussetts ,1912,10
-595,Massachussetts ,1914,12
-596,Massachussetts ,1916,6
-597,Massachussetts ,1918,6
-598,Massachussetts ,1920,5
-599,Massachussetts ,1922,8
-600,Massachussetts ,1924,7
-601,Massachussetts ,1926,11
-602,Massachussetts ,1928,7
-603,Massachussetts ,1930,6
-604,Massachussetts ,1932,11
-605,Massachussetts ,1934,7
-606,Massachussetts ,1936,7
-607,Massachussetts ,1938,10
-608,Massachussetts ,1940,4
-609,Michigan,state,Michigan
-610,Michigan,1878,1.0
-611,Michigan,1880,3.0
-612,Michigan,1882,4
-613,Michigan,1884,9
-614,Michigan,1886,3
-615,Michigan,1888,12
-616,Michigan,1890,17
-617,Michigan,1892,14
-618,Michigan,1896,12
-619,Michigan,1900,3
-620,Michigan,1902,9
-621,Michigan,1906,9
-622,Michigan,1908,14
-623,Michigan,1912,7
-624,Michigan,1914,16
-625,Michigan,1916,15
-626,Michigan,1918,12
-627,Michigan,1920,13
-628,Michigan,1922,13
-629,Michigan,1924,12
-630,Michigan,1926,14
-631,Michigan,1928,13
-632,Michigan,1930,19
-633,Michigan,1932,18
-634,Michigan,1934,15
-635,Michigan,1936,15
-636,Michigan,1938,16
-637,Michigan,1940,14
-638,Minnesota,state,Minnesota
-639,Minnesota,1878,1.0
-640,Minnesota,1880,0.0
-641,Minnesota,1882,2
-642,Minnesota,1884,4
-643,Minnesota,1886,2
-644,Minnesota,1888,0
-645,Minnesota,1890,2
-646,Minnesota,1892,5
-647,Minnesota,1896,2
-648,Minnesota,1900,0
-649,Minnesota,1902,2
-650,Minnesota,1906,10
-651,Minnesota,1908,4
-652,Minnesota,1912,9
-653,Minnesota,1914,7
-654,Minnesota,1916,6
-655,Minnesota,1918,1
-656,Minnesota,1920,3
-657,Minnesota,1922,4
-658,Minnesota,1924,8
-659,Minnesota,1926,6
-660,Minnesota,1928,7
-661,Minnesota,1930,15
-662,Minnesota,1932,10
-663,Minnesota,1934,14
-664,Minnesota,1936,7
-665,Minnesota,1938,8
-666,Minnesota,1940,10
-667,Mississipi ,state,Mississipi 
-668,Mississipi ,1878,0.0
-669,Mississipi ,1880,1.0
-670,Mississipi ,1882,1
-671,Mississipi ,1884,2
-672,Mississipi ,1886,4
-673,Mississipi ,1888,1
-674,Mississipi ,1890,5
-675,Mississipi ,1892,4
-676,Mississipi ,1896,3
-677,Mississipi ,1900,1
-678,Mississipi ,1902,6
-679,Mississipi ,1906,6
-680,Mississipi ,1908,4
-681,Mississipi ,1912,2
-682,Mississipi ,1914,3
-683,Mississipi ,1916,3
-684,Mississipi ,1918,2
-685,Mississipi ,1920,2
-686,Mississipi ,1922,4
-687,Mississipi ,1924,5
-688,Mississipi ,1926,3
-689,Mississipi ,1928,1
-690,Mississipi ,1930,7
-691,Mississipi ,1932,11
-692,Mississipi ,1934,7
-693,Mississipi ,1936,8
-694,Mississipi ,1938,2
-695,Mississipi ,1940,5
-696,Missouri,state,Missouri
-697,Missouri,1878,13.0
-698,Missouri,1880,15.0
-699,Missouri,1882,22
-700,Missouri,1884,28
-701,Missouri,1886,18
-702,Missouri,1888,24
-703,Missouri,1890,44
-704,Missouri,1892,45
-705,Missouri,1896,45
-706,Missouri,1900,31
-707,Missouri,1902,42
-708,Missouri,1906,40
-709,Missouri,1908,46
-710,Missouri,1912,37
-711,Missouri,1914,50
-712,Missouri,1916,51
-713,Missouri,1918,30
-714,Missouri,1920,46
-715,Missouri,1922,66
-716,Missouri,1924,57
-717,Missouri,1926,82
-718,Missouri,1928,83
-719,Missouri,1930,83
-720,Missouri,1932,115
-721,Missouri,1934,83
-722,Missouri,1936,86
-723,Missouri,1938,113
-724,Missouri,1940,83
-725,Montana,state,Montana
-726,Montana,1878,0.0
-727,Montana,1880,0.0
-728,Montana,1882,0
-729,Montana,1884,0
-730,Montana,1886,1
-731,Montana,1888,0
-732,Montana,1890,0
-733,Montana,1892,0
-734,Montana,1896,0
-735,Montana,1900,1
-736,Montana,1902,2
-737,Montana,1906,1
-738,Montana,1908,1
-739,Montana,1912,3
-740,Montana,1914,1
-741,Montana,1916,2
-742,Montana,1918,3
-743,Montana,1920,3
-744,Montana,1922,5
-745,Montana,1924,3
-746,Montana,1926,5
-747,Montana,1928,1
-748,Montana,1930,1
-749,Montana,1932,5
-750,Montana,1934,6
-751,Montana,1936,7
-752,Montana,1938,7
-753,Montana,1940,6
-754,Nebraska ,state,Nebraska 
-755,Nebraska ,1878,1.0
-756,Nebraska ,1880,1.0
-757,Nebraska ,1882,1
-758,Nebraska ,1884,2
-759,Nebraska ,1886,0
-760,Nebraska ,1888,1
-761,Nebraska ,1890,11
-762,Nebraska ,1892,13
-763,Nebraska ,1896,4
-764,Nebraska ,1900,4
-765,Nebraska ,1902,6
-766,Nebraska ,1906,9
-767,Nebraska ,1908,9
-768,Nebraska ,1912,17
-769,Nebraska ,1914,10
-770,Nebraska ,1916,12
-771,Nebraska ,1918,10
-772,Nebraska ,1920,12
-773,Nebraska ,1922,26
-774,Nebraska ,1924,24
-775,Nebraska ,1926,34
-776,Nebraska ,1928,46
-777,Nebraska ,1930,40
-778,Nebraska ,1932,40
-779,Nebraska ,1934,58
-780,Nebraska ,1936,57
-781,Nebraska ,1938,62
-782,Nebraska ,1940,61
-783,Nevada,state,Nevada
-784,Nevada,1878,0.0
-785,Nevada,1880,0.0
-786,Nevada,1882,0
-787,Nevada,1884,0
-788,Nevada,1886,0
-789,Nevada,1888,1
-790,Nevada,1890,0
-791,Nevada,1892,2
-792,Nevada,1896,0
-793,Nevada,1900,0
-794,Nevada,1902,0
-795,Nevada,1906,0
-796,Nevada,1908,0
-797,Nevada,1912,0
-798,Nevada,1914,1
-799,Nevada,1916,1
-800,Nevada,1918,0
-801,Nevada,1920,0
-802,Nevada,1922,1
-803,Nevada,1924,1
-804,Nevada,1926,1
-805,Nevada,1928,1
-806,Nevada,1930,2
-807,Nevada,1932,2
-808,Nevada,1934,1
-809,Nevada,1936,1
-810,Nevada,1938,0
-811,Nevada,1940,0
-812,New Hampshire,state,New Hampshire
-813,New Hampshire,1878,0.0
-814,New Hampshire,1880,0.0
-815,New Hampshire,1882,0
-816,New Hampshire,1884,2
-817,New Hampshire,1886,1
-818,New Hampshire,1888,1
-819,New Hampshire,1890,0
-820,New Hampshire,1892,0
-821,New Hampshire,1896,0
-822,New Hampshire,1900,0
-823,New Hampshire,1902,5
-824,New Hampshire,1906,0
-825,New Hampshire,1908,0
-826,New Hampshire,1912,0
-827,New Hampshire,1914,2
-828,New Hampshire,1916,1
-829,New Hampshire,1918,0
-830,New Hampshire,1920,1
-831,New Hampshire,1922,0
-832,New Hampshire,1924,1
-833,New Hampshire,1926,1
-834,New Hampshire,1928,0
-835,New Hampshire,1930,0
-836,New Hampshire,1932,0
-837,New Hampshire,1934,1
-838,New Hampshire,1936,0
-839,New Hampshire,1938,0
-840,New Hampshire,1940,0
-841,New Jersey,state,New Jersey
-842,New Jersey,1878,0.0
-843,New Jersey,1880,2.0
-844,New Jersey,1882,1
-845,New Jersey,1884,0
-846,New Jersey,1886,1
-847,New Jersey,1888,7
-848,New Jersey,1890,11
-849,New Jersey,1892,11
-850,New Jersey,1896,8
-851,New Jersey,1900,4
-852,New Jersey,1902,2
-853,New Jersey,1906,3
-854,New Jersey,1908,3
-855,New Jersey,1912,2
-856,New Jersey,1914,4
-857,New Jersey,1916,5
-858,New Jersey,1918,4
-859,New Jersey,1920,4
-860,New Jersey,1922,1
-861,New Jersey,1924,5
-862,New Jersey,1926,4
-863,New Jersey,1928,3
-864,New Jersey,1930,0
-865,New Jersey,1932,4
-866,New Jersey,1934,5
-867,New Jersey,1936,1
-868,New Jersey,1938,4
-869,New Jersey,1940,2
-870,New Mexico,state,New Mexico
-871,New Mexico,1878,3.0
-872,New Mexico,1880,2.0
-873,New Mexico,1882,7
-874,New Mexico,1884,10
-875,New Mexico,1886,5
-876,New Mexico,1888,3
-877,New Mexico,1890,11
-878,New Mexico,1892,7
-879,New Mexico,1896,4
-880,New Mexico,1900,10
-881,New Mexico,1902,10
-882,New Mexico,1906,13
-883,New Mexico,1908,17
-884,New Mexico,1912,17
-885,New Mexico,1914,14
-886,New Mexico,1916,25
-887,New Mexico,1918,18
-888,New Mexico,1920,20
-889,New Mexico,1922,32
-890,New Mexico,1924,30
-891,New Mexico,1926,49
-892,New Mexico,1928,54
-893,New Mexico,1930,65
-894,New Mexico,1932,65
-895,New Mexico,1934,97
-896,New Mexico,1936,68
-897,New Mexico,1938,85
-898,New Mexico,1940,99
-899,New York,state,New York
-900,New York,1878,20.0
-901,New York,1880,36.0
-902,New York,1882,51
-903,New York,1884,50
-904,New York,1886,41
-905,New York,1888,55
-906,New York,1890,58
-907,New York,1892,81
-908,New York,1896,53
-909,New York,1900,28
-910,New York,1902,32
-911,New York,1906,29
-912,New York,1908,29
-913,New York,1912,34
-914,New York,1914,30
-915,New York,1916,36
-916,New York,1918,18
-917,New York,1920,16
-918,New York,1922,24
-919,New York,1924,30
-920,New York,1926,26
-921,New York,1928,29
-922,New York,1930,29
-923,New York,1932,30
-924,New York,1934,23
-925,New York,1936,23
-926,New York,1938,23
-927,New York,1940,25
-928,North Carolina,state,North Carolina
-929,North Carolina,1878,1.0
-930,North Carolina,1880,1.0
-931,North Carolina,1882,3
-932,North Carolina,1884,1
-933,North Carolina,1886,1
-934,North Carolina,1888,3
-935,North Carolina,1890,0
-936,North Carolina,1892,3
-937,North Carolina,1896,3
-938,North Carolina,1900,0
-939,North Carolina,1902,4
-940,North Carolina,1906,0
-941,North Carolina,1908,6
-942,North Carolina,1912,2
-943,North Carolina,1914,6
-944,North Carolina,1916,3
-945,North Carolina,1918,4
-946,North Carolina,1920,2
-947,North Carolina,1922,2
-948,North Carolina,1924,3
-949,North Carolina,1926,6
-950,North Carolina,1928,8
-951,North Carolina,1930,5
-952,North Carolina,1932,11
-953,North Carolina,1934,8
-954,North Carolina,1936,3
-955,North Carolina,1938,1
-956,North Carolina,1940,7
-957,North Dakota,state,North Dakota
-958,North Dakota,1878,0.0
-959,North Dakota,1880,0.0
-960,North Dakota,1882,0
-961,North Dakota,1884,0
-962,North Dakota,1886,0
-963,North Dakota,1888,0
-964,North Dakota,1890,0
-965,North Dakota,1892,0
-966,North Dakota,1896,0
-967,North Dakota,1900,0
-968,North Dakota,1902,0
-969,North Dakota,1906,0
-970,North Dakota,1908,0
-971,North Dakota,1912,0
-972,North Dakota,1914,0
-973,North Dakota,1916,0
-974,North Dakota,1918,1
-975,North Dakota,1920,0
-976,North Dakota,1922,2
-977,North Dakota,1924,2
-978,North Dakota,1926,1
-979,North Dakota,1928,3
-980,North Dakota,1930,1
-981,North Dakota,1932,5
-982,North Dakota,1934,3
-983,North Dakota,1936,1
-984,North Dakota,1938,1
-985,North Dakota,1940,2
-986,Ohio,state,Ohio
-987,Ohio,1878,8.0
-988,Ohio,1880,14.0
-989,Ohio,1882,21
-990,Ohio,1884,24
-991,Ohio,1886,20
-992,Ohio,1888,21
-993,Ohio,1890,36
-994,Ohio,1892,49
-995,Ohio,1896,27
-996,Ohio,1900,20
-997,Ohio,1902,20
-998,Ohio,1906,29
-999,Ohio,1908,26
-1000,Ohio,1912,22
-1001,Ohio,1914,30
-1002,Ohio,1916,18
-1003,Ohio,1918,11
-1004,Ohio,1920,9
-1005,Ohio,1922,24
-1006,Ohio,1924,27
-1007,Ohio,1926,21
-1008,Ohio,1928,28
-1009,Ohio,1930,24
-1010,Ohio,1932,30
-1011,Ohio,1934,26
-1012,Ohio,1936,27
-1013,Ohio,1938,25
-1014,Ohio,1940,17
-1015,Oklahoma,state,Oklahoma
-1016,Oklahoma,1878,0.0
-1017,Oklahoma,1880,0.0
-1018,Oklahoma,1882,0
-1019,Oklahoma,1884,0
-1020,Oklahoma,1886,0
-1021,Oklahoma,1888,0
-1022,Oklahoma,1890,0
-1023,Oklahoma,1892,0
-1024,Oklahoma,1896,0
-1025,Oklahoma,1900,0
-1026,Oklahoma,1902,0
-1027,Oklahoma,1906,0
-1028,Oklahoma,1908,2
-1029,Oklahoma,1912,8
-1030,Oklahoma,1914,3
-1031,Oklahoma,1916,11
-1032,Oklahoma,1918,3
-1033,Oklahoma,1920,11
-1034,Oklahoma,1922,21
-1035,Oklahoma,1924,23
-1036,Oklahoma,1926,24
-1037,Oklahoma,1928,41
-1038,Oklahoma,1930,35
-1039,Oklahoma,1932,60
-1040,Oklahoma,1934,55
-1041,Oklahoma,1936,48
-1042,Oklahoma,1938,77
-1043,Oklahoma,1940,74
-1044,Oregon,state,Oregon
-1045,Oregon,1878,0.0
-1046,Oregon,1880,0.0
-1047,Oregon,1882,0
-1048,Oregon,1884,1
-1049,Oregon,1886,0
-1050,Oregon,1888,0
-1051,Oregon,1890,1
-1052,Oregon,1892,2
-1053,Oregon,1896,1
-1054,Oregon,1900,2
-1055,Oregon,1902,1
-1056,Oregon,1906,0
-1057,Oregon,1908,0
-1058,Oregon,1912,2
-1059,Oregon,1914,2
-1060,Oregon,1916,5
-1061,Oregon,1918,0
-1062,Oregon,1920,3
-1063,Oregon,1922,5
-1064,Oregon,1924,0
-1065,Oregon,1926,4
-1066,Oregon,1928,2
-1067,Oregon,1930,1
-1068,Oregon,1932,2
-1069,Oregon,1934,3
-1070,Oregon,1936,7
-1071,Oregon,1938,3
-1072,Oregon,1940,0
-1073,Pennsylvania,state,Pennsylvania
-1074,Pennsylvania,1878,6.0
-1075,Pennsylvania,1880,23.0
-1076,Pennsylvania,1882,24
-1077,Pennsylvania,1884,20
-1078,Pennsylvania,1886,27
-1079,Pennsylvania,1888,29
-1080,Pennsylvania,1890,42
-1081,Pennsylvania,1892,52
-1082,Pennsylvania,1896,29
-1083,Pennsylvania,1900,11
-1084,Pennsylvania,1902,32
-1085,Pennsylvania,1906,23
-1086,Pennsylvania,1908,20
-1087,Pennsylvania,1912,35
-1088,Pennsylvania,1914,39
-1089,Pennsylvania,1916,23
-1090,Pennsylvania,1918,11
-1091,Pennsylvania,1920,8
-1092,Pennsylvania,1922,20
-1093,Pennsylvania,1924,19
-1094,Pennsylvania,1926,24
-1095,Pennsylvania,1928,28
-1096,Pennsylvania,1930,22
-1097,Pennsylvania,1932,26
-1098,Pennsylvania,1934,33
-1099,Pennsylvania,1936,18
-1100,Pennsylvania,1938,25
-1101,Pennsylvania,1940,18
-1102,Porto Rico,state,Porto Rico
-1103,Porto Rico,1878,0.0
-1104,Porto Rico,1880,0.0
-1105,Porto Rico,1882,0
-1106,Porto Rico,1884,0
-1107,Porto Rico,1886,0
-1108,Porto Rico,1888,0
-1109,Porto Rico,1890,0
-1110,Porto Rico,1892,0
-1111,Porto Rico,1896,0
-1112,Porto Rico,1900,0
-1113,Porto Rico,1902,0
-1114,Porto Rico,1906,0
-1115,Porto Rico,1908,0
-1116,Porto Rico,1912,0
-1117,Porto Rico,1914,0
-1118,Porto Rico,1916,0
-1119,Porto Rico,1918,1
-1120,Porto Rico,1920,0
-1121,Porto Rico,1922,0
-1122,Porto Rico,1924,0
-1123,Porto Rico,1926,0
-1124,Porto Rico,1928,0
-1125,Porto Rico,1930,0
-1126,Porto Rico,1932,0
-1127,Porto Rico,1934,0
-1128,Porto Rico,1936,0
-1129,Porto Rico,1938,0
-1130,Porto Rico,1940,0
-1131,Rhode Island,state,Rhode Island
-1132,Rhode Island,1878,0.0
-1133,Rhode Island,1880,1.0
-1134,Rhode Island,1882,3
-1135,Rhode Island,1884,5
-1136,Rhode Island,1886,1
-1137,Rhode Island,1888,1
-1138,Rhode Island,1890,3
-1139,Rhode Island,1892,1
-1140,Rhode Island,1896,1
-1141,Rhode Island,1900,1
-1142,Rhode Island,1902,0
-1143,Rhode Island,1906,1
-1144,Rhode Island,1908,1
-1145,Rhode Island,1912,0
-1146,Rhode Island,1914,3
-1147,Rhode Island,1916,0
-1148,Rhode Island,1918,0
-1149,Rhode Island,1920,1
-1150,Rhode Island,1922,0
-1151,Rhode Island,1924,1
-1152,Rhode Island,1926,1
-1153,Rhode Island,1928,1
-1154,Rhode Island,1930,3
-1155,Rhode Island,1932,2
-1156,Rhode Island,1934,1
-1157,Rhode Island,1936,1
-1158,Rhode Island,1938,0
-1159,Rhode Island,1940,2
-1160,South Carolina,state,South Carolina
-1161,South Carolina,1878,0.0
-1162,South Carolina,1880,1.0
-1163,South Carolina,1882,1
-1164,South Carolina,1884,1
-1165,South Carolina,1886,1
-1166,South Carolina,1888,1
-1167,South Carolina,1890,2
-1168,South Carolina,1892,0
-1169,South Carolina,1896,0
-1170,South Carolina,1900,1
-1171,South Carolina,1902,2
-1172,South Carolina,1906,0
-1173,South Carolina,1908,0
-1174,South Carolina,1912,1
-1175,South Carolina,1914,1
-1176,South Carolina,1916,0
-1177,South Carolina,1918,0
-1178,South Carolina,1920,0
-1179,South Carolina,1922,1
-1180,South Carolina,1924,2
-1181,South Carolina,1926,2
-1182,South Carolina,1928,0
-1183,South Carolina,1930,0
-1184,South Carolina,1932,0
-1185,South Carolina,1934,1
-1186,South Carolina,1936,2
-1187,South Carolina,1938,6
-1188,South Carolina,1940,3
-1189,South Dakota,state,South Dakota
-1190,South Dakota,1878,0.0
-1191,South Dakota,1880,0.0
-1192,South Dakota,1882,0
-1193,South Dakota,1884,0
-1194,South Dakota,1886,0
-1195,South Dakota,1888,0
-1196,South Dakota,1890,0
-1197,South Dakota,1892,0
-1198,South Dakota,1896,0
-1199,South Dakota,1900,0
-1200,South Dakota,1902,0
-1201,South Dakota,1906,6
-1202,South Dakota,1908,0
-1203,South Dakota,1912,1
-1204,South Dakota,1914,2
-1205,South Dakota,1916,6
-1206,South Dakota,1918,0
-1207,South Dakota,1920,1
-1208,South Dakota,1922,0
-1209,South Dakota,1924,2
-1210,South Dakota,1926,4
-1211,South Dakota,1928,7
-1212,South Dakota,1930,8
-1213,South Dakota,1932,7
-1214,South Dakota,1934,5
-1215,South Dakota,1936,6
-1216,South Dakota,1938,0
-1217,South Dakota,1940,7
-1218,Tennessee ,state,Tennessee 
-1219,Tennessee ,1878,1.0
-1220,Tennessee ,1880,2.0
-1221,Tennessee ,1882,2
-1222,Tennessee ,1884,4
-1223,Tennessee ,1886,6
-1224,Tennessee ,1888,7
-1225,Tennessee ,1890,8
-1226,Tennessee ,1892,8
-1227,Tennessee ,1896,7
-1228,Tennessee ,1900,7
-1229,Tennessee ,1902,13
-1230,Tennessee ,1906,13
-1231,Tennessee ,1908,17
-1232,Tennessee ,1912,15
-1233,Tennessee ,1914,15
-1234,Tennessee ,1916,12
-1235,Tennessee ,1918,10
-1236,Tennessee ,1920,7
-1237,Tennessee ,1922,13
-1238,Tennessee ,1924,10
-1239,Tennessee ,1926,13
-1240,Tennessee ,1928,12
-1241,Tennessee ,1930,8
-1242,Tennessee ,1932,18
-1243,Tennessee ,1934,15
-1244,Tennessee ,1936,13
-1245,Tennessee ,1938,13
-1246,Tennessee ,1940,18
-1247,Texas,state,Texas
-1248,Texas,1878,1.0
-1249,Texas,1880,4.0
-1250,Texas,1882,4
-1251,Texas,1884,6
-1252,Texas,1886,8
-1253,Texas,1888,6
-1254,Texas,1890,18
-1255,Texas,1892,8
-1256,Texas,1896,20
-1257,Texas,1900,4
-1258,Texas,1902,11
-1259,Texas,1906,15
-1260,Texas,1908,12
-1261,Texas,1912,26
-1262,Texas,1914,35
-1263,Texas,1916,24
-1264,Texas,1918,13
-1265,Texas,1920,16
-1266,Texas,1922,39
-1267,Texas,1924,46
-1268,Texas,1926,47
-1269,Texas,1928,52
-1270,Texas,1930,37
-1271,Texas,1932,49
-1272,Texas,1934,53
-1273,Texas,1936,63
-1274,Texas,1938,66
-1275,Texas,1940,43
-1276,Utah,state,Utah
-1277,Utah,1878,0.0
-1278,Utah,1880,0.0
-1279,Utah,1882,1
-1280,Utah,1884,1
-1281,Utah,1886,1
-1282,Utah,1888,0
-1283,Utah,1890,1
-1284,Utah,1892,2
-1285,Utah,1896,1
-1286,Utah,1900,0
-1287,Utah,1902,2
-1288,Utah,1906,0
-1289,Utah,1908,2
-1290,Utah,1912,0
-1291,Utah,1914,3
-1292,Utah,1916,1
-1293,Utah,1918,1
-1294,Utah,1920,4
-1295,Utah,1922,5
-1296,Utah,1924,3
-1297,Utah,1926,4
-1298,Utah,1928,3
-1299,Utah,1930,5
-1300,Utah,1932,5
-1301,Utah,1934,9
-1302,Utah,1936,4
-1303,Utah,1938,6
-1304,Utah,1940,10
-1305,Vermont,state,Vermont
-1306,Vermont,1878,1.0
-1307,Vermont,1880,3.0
-1308,Vermont,1882,5
-1309,Vermont,1884,1
-1310,Vermont,1886,1
-1311,Vermont,1888,1
-1312,Vermont,1890,2
-1313,Vermont,1892,4
-1314,Vermont,1896,3
-1315,Vermont,1900,2
-1316,Vermont,1902,2
-1317,Vermont,1906,2
-1318,Vermont,1908,1
-1319,Vermont,1912,0
-1320,Vermont,1914,3
-1321,Vermont,1916,0
-1322,Vermont,1918,3
-1323,Vermont,1920,1
-1324,Vermont,1922,1
-1325,Vermont,1924,1
-1326,Vermont,1926,1
-1327,Vermont,1928,1
-1328,Vermont,1930,3
-1329,Vermont,1932,1
-1330,Vermont,1934,0
-1331,Vermont,1936,1
-1332,Vermont,1938,1
-1333,Vermont,1940,1
-1334,Virginia,state,Virginia
-1335,Virginia,1878,2.0
-1336,Virginia,1880,3.0
-1337,Virginia,1882,4
-1338,Virginia,1884,7
-1339,Virginia,1886,5
-1340,Virginia,1888,4
-1341,Virginia,1890,8
-1342,Virginia,1892,9
-1343,Virginia,1896,6
-1344,Virginia,1900,5
-1345,Virginia,1902,1
-1346,Virginia,1906,5
-1347,Virginia,1908,10
-1348,Virginia,1912,8
-1349,Virginia,1914,9
-1350,Virginia,1916,9
-1351,Virginia,1918,7
-1352,Virginia,1920,2
-1353,Virginia,1922,5
-1354,Virginia,1924,7
-1355,Virginia,1926,7
-1356,Virginia,1928,8
-1357,Virginia,1930,3
-1358,Virginia,1932,9
-1359,Virginia,1934,9
-1360,Virginia,1936,2
-1361,Virginia,1938,11
-1362,Virginia,1940,5
-1363,Washington,state,Washington
-1364,Washington,1878,0.0
-1365,Washington,1880,0.0
-1366,Washington,1882,0
-1367,Washington,1884,0
-1368,Washington,1886,0
-1369,Washington,1888,0
-1370,Washington,1890,0
-1371,Washington,1892,0
-1372,Washington,1896,0
-1373,Washington,1900,0
-1374,Washington,1902,1
-1375,Washington,1906,2
-1376,Washington,1908,1
-1377,Washington,1912,1
-1378,Washington,1914,5
-1379,Washington,1916,2
-1380,Washington,1918,0
-1381,Washington,1920,4
-1382,Washington,1922,0
-1383,Washington,1924,1
-1384,Washington,1926,5
-1385,Washington,1928,1
-1386,Washington,1930,4
-1387,Washington,1932,6
-1388,Washington,1934,6
-1389,Washington,1936,1
-1390,Washington,1938,3
-1391,Washington,1940,7
-1392,West Virginia,state,West Virginia
-1393,West Virginia,1878,0.0
-1394,West Virginia,1880,0.0
-1395,West Virginia,1882,1
-1396,West Virginia,1884,3
-1397,West Virginia,1886,1
-1398,West Virginia,1888,0
-1399,West Virginia,1890,4
-1400,West Virginia,1892,7
-1401,West Virginia,1896,1
-1402,West Virginia,1900,2
-1403,West Virginia,1902,6
-1404,West Virginia,1906,4
-1405,West Virginia,1908,2
-1406,West Virginia,1912,3
-1407,West Virginia,1914,4
-1408,West Virginia,1916,3
-1409,West Virginia,1918,0
-1410,West Virginia,1920,3
-1411,West Virginia,1922,8
-1412,West Virginia,1924,4
-1413,West Virginia,1926,6
-1414,West Virginia,1928,4
-1415,West Virginia,1930,3
-1416,West Virginia,1932,12
-1417,West Virginia,1934,5
-1418,West Virginia,1936,4
-1419,West Virginia,1938,9
-1420,West Virginia,1940,8
-1421,Wisconsin,state,Wisconsin
-1422,Wisconsin,1878,3.0
-1423,Wisconsin,1880,3.0
-1424,Wisconsin,1882,8
-1425,Wisconsin,1884,11
-1426,Wisconsin,1886,10
-1427,Wisconsin,1888,13
-1428,Wisconsin,1890,7
-1429,Wisconsin,1892,20
-1430,Wisconsin,1896,16
-1431,Wisconsin,1900,6
-1432,Wisconsin,1902,7
-1433,Wisconsin,1906,5
-1434,Wisconsin,1908,8
-1435,Wisconsin,1912,11
-1436,Wisconsin,1914,10
-1437,Wisconsin,1916,5
-1438,Wisconsin,1918,6
-1439,Wisconsin,1920,4
-1440,Wisconsin,1922,10
-1441,Wisconsin,1924,8
-1442,Wisconsin,1926,9
-1443,Wisconsin,1928,8
-1444,Wisconsin,1930,14
-1445,Wisconsin,1932,14
-1446,Wisconsin,1934,9
-1447,Wisconsin,1936,7
-1448,Wisconsin,1938,9
-1449,Wisconsin,1940,10
-1450,Wyoming,state,Wyoming
-1451,Wyoming,1878,0.0
-1452,Wyoming,1880,0.0
-1453,Wyoming,1882,0
-1454,Wyoming,1884,1
-1455,Wyoming,1886,0
-1456,Wyoming,1888,1
-1457,Wyoming,1890,1
-1458,Wyoming,1892,0
-1459,Wyoming,1896,0
-1460,Wyoming,1900,0
-1461,Wyoming,1902,0
-1462,Wyoming,1906,0
-1463,Wyoming,1908,2
-1464,Wyoming,1912,2
-1465,Wyoming,1914,7
-1466,Wyoming,1916,1
-1467,Wyoming,1918,9
-1468,Wyoming,1920,2
-1469,Wyoming,1922,1
-1470,Wyoming,1924,5
-1471,Wyoming,1926,5
-1472,Wyoming,1928,1
-1473,Wyoming,1930,9
-1474,Wyoming,1932,11
-1475,Wyoming,1934,8
-1476,Wyoming,1936,9
-1477,Wyoming,1938,7
-1478,Wyoming,1940,9
+0,Alabama,1878,1.0
+1,Alabama,1880,0.0
+2,Alabama,1882,0
+3,Alabama,1884,1
+4,Alabama,1886,1
+5,Alabama,1888,0
+6,Alabama,1890,1
+7,Alabama,1892,1
+8,Alabama,1896,2
+9,Alabama,1900,6
+10,Alabama,1902,7
+11,Alabama,1906,8
+12,Alabama,1908,8
+13,Alabama,1912,6
+14,Alabama,1914,3
+15,Alabama,1916,5
+16,Alabama,1918,4
+17,Alabama,1920,2
+18,Alabama,1922,5
+19,Alabama,1924,9
+20,Alabama,1926,6
+21,Alabama,1928,5
+22,Alabama,1930,4
+23,Alabama,1932,12
+24,Alabama,1934,10
+25,Alabama,1936,4
+26,Alabama,1938,6
+27,Alabama,1940,6
+28,Alaska,1878,0.0
+29,Alaska,1880,0.0
+30,Alaska,1882,0
+31,Alaska,1884,0
+32,Alaska,1886,0
+33,Alaska,1888,0
+34,Alaska,1890,0
+35,Alaska,1892,0
+36,Alaska,1896,0
+37,Alaska,1900,0
+38,Alaska,1902,0
+39,Alaska,1906,0
+40,Alaska,1908,0
+41,Alaska,1912,0
+42,Alaska,1914,0
+43,Alaska,1916,0
+44,Alaska,1918,0
+45,Alaska,1920,0
+46,Alaska,1922,1
+47,Alaska,1924,0
+48,Alaska,1926,0
+49,Alaska,1928,0
+50,Alaska,1930,0
+51,Alaska,1932,0
+52,Alaska,1934,0
+53,Alaska,1936,0
+54,Alaska,1938,0
+55,Alaska,1940,0
+56,Arizona,1878,0.0
+57,Arizona,1880,0.0
+58,Arizona,1882,1
+59,Arizona,1884,1
+60,Arizona,1886,0
+61,Arizona,1888,0
+62,Arizona,1890,1
+63,Arizona,1892,1
+64,Arizona,1896,2
+65,Arizona,1900,1
+66,Arizona,1902,0
+67,Arizona,1906,2
+68,Arizona,1908,3
+69,Arizona,1912,2
+70,Arizona,1914,4
+71,Arizona,1916,1
+72,Arizona,1918,3
+73,Arizona,1920,5
+74,Arizona,1922,7
+75,Arizona,1924,0
+76,Arizona,1926,4
+77,Arizona,1928,4
+78,Arizona,1930,5
+79,Arizona,1932,3
+80,Arizona,1934,9
+81,Arizona,1936,5
+82,Arizona,1938,11
+83,Arizona,1940,4
+84,Arkansas,1878,0.0
+85,Arkansas,1880,0.0
+86,Arkansas,1882,1
+87,Arkansas,1884,4
+88,Arkansas,1886,2
+89,Arkansas,1888,3
+90,Arkansas,1890,1
+91,Arkansas,1892,1
+92,Arkansas,1896,1
+93,Arkansas,1900,2
+94,Arkansas,1902,2
+95,Arkansas,1906,2
+96,Arkansas,1908,4
+97,Arkansas,1912,5
+98,Arkansas,1914,9
+99,Arkansas,1916,4
+100,Arkansas,1918,7
+101,Arkansas,1920,5
+102,Arkansas,1922,10
+103,Arkansas,1924,13
+104,Arkansas,1926,11
+105,Arkansas,1928,9
+106,Arkansas,1930,15
+107,Arkansas,1932,21
+108,Arkansas,1934,13
+109,Arkansas,1936,19
+110,Arkansas,1938,15
+111,Arkansas,1940,24
+112,California,1878,1.0
+113,California,1880,1.0
+114,California,1882,5
+115,California,1884,2
+116,California,1886,3
+117,California,1888,5
+118,California,1890,3
+119,California,1892,12
+120,California,1896,9
+121,California,1900,13
+122,California,1902,9
+123,California,1906,4
+124,California,1908,11
+125,California,1912,14
+126,California,1914,9
+127,California,1916,14
+128,California,1918,5
+129,California,1920,6
+130,California,1922,11
+131,California,1924,8
+132,California,1926,9
+133,California,1928,17
+134,California,1930,15
+135,California,1932,10
+136,California,1934,13
+137,California,1936,20
+138,California,1938,15
+139,California,1940,6
+142,Colorado,1882,3
+143,Colorado,1884,8
+144,Colorado,1886,2
+145,Colorado,1888,7
+146,Colorado,1890,13
+147,Colorado,1892,21
+148,Colorado,1896,31
+149,Colorado,1900,15
+150,Colorado,1902,40
+151,Colorado,1906,30
+152,Colorado,1908,50
+153,Colorado,1912,84
+154,Colorado,1914,64
+155,Colorado,1916,95
+156,Colorado,1918,60
+157,Colorado,1920,67
+158,Colorado,1922,83
+159,Colorado,1924,102
+160,Colorado,1926,144
+161,Colorado,1928,170
+162,Colorado,1930,187
+163,Colorado,1932,248
+164,Colorado,1934,276
+165,Colorado,1936,291
+166,Colorado,1938,293
+167,Colorado,1940,267
+169,Connecticut,1880,1.0
+170,Connecticut,1882,3
+171,Connecticut,1884,1
+172,Connecticut,1886,3
+173,Connecticut,1888,4
+174,Connecticut,1890,6
+175,Connecticut,1892,4
+176,Connecticut,1896,2
+177,Connecticut,1900,6
+178,Connecticut,1902,3
+179,Connecticut,1906,2
+180,Connecticut,1908,5
+181,Connecticut,1912,2
+182,Connecticut,1914,4
+183,Connecticut,1916,2
+184,Connecticut,1918,2
+185,Connecticut,1920,1
+186,Connecticut,1922,1
+187,Connecticut,1924,1
+188,Connecticut,1926,2
+189,Connecticut,1928,3
+190,Connecticut,1930,2
+191,Connecticut,1932,5
+192,Connecticut,1934,2
+193,Connecticut,1936,1
+194,Connecticut,1938,4
+195,Connecticut,1940,1
+196,D.C.,1878,6.0
+197,D.C.,1880,3.0
+198,D.C.,1882,2
+199,D.C.,1884,1
+200,D.C.,1886,2
+201,D.C.,1888,3
+202,D.C.,1890,1
+203,D.C.,1892,2
+204,D.C.,1896,0
+205,D.C.,1900,2
+206,D.C.,1902,1
+207,D.C.,1906,0
+208,D.C.,1908,4
+209,D.C.,1912,5
+210,D.C.,1914,2
+211,D.C.,1916,2
+212,D.C.,1918,1
+213,D.C.,1920,2
+214,D.C.,1922,1
+215,D.C.,1924,1
+216,D.C.,1926,2
+217,D.C.,1928,0
+218,D.C.,1930,1
+219,D.C.,1932,0
+220,D.C.,1934,2
+221,D.C.,1936,1
+222,D.C.,1938,0
+223,D.C.,1940,0
+224,Delaware,1878,0.0
+225,Delaware,1880,0.0
+226,Delaware,1882,0
+227,Delaware,1884,0
+228,Delaware,1886,0
+229,Delaware,1888,1
+230,Delaware,1890,1
+231,Delaware,1892,0
+232,Delaware,1896,1
+233,Delaware,1900,1
+234,Delaware,1902,0
+235,Delaware,1906,0
+236,Delaware,1908,0
+237,Delaware,1912,0
+238,Delaware,1914,1
+239,Delaware,1916,0
+240,Delaware,1918,0
+241,Delaware,1920,0
+242,Delaware,1922,0
+243,Delaware,1924,0
+244,Delaware,1926,1
+245,Delaware,1928,0
+246,Delaware,1930,0
+247,Delaware,1932,1
+248,Delaware,1934,1
+249,Delaware,1936,0
+250,Delaware,1938,1
+251,Delaware,1940,0
+254,Florida,1882,2
+255,Florida,1884,0
+256,Florida,1886,0
+257,Florida,1888,0
+258,Florida,1890,0
+259,Florida,1892,0
+260,Florida,1896,0
+261,Florida,1900,0
+262,Florida,1902,1
+263,Florida,1906,1
+264,Florida,1908,0
+265,Florida,1912,1
+266,Florida,1914,1
+267,Florida,1916,0
+268,Florida,1918,0
+269,Florida,1920,0
+270,Florida,1922,1
+271,Florida,1924,0
+272,Florida,1926,1
+273,Florida,1928,0
+274,Florida,1930,4
+275,Florida,1932,1
+276,Florida,1934,3
+277,Florida,1936,2
+278,Florida,1938,6
+279,Florida,1940,2
+280,Georgia,1878,1.0
+281,Georgia,1880,1.0
+282,Georgia,1882,0
+283,Georgia,1884,1
+284,Georgia,1886,1
+285,Georgia,1888,0
+286,Georgia,1890,0
+287,Georgia,1892,0
+288,Georgia,1896,0
+289,Georgia,1900,6
+290,Georgia,1902,5
+291,Georgia,1906,4
+292,Georgia,1908,7
+293,Georgia,1912,7
+294,Georgia,1914,8
+295,Georgia,1916,5
+296,Georgia,1918,7
+297,Georgia,1920,6
+298,Georgia,1922,4
+299,Georgia,1924,5
+300,Georgia,1926,6
+301,Georgia,1928,7
+302,Georgia,1930,11
+303,Georgia,1932,4
+304,Georgia,1934,9
+305,Georgia,1936,5
+306,Georgia,1938,5
+307,Georgia,1940,3
+308,Idaho,1878,0.0
+309,Idaho,1880,0.0
+310,Idaho,1882,0
+311,Idaho,1884,0
+312,Idaho,1886,0
+313,Idaho,1888,1
+314,Idaho,1890,0
+315,Idaho,1892,0
+316,Idaho,1896,0
+317,Idaho,1900,0
+318,Idaho,1902,0
+319,Idaho,1906,1
+320,Idaho,1908,0
+321,Idaho,1912,0
+322,Idaho,1914,0
+323,Idaho,1916,1
+324,Idaho,1918,2
+325,Idaho,1920,0
+326,Idaho,1922,1
+327,Idaho,1924,0
+328,Idaho,1926,1
+329,Idaho,1928,2
+330,Idaho,1930,3
+331,Idaho,1932,1
+332,Idaho,1934,3
+333,Idaho,1936,3
+334,Idaho,1938,7
+335,Idaho,1940,6
+336,Illinois ,1878,3.0
+337,Illinois ,1880,9.0
+338,Illinois ,1882,20
+339,Illinois ,1884,26
+340,Illinois ,1886,15
+341,Illinois ,1888,27
+342,Illinois ,1890,45
+343,Illinois ,1892,61
+344,Illinois ,1896,35
+345,Illinois ,1900,35
+346,Illinois ,1902,49
+347,Illinois ,1906,42
+348,Illinois ,1908,43
+349,Illinois ,1912,46
+350,Illinois ,1914,34
+351,Illinois ,1916,53
+352,Illinois ,1918,24
+353,Illinois ,1920,30
+354,Illinois ,1922,51
+355,Illinois ,1924,36
+356,Illinois ,1926,35
+357,Illinois ,1928,60
+358,Illinois ,1930,60
+359,Illinois ,1932,62
+360,Illinois ,1934,58
+361,Illinois ,1936,49
+362,Illinois ,1938,51
+363,Illinois ,1940,49
+364,Indiana,1878,4.0
+365,Indiana,1880,1.0
+366,Indiana,1882,9
+367,Indiana,1884,6
+368,Indiana,1886,9
+369,Indiana,1888,16
+370,Indiana,1890,14
+371,Indiana,1892,15
+372,Indiana,1896,10
+373,Indiana,1900,9
+374,Indiana,1902,15
+375,Indiana,1906,13
+376,Indiana,1908,7
+377,Indiana,1912,11
+378,Indiana,1914,18
+379,Indiana,1916,16
+380,Indiana,1918,10
+381,Indiana,1920,12
+382,Indiana,1922,6
+383,Indiana,1924,15
+384,Indiana,1926,17
+385,Indiana,1928,23
+386,Indiana,1930,14
+387,Indiana,1932,22
+388,Indiana,1934,24
+389,Indiana,1936,16
+390,Indiana,1938,23
+391,Indiana,1940,17
+392,Iowa,1878,7.0
+393,Iowa,1880,8.0
+394,Iowa,1882,14
+395,Iowa,1884,10
+396,Iowa,1886,6
+397,Iowa,1888,5
+398,Iowa,1890,18
+399,Iowa,1892,34
+400,Iowa,1896,12
+401,Iowa,1900,22
+402,Iowa,1902,29
+403,Iowa,1906,21
+404,Iowa,1908,22
+405,Iowa,1912,25
+406,Iowa,1914,29
+407,Iowa,1916,24
+408,Iowa,1918,31
+409,Iowa,1920,24
+410,Iowa,1922,34
+411,Iowa,1924,22
+412,Iowa,1926,40
+413,Iowa,1928,37
+414,Iowa,1930,46
+415,Iowa,1932,40
+416,Iowa,1934,38
+417,Iowa,1936,40
+418,Iowa,1938,40
+419,Iowa,1940,25
+420,Kansas,1878,1.0
+421,Kansas,1880,2.0
+422,Kansas,1882,4
+423,Kansas,1884,6
+424,Kansas,1886,1
+425,Kansas,1888,7
+426,Kansas,1890,7
+427,Kansas,1892,13
+428,Kansas,1896,11
+429,Kansas,1900,11
+430,Kansas,1902,25
+431,Kansas,1906,25
+432,Kansas,1908,25
+433,Kansas,1912,27
+434,Kansas,1914,41
+435,Kansas,1916,35
+436,Kansas,1918,25
+437,Kansas,1920,38
+438,Kansas,1922,39
+439,Kansas,1924,33
+440,Kansas,1926,68
+441,Kansas,1928,70
+442,Kansas,1930,61
+443,Kansas,1932,102
+444,Kansas,1934,64
+445,Kansas,1936,62
+446,Kansas,1938,102
+447,Kansas,1940,108
+448,Kentucky,1878,2.0
+449,Kentucky,1880,8.0
+450,Kentucky,1882,9
+451,Kentucky,1884,13
+452,Kentucky,1886,13
+453,Kentucky,1888,12
+454,Kentucky,1890,14
+455,Kentucky,1892,14
+456,Kentucky,1896,15
+457,Kentucky,1900,11
+458,Kentucky,1902,24
+459,Kentucky,1906,19
+460,Kentucky,1908,21
+461,Kentucky,1912,12
+462,Kentucky,1914,20
+463,Kentucky,1916,17
+464,Kentucky,1918,7
+465,Kentucky,1920,13
+466,Kentucky,1922,16
+467,Kentucky,1924,16
+468,Kentucky,1926,22
+469,Kentucky,1928,19
+470,Kentucky,1930,14
+471,Kentucky,1932,24
+472,Kentucky,1934,16
+473,Kentucky,1936,28
+474,Kentucky,1938,22
+475,Kentucky,1940,16
+476,Louisiana ,1878,2.0
+477,Louisiana ,1880,3.0
+478,Louisiana ,1882,1
+479,Louisiana ,1884,2
+480,Louisiana ,1886,2
+481,Louisiana ,1888,5
+482,Louisiana ,1890,2
+483,Louisiana ,1892,8
+484,Louisiana ,1896,7
+485,Louisiana ,1900,2
+486,Louisiana ,1902,9
+487,Louisiana ,1906,3
+488,Louisiana ,1908,2
+489,Louisiana ,1912,5
+490,Louisiana ,1914,7
+491,Louisiana ,1916,6
+492,Louisiana ,1918,2
+493,Louisiana ,1920,4
+494,Louisiana ,1922,7
+495,Louisiana ,1924,12
+496,Louisiana ,1926,13
+497,Louisiana ,1928,4
+498,Louisiana ,1930,5
+499,Louisiana ,1932,7
+500,Louisiana ,1934,6
+501,Louisiana ,1936,8
+502,Louisiana ,1938,6
+503,Louisiana ,1940,9
+504,Maine,1878,0.0
+505,Maine,1880,2.0
+506,Maine,1882,3
+507,Maine,1884,3
+508,Maine,1886,0
+509,Maine,1888,3
+510,Maine,1890,1
+511,Maine,1892,4
+512,Maine,1896,3
+513,Maine,1900,3
+514,Maine,1902,4
+515,Maine,1906,2
+516,Maine,1908,8
+517,Maine,1912,1
+518,Maine,1914,1
+519,Maine,1916,1
+520,Maine,1918,0
+521,Maine,1920,0
+522,Maine,1922,0
+523,Maine,1924,3
+524,Maine,1926,0
+525,Maine,1928,1
+526,Maine,1930,3
+527,Maine,1932,4
+528,Maine,1934,5
+529,Maine,1936,0
+530,Maine,1938,2
+531,Maine,1940,3
+532,Maryland,1878,1.0
+533,Maryland,1880,2.0
+534,Maryland,1882,4
+535,Maryland,1884,4
+536,Maryland,1886,4
+537,Maryland,1888,3
+538,Maryland,1890,3
+539,Maryland,1892,5
+540,Maryland,1896,2
+541,Maryland,1900,2
+542,Maryland,1902,4
+543,Maryland,1906,1
+544,Maryland,1908,5
+545,Maryland,1912,4
+546,Maryland,1914,6
+547,Maryland,1916,1
+548,Maryland,1918,1
+549,Maryland,1920,3
+550,Maryland,1922,3
+551,Maryland,1924,6
+552,Maryland,1926,4
+553,Maryland,1928,1
+554,Maryland,1930,2
+555,Maryland,1932,1
+556,Maryland,1934,4
+557,Maryland,1936,1
+558,Maryland,1938,3
+559,Maryland,1940,5
+560,Massachusetts ,1878,5.0
+561,Massachusetts ,1880,6.0
+562,Massachusetts ,1882,12
+563,Massachusetts ,1884,7
+564,Massachusetts ,1886,6
+565,Massachusetts ,1888,8
+566,Massachusetts ,1890,14
+567,Massachusetts ,1892,16
+568,Massachusetts ,1896,15
+569,Massachusetts ,1900,12
+570,Massachusetts ,1902,10
+571,Massachusetts ,1906,10
+572,Massachusetts ,1908,9
+573,Massachusetts ,1912,10
+574,Massachusetts ,1914,12
+575,Massachusetts ,1916,6
+576,Massachusetts ,1918,6
+577,Massachusetts ,1920,5
+578,Massachusetts ,1922,8
+579,Massachusetts ,1924,7
+580,Massachusetts ,1926,11
+581,Massachusetts ,1928,7
+582,Massachusetts ,1930,6
+583,Massachusetts ,1932,11
+584,Massachusetts ,1934,7
+585,Massachusetts ,1936,7
+586,Massachusetts ,1938,10
+587,Massachusetts ,1940,4
+588,Michigan,1878,1.0
+589,Michigan,1880,3.0
+590,Michigan,1882,4
+591,Michigan,1884,9
+592,Michigan,1886,3
+593,Michigan,1888,12
+594,Michigan,1890,17
+595,Michigan,1892,14
+596,Michigan,1896,12
+597,Michigan,1900,3
+598,Michigan,1902,9
+599,Michigan,1906,9
+600,Michigan,1908,14
+601,Michigan,1912,7
+602,Michigan,1914,16
+603,Michigan,1916,15
+604,Michigan,1918,12
+605,Michigan,1920,13
+606,Michigan,1922,13
+607,Michigan,1924,12
+608,Michigan,1926,14
+609,Michigan,1928,13
+610,Michigan,1930,19
+611,Michigan,1932,18
+612,Michigan,1934,15
+613,Michigan,1936,15
+614,Michigan,1938,16
+615,Michigan,1940,14
+616,Minnesota,1878,1.0
+617,Minnesota,1880,0.0
+618,Minnesota,1882,2
+619,Minnesota,1884,4
+620,Minnesota,1886,2
+621,Minnesota,1888,0
+622,Minnesota,1890,2
+623,Minnesota,1892,5
+624,Minnesota,1896,2
+625,Minnesota,1900,0
+626,Minnesota,1902,2
+627,Minnesota,1906,10
+628,Minnesota,1908,4
+629,Minnesota,1912,9
+630,Minnesota,1914,7
+631,Minnesota,1916,6
+632,Minnesota,1918,1
+633,Minnesota,1920,3
+634,Minnesota,1922,4
+635,Minnesota,1924,8
+636,Minnesota,1926,6
+637,Minnesota,1928,7
+638,Minnesota,1930,15
+639,Minnesota,1932,10
+640,Minnesota,1934,14
+641,Minnesota,1936,7
+642,Minnesota,1938,8
+643,Minnesota,1940,10
+644,Mississippi ,1878,0.0
+645,Mississippi ,1880,1.0
+646,Mississippi ,1882,1
+647,Mississippi ,1884,2
+648,Mississippi ,1886,4
+649,Mississippi ,1888,1
+650,Mississippi ,1890,5
+651,Mississippi ,1892,4
+652,Mississippi ,1896,3
+653,Mississippi ,1900,1
+654,Mississippi ,1902,6
+655,Mississippi ,1906,6
+656,Mississippi ,1908,4
+657,Mississippi ,1912,2
+658,Mississippi ,1914,3
+659,Mississippi ,1916,3
+660,Mississippi ,1918,2
+661,Mississippi ,1920,2
+662,Mississippi ,1922,4
+663,Mississippi ,1924,5
+664,Mississippi ,1926,3
+665,Mississippi ,1928,1
+666,Mississippi ,1930,7
+667,Mississippi ,1932,11
+668,Mississippi ,1934,7
+669,Mississippi ,1936,8
+670,Mississippi ,1938,2
+671,Mississippi ,1940,5
+672,Missouri,1878,13.0
+673,Missouri,1880,15.0
+674,Missouri,1882,22
+675,Missouri,1884,28
+676,Missouri,1886,18
+677,Missouri,1888,24
+678,Missouri,1890,44
+679,Missouri,1892,45
+680,Missouri,1896,45
+681,Missouri,1900,31
+682,Missouri,1902,42
+683,Missouri,1906,40
+684,Missouri,1908,46
+685,Missouri,1912,37
+686,Missouri,1914,50
+687,Missouri,1916,51
+688,Missouri,1918,30
+689,Missouri,1920,46
+690,Missouri,1922,66
+691,Missouri,1924,57
+692,Missouri,1926,82
+693,Missouri,1928,83
+694,Missouri,1930,83
+695,Missouri,1932,115
+696,Missouri,1934,83
+697,Missouri,1936,86
+698,Missouri,1938,113
+699,Missouri,1940,83
+700,Montana,1878,0.0
+701,Montana,1880,0.0
+702,Montana,1882,0
+703,Montana,1884,0
+704,Montana,1886,1
+705,Montana,1888,0
+706,Montana,1890,0
+707,Montana,1892,0
+708,Montana,1896,0
+709,Montana,1900,1
+710,Montana,1902,2
+711,Montana,1906,1
+712,Montana,1908,1
+713,Montana,1912,3
+714,Montana,1914,1
+715,Montana,1916,2
+716,Montana,1918,3
+717,Montana,1920,3
+718,Montana,1922,5
+719,Montana,1924,3
+720,Montana,1926,5
+721,Montana,1928,1
+722,Montana,1930,1
+723,Montana,1932,5
+724,Montana,1934,6
+725,Montana,1936,7
+726,Montana,1938,7
+727,Montana,1940,6
+728,Nebraska ,1878,1.0
+729,Nebraska ,1880,1.0
+730,Nebraska ,1882,1
+731,Nebraska ,1884,2
+732,Nebraska ,1886,0
+733,Nebraska ,1888,1
+734,Nebraska ,1890,11
+735,Nebraska ,1892,13
+736,Nebraska ,1896,4
+737,Nebraska ,1900,4
+738,Nebraska ,1902,6
+739,Nebraska ,1906,9
+740,Nebraska ,1908,9
+741,Nebraska ,1912,17
+742,Nebraska ,1914,10
+743,Nebraska ,1916,12
+744,Nebraska ,1918,10
+745,Nebraska ,1920,12
+746,Nebraska ,1922,26
+747,Nebraska ,1924,24
+748,Nebraska ,1926,34
+749,Nebraska ,1928,46
+750,Nebraska ,1930,40
+751,Nebraska ,1932,40
+752,Nebraska ,1934,58
+753,Nebraska ,1936,57
+754,Nebraska ,1938,62
+755,Nebraska ,1940,61
+756,Nevada,1878,0.0
+757,Nevada,1880,0.0
+758,Nevada,1882,0
+759,Nevada,1884,0
+760,Nevada,1886,0
+761,Nevada,1888,1
+762,Nevada,1890,0
+763,Nevada,1892,2
+764,Nevada,1896,0
+765,Nevada,1900,0
+766,Nevada,1902,0
+767,Nevada,1906,0
+768,Nevada,1908,0
+769,Nevada,1912,0
+770,Nevada,1914,1
+771,Nevada,1916,1
+772,Nevada,1918,0
+773,Nevada,1920,0
+774,Nevada,1922,1
+775,Nevada,1924,1
+776,Nevada,1926,1
+777,Nevada,1928,1
+778,Nevada,1930,2
+779,Nevada,1932,2
+780,Nevada,1934,1
+781,Nevada,1936,1
+782,Nevada,1938,0
+783,Nevada,1940,0
+784,New Hampshire,1878,0.0
+785,New Hampshire,1880,0.0
+786,New Hampshire,1882,0
+787,New Hampshire,1884,2
+788,New Hampshire,1886,1
+789,New Hampshire,1888,1
+790,New Hampshire,1890,0
+791,New Hampshire,1892,0
+792,New Hampshire,1896,0
+793,New Hampshire,1900,0
+794,New Hampshire,1902,5
+795,New Hampshire,1906,0
+796,New Hampshire,1908,0
+797,New Hampshire,1912,0
+798,New Hampshire,1914,2
+799,New Hampshire,1916,1
+800,New Hampshire,1918,0
+801,New Hampshire,1920,1
+802,New Hampshire,1922,0
+803,New Hampshire,1924,1
+804,New Hampshire,1926,1
+805,New Hampshire,1928,0
+806,New Hampshire,1930,0
+807,New Hampshire,1932,0
+808,New Hampshire,1934,1
+809,New Hampshire,1936,0
+810,New Hampshire,1938,0
+811,New Hampshire,1940,0
+812,New Jersey,1878,0.0
+813,New Jersey,1880,2.0
+814,New Jersey,1882,1
+815,New Jersey,1884,0
+816,New Jersey,1886,1
+817,New Jersey,1888,7
+818,New Jersey,1890,11
+819,New Jersey,1892,11
+820,New Jersey,1896,8
+821,New Jersey,1900,4
+822,New Jersey,1902,2
+823,New Jersey,1906,3
+824,New Jersey,1908,3
+825,New Jersey,1912,2
+826,New Jersey,1914,4
+827,New Jersey,1916,5
+828,New Jersey,1918,4
+829,New Jersey,1920,4
+830,New Jersey,1922,1
+831,New Jersey,1924,5
+832,New Jersey,1926,4
+833,New Jersey,1928,3
+834,New Jersey,1930,0
+835,New Jersey,1932,4
+836,New Jersey,1934,5
+837,New Jersey,1936,1
+838,New Jersey,1938,4
+839,New Jersey,1940,2
+840,New Mexico,1878,3.0
+841,New Mexico,1880,2.0
+842,New Mexico,1882,7
+843,New Mexico,1884,10
+844,New Mexico,1886,5
+845,New Mexico,1888,3
+846,New Mexico,1890,11
+847,New Mexico,1892,7
+848,New Mexico,1896,4
+849,New Mexico,1900,10
+850,New Mexico,1902,10
+851,New Mexico,1906,13
+852,New Mexico,1908,17
+853,New Mexico,1912,17
+854,New Mexico,1914,14
+855,New Mexico,1916,25
+856,New Mexico,1918,18
+857,New Mexico,1920,20
+858,New Mexico,1922,32
+859,New Mexico,1924,30
+860,New Mexico,1926,49
+861,New Mexico,1928,54
+862,New Mexico,1930,65
+863,New Mexico,1932,65
+864,New Mexico,1934,97
+865,New Mexico,1936,68
+866,New Mexico,1938,85
+867,New Mexico,1940,99
+868,New York,1878,20.0
+869,New York,1880,36.0
+870,New York,1882,51
+871,New York,1884,50
+872,New York,1886,41
+873,New York,1888,55
+874,New York,1890,58
+875,New York,1892,81
+876,New York,1896,53
+877,New York,1900,28
+878,New York,1902,32
+879,New York,1906,29
+880,New York,1908,29
+881,New York,1912,34
+882,New York,1914,30
+883,New York,1916,36
+884,New York,1918,18
+885,New York,1920,16
+886,New York,1922,24
+887,New York,1924,30
+888,New York,1926,26
+889,New York,1928,29
+890,New York,1930,29
+891,New York,1932,30
+892,New York,1934,23
+893,New York,1936,23
+894,New York,1938,23
+895,New York,1940,25
+896,North Carolina,1878,1.0
+897,North Carolina,1880,1.0
+898,North Carolina,1882,3
+899,North Carolina,1884,1
+900,North Carolina,1886,1
+901,North Carolina,1888,3
+902,North Carolina,1890,0
+903,North Carolina,1892,3
+904,North Carolina,1896,3
+905,North Carolina,1900,0
+906,North Carolina,1902,4
+907,North Carolina,1906,0
+908,North Carolina,1908,6
+909,North Carolina,1912,2
+910,North Carolina,1914,6
+911,North Carolina,1916,3
+912,North Carolina,1918,4
+913,North Carolina,1920,2
+914,North Carolina,1922,2
+915,North Carolina,1924,3
+916,North Carolina,1926,6
+917,North Carolina,1928,8
+918,North Carolina,1930,5
+919,North Carolina,1932,11
+920,North Carolina,1934,8
+921,North Carolina,1936,3
+922,North Carolina,1938,1
+923,North Carolina,1940,7
+924,North Dakota,1878,0.0
+925,North Dakota,1880,0.0
+926,North Dakota,1882,0
+927,North Dakota,1884,0
+928,North Dakota,1886,0
+929,North Dakota,1888,0
+930,North Dakota,1890,0
+931,North Dakota,1892,0
+932,North Dakota,1896,0
+933,North Dakota,1900,0
+934,North Dakota,1902,0
+935,North Dakota,1906,0
+936,North Dakota,1908,0
+937,North Dakota,1912,0
+938,North Dakota,1914,0
+939,North Dakota,1916,0
+940,North Dakota,1918,1
+941,North Dakota,1920,0
+942,North Dakota,1922,2
+943,North Dakota,1924,2
+944,North Dakota,1926,1
+945,North Dakota,1928,3
+946,North Dakota,1930,1
+947,North Dakota,1932,5
+948,North Dakota,1934,3
+949,North Dakota,1936,1
+950,North Dakota,1938,1
+951,North Dakota,1940,2
+952,Ohio,1878,8.0
+953,Ohio,1880,14.0
+954,Ohio,1882,21
+955,Ohio,1884,24
+956,Ohio,1886,20
+957,Ohio,1888,21
+958,Ohio,1890,36
+959,Ohio,1892,49
+960,Ohio,1896,27
+961,Ohio,1900,20
+962,Ohio,1902,20
+963,Ohio,1906,29
+964,Ohio,1908,26
+965,Ohio,1912,22
+966,Ohio,1914,30
+967,Ohio,1916,18
+968,Ohio,1918,11
+969,Ohio,1920,9
+970,Ohio,1922,24
+971,Ohio,1924,27
+972,Ohio,1926,21
+973,Ohio,1928,28
+974,Ohio,1930,24
+975,Ohio,1932,30
+976,Ohio,1934,26
+977,Ohio,1936,27
+978,Ohio,1938,25
+979,Ohio,1940,17
+980,Oklahoma,1878,0.0
+981,Oklahoma,1880,0.0
+982,Oklahoma,1882,0
+983,Oklahoma,1884,0
+984,Oklahoma,1886,0
+985,Oklahoma,1888,0
+986,Oklahoma,1890,0
+987,Oklahoma,1892,0
+988,Oklahoma,1896,0
+989,Oklahoma,1900,0
+990,Oklahoma,1902,0
+991,Oklahoma,1906,0
+992,Oklahoma,1908,2
+993,Oklahoma,1912,8
+994,Oklahoma,1914,3
+995,Oklahoma,1916,11
+996,Oklahoma,1918,3
+997,Oklahoma,1920,11
+998,Oklahoma,1922,21
+999,Oklahoma,1924,23
+1000,Oklahoma,1926,24
+1001,Oklahoma,1928,41
+1002,Oklahoma,1930,35
+1003,Oklahoma,1932,60
+1004,Oklahoma,1934,55
+1005,Oklahoma,1936,48
+1006,Oklahoma,1938,77
+1007,Oklahoma,1940,74
+1008,Oregon,1878,0.0
+1009,Oregon,1880,0.0
+1010,Oregon,1882,0
+1011,Oregon,1884,1
+1012,Oregon,1886,0
+1013,Oregon,1888,0
+1014,Oregon,1890,1
+1015,Oregon,1892,2
+1016,Oregon,1896,1
+1017,Oregon,1900,2
+1018,Oregon,1902,1
+1019,Oregon,1906,0
+1020,Oregon,1908,0
+1021,Oregon,1912,2
+1022,Oregon,1914,2
+1023,Oregon,1916,5
+1024,Oregon,1918,0
+1025,Oregon,1920,3
+1026,Oregon,1922,5
+1027,Oregon,1924,0
+1028,Oregon,1926,4
+1029,Oregon,1928,2
+1030,Oregon,1930,1
+1031,Oregon,1932,2
+1032,Oregon,1934,3
+1033,Oregon,1936,7
+1034,Oregon,1938,3
+1035,Oregon,1940,0
+1036,Pennsylvania,1878,6.0
+1037,Pennsylvania,1880,23.0
+1038,Pennsylvania,1882,24
+1039,Pennsylvania,1884,20
+1040,Pennsylvania,1886,27
+1041,Pennsylvania,1888,29
+1042,Pennsylvania,1890,42
+1043,Pennsylvania,1892,52
+1044,Pennsylvania,1896,29
+1045,Pennsylvania,1900,11
+1046,Pennsylvania,1902,32
+1047,Pennsylvania,1906,23
+1048,Pennsylvania,1908,20
+1049,Pennsylvania,1912,35
+1050,Pennsylvania,1914,39
+1051,Pennsylvania,1916,23
+1052,Pennsylvania,1918,11
+1053,Pennsylvania,1920,8
+1054,Pennsylvania,1922,20
+1055,Pennsylvania,1924,19
+1056,Pennsylvania,1926,24
+1057,Pennsylvania,1928,28
+1058,Pennsylvania,1930,22
+1059,Pennsylvania,1932,26
+1060,Pennsylvania,1934,33
+1061,Pennsylvania,1936,18
+1062,Pennsylvania,1938,25
+1063,Pennsylvania,1940,18
+1064,Porto Rico,1878,0.0
+1065,Porto Rico,1880,0.0
+1066,Porto Rico,1882,0
+1067,Porto Rico,1884,0
+1068,Porto Rico,1886,0
+1069,Porto Rico,1888,0
+1070,Porto Rico,1890,0
+1071,Porto Rico,1892,0
+1072,Porto Rico,1896,0
+1073,Porto Rico,1900,0
+1074,Porto Rico,1902,0
+1075,Porto Rico,1906,0
+1076,Porto Rico,1908,0
+1077,Porto Rico,1912,0
+1078,Porto Rico,1914,0
+1079,Porto Rico,1916,0
+1080,Porto Rico,1918,1
+1081,Porto Rico,1920,0
+1082,Porto Rico,1922,0
+1083,Porto Rico,1924,0
+1084,Porto Rico,1926,0
+1085,Porto Rico,1928,0
+1086,Porto Rico,1930,0
+1087,Porto Rico,1932,0
+1088,Porto Rico,1934,0
+1089,Porto Rico,1936,0
+1090,Porto Rico,1938,0
+1091,Porto Rico,1940,0
+1092,Rhode Island,1878,0.0
+1093,Rhode Island,1880,1.0
+1094,Rhode Island,1882,3
+1095,Rhode Island,1884,5
+1096,Rhode Island,1886,1
+1097,Rhode Island,1888,1
+1098,Rhode Island,1890,3
+1099,Rhode Island,1892,1
+1100,Rhode Island,1896,1
+1101,Rhode Island,1900,1
+1102,Rhode Island,1902,0
+1103,Rhode Island,1906,1
+1104,Rhode Island,1908,1
+1105,Rhode Island,1912,0
+1106,Rhode Island,1914,3
+1107,Rhode Island,1916,0
+1108,Rhode Island,1918,0
+1109,Rhode Island,1920,1
+1110,Rhode Island,1922,0
+1111,Rhode Island,1924,1
+1112,Rhode Island,1926,1
+1113,Rhode Island,1928,1
+1114,Rhode Island,1930,3
+1115,Rhode Island,1932,2
+1116,Rhode Island,1934,1
+1117,Rhode Island,1936,1
+1118,Rhode Island,1938,0
+1119,Rhode Island,1940,2
+1120,South Carolina,1878,0.0
+1121,South Carolina,1880,1.0
+1122,South Carolina,1882,1
+1123,South Carolina,1884,1
+1124,South Carolina,1886,1
+1125,South Carolina,1888,1
+1126,South Carolina,1890,2
+1127,South Carolina,1892,0
+1128,South Carolina,1896,0
+1129,South Carolina,1900,1
+1130,South Carolina,1902,2
+1131,South Carolina,1906,0
+1132,South Carolina,1908,0
+1133,South Carolina,1912,1
+1134,South Carolina,1914,1
+1135,South Carolina,1916,0
+1136,South Carolina,1918,0
+1137,South Carolina,1920,0
+1138,South Carolina,1922,1
+1139,South Carolina,1924,2
+1140,South Carolina,1926,2
+1141,South Carolina,1928,0
+1142,South Carolina,1930,0
+1143,South Carolina,1932,0
+1144,South Carolina,1934,1
+1145,South Carolina,1936,2
+1146,South Carolina,1938,6
+1147,South Carolina,1940,3
+1148,South Dakota,1878,0.0
+1149,South Dakota,1880,0.0
+1150,South Dakota,1882,0
+1151,South Dakota,1884,0
+1152,South Dakota,1886,0
+1153,South Dakota,1888,0
+1154,South Dakota,1890,0
+1155,South Dakota,1892,0
+1156,South Dakota,1896,0
+1157,South Dakota,1900,0
+1158,South Dakota,1902,0
+1159,South Dakota,1906,6
+1160,South Dakota,1908,0
+1161,South Dakota,1912,1
+1162,South Dakota,1914,2
+1163,South Dakota,1916,6
+1164,South Dakota,1918,0
+1165,South Dakota,1920,1
+1166,South Dakota,1922,0
+1167,South Dakota,1924,2
+1168,South Dakota,1926,4
+1169,South Dakota,1928,7
+1170,South Dakota,1930,8
+1171,South Dakota,1932,7
+1172,South Dakota,1934,5
+1173,South Dakota,1936,6
+1174,South Dakota,1938,0
+1175,South Dakota,1940,7
+1176,Tennessee ,1878,1.0
+1177,Tennessee ,1880,2.0
+1178,Tennessee ,1882,2
+1179,Tennessee ,1884,4
+1180,Tennessee ,1886,6
+1181,Tennessee ,1888,7
+1182,Tennessee ,1890,8
+1183,Tennessee ,1892,8
+1184,Tennessee ,1896,7
+1185,Tennessee ,1900,7
+1186,Tennessee ,1902,13
+1187,Tennessee ,1906,13
+1188,Tennessee ,1908,17
+1189,Tennessee ,1912,15
+1190,Tennessee ,1914,15
+1191,Tennessee ,1916,12
+1192,Tennessee ,1918,10
+1193,Tennessee ,1920,7
+1194,Tennessee ,1922,13
+1195,Tennessee ,1924,10
+1196,Tennessee ,1926,13
+1197,Tennessee ,1928,12
+1198,Tennessee ,1930,8
+1199,Tennessee ,1932,18
+1200,Tennessee ,1934,15
+1201,Tennessee ,1936,13
+1202,Tennessee ,1938,13
+1203,Tennessee ,1940,18
+1204,Texas,1878,1.0
+1205,Texas,1880,4.0
+1206,Texas,1882,4
+1207,Texas,1884,6
+1208,Texas,1886,8
+1209,Texas,1888,6
+1210,Texas,1890,18
+1211,Texas,1892,8
+1212,Texas,1896,20
+1213,Texas,1900,4
+1214,Texas,1902,11
+1215,Texas,1906,15
+1216,Texas,1908,12
+1217,Texas,1912,26
+1218,Texas,1914,35
+1219,Texas,1916,24
+1220,Texas,1918,13
+1221,Texas,1920,16
+1222,Texas,1922,39
+1223,Texas,1924,46
+1224,Texas,1926,47
+1225,Texas,1928,52
+1226,Texas,1930,37
+1227,Texas,1932,49
+1228,Texas,1934,53
+1229,Texas,1936,63
+1230,Texas,1938,66
+1231,Texas,1940,43
+1232,Utah,1878,0.0
+1233,Utah,1880,0.0
+1234,Utah,1882,1
+1235,Utah,1884,1
+1236,Utah,1886,1
+1237,Utah,1888,0
+1238,Utah,1890,1
+1239,Utah,1892,2
+1240,Utah,1896,1
+1241,Utah,1900,0
+1242,Utah,1902,2
+1243,Utah,1906,0
+1244,Utah,1908,2
+1245,Utah,1912,0
+1246,Utah,1914,3
+1247,Utah,1916,1
+1248,Utah,1918,1
+1249,Utah,1920,4
+1250,Utah,1922,5
+1251,Utah,1924,3
+1252,Utah,1926,4
+1253,Utah,1928,3
+1254,Utah,1930,5
+1255,Utah,1932,5
+1256,Utah,1934,9
+1257,Utah,1936,4
+1258,Utah,1938,6
+1259,Utah,1940,10
+1260,Vermont,1878,1.0
+1261,Vermont,1880,3.0
+1262,Vermont,1882,5
+1263,Vermont,1884,1
+1264,Vermont,1886,1
+1265,Vermont,1888,1
+1266,Vermont,1890,2
+1267,Vermont,1892,4
+1268,Vermont,1896,3
+1269,Vermont,1900,2
+1270,Vermont,1902,2
+1271,Vermont,1906,2
+1272,Vermont,1908,1
+1273,Vermont,1912,0
+1274,Vermont,1914,3
+1275,Vermont,1916,0
+1276,Vermont,1918,3
+1277,Vermont,1920,1
+1278,Vermont,1922,1
+1279,Vermont,1924,1
+1280,Vermont,1926,1
+1281,Vermont,1928,1
+1282,Vermont,1930,3
+1283,Vermont,1932,1
+1284,Vermont,1934,0
+1285,Vermont,1936,1
+1286,Vermont,1938,1
+1287,Vermont,1940,1
+1288,Virginia,1878,2.0
+1289,Virginia,1880,3.0
+1290,Virginia,1882,4
+1291,Virginia,1884,7
+1292,Virginia,1886,5
+1293,Virginia,1888,4
+1294,Virginia,1890,8
+1295,Virginia,1892,9
+1296,Virginia,1896,6
+1297,Virginia,1900,5
+1298,Virginia,1902,1
+1299,Virginia,1906,5
+1300,Virginia,1908,10
+1301,Virginia,1912,8
+1302,Virginia,1914,9
+1303,Virginia,1916,9
+1304,Virginia,1918,7
+1305,Virginia,1920,2
+1306,Virginia,1922,5
+1307,Virginia,1924,7
+1308,Virginia,1926,7
+1309,Virginia,1928,8
+1310,Virginia,1930,3
+1311,Virginia,1932,9
+1312,Virginia,1934,9
+1313,Virginia,1936,2
+1314,Virginia,1938,11
+1315,Virginia,1940,5
+1316,Washington,1878,0.0
+1317,Washington,1880,0.0
+1318,Washington,1882,0
+1319,Washington,1884,0
+1320,Washington,1886,0
+1321,Washington,1888,0
+1322,Washington,1890,0
+1323,Washington,1892,0
+1324,Washington,1896,0
+1325,Washington,1900,0
+1326,Washington,1902,1
+1327,Washington,1906,2
+1328,Washington,1908,1
+1329,Washington,1912,1
+1330,Washington,1914,5
+1331,Washington,1916,2
+1332,Washington,1918,0
+1333,Washington,1920,4
+1334,Washington,1922,0
+1335,Washington,1924,1
+1336,Washington,1926,5
+1337,Washington,1928,1
+1338,Washington,1930,4
+1339,Washington,1932,6
+1340,Washington,1934,6
+1341,Washington,1936,1
+1342,Washington,1938,3
+1343,Washington,1940,7
+1344,West Virginia,1878,0.0
+1345,West Virginia,1880,0.0
+1346,West Virginia,1882,1
+1347,West Virginia,1884,3
+1348,West Virginia,1886,1
+1349,West Virginia,1888,0
+1350,West Virginia,1890,4
+1351,West Virginia,1892,7
+1352,West Virginia,1896,1
+1353,West Virginia,1900,2
+1354,West Virginia,1902,6
+1355,West Virginia,1906,4
+1356,West Virginia,1908,2
+1357,West Virginia,1912,3
+1358,West Virginia,1914,4
+1359,West Virginia,1916,3
+1360,West Virginia,1918,0
+1361,West Virginia,1920,3
+1362,West Virginia,1922,8
+1363,West Virginia,1924,4
+1364,West Virginia,1926,6
+1365,West Virginia,1928,4
+1366,West Virginia,1930,3
+1367,West Virginia,1932,12
+1368,West Virginia,1934,5
+1369,West Virginia,1936,4
+1370,West Virginia,1938,9
+1371,West Virginia,1940,8
+1372,Wisconsin,1878,3.0
+1373,Wisconsin,1880,3.0
+1374,Wisconsin,1882,8
+1375,Wisconsin,1884,11
+1376,Wisconsin,1886,10
+1377,Wisconsin,1888,13
+1378,Wisconsin,1890,7
+1379,Wisconsin,1892,20
+1380,Wisconsin,1896,16
+1381,Wisconsin,1900,6
+1382,Wisconsin,1902,7
+1383,Wisconsin,1906,5
+1384,Wisconsin,1908,8
+1385,Wisconsin,1912,11
+1386,Wisconsin,1914,10
+1387,Wisconsin,1916,5
+1388,Wisconsin,1918,6
+1389,Wisconsin,1920,4
+1390,Wisconsin,1922,10
+1391,Wisconsin,1924,8
+1392,Wisconsin,1926,9
+1393,Wisconsin,1928,8
+1394,Wisconsin,1930,14
+1395,Wisconsin,1932,14
+1396,Wisconsin,1934,9
+1397,Wisconsin,1936,7
+1398,Wisconsin,1938,9
+1399,Wisconsin,1940,10
+1400,Wyoming,1878,0.0
+1401,Wyoming,1880,0.0
+1402,Wyoming,1882,0
+1403,Wyoming,1884,1
+1404,Wyoming,1886,0
+1405,Wyoming,1888,1
+1406,Wyoming,1890,1
+1407,Wyoming,1892,0
+1408,Wyoming,1896,0
+1409,Wyoming,1900,0
+1410,Wyoming,1902,0
+1411,Wyoming,1906,0
+1412,Wyoming,1908,2
+1413,Wyoming,1912,2
+1414,Wyoming,1914,7
+1415,Wyoming,1916,1
+1416,Wyoming,1918,9
+1417,Wyoming,1920,2
+1418,Wyoming,1922,1
+1419,Wyoming,1924,5
+1420,Wyoming,1926,5
+1421,Wyoming,1928,1
+1422,Wyoming,1930,9
+1423,Wyoming,1932,11
+1424,Wyoming,1934,8
+1425,Wyoming,1936,9
+1426,Wyoming,1938,7
+1427,Wyoming,1940,9
