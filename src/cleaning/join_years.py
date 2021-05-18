@@ -23,12 +23,99 @@ def load_all_years(save=False):
     df_all['moral'] = df_all['crime'].apply(lambda x: moral_apply(x))
     df_all['property'] = df_all['crime'].apply(lambda x: property_apply(x))
     df_all['deceit'] = df_all['crime'].apply(lambda x: deceit_apply(x))
+    df_all['life_sentence'] = df_all['max_term'].apply(lambda x: life_sentence(x))
+    df_all['death_sentence'] = df_all['max_term'].apply(lambda x: death_sentence(x))
+    df_all['life_or_death_sentence'] = df_all['max_term'].apply(lambda x: life_or_death_sentence(x))
+    df_all['nativity'] = df_all['nativity'].apply(lambda x: fix_nativity(x))
+    df_all['foreign'] = df_all['nativity'].apply(lambda x: foreign(x))
+    df_all['larceny'] = df_all['crime'].apply(lambda x: larceny(x))
+    df_all['burglary'] = df_all['crime'].apply(lambda x: burglary(x))
+    df_all['murder'] = df_all['crime'].apply(lambda x: murder(x))
+    df_all['robbery'] = df_all['crime'].apply(lambda x: robbery(x))
+    df_all['forgery'] = df_all['crime'].apply(lambda x: forgery(x))
+    df_all['assault'] = df_all['crime'].apply(lambda x: assault(x))
+    df_all['all_larceny'] = df_all['crime'].apply(lambda x: all_larceny(x))
+
 
     if save:
         df_all.to_csv('../../data/all_data.csv')
     else:
         return df_all        
 
+
+def larceny(x):
+    for elem in x:
+        if x == 'Larceny':
+            return 1
+        return 0
+
+
+def burglary(x):
+    for elem in x:
+        if x == 'Burglary':
+            return 1
+        return 0
+
+def murder(x):
+    for elem in x:
+        if x == 'Murder':
+            return 1
+        return 0
+
+def robbery(x):
+    for elem in x:
+        if x == 'Robbery':
+            return 1
+        return 0
+
+def forgery(x):
+    for elem in x:
+        if x == 'Forgery':
+            return 1
+        return 0
+
+def assault(x):
+    for elem in x:
+        if 'Assault' in x:
+            return 1
+        return 0 
+def all_larceny(x):
+    for elem in x:
+        if 'Larceny' in x:
+            return 1
+        return 0 
+
+def foreign(x):
+    if x == 'United States' or x == 'Indian Territory':
+        return 1
+    else:
+        return 0
+
+
+def fix_nativity(x):
+    if x == 'Black':
+        return 'United States'
+    else:
+        return x
+
+
+def life_sentence(x):
+    if x == 'Life':
+        return 1
+    else:
+        return 0
+
+def death_sentence(x):
+    if x == 'Death':
+        return 1
+    else:
+        return 0
+
+def life_or_death_sentence(x):
+    if x == 'Life' or x == 'Death':
+        return 1
+    else:
+        return 0
 
 
 def violent_apply(x):
@@ -53,9 +140,9 @@ def violent_apply(x):
     return 0 
 
 def violent_sexual_apply(x):
-    m_lst = ['Abortion',
-             'Assault w/ Intent to Rape',
-             'Rape',]
+    m_lst = ['Assault w/ Intent to Rape',
+             'Assault to Ravish' # make sure this is spelled correctly 
+             'Rape']
     for elem in x:
         if elem in m_lst:
             return 1
@@ -79,8 +166,8 @@ def property_apply(x):
     m_lst = ['Arson',
              'Attempt to Rob',
              'Attempted Arson',
-             'Attempted Robbery',
-             'Burglary',
+             'Attempted Robbery', 
+             'Burglary', 
              'Defacing Brands',
              'Effacing and Defacing Brands',
              'Having Tools with Intent to Commit Burglary',
@@ -109,10 +196,10 @@ def property_apply(x):
 def deceit_apply(x):
     m_lst = ['Cheat',
             'Confidence Games',
-            'Conspiracy',
+            'Conspiracy', # conspiracy can be for anything 
             'Counterfeiting',
             'Embezzlement',
-            'False Imp',
+            'False Imp', # this is probably kidnapping 
             'False Pretenses',
             'Forgery',
             'Having Ficticious Checks',
@@ -166,7 +253,16 @@ def no_death_life(save=False):
         return both
 
 if __name__=="__main__":
-    load_all_years(True)
-    no_death_life(True)
-    death_life(True)
+    df = load_all_years()
+    # df = df[df['nativity'] == 'Black']
+    # print(df.race.unique())
+    # print(df.nativity.unique())
 
+    # ['United States' 'Canada' 'Italy' 'England' 'Ireland' 'Germany' 'France'
+    # 'Austria' 'Mexico' 'Indian Territory' 'Prussia' 'Isle of Man' 'Saxony'
+    # 'Nova Scotia' 'Bohemia' 'Russia' 'Scotland' 'Switzerland' 'Cuba'
+    # 'Australia' 'Sweden' 'Norway' "Prince Edward's Island" 'Hungary' 'China'
+    # 'Denmark' 'Alsace' 'Wales' 'Poland' 'On the Sea' 'East Indies' 'Black'
+    # 'Mexican' '?' 'Swiss' 'Spanish' 'Japan']
+
+    print(df.info()) 
