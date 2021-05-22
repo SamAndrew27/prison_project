@@ -5,7 +5,7 @@
 
 ## changes made to foreign data modernized
 * alsace --> France
-* Assyria -> Iraq
+* Assyria -> Turkey
 * Bohemia --> Czech Republic
 * Crete -> Greece
 * Holland -> Netherlands
@@ -13,7 +13,6 @@
 * Jugo-Slovakia (slavia) --> Yugoslavia
 * New Brunswick/British Columbia/New Foundland/Nova Scotia/Ontario/Prince Edward Isle -> Canada
 * Philippine Islands -> Philippines
-* Prince Edward Isle
 * Prussia/Saxony -> Germany
 * Romania spelling fixed
 * Siam --> Thailand
@@ -22,4 +21,3 @@
 * South Sea Islands -> Solomon Islands
 * South Wales -> Wales
 
-* 
