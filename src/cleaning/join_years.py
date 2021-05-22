@@ -35,12 +35,19 @@ def load_all_years(save=False):
     df_all['forgery'] = df_all['crime'].apply(lambda x: forgery(x))
     df_all['assault'] = df_all['crime'].apply(lambda x: assault(x))
     df_all['all_larceny'] = df_all['crime'].apply(lambda x: all_larceny(x))
+    df_all['all_manslaughter'] = df_all['crime'].apply(lambda x: all_manslaughter(x))
 
 
     if save:
         df_all.to_csv('../../data/all_data.csv')
     else:
         return df_all        
+
+def all_manslaughter(x):
+    for elem in x:
+        if x == 'Manslaughter' or x == 'Voluntary Manslaughter':
+            return 1
+        return 0 
 
 
 def larceny(x):
@@ -85,7 +92,7 @@ def all_larceny(x):
             return 1
         return 0 
 
-def foreign(x):
+def foreign(x): # electing to count 'Indian Territory' as domestic 
     if x == 'United States' or x == 'Indian Territory':
         return 1
     else:
@@ -129,6 +136,7 @@ def violent_apply(x):
              'Administering Poison', 
              'Assault',
              'Felonious Assault',
+             'False Imp', # this is probably kidnapping 
              'Assault w/ Intent to Rob',
              'Manslaughter',
              'Voluntary Manslaughter'
@@ -193,13 +201,11 @@ def property_apply(x):
             return 1
     return 0 
 
-def deceit_apply(x):
+def deceit_apply(x): # previously included 'Conspiracy' - Leaving it out entirely for now 
     m_lst = ['Cheat',
             'Confidence Games',
-            'Conspiracy', # conspiracy can be for anything 
             'Counterfeiting',
             'Embezzlement',
-            'False Imp', # this is probably kidnapping 
             'False Pretenses',
             'Forgery',
             'Having Ficticious Checks',
@@ -252,17 +258,25 @@ def no_death_life(save=False):
     else:
         return both
 
+def crime_counts():
+    df = load_all_years()
+    result = {}
+    for crimes in df['crime']:
+        for crime in crimes:
+            if crime in result:
+                result[crime] += 1
+            else:
+                result[crime] = 1
+    result = pd.Series(result)
+    result = result.sort_values(ascending=False)
+    return result 
+
 if __name__=="__main__":
     df = load_all_years()
     # df = df[df['nativity'] == 'Black']
     # print(df.race.unique())
     # print(df.nativity.unique())
+    # print(df.info())
+    cc = list(crime_counts().index)
+    print(cc)
 
-    # ['United States' 'Canada' 'Italy' 'England' 'Ireland' 'Germany' 'France'
-    # 'Austria' 'Mexico' 'Indian Territory' 'Prussia' 'Isle of Man' 'Saxony'
-    # 'Nova Scotia' 'Bohemia' 'Russia' 'Scotland' 'Switzerland' 'Cuba'
-    # 'Australia' 'Sweden' 'Norway' "Prince Edward's Island" 'Hungary' 'China'
-    # 'Denmark' 'Alsace' 'Wales' 'Poland' 'On the Sea' 'East Indies' 'Black'
-    # 'Mexican' '?' 'Swiss' 'Spanish' 'Japan']
-
-    print(df.info()) 

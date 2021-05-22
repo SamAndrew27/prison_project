@@ -17,7 +17,7 @@
 15,Alaska,1916,1.0
 16,Alaska,1918,0.0
 17,Alaska,1920,0.0
-18,Alaska,1922,0.0
+18,Alaska,1922,1.0
 19,Alaska,1924,0.0
 20,Alaska,1926,0.0
 21,Alaska,1928,0.0
@@ -503,34 +503,34 @@
 501,Central America,1936,0.0
 502,Central America,1938,0.0
 503,Central America,1940,0.0
-504,Czechoslovakia ,1878,0.0
-505,Czechoslovakia ,1880,0.0
-506,Czechoslovakia ,1882,0.0
-507,Czechoslovakia ,1884,0.0
-508,Czechoslovakia ,1886,0.0
-509,Czechoslovakia ,1888,0.0
-510,Czechoslovakia ,1890,0.0
-511,Czechoslovakia ,1892,0.0
-512,Czechoslovakia ,1896,0.0
-513,Czechoslovakia ,1900,0.0
-514,Czechoslovakia ,1902,0.0
-515,Czechoslovakia ,1906,0.0
-516,Czechoslovakia ,1908,0.0
-517,Czechoslovakia ,1912,0.0
-518,Czechoslovakia ,1914,0.0
-519,Czechoslovakia ,1916,0.0
-520,Czechoslovakia ,1918,0.0
-521,Czechoslovakia ,1920,0.0
-522,Czechoslovakia ,1922,0.0
-523,Czechoslovakia ,1924,0.0
-524,Czechoslovakia ,1926,0.0
-525,Czechoslovakia ,1928,0.0
-526,Czechoslovakia ,1930,1.0
-527,Czechoslovakia ,1932,0.0
-528,Czechoslovakia ,1934,0.0
-529,Czechoslovakia ,1936,0.0
-530,Czechoslovakia ,1938,0.0
-531,Czechoslovakia ,1940,0.0
+504,Czecho-Slovakia,1878,0.0
+505,Czecho-Slovakia,1880,0.0
+506,Czecho-Slovakia,1882,0.0
+507,Czecho-Slovakia,1884,0.0
+508,Czecho-Slovakia,1886,0.0
+509,Czecho-Slovakia,1888,0.0
+510,Czecho-Slovakia,1890,0.0
+511,Czecho-Slovakia,1892,0.0
+512,Czecho-Slovakia,1896,0.0
+513,Czecho-Slovakia,1900,0.0
+514,Czecho-Slovakia,1902,0.0
+515,Czecho-Slovakia,1906,0.0
+516,Czecho-Slovakia,1908,0.0
+517,Czecho-Slovakia,1912,0.0
+518,Czecho-Slovakia,1914,0.0
+519,Czecho-Slovakia,1916,0.0
+520,Czecho-Slovakia,1918,0.0
+521,Czecho-Slovakia,1920,0.0
+522,Czecho-Slovakia,1922,0.0
+523,Czecho-Slovakia,1924,0.0
+524,Czecho-Slovakia,1926,0.0
+525,Czecho-Slovakia,1928,0.0
+526,Czecho-Slovakia,1930,1.0
+527,Czecho-Slovakia,1932,0.0
+528,Czecho-Slovakia,1934,0.0
+529,Czecho-Slovakia,1936,0.0
+530,Czecho-Slovakia,1938,0.0
+531,Czecho-Slovakia,1940,0.0
 532,China,1878,0.0
 533,China,1880,0.0
 534,China,1882,0.0
@@ -783,34 +783,34 @@
 781,Egypt,1936,0.0
 782,Egypt,1938,0.0
 783,Egypt,1940,0.0
-784,Finland,1878,0.0
-785,Finland,1880,0.0
-786,Finland,1882,0.0
-787,Finland,1884,0.0
-788,Finland,1886,0.0
-789,Finland,1888,0.0
-790,Finland,1890,0.0
-791,Finland,1892,0.0
-792,Finland,1896,0.0
-793,Finland,1900,0.0
-794,Finland,1902,0.0
-795,Finland,1906,0.0
-796,Finland,1908,1.0
-797,Finland,1912,0.0
-798,Finland,1914,0.0
-799,Finland,1916,2.0
-800,Finland,1918,0.0
-801,Finland,1920,1.0
-802,Finland,1922,0.0
-803,Finland,1924,1.0
-804,Finland,1926,2.0
-805,Finland,1928,0.0
-806,Finland,1930,2.0
-807,Finland,1932,0.0
-808,Finland,1934,0.0
-809,Finland,1936,0.0
-810,Finland,1938,0.0
-811,Finland,1940,0.0
+784,Findland,1878,0.0
+785,Findland,1880,0.0
+786,Findland,1882,0.0
+787,Findland,1884,0.0
+788,Findland,1886,0.0
+789,Findland,1888,0.0
+790,Findland,1890,0.0
+791,Findland,1892,0.0
+792,Findland,1896,0.0
+793,Findland,1900,0.0
+794,Findland,1902,0.0
+795,Findland,1906,0.0
+796,Findland,1908,1.0
+797,Findland,1912,0.0
+798,Findland,1914,0.0
+799,Findland,1916,2.0
+800,Findland,1918,0.0
+801,Findland,1920,1.0
+802,Findland,1922,0.0
+803,Findland,1924,1.0
+804,Findland,1926,2.0
+805,Findland,1928,0.0
+806,Findland,1930,2.0
+807,Findland,1932,0.0
+808,Findland,1934,0.0
+809,Findland,1936,0.0
+810,Findland,1938,0.0
+811,Findland,1940,0.0
 812,France,1878,4.0
 813,France,1880,1.0
 814,France,1882,1.0
@@ -1175,34 +1175,34 @@
 1173,Java,1936,0.0
 1174,Java,1938,0.0
 1175,Java,1940,0.0
-1176,Yugoslavia,1878,0.0
-1177,Yugoslavia,1880,0.0
-1178,Yugoslavia,1882,0.0
-1179,Yugoslavia,1884,0.0
-1180,Yugoslavia,1886,0.0
-1181,Yugoslavia,1888,0.0
-1182,Yugoslavia,1890,0.0
-1183,Yugoslavia,1892,0.0
-1184,Yugoslavia,1896,0.0
-1185,Yugoslavia,1900,0.0
-1186,Yugoslavia,1902,0.0
-1187,Yugoslavia,1906,0.0
-1188,Yugoslavia,1908,0.0
-1189,Yugoslavia,1912,0.0
-1190,Yugoslavia,1914,0.0
-1191,Yugoslavia,1916,0.0
-1192,Yugoslavia,1918,0.0
-1193,Yugoslavia,1920,0.0
-1194,Yugoslavia,1922,0.0
-1195,Yugoslavia,1924,1.0
-1196,Yugoslavia,1926,1.0
-1197,Yugoslavia,1928,1.0
-1198,Yugoslavia,1930,26.0
-1199,Yugoslavia,1932,1.0
-1200,Yugoslavia,1934,0.0
-1201,Yugoslavia,1936,1.0
-1202,Yugoslavia,1938,0.0
-1203,Yugoslavia,1940,0.0
+1176,Jugo-Slovakia (slavia),1878,0.0
+1177,Jugo-Slovakia (slavia),1880,0.0
+1178,Jugo-Slovakia (slavia),1882,0.0
+1179,Jugo-Slovakia (slavia),1884,0.0
+1180,Jugo-Slovakia (slavia),1886,0.0
+1181,Jugo-Slovakia (slavia),1888,0.0
+1182,Jugo-Slovakia (slavia),1890,0.0
+1183,Jugo-Slovakia (slavia),1892,0.0
+1184,Jugo-Slovakia (slavia),1896,0.0
+1185,Jugo-Slovakia (slavia),1900,0.0
+1186,Jugo-Slovakia (slavia),1902,0.0
+1187,Jugo-Slovakia (slavia),1906,0.0
+1188,Jugo-Slovakia (slavia),1908,0.0
+1189,Jugo-Slovakia (slavia),1912,0.0
+1190,Jugo-Slovakia (slavia),1914,0.0
+1191,Jugo-Slovakia (slavia),1916,0.0
+1192,Jugo-Slovakia (slavia),1918,0.0
+1193,Jugo-Slovakia (slavia),1920,0.0
+1194,Jugo-Slovakia (slavia),1922,0.0
+1195,Jugo-Slovakia (slavia),1924,1.0
+1196,Jugo-Slovakia (slavia),1926,1.0
+1197,Jugo-Slovakia (slavia),1928,1.0
+1198,Jugo-Slovakia (slavia),1930,26.0
+1199,Jugo-Slovakia (slavia),1932,1.0
+1200,Jugo-Slovakia (slavia),1934,0.0
+1201,Jugo-Slovakia (slavia),1936,1.0
+1202,Jugo-Slovakia (slavia),1938,0.0
+1203,Jugo-Slovakia (slavia),1940,0.0
 1204,Korea,1878,0.0
 1205,Korea,1880,0.0
 1206,Korea,1882,0.0
@@ -1371,34 +1371,34 @@
 1369,New Brunswick,1936,0.0
 1370,New Brunswick,1938,0.0
 1371,New Brunswick,1940,0.0
-1372,Newfoundland,1878,0.0
-1373,Newfoundland,1880,0.0
-1374,Newfoundland,1882,0.0
-1375,Newfoundland,1884,0.0
-1376,Newfoundland,1886,0.0
-1377,Newfoundland,1888,0.0
-1378,Newfoundland,1890,0.0
-1379,Newfoundland,1892,0.0
-1380,Newfoundland,1896,0.0
-1381,Newfoundland,1900,0.0
-1382,Newfoundland,1902,0.0
-1383,Newfoundland,1906,1.0
-1384,Newfoundland,1908,0.0
-1385,Newfoundland,1912,0.0
-1386,Newfoundland,1914,0.0
-1387,Newfoundland,1916,0.0
-1388,Newfoundland,1918,0.0
-1389,Newfoundland,1920,0.0
-1390,Newfoundland,1922,0.0
-1391,Newfoundland,1924,0.0
-1392,Newfoundland,1926,0.0
-1393,Newfoundland,1928,0.0
-1394,Newfoundland,1930,0.0
-1395,Newfoundland,1932,0.0
-1396,Newfoundland,1934,0.0
-1397,Newfoundland,1936,0.0
-1398,Newfoundland,1938,0.0
-1399,Newfoundland,1940,0.0
+1372,New Foundland,1878,0.0
+1373,New Foundland,1880,0.0
+1374,New Foundland,1882,0.0
+1375,New Foundland,1884,0.0
+1376,New Foundland,1886,0.0
+1377,New Foundland,1888,0.0
+1378,New Foundland,1890,0.0
+1379,New Foundland,1892,0.0
+1380,New Foundland,1896,0.0
+1381,New Foundland,1900,0.0
+1382,New Foundland,1902,0.0
+1383,New Foundland,1906,1.0
+1384,New Foundland,1908,0.0
+1385,New Foundland,1912,0.0
+1386,New Foundland,1914,0.0
+1387,New Foundland,1916,0.0
+1388,New Foundland,1918,0.0
+1389,New Foundland,1920,0.0
+1390,New Foundland,1922,0.0
+1391,New Foundland,1924,0.0
+1392,New Foundland,1926,0.0
+1393,New Foundland,1928,0.0
+1394,New Foundland,1930,0.0
+1395,New Foundland,1932,0.0
+1396,New Foundland,1934,0.0
+1397,New Foundland,1936,0.0
+1398,New Foundland,1938,0.0
+1399,New Foundland,1940,0.0
 1400,New Zealand,1878,0.0
 1401,New Zealand,1880,0.0
 1402,New Zealand,1882,0.0
@@ -1611,7 +1611,7 @@
 1609,Porto Rico,1912,0.0
 1610,Porto Rico,1914,0.0
 1611,Porto Rico,1916,0.0
-1612,Porto Rico,1918,0.0
+1612,Porto Rico,1918,1.0
 1613,Porto Rico,1920,0.0
 1614,Porto Rico,1922,0.0
 1615,Porto Rico,1924,1.0
@@ -1707,34 +1707,34 @@
 1705,Prussia,1936,0.0
 1706,Prussia,1938,0.0
 1707,Prussia,1940,0.0
-1708,Romania,1878,0.0
-1709,Romania,1880,0.0
-1710,Romania,1882,0.0
-1711,Romania,1884,0.0
-1712,Romania,1886,0.0
-1713,Romania,1888,0.0
-1714,Romania,1890,0.0
-1715,Romania,1892,0.0
-1716,Romania,1896,0.0
-1717,Romania,1900,0.0
-1718,Romania,1902,0.0
-1719,Romania,1906,0.0
-1720,Romania,1908,0.0
-1721,Romania,1912,1.0
-1722,Romania,1914,0.0
-1723,Romania,1916,0.0
-1724,Romania,1918,0.0
-1725,Romania,1920,0.0
-1726,Romania,1922,1.0
-1727,Romania,1924,0.0
-1728,Romania,1926,0.0
-1729,Romania,1928,0.0
-1730,Romania,1930,1.0
-1731,Romania,1932,0.0
-1732,Romania,1934,0.0
-1733,Romania,1936,0.0
-1734,Romania,1938,0.0
-1735,Romania,1940,0.0
+1708,Roumania,1878,0.0
+1709,Roumania,1880,0.0
+1710,Roumania,1882,0.0
+1711,Roumania,1884,0.0
+1712,Roumania,1886,0.0
+1713,Roumania,1888,0.0
+1714,Roumania,1890,0.0
+1715,Roumania,1892,0.0
+1716,Roumania,1896,0.0
+1717,Roumania,1900,0.0
+1718,Roumania,1902,0.0
+1719,Roumania,1906,0.0
+1720,Roumania,1908,0.0
+1721,Roumania,1912,1.0
+1722,Roumania,1914,0.0
+1723,Roumania,1916,0.0
+1724,Roumania,1918,0.0
+1725,Roumania,1920,0.0
+1726,Roumania,1922,1.0
+1727,Roumania,1924,0.0
+1728,Roumania,1926,0.0
+1729,Roumania,1928,0.0
+1730,Roumania,1930,1.0
+1731,Roumania,1932,0.0
+1732,Roumania,1934,0.0
+1733,Roumania,1936,0.0
+1734,Roumania,1938,0.0
+1735,Roumania,1940,0.0
 1736,Russia,1878,0.0
 1737,Russia,1880,1.0
 1738,Russia,1882,1.0
