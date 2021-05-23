@@ -18,6 +18,7 @@ def load_all_years(save=False):
     df_all = pd.concat([df_1, df_2])
     df_all['max_term'] = df_all['term'].apply(lambda x: max_apply(x))
     df_all['min_term'] = df_all['term'].apply(lambda x: x[0])
+    df_all['avg_term'] = df_all['term'].apply(lambda x: avg_term(x))
     df_all['violent'] = df_all['crime'].apply(lambda x: violent_apply(x))
     df_all['violent_sexual'] = df_all['crime'].apply(lambda x: violent_sexual_apply(x))
     df_all['moral'] = df_all['crime'].apply(lambda x: moral_apply(x))
@@ -42,6 +43,20 @@ def load_all_years(save=False):
         df_all.to_csv('../../data/all_data.csv')
     else:
         return df_all        
+
+
+def avg_term(x):
+    if 'Life' in x or 'Death' in x or '?' in x:
+        return None
+    else:
+        if len(x) == 2:
+            return np.mean(x) 
+        else:
+            return x[0]
+    
+        
+
+
 
 def all_manslaughter(x):
     for elem in x:
@@ -279,5 +294,14 @@ if __name__=="__main__":
     # print(df.info())
     # cc = list(crime_counts().index)
     # print(cc)
-    print(df.info())
+    # print(df.info())
+    # print(df.iloc[:,0:10].tail())
+    # print(df.iloc[:, 10:20].tail())
+    # print(df.iloc[:, 20:].tail())
+    # result = set()
+    # for lst in df['term']:
+    #     for term in lst:
+    #         if isinstance(term, str):
+    #             result.add(term)
+    # print(result)
     load_all_years(True)
