@@ -151,7 +151,7 @@ def state_sizes_multiple_ranges(year_ranges):
     return result 
 
 
-def create_grouped_df(groups=4, cutoff=500, save = False, filename = 'Default'):
+def create_grouped_df(groups=4, cutoff=500, cutoff_column = False,  save = False, filename = 'Default'):
     stop = groups
     df = load_location_data_and_clean()
     years = list(df['Year'].unique())
@@ -165,7 +165,10 @@ def create_grouped_df(groups=4, cutoff=500, save = False, filename = 'Default'):
         start += groups
         stop += groups
     result = state_sizes_multiple_ranges(years_lst)
-    result['Prisoners'] =  result['Prisoners'].apply(lambda x: cutoff if x >= cutoff else x)
+    if cutoff_column:
+        result['Prisoners w/ Cutoff'] =  result['Prisoners'].apply(lambda x: cutoff if x >= cutoff else x)
+    else:
+        result['Prisoners'] =  result['Prisoners'].apply(lambda x: cutoff if x >= cutoff else x) 
     if save:
         result.to_csv(f'../../data/{filename}.csv')
     else:
@@ -182,4 +185,4 @@ if __name__=="__main__":
 
     # df = create_grouped_df(4, 5000)
 
-    create_grouped_df(7, 300, True, '7_year_groupings_300_cutoff')
+    create_grouped_df(4, 200, True, '4_year_groupings_no_cutoff')
