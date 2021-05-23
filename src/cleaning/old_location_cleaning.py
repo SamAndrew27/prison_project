@@ -3,10 +3,10 @@ import pandas as pd
 
 def load_location_data_and_clean(states = True, save=False):
     if states:
-        df = pd.read_csv('../../data/state_data.csv')
+        df = pd.read_csv('../../data/original_data/state_data.csv')
         save_local = '../../data/state_data_cleaned.csv'
     else: 
-        df = pd.read_csv('../../data/foreign_data.csv')
+        df = pd.read_csv('../../data/original_data/foreign_data.csv')
         save_local = '../../data/foreign_data_cleaned.csv'
 
 
@@ -20,7 +20,7 @@ def load_location_data_and_clean(states = True, save=False):
 
     index = 0
     for idx, row in df.iterrows():
-        location = row['location']
+        location = row['location'].strip()
         for yr in yrs:
             total = row[yr]
             if total == None:
@@ -28,9 +28,13 @@ def load_location_data_and_clean(states = True, save=False):
             result.iloc[index] = [location, yr, total]
             index += 1
     result = result.fillna(0)
+    result['Prisoners'] = result['Prisoners'].astype(int)
+    result['Year'] = result['Year'].astype(int)
+
 
     if states:
         result = result.rename(columns={'Location': 'State'})
+        result['Region'] = result['State'].apply(lambda x: regional_us_apply(x))
     else:
         result = result.rename(columns={'Location': 'Country'})
 
@@ -41,7 +45,7 @@ def load_location_data_and_clean(states = True, save=False):
 
 
 def modernized_foreign_data(save=False): # see how this works in Tableau then considering changing country names more
-    df = pd.read_csv('../../data/foreign_data_modernized.csv')
+    df = pd.read_csv('../../data/original_data/foreign_data_modernized.csv')
 
     df = df.rename(columns={'Unnamed: 0':'location'})
     year_df = df.iloc[:, 1:]
@@ -61,13 +65,53 @@ def modernized_foreign_data(save=False): # see how this works in Tableau then co
             result.iloc[index] = [location, yr, total]
             index += 1
     result = result.fillna(0)
+    result = result['Prisoners'].astype(int)
+    # result = result['Year'].astype(int)
     if save:
         result.to_csv('../../data/foreign_data_modernized_cleaned.csv')
     else:
         return result
 
+
+def regional_us_apply(x):
+    if x in  [ 'Connecticut', 'Maine', 'Massachusetts', 'New Hampshire', 'Rhode Island' , 'Vermont']:
+        return 'New England'
+    elif x in ['Delaware', 'D.C.', 'Maryland', 'New Jersey', 'New York' , 'Pennsylvania']:
+        return 'Mideast'
+    elif x in ['Illinois', 'Indiana', 'Michigan', 'Ohio', 'Wisconsin']:
+        return 'Great Lakes'
+    elif x in ['Iowa', 'Kansas', 'Minnesota', 'Missouri', 'Nebraska', 'North Dakota', 'South Dakota']:
+        return 'Plains'
+    elif x in ['Alabama','Arkansas','Florida','Georgia','Kentucky','Louisiana','Mississippi', 'North Carolina', 'South Carolina', 'Tennessee', 'Virginia','West Virginia']:
+        return 'Southeast'
+    elif x in ['Arizona', 'New Mexico', 'Oklahoma', 'Texas']:
+        return 'Southwest'
+    elif x in ['Colorado', 'Idaho', 'Montana', 'Utah', 'Wyoming']:
+        return 'Rocky Mountain'
+    elif x in ['California', 'Nevada', 'Oregon', 'Washington']:
+        return 'Far West'
+
+def regional_df(save=False): # do this again with foreign data as well once we see how they work in Tableau 
+    df = load_location_data_and_clean()
+    regions = df['Region'].unique()
+    years = df['Year'].unique()
+    result_idx = list(range(len(years) * len(regions)))
+    result = pd.DataFrame(columns=['Region', 'Year', 'Prisoners'], index=result_idx)
+
+    idx = 0
+    for region in regions:
+        sub_df = df[df['Region'] == region]
+        for year in years:
+            year_df = sub_df[sub_df['Year'] == year]
+            total = year_df['Prisoners'].sum()
+            result.iloc[idx] = [region, year, total]
+            idx += 1
+    if save:
+        result.to_csv('../../data/regional_data.csv')
+    else:
+        return result 
+
+
 if __name__=="__main__":
-    # df = modernized_foreign_data()
-    # print(df.info())
-    # print(df.head())
-    modernized_foreign_data(True)
+    # r_df = regional_df()
+    regional_df(True)

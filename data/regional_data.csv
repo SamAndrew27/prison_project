@@ -1,0 +1,225 @@
+,Region,Year,Prisoners
+0,Southeast,1878,10
+1,Southeast,1880,20
+2,Southeast,1882,25
+3,Southeast,1884,39
+4,Southeast,1886,37
+5,Southeast,1888,36
+6,Southeast,1890,45
+7,Southeast,1892,55
+8,Southeast,1896,45
+9,Southeast,1900,43
+10,Southeast,1902,80
+11,Southeast,1906,65
+12,Southeast,1908,81
+13,Southeast,1912,67
+14,Southeast,1914,86
+15,Southeast,1916,67
+16,Southeast,1918,50
+17,Southeast,1920,46
+18,Southeast,1922,76
+19,Southeast,1924,86
+20,Southeast,1926,96
+21,Southeast,1928,77
+22,Southeast,1930,79
+23,Southeast,1932,130
+24,Southeast,1934,102
+25,Southeast,1936,98
+26,Southeast,1938,102
+27,Southeast,1940,106
+28,Southwest,1878,4
+29,Southwest,1880,6
+30,Southwest,1882,12
+31,Southwest,1884,17
+32,Southwest,1886,13
+33,Southwest,1888,9
+34,Southwest,1890,30
+35,Southwest,1892,16
+36,Southwest,1896,26
+37,Southwest,1900,15
+38,Southwest,1902,21
+39,Southwest,1906,30
+40,Southwest,1908,34
+41,Southwest,1912,53
+42,Southwest,1914,56
+43,Southwest,1916,61
+44,Southwest,1918,37
+45,Southwest,1920,52
+46,Southwest,1922,99
+47,Southwest,1924,99
+48,Southwest,1926,124
+49,Southwest,1928,151
+50,Southwest,1930,142
+51,Southwest,1932,177
+52,Southwest,1934,214
+53,Southwest,1936,184
+54,Southwest,1938,239
+55,Southwest,1940,220
+56,Far West,1878,1
+57,Far West,1880,1
+58,Far West,1882,5
+59,Far West,1884,3
+60,Far West,1886,3
+61,Far West,1888,6
+62,Far West,1890,4
+63,Far West,1892,16
+64,Far West,1896,10
+65,Far West,1900,15
+66,Far West,1902,11
+67,Far West,1906,6
+68,Far West,1908,12
+69,Far West,1912,17
+70,Far West,1914,17
+71,Far West,1916,22
+72,Far West,1918,5
+73,Far West,1920,13
+74,Far West,1922,17
+75,Far West,1924,10
+76,Far West,1926,19
+77,Far West,1928,21
+78,Far West,1930,22
+79,Far West,1932,20
+80,Far West,1934,23
+81,Far West,1936,29
+82,Far West,1938,21
+83,Far West,1940,13
+84,Rocky Mountain,1878,0
+85,Rocky Mountain,1880,0
+86,Rocky Mountain,1882,4
+87,Rocky Mountain,1884,10
+88,Rocky Mountain,1886,4
+89,Rocky Mountain,1888,9
+90,Rocky Mountain,1890,15
+91,Rocky Mountain,1892,23
+92,Rocky Mountain,1896,32
+93,Rocky Mountain,1900,16
+94,Rocky Mountain,1902,44
+95,Rocky Mountain,1906,32
+96,Rocky Mountain,1908,55
+97,Rocky Mountain,1912,89
+98,Rocky Mountain,1914,75
+99,Rocky Mountain,1916,100
+100,Rocky Mountain,1918,75
+101,Rocky Mountain,1920,76
+102,Rocky Mountain,1922,95
+103,Rocky Mountain,1924,113
+104,Rocky Mountain,1926,159
+105,Rocky Mountain,1928,177
+106,Rocky Mountain,1930,205
+107,Rocky Mountain,1932,270
+108,Rocky Mountain,1934,302
+109,Rocky Mountain,1936,314
+110,Rocky Mountain,1938,320
+111,Rocky Mountain,1940,298
+112,New England,1878,6
+113,New England,1880,13
+114,New England,1882,26
+115,New England,1884,19
+116,New England,1886,12
+117,New England,1888,18
+118,New England,1890,26
+119,New England,1892,29
+120,New England,1896,24
+121,New England,1900,24
+122,New England,1902,24
+123,New England,1906,17
+124,New England,1908,24
+125,New England,1912,13
+126,New England,1914,25
+127,New England,1916,10
+128,New England,1918,11
+129,New England,1920,9
+130,New England,1922,10
+131,New England,1924,14
+132,New England,1926,16
+133,New England,1928,13
+134,New England,1930,17
+135,New England,1932,23
+136,New England,1934,16
+137,New England,1936,10
+138,New England,1938,17
+139,New England,1940,11
+140,Mideast,1878,33
+141,Mideast,1880,66
+142,Mideast,1882,82
+143,Mideast,1884,75
+144,Mideast,1886,75
+145,Mideast,1888,98
+146,Mideast,1890,116
+147,Mideast,1892,151
+148,Mideast,1896,93
+149,Mideast,1900,48
+150,Mideast,1902,71
+151,Mideast,1906,56
+152,Mideast,1908,61
+153,Mideast,1912,80
+154,Mideast,1914,82
+155,Mideast,1916,67
+156,Mideast,1918,35
+157,Mideast,1920,33
+158,Mideast,1922,49
+159,Mideast,1924,61
+160,Mideast,1926,61
+161,Mideast,1928,61
+162,Mideast,1930,54
+163,Mideast,1932,62
+164,Mideast,1934,68
+165,Mideast,1936,44
+166,Mideast,1938,56
+167,Mideast,1940,50
+168,Great Lakes,1878,19
+169,Great Lakes,1880,30
+170,Great Lakes,1882,62
+171,Great Lakes,1884,76
+172,Great Lakes,1886,57
+173,Great Lakes,1888,89
+174,Great Lakes,1890,119
+175,Great Lakes,1892,159
+176,Great Lakes,1896,100
+177,Great Lakes,1900,73
+178,Great Lakes,1902,100
+179,Great Lakes,1906,98
+180,Great Lakes,1908,98
+181,Great Lakes,1912,97
+182,Great Lakes,1914,108
+183,Great Lakes,1916,107
+184,Great Lakes,1918,63
+185,Great Lakes,1920,68
+186,Great Lakes,1922,104
+187,Great Lakes,1924,98
+188,Great Lakes,1926,96
+189,Great Lakes,1928,132
+190,Great Lakes,1930,131
+191,Great Lakes,1932,146
+192,Great Lakes,1934,132
+193,Great Lakes,1936,114
+194,Great Lakes,1938,124
+195,Great Lakes,1940,107
+196,Plains,1878,23
+197,Plains,1880,26
+198,Plains,1882,43
+199,Plains,1884,50
+200,Plains,1886,27
+201,Plains,1888,37
+202,Plains,1890,82
+203,Plains,1892,110
+204,Plains,1896,74
+205,Plains,1900,68
+206,Plains,1902,104
+207,Plains,1906,111
+208,Plains,1908,106
+209,Plains,1912,116
+210,Plains,1914,139
+211,Plains,1916,134
+212,Plains,1918,98
+213,Plains,1920,124
+214,Plains,1922,171
+215,Plains,1924,148
+216,Plains,1926,235
+217,Plains,1928,253
+218,Plains,1930,254
+219,Plains,1932,319
+220,Plains,1934,265
+221,Plains,1936,259
+222,Plains,1938,326
+223,Plains,1940,296
