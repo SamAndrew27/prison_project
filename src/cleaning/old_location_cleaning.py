@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt 
+import numpy as np 
 import pandas as pd 
 
 
@@ -112,6 +114,72 @@ def regional_df(save=False): # do this again with foreign data as well once we s
         return result 
 
 
+def state_sizes(years = [1878]):
+    df = load_location_data_and_clean()
+    yr1 = df[df.Year == years[0]] # probably better to just use an array of 0s and do no assignment or popping prior
+    years.pop(0)
+    result = pd.DataFrame(data=yr1['Prisoners'].values, index = list(df['State'].unique()))
+    # result = {}
+    # states = list(df['State'].unique())
+
+    for year in years:
+        yr_df = df[df['Year'] == year]
+        temp = pd.DataFrame(data=yr_df['Prisoners'].values, index = list(df['State'].unique()))
+        result = result + temp
+    return result 
+
+
+def state_sizes_multiple_ranges(year_ranges):
+    # result = pd.DataFrame(columns = ['Year Range', 'State', 'Prisoners'])
+    index = np.arange(0,49)
+    for year_range in year_ranges:
+        low = min(year_range)
+        high = max(year_range)
+        range_result = state_sizes(year_range)
+        year_strings = [f'{low}-{high}'] * len(range_result.index)
+        prisoner_totals = []
+        for lst in range_result.values:
+            for num in lst:
+                prisoner_totals.append(num)
+    
+        if index[0] == 0:
+            result = pd.DataFrame({'Year Range': year_strings, 'State': range_result.index, 'Prisoners':prisoner_totals}, index = index)
+        else:
+            result = pd.concat([result, pd.DataFrame({'Year Range': year_strings, 'State': range_result.index, 'Prisoners':prisoner_totals})])
+        index += 49
+
+    return result 
+
+
+def create_grouped_df(groups=4, cutoff=500, save = False, filename = 'Default'):
+    stop = groups
+    df = load_location_data_and_clean()
+    years = list(df['Year'].unique())
+    iterations = int(len(years) / groups)
+    indexes = np.arange(0, groups)
+    start = 0
+    years_lst = []
+    for num in range(iterations):
+        sub_year_lst = years[start:stop]
+        years_lst.append(sub_year_lst)
+        start += groups
+        stop += groups
+    result = state_sizes_multiple_ranges(years_lst)
+    result['Prisoners'] =  result['Prisoners'].apply(lambda x: cutoff if x >= cutoff else x)
+    if save:
+        result.to_csv(f'../../data/{filename}.csv')
+    else:
+        return result 
+
+
+    
+
+
+
 if __name__=="__main__":
-    # r_df = regional_df()
-    regional_df(True)
+
+
+
+    # df = create_grouped_df(4, 5000)
+
+    create_grouped_df(7, 300, True, '7_year_groupings_300_cutoff')

@@ -1,0 +1,197 @@
+,Year Range,State,Prisoners
+49,1878-1890,Alabama,4
+50,1878-1890,Arizona,3
+51,1878-1890,Arkansas,11
+52,1878-1890,California,20
+53,1878-1890,Colorado,33
+54,1878-1890,Connecticut,18
+55,1878-1890,D.C.,18
+56,1878-1890,Delaware,2
+57,1878-1890,Florida,2
+58,1878-1890,Georgia,4
+59,1878-1890,Idaho,1
+60,1878-1890,Illinois,145
+61,1878-1890,Indiana,59
+62,1878-1890,Iowa,68
+63,1878-1890,Kansas,28
+64,1878-1890,Kentucky,71
+65,1878-1890,Louisiana,17
+66,1878-1890,Maine,12
+67,1878-1890,Maryland,21
+68,1878-1890,Massachusetts,58
+69,1878-1890,Michigan,49
+70,1878-1890,Minnesota,11
+71,1878-1890,Mississippi,14
+72,1878-1890,Missouri,164
+73,1878-1890,Montana,1
+74,1878-1890,Nebraska,17
+75,1878-1890,Nevada,1
+76,1878-1890,New Hampshire,4
+77,1878-1890,New Jersey,22
+78,1878-1890,New Mexico,41
+79,1878-1890,New York,200
+80,1878-1890,North Carolina,10
+81,1878-1890,North Dakota,0
+82,1878-1890,Ohio,144
+83,1878-1890,Oklahoma,0
+84,1878-1890,Oregon,2
+85,1878-1890,Pennsylvania,171
+86,1878-1890,Rhode Island,14
+87,1878-1890,South Carolina,7
+88,1878-1890,South Dakota,0
+89,1878-1890,Tennessee,30
+90,1878-1890,Texas,47
+91,1878-1890,Utah,4
+92,1878-1890,Vermont,14
+93,1878-1890,Virginia,33
+94,1878-1890,Washington,0
+95,1878-1890,West Virginia,9
+96,1878-1890,Wisconsin,55
+97,1878-1890,Wyoming,3
+0,1892-1912,Alabama,38
+1,1892-1912,Arizona,11
+2,1892-1912,Arkansas,17
+3,1892-1912,California,72
+4,1892-1912,Colorado,200
+5,1892-1912,Connecticut,24
+6,1892-1912,D.C.,14
+7,1892-1912,Delaware,2
+8,1892-1912,Florida,3
+9,1892-1912,Georgia,29
+10,1892-1912,Idaho,1
+11,1892-1912,Illinois,200
+12,1892-1912,Indiana,80
+13,1892-1912,Iowa,165
+14,1892-1912,Kansas,137
+15,1892-1912,Kentucky,116
+16,1892-1912,Louisiana,36
+17,1892-1912,Maine,25
+18,1892-1912,Maryland,23
+19,1892-1912,Massachusetts,82
+20,1892-1912,Michigan,68
+21,1892-1912,Minnesota,32
+22,1892-1912,Mississippi,26
+23,1892-1912,Missouri,200
+24,1892-1912,Montana,8
+25,1892-1912,Nebraska,62
+26,1892-1912,Nevada,2
+27,1892-1912,New Hampshire,5
+28,1892-1912,New Jersey,33
+29,1892-1912,New Mexico,78
+30,1892-1912,New York,200
+31,1892-1912,North Carolina,18
+32,1892-1912,North Dakota,0
+33,1892-1912,Ohio,193
+34,1892-1912,Oklahoma,10
+35,1892-1912,Oregon,8
+36,1892-1912,Pennsylvania,200
+37,1892-1912,Rhode Island,5
+38,1892-1912,South Carolina,4
+39,1892-1912,South Dakota,7
+40,1892-1912,Tennessee,80
+41,1892-1912,Texas,96
+42,1892-1912,Utah,7
+43,1892-1912,Vermont,14
+44,1892-1912,Virginia,44
+45,1892-1912,Washington,5
+46,1892-1912,West Virginia,25
+47,1892-1912,Wisconsin,73
+48,1892-1912,Wyoming,4
+0,1914-1926,Alabama,34
+1,1914-1926,Arizona,24
+2,1914-1926,Arkansas,59
+3,1914-1926,California,62
+4,1914-1926,Colorado,200
+5,1914-1926,Connecticut,13
+6,1914-1926,D.C.,11
+7,1914-1926,Delaware,2
+8,1914-1926,Florida,3
+9,1914-1926,Georgia,41
+10,1914-1926,Idaho,5
+11,1914-1926,Illinois,200
+12,1914-1926,Indiana,94
+13,1914-1926,Iowa,200
+14,1914-1926,Kansas,200
+15,1914-1926,Kentucky,111
+16,1914-1926,Louisiana,51
+17,1914-1926,Maine,5
+18,1914-1926,Maryland,24
+19,1914-1926,Massachusetts,55
+20,1914-1926,Michigan,95
+21,1914-1926,Minnesota,35
+22,1914-1926,Mississippi,22
+23,1914-1926,Missouri,200
+24,1914-1926,Montana,22
+25,1914-1926,Nebraska,128
+26,1914-1926,Nevada,5
+27,1914-1926,New Hampshire,6
+28,1914-1926,New Jersey,27
+29,1914-1926,New Mexico,188
+30,1914-1926,New York,180
+31,1914-1926,North Carolina,26
+32,1914-1926,North Dakota,6
+33,1914-1926,Ohio,140
+34,1914-1926,Oklahoma,96
+35,1914-1926,Oregon,19
+36,1914-1926,Pennsylvania,144
+37,1914-1926,Rhode Island,6
+38,1914-1926,South Carolina,6
+39,1914-1926,South Dakota,15
+40,1914-1926,Tennessee,80
+41,1914-1926,Texas,200
+42,1914-1926,Utah,21
+43,1914-1926,Vermont,10
+44,1914-1926,Virginia,46
+45,1914-1926,Washington,17
+46,1914-1926,West Virginia,28
+47,1914-1926,Wisconsin,52
+48,1914-1926,Wyoming,30
+0,1928-1940,Alabama,47
+1,1928-1940,Arizona,41
+2,1928-1940,Arkansas,116
+3,1928-1940,California,96
+4,1928-1940,Colorado,200
+5,1928-1940,Connecticut,18
+6,1928-1940,D.C.,4
+7,1928-1940,Delaware,3
+8,1928-1940,Florida,18
+9,1928-1940,Georgia,44
+10,1928-1940,Idaho,25
+11,1928-1940,Illinois,200
+12,1928-1940,Indiana,139
+13,1928-1940,Iowa,200
+14,1928-1940,Kansas,200
+15,1928-1940,Kentucky,139
+16,1928-1940,Louisiana,45
+17,1928-1940,Maine,18
+18,1928-1940,Maryland,17
+19,1928-1940,Massachusetts,52
+20,1928-1940,Michigan,110
+21,1928-1940,Minnesota,71
+22,1928-1940,Mississippi,41
+23,1928-1940,Missouri,200
+24,1928-1940,Montana,33
+25,1928-1940,Nebraska,200
+26,1928-1940,Nevada,7
+27,1928-1940,New Hampshire,1
+28,1928-1940,New Jersey,19
+29,1928-1940,New Mexico,200
+30,1928-1940,New York,182
+31,1928-1940,North Carolina,43
+32,1928-1940,North Dakota,16
+33,1928-1940,Ohio,177
+34,1928-1940,Oklahoma,200
+35,1928-1940,Oregon,18
+36,1928-1940,Pennsylvania,170
+37,1928-1940,Rhode Island,10
+38,1928-1940,South Carolina,12
+39,1928-1940,South Dakota,40
+40,1928-1940,Tennessee,97
+41,1928-1940,Texas,200
+42,1928-1940,Utah,42
+43,1928-1940,Vermont,8
+44,1928-1940,Virginia,47
+45,1928-1940,Washington,28
+46,1928-1940,West Virginia,45
+47,1928-1940,Wisconsin,71
+48,1928-1940,Wyoming,54
