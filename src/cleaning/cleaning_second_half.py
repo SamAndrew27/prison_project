@@ -24,10 +24,10 @@ def load_data_or_legend(data=True):
         DataFrame: Legend or Data
     """    
     if data:
-        df = pd.read_csv('../../data/1890-1900_DATA.csv')
+        df = pd.read_csv('../../data/original_data/1890-1900_DATA.csv')
         return df
     else:
-        legend = pd.read_csv('../../data/1890-1900_LEGEND.csv')
+        legend = pd.read_csv('../../data/original_data/1890-1900_LEGEND.csv')
         return legend
 
 

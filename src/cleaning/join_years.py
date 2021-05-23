@@ -277,6 +277,7 @@ if __name__=="__main__":
     # print(df.race.unique())
     # print(df.nativity.unique())
     # print(df.info())
-    cc = list(crime_counts().index)
-    print(cc)
-
+    # cc = list(crime_counts().index)
+    # print(cc)
+    print(df.info())
+    load_all_years(True)
