@@ -60,50 +60,50 @@ def avg_term(x):
 
 def all_manslaughter(x):
     for elem in x:
-        if x == 'Manslaughter' or x == 'Voluntary Manslaughter':
+        if elem == 'Manslaughter' or elem == 'Voluntary Manslaughter':
             return 1
         return 0 
 
 
 def larceny(x):
     for elem in x:
-        if x == 'Larceny':
+        if elem == 'Larceny':
             return 1
         return 0
 
 
 def burglary(x):
     for elem in x:
-        if x == 'Burglary':
+        if elem == 'Burglary':
             return 1
         return 0
 
 def murder(x):
     for elem in x:
-        if x == 'Murder':
+        if elem == 'Murder':
             return 1
         return 0
 
 def robbery(x):
     for elem in x:
-        if x == 'Robbery':
+        if elem == 'Robbery':
             return 1
         return 0
 
 def forgery(x):
     for elem in x:
-        if x == 'Forgery':
+        if elem == 'Forgery':
             return 1
         return 0
 
 def assault(x):
     for elem in x:
-        if 'Assault' in x:
+        if 'Assault' in elem:
             return 1
         return 0 
 def all_larceny(x):
     for elem in x:
-        if 'Larceny' in x:
+        if 'Larceny' in elem:
             return 1
         return 0 
 
@@ -287,7 +287,7 @@ def crime_counts():
     return result 
 
 if __name__=="__main__":
-    df = load_all_years()
+    df = load_all_years(True)
     # df = df[df['nativity'] == 'Black']
     # print(df.race.unique())
     # print(df.nativity.unique())
@@ -304,4 +304,5 @@ if __name__=="__main__":
     #         if isinstance(term, str):
     #             result.add(term)
     # print(result)
-    load_all_years(True)
+    print(df['all_larceny'].value_counts())
+    # load_all_years(True)
