@@ -1,1765 +1,1429 @@
 ,Location,Year,Prisoners
-0,Alaska,1878,0.0
-1,Alaska,1880,0.0
-2,Alaska,1882,0.0
-3,Alaska,1884,0.0
-4,Alaska,1886,0.0
-5,Alaska,1888,0.0
-6,Alaska,1890,0.0
-7,Alaska,1892,0.0
-8,Alaska,1896,0.0
-9,Alaska,1900,0.0
-10,Alaska,1902,0.0
-11,Alaska,1906,0.0
-12,Alaska,1908,0.0
-13,Alaska,1912,0.0
-14,Alaska,1914,0.0
-15,Alaska,1916,1.0
-16,Alaska,1918,0.0
-17,Alaska,1920,0.0
-18,Alaska,1922,1.0
-19,Alaska,1924,0.0
-20,Alaska,1926,0.0
-21,Alaska,1928,0.0
-22,Alaska,1930,0.0
-23,Alaska,1932,0.0
-24,Alaska,1934,0.0
-25,Alaska,1936,0.0
-26,Alaska,1938,0.0
-27,Alaska,1940,0.0
-28,Albania,1878,0.0
-29,Albania,1880,0.0
-30,Albania,1882,0.0
-31,Albania,1884,0.0
-32,Albania,1886,0.0
-33,Albania,1888,0.0
-34,Albania,1890,0.0
-35,Albania,1892,0.0
-36,Albania,1896,0.0
-37,Albania,1900,0.0
-38,Albania,1902,0.0
-39,Albania,1906,0.0
-40,Albania,1908,0.0
-41,Albania,1912,0.0
-42,Albania,1914,0.0
-43,Albania,1916,0.0
-44,Albania,1918,0.0
-45,Albania,1920,0.0
-46,Albania,1922,0.0
-47,Albania,1924,0.0
-48,Albania,1926,0.0
-49,Albania,1928,0.0
-50,Albania,1930,0.0
-51,Albania,1932,1.0
-52,Albania,1934,0.0
-53,Albania,1936,0.0
-54,Albania,1938,0.0
-55,Albania,1940,0.0
-56,Africa,1878,0.0
-57,Africa,1880,0.0
-58,Africa,1882,0.0
-59,Africa,1884,0.0
-60,Africa,1886,0.0
-61,Africa,1888,0.0
-62,Africa,1890,0.0
-63,Africa,1892,0.0
-64,Africa,1896,0.0
-65,Africa,1900,0.0
-66,Africa,1902,0.0
-67,Africa,1906,0.0
-68,Africa,1908,0.0
-69,Africa,1912,0.0
-70,Africa,1914,0.0
-71,Africa,1916,0.0
-72,Africa,1918,0.0
-73,Africa,1920,0.0
-74,Africa,1922,0.0
-75,Africa,1924,0.0
-76,Africa,1926,0.0
-77,Africa,1928,0.0
-78,Africa,1930,0.0
-79,Africa,1932,0.0
-80,Africa,1934,0.0
-81,Africa,1936,0.0
-82,Africa,1938,1.0
-83,Africa,1940,0.0
-84,Argentina,1878,0.0
-85,Argentina,1880,0.0
-86,Argentina,1882,0.0
-87,Argentina,1884,0.0
-88,Argentina,1886,0.0
-89,Argentina,1888,0.0
-90,Argentina,1890,0.0
-91,Argentina,1892,0.0
-92,Argentina,1896,0.0
-93,Argentina,1900,0.0
-94,Argentina,1902,0.0
-95,Argentina,1906,0.0
-96,Argentina,1908,0.0
-97,Argentina,1912,0.0
-98,Argentina,1914,0.0
-99,Argentina,1916,0.0
-100,Argentina,1918,1.0
-101,Argentina,1920,0.0
-102,Argentina,1922,0.0
-103,Argentina,1924,1.0
-104,Argentina,1926,0.0
-105,Argentina,1928,0.0
-106,Argentina,1930,0.0
-107,Argentina,1932,0.0
-108,Argentina,1934,0.0
-109,Argentina,1936,0.0
-110,Argentina,1938,0.0
-111,Argentina,1940,0.0
-112,Australia,1878,0.0
-113,Australia,1880,0.0
-114,Australia,1882,1.0
-115,Australia,1884,0.0
-116,Australia,1886,1.0
-117,Australia,1888,0.0
-118,Australia,1890,1.0
-119,Australia,1892,1.0
-120,Australia,1896,1.0
-121,Australia,1900,1.0
-122,Australia,1902,1.0
-123,Australia,1906,3.0
-124,Australia,1908,0.0
-125,Australia,1912,0.0
-126,Australia,1914,3.0
-127,Australia,1916,1.0
-128,Australia,1918,0.0
-129,Australia,1920,0.0
-130,Australia,1922,15.0
-131,Australia,1924,0.0
-132,Australia,1926,1.0
-133,Australia,1928,0.0
-134,Australia,1930,0.0
-135,Australia,1932,0.0
-136,Australia,1934,0.0
-137,Australia,1936,0.0
-138,Australia,1938,0.0
-139,Australia,1940,0.0
-140,Austria,1878,1.0
-141,Austria,1880,1.0
-142,Austria,1882,0.0
-143,Austria,1884,2.0
-144,Austria,1886,0.0
-145,Austria,1888,5.0
-146,Austria,1890,1.0
-147,Austria,1892,3.0
-148,Austria,1896,4.0
-149,Austria,1900,3.0
-150,Austria,1902,12.0
-151,Austria,1906,5.0
-152,Austria,1908,14.0
-153,Austria,1912,13.0
-154,Austria,1914,11.0
-155,Austria,1916,16.0
-156,Austria,1918,8.0
-157,Austria,1920,13.0
-158,Austria,1922,2.0
-159,Austria,1924,15.0
-160,Austria,1926,16.0
-161,Austria,1928,2.0
-162,Austria,1930,7.0
-163,Austria,1932,7.0
-164,Austria,1934,2.0
-165,Austria,1936,2.0
-166,Austria,1938,1.0
-167,Austria,1940,2.0
-168,Belgium,1878,0.0
-169,Belgium,1880,0.0
-170,Belgium,1882,0.0
-171,Belgium,1884,0.0
-172,Belgium,1886,1.0
-173,Belgium,1888,0.0
-174,Belgium,1890,0.0
-175,Belgium,1892,3.0
-176,Belgium,1896,2.0
-177,Belgium,1900,0.0
-178,Belgium,1902,0.0
-179,Belgium,1906,0.0
-180,Belgium,1908,0.0
-181,Belgium,1912,0.0
-182,Belgium,1914,0.0
-183,Belgium,1916,0.0
-184,Belgium,1918,0.0
-185,Belgium,1920,0.0
-186,Belgium,1922,0.0
-187,Belgium,1924,1.0
-188,Belgium,1926,2.0
-189,Belgium,1928,3.0
-190,Belgium,1930,1.0
-191,Belgium,1932,0.0
-192,Belgium,1934,0.0
-193,Belgium,1936,1.0
-194,Belgium,1938,0.0
-195,Belgium,1940,0.0
-196,Bermuda Islands,1878,0.0
-197,Bermuda Islands,1880,0.0
-198,Bermuda Islands,1882,0.0
-199,Bermuda Islands,1884,0.0
-200,Bermuda Islands,1886,0.0
-201,Bermuda Islands,1888,0.0
-202,Bermuda Islands,1890,0.0
-203,Bermuda Islands,1892,0.0
-204,Bermuda Islands,1896,0.0
-205,Bermuda Islands,1900,0.0
-206,Bermuda Islands,1902,0.0
-207,Bermuda Islands,1906,0.0
-208,Bermuda Islands,1908,0.0
-209,Bermuda Islands,1912,0.0
-210,Bermuda Islands,1914,0.0
-211,Bermuda Islands,1916,0.0
-212,Bermuda Islands,1918,0.0
-213,Bermuda Islands,1920,0.0
-214,Bermuda Islands,1922,0.0
-215,Bermuda Islands,1924,0.0
-216,Bermuda Islands,1926,0.0
-217,Bermuda Islands,1928,1.0
-218,Bermuda Islands,1930,0.0
-219,Bermuda Islands,1932,0.0
-220,Bermuda Islands,1934,0.0
-221,Bermuda Islands,1936,0.0
-222,Bermuda Islands,1938,0.0
-223,Bermuda Islands,1940,0.0
-224,Czech Republic,1878,0.0
-225,Czech Republic,1880,1.0
-226,Czech Republic,1882,0.0
-227,Czech Republic,1884,0.0
-228,Czech Republic,1886,0.0
-229,Czech Republic,1888,0.0
-230,Czech Republic,1890,0.0
-231,Czech Republic,1892,0.0
-232,Czech Republic,1896,0.0
-233,Czech Republic,1900,0.0
-234,Czech Republic,1902,0.0
-235,Czech Republic,1906,0.0
-236,Czech Republic,1908,0.0
-237,Czech Republic,1912,0.0
-238,Czech Republic,1914,1.0
-239,Czech Republic,1916,1.0
-240,Czech Republic,1918,0.0
-241,Czech Republic,1920,0.0
-242,Czech Republic,1922,1.0
-243,Czech Republic,1924,1.0
-244,Czech Republic,1926,0.0
-245,Czech Republic,1928,0.0
-246,Czech Republic,1930,0.0
-247,Czech Republic,1932,0.0
-248,Czech Republic,1934,0.0
-249,Czech Republic,1936,0.0
-250,Czech Republic,1938,0.0
-251,Czech Republic,1940,0.0
-252,Brazil,1878,0.0
-253,Brazil,1880,0.0
-254,Brazil,1882,0.0
-255,Brazil,1884,0.0
-256,Brazil,1886,0.0
-257,Brazil,1888,0.0
-258,Brazil,1890,0.0
-259,Brazil,1892,0.0
-260,Brazil,1896,0.0
-261,Brazil,1900,0.0
-262,Brazil,1902,0.0
-263,Brazil,1906,0.0
-264,Brazil,1908,0.0
-265,Brazil,1912,0.0
-266,Brazil,1914,0.0
-267,Brazil,1916,0.0
-268,Brazil,1918,0.0
-269,Brazil,1920,0.0
-270,Brazil,1922,0.0
-271,Brazil,1924,1.0
-272,Brazil,1926,0.0
-273,Brazil,1928,0.0
-274,Brazil,1930,0.0
-275,Brazil,1932,0.0
-276,Brazil,1934,1.0
-277,Brazil,1936,0.0
-278,Brazil,1938,0.0
-279,Brazil,1940,0.0
-280,British West Indies,1878,0.0
-281,British West Indies,1880,0.0
-282,British West Indies,1882,0.0
-283,British West Indies,1884,0.0
-284,British West Indies,1886,0.0
-285,British West Indies,1888,0.0
-286,British West Indies,1890,0.0
-287,British West Indies,1892,0.0
-288,British West Indies,1896,0.0
-289,British West Indies,1900,0.0
-290,British West Indies,1902,0.0
-291,British West Indies,1906,0.0
-292,British West Indies,1908,0.0
-293,British West Indies,1912,0.0
-294,British West Indies,1914,0.0
-295,British West Indies,1916,0.0
-296,British West Indies,1918,0.0
-297,British West Indies,1920,0.0
-298,British West Indies,1922,0.0
-299,British West Indies,1924,0.0
-300,British West Indies,1926,1.0
-301,British West Indies,1928,0.0
-302,British West Indies,1930,0.0
-303,British West Indies,1932,0.0
-304,British West Indies,1934,0.0
-305,British West Indies,1936,0.0
-306,British West Indies,1938,0.0
-307,British West Indies,1940,1.0
-308,Bulgaria,1878,0.0
-309,Bulgaria,1880,0.0
-310,Bulgaria,1882,0.0
-311,Bulgaria,1884,0.0
-312,Bulgaria,1886,0.0
-313,Bulgaria,1888,0.0
-314,Bulgaria,1890,0.0
-315,Bulgaria,1892,0.0
-316,Bulgaria,1896,0.0
-317,Bulgaria,1900,0.0
-318,Bulgaria,1902,0.0
-319,Bulgaria,1906,0.0
-320,Bulgaria,1908,1.0
-321,Bulgaria,1912,1.0
-322,Bulgaria,1914,0.0
-323,Bulgaria,1916,0.0
-324,Bulgaria,1918,2.0
-325,Bulgaria,1920,1.0
-326,Bulgaria,1922,3.0
-327,Bulgaria,1924,2.0
-328,Bulgaria,1926,4.0
-329,Bulgaria,1928,1.0
-330,Bulgaria,1930,0.0
-331,Bulgaria,1932,0.0
-332,Bulgaria,1934,0.0
-333,Bulgaria,1936,0.0
-334,Bulgaria,1938,1.0
-335,Bulgaria,1940,0.0
-336,Canada,1878,9.0
-337,Canada,1880,7.0
-338,Canada,1882,8.0
-339,Canada,1884,11.0
-340,Canada,1886,8.0
-341,Canada,1888,14.0
-342,Canada,1890,23.0
-343,Canada,1892,16.0
-344,Canada,1896,12.0
-345,Canada,1900,5.0
-346,Canada,1902,6.0
-347,Canada,1906,11.0
-348,Canada,1908,11.0
-349,Canada,1912,3.0
-350,Canada,1914,7.0
-351,Canada,1916,10.0
-352,Canada,1918,5.0
-353,Canada,1920,7.0
-354,Canada,1922,7.0
-355,Canada,1924,15.0
-356,Canada,1926,7.0
-357,Canada,1928,9.0
-358,Canada,1930,3.0
-359,Canada,1932,6.0
-360,Canada,1934,4.0
-361,Canada,1936,2.0
-362,Canada,1938,7.0
-363,Canada,1940,2.0
-364,Central America,1878,0.0
-365,Central America,1880,0.0
-366,Central America,1882,0.0
-367,Central America,1884,0.0
-368,Central America,1886,0.0
-369,Central America,1888,0.0
-370,Central America,1890,0.0
-371,Central America,1892,0.0
-372,Central America,1896,0.0
-373,Central America,1900,0.0
-374,Central America,1902,0.0
-375,Central America,1906,0.0
-376,Central America,1908,0.0
-377,Central America,1912,0.0
-378,Central America,1914,0.0
-379,Central America,1916,0.0
-380,Central America,1918,0.0
-381,Central America,1920,3.0
-382,Central America,1922,0.0
-383,Central America,1924,0.0
-384,Central America,1926,0.0
-385,Central America,1928,0.0
-386,Central America,1930,0.0
-387,Central America,1932,0.0
-388,Central America,1934,0.0
-389,Central America,1936,0.0
-390,Central America,1938,0.0
-391,Central America,1940,0.0
-392,Czecho-Slovakia,1878,0.0
-393,Czecho-Slovakia,1880,0.0
-394,Czecho-Slovakia,1882,0.0
-395,Czecho-Slovakia,1884,0.0
-396,Czecho-Slovakia,1886,0.0
-397,Czecho-Slovakia,1888,0.0
-398,Czecho-Slovakia,1890,0.0
-399,Czecho-Slovakia,1892,0.0
-400,Czecho-Slovakia,1896,0.0
-401,Czecho-Slovakia,1900,0.0
-402,Czecho-Slovakia,1902,0.0
-403,Czecho-Slovakia,1906,0.0
-404,Czecho-Slovakia,1908,0.0
-405,Czecho-Slovakia,1912,0.0
-406,Czecho-Slovakia,1914,0.0
-407,Czecho-Slovakia,1916,0.0
-408,Czecho-Slovakia,1918,0.0
-409,Czecho-Slovakia,1920,0.0
-410,Czecho-Slovakia,1922,0.0
-411,Czecho-Slovakia,1924,0.0
-412,Czecho-Slovakia,1926,0.0
-413,Czecho-Slovakia,1928,0.0
-414,Czecho-Slovakia,1930,1.0
-415,Czecho-Slovakia,1932,0.0
-416,Czecho-Slovakia,1934,0.0
-417,Czecho-Slovakia,1936,0.0
-418,Czecho-Slovakia,1938,0.0
-419,Czecho-Slovakia,1940,0.0
-420,China,1878,0.0
-421,China,1880,0.0
-422,China,1882,0.0
-423,China,1884,1.0
-424,China,1886,1.0
-425,China,1888,0.0
-426,China,1890,0.0
-427,China,1892,1.0
-428,China,1896,0.0
-429,China,1900,0.0
-430,China,1902,0.0
-431,China,1906,0.0
-432,China,1908,1.0
-433,China,1912,0.0
-434,China,1914,0.0
-435,China,1916,0.0
-436,China,1918,0.0
-437,China,1920,0.0
-438,China,1922,0.0
-439,China,1924,0.0
-440,China,1926,0.0
-441,China,1928,0.0
-442,China,1930,0.0
-443,China,1932,0.0
-444,China,1934,0.0
-445,China,1936,0.0
-446,China,1938,1.0
-447,China,1940,0.0
-448,Costa Rica,1878,0.0
-449,Costa Rica,1880,0.0
-450,Costa Rica,1882,0.0
-451,Costa Rica,1884,0.0
-452,Costa Rica,1886,0.0
-453,Costa Rica,1888,0.0
-454,Costa Rica,1890,0.0
-455,Costa Rica,1892,0.0
-456,Costa Rica,1896,0.0
-457,Costa Rica,1900,0.0
-458,Costa Rica,1902,0.0
-459,Costa Rica,1906,0.0
-460,Costa Rica,1908,0.0
-461,Costa Rica,1912,0.0
-462,Costa Rica,1914,0.0
-463,Costa Rica,1916,0.0
-464,Costa Rica,1918,0.0
-465,Costa Rica,1920,0.0
-466,Costa Rica,1922,0.0
-467,Costa Rica,1924,0.0
-468,Costa Rica,1926,1.0
-469,Costa Rica,1928,0.0
-470,Costa Rica,1930,0.0
-471,Costa Rica,1932,0.0
-472,Costa Rica,1934,0.0
-473,Costa Rica,1936,0.0
-474,Costa Rica,1938,0.0
-475,Costa Rica,1940,0.0
-476,Croatia,1878,0.0
-477,Croatia,1880,0.0
-478,Croatia,1882,0.0
-479,Croatia,1884,0.0
-480,Croatia,1886,0.0
-481,Croatia,1888,0.0
-482,Croatia,1890,0.0
-483,Croatia,1892,0.0
-484,Croatia,1896,0.0
-485,Croatia,1900,0.0
-486,Croatia,1902,0.0
-487,Croatia,1906,0.0
-488,Croatia,1908,0.0
-489,Croatia,1912,0.0
-490,Croatia,1914,0.0
-491,Croatia,1916,0.0
-492,Croatia,1918,0.0
-493,Croatia,1920,0.0
-494,Croatia,1922,0.0
-495,Croatia,1924,0.0
-496,Croatia,1926,0.0
-497,Croatia,1928,0.0
-498,Croatia,1930,0.0
-499,Croatia,1932,0.0
-500,Croatia,1934,0.0
-501,Croatia,1936,1.0
-502,Croatia,1938,0.0
-503,Croatia,1940,0.0
-504,Cuba,1878,0.0
-505,Cuba,1880,0.0
-506,Cuba,1882,1.0
-507,Cuba,1884,1.0
-508,Cuba,1886,0.0
-509,Cuba,1888,0.0
-510,Cuba,1890,0.0
-511,Cuba,1892,2.0
-512,Cuba,1896,1.0
-513,Cuba,1900,0.0
-514,Cuba,1902,0.0
-515,Cuba,1906,0.0
-516,Cuba,1908,0.0
-517,Cuba,1912,0.0
-518,Cuba,1914,0.0
-519,Cuba,1916,2.0
-520,Cuba,1918,0.0
-521,Cuba,1920,0.0
-522,Cuba,1922,2.0
-523,Cuba,1924,0.0
-524,Cuba,1926,0.0
-525,Cuba,1928,0.0
-526,Cuba,1930,0.0
-527,Cuba,1932,0.0
-528,Cuba,1934,0.0
-529,Cuba,1936,0.0
-530,Cuba,1938,0.0
-531,Cuba,1940,0.0
-532,Denmark,1878,0.0
-533,Denmark,1880,0.0
-534,Denmark,1882,0.0
-535,Denmark,1884,1.0
-536,Denmark,1886,1.0
-537,Denmark,1888,1.0
-538,Denmark,1890,0.0
-539,Denmark,1892,3.0
-540,Denmark,1896,2.0
-541,Denmark,1900,2.0
-542,Denmark,1902,0.0
-543,Denmark,1906,3.0
-544,Denmark,1908,2.0
-545,Denmark,1912,2.0
-546,Denmark,1914,0.0
-547,Denmark,1916,0.0
-548,Denmark,1918,0.0
-549,Denmark,1920,0.0
-550,Denmark,1922,2.0
-551,Denmark,1924,1.0
-552,Denmark,1926,1.0
-553,Denmark,1928,0.0
-554,Denmark,1930,1.0
-555,Denmark,1932,0.0
-556,Denmark,1934,1.0
-557,Denmark,1936,0.0
-558,Denmark,1938,1.0
-559,Denmark,1940,2.0
-560,East Indies,1878,0.0
-561,East Indies,1880,0.0
-562,East Indies,1882,0.0
-563,East Indies,1884,0.0
-564,East Indies,1886,1.0
-565,East Indies,1888,0.0
-566,East Indies,1890,0.0
-567,East Indies,1892,0.0
-568,East Indies,1896,0.0
-569,East Indies,1900,0.0
-570,East Indies,1902,0.0
-571,East Indies,1906,0.0
-572,East Indies,1908,0.0
-573,East Indies,1912,0.0
-574,East Indies,1914,0.0
-575,East Indies,1916,0.0
-576,East Indies,1918,0.0
-577,East Indies,1920,0.0
-578,East Indies,1922,0.0
-579,East Indies,1924,0.0
-580,East Indies,1926,0.0
-581,East Indies,1928,0.0
-582,East Indies,1930,0.0
-583,East Indies,1932,0.0
-584,East Indies,1934,0.0
-585,East Indies,1936,0.0
-586,East Indies,1938,0.0
-587,East Indies,1940,0.0
-588,England,1878,8.0
-589,England,1880,12.0
-590,England,1882,12.0
-591,England,1884,13.0
-592,England,1886,15.0
-593,England,1888,17.0
-594,England,1890,21.0
-595,England,1892,31.0
-596,England,1896,19.0
-597,England,1900,21.0
-598,England,1902,8.0
-599,England,1906,6.0
-600,England,1908,8.0
-601,England,1912,12.0
-602,England,1914,12.0
-603,England,1916,8.0
-604,England,1918,8.0
-605,England,1920,4.0
-606,England,1922,7.0
-607,England,1924,3.0
-608,England,1926,6.0
-609,England,1928,4.0
-610,England,1930,4.0
-611,England,1932,5.0
-612,England,1934,1.0
-613,England,1936,3.0
-614,England,1938,2.0
-615,England,1940,4.0
-616,Egypt,1878,0.0
-617,Egypt,1880,0.0
-618,Egypt,1882,0.0
-619,Egypt,1884,0.0
-620,Egypt,1886,0.0
-621,Egypt,1888,0.0
-622,Egypt,1890,1.0
-623,Egypt,1892,0.0
-624,Egypt,1896,0.0
-625,Egypt,1900,0.0
-626,Egypt,1902,0.0
-627,Egypt,1906,0.0
-628,Egypt,1908,0.0
-629,Egypt,1912,0.0
-630,Egypt,1914,0.0
-631,Egypt,1916,0.0
-632,Egypt,1918,0.0
-633,Egypt,1920,0.0
-634,Egypt,1922,1.0
-635,Egypt,1924,0.0
-636,Egypt,1926,0.0
-637,Egypt,1928,0.0
-638,Egypt,1930,0.0
-639,Egypt,1932,1.0
-640,Egypt,1934,0.0
-641,Egypt,1936,0.0
-642,Egypt,1938,0.0
-643,Egypt,1940,0.0
-644,Finland,1878,0.0
-645,Finland,1880,0.0
-646,Finland,1882,0.0
-647,Finland,1884,0.0
-648,Finland,1886,0.0
-649,Finland,1888,0.0
-650,Finland,1890,0.0
-651,Finland,1892,0.0
-652,Finland,1896,0.0
-653,Finland,1900,0.0
-654,Finland,1902,0.0
-655,Finland,1906,0.0
-656,Finland,1908,1.0
-657,Finland,1912,0.0
-658,Finland,1914,0.0
-659,Finland,1916,2.0
-660,Finland,1918,0.0
-661,Finland,1920,1.0
-662,Finland,1922,0.0
-663,Finland,1924,1.0
-664,Finland,1926,2.0
-665,Finland,1928,0.0
-666,Finland,1930,2.0
-667,Finland,1932,0.0
-668,Finland,1934,0.0
-669,Finland,1936,0.0
-670,Finland,1938,0.0
-671,Finland,1940,0.0
-672,France,1878,4.0
-673,France,1880,1.0
-674,France,1882,1.0
-675,France,1884,3.0
-676,France,1886,1.0
-677,France,1888,5.0
-678,France,1890,3.0
-679,France,1892,5.0
-680,France,1896,4.0
-681,France,1900,2.0
-682,France,1902,2.0
-683,France,1906,2.0
-684,France,1908,1.0
-685,France,1912,2.0
-686,France,1914,4.0
-687,France,1916,1.0
-688,France,1918,0.0
-689,France,1920,1.0
-690,France,1922,3.0
-691,France,1924,0.0
-692,France,1926,1.0
-693,France,1928,1.0
-694,France,1930,3.0
-695,France,1932,5.0
-696,France,1934,0.0
-697,France,1936,0.0
-698,France,1938,0.0
-699,France,1940,0.0
-700,Germany,1878,7.0
-701,Germany,1880,12.0
-702,Germany,1882,13.0
-703,Germany,1884,15.0
-704,Germany,1886,12.0
-705,Germany,1888,14.0
-706,Germany,1890,22.0
-707,Germany,1892,27.0
-708,Germany,1896,29.0
-709,Germany,1900,14.0
-710,Germany,1902,11.0
-711,Germany,1906,17.0
-712,Germany,1908,22.0
-713,Germany,1912,19.0
-714,Germany,1914,19.0
-715,Germany,1916,11.0
-716,Germany,1918,8.0
-717,Germany,1920,2.0
-718,Germany,1922,9.0
-719,Germany,1924,12.0
-720,Germany,1926,13.0
-721,Germany,1928,4.0
-722,Germany,1930,15.0
-723,Germany,1932,8.0
-724,Germany,1934,8.0
-725,Germany,1936,5.0
-726,Germany,1938,2.0
-727,Germany,1940,1.0
-728,Greece,1878,0.0
-729,Greece,1880,0.0
-730,Greece,1882,0.0
-731,Greece,1884,0.0
-732,Greece,1886,0.0
-733,Greece,1888,0.0
-734,Greece,1890,0.0
-735,Greece,1892,0.0
-736,Greece,1896,0.0
-737,Greece,1900,0.0
-738,Greece,1902,0.0
-739,Greece,1906,1.0
-740,Greece,1908,5.0
-741,Greece,1912,0.0
-742,Greece,1914,2.0
-743,Greece,1916,7.0
-744,Greece,1918,2.0
-745,Greece,1920,5.0
-746,Greece,1922,1.0
-747,Greece,1924,10.0
-748,Greece,1926,4.0
-749,Greece,1928,8.0
-750,Greece,1930,1.0
-751,Greece,1932,2.0
-752,Greece,1934,1.0
-753,Greece,1936,4.0
-754,Greece,1938,0.0
-755,Greece,1940,0.0
-756,Hawaii,1878,0.0
-757,Hawaii,1880,0.0
-758,Hawaii,1882,0.0
-759,Hawaii,1884,0.0
-760,Hawaii,1886,0.0
-761,Hawaii,1888,0.0
-762,Hawaii,1890,0.0
-763,Hawaii,1892,0.0
-764,Hawaii,1896,0.0
-765,Hawaii,1900,0.0
-766,Hawaii,1902,0.0
-767,Hawaii,1906,0.0
-768,Hawaii,1908,0.0
-769,Hawaii,1912,1.0
-770,Hawaii,1914,1.0
-771,Hawaii,1916,0.0
-772,Hawaii,1918,0.0
-773,Hawaii,1920,0.0
-774,Hawaii,1922,0.0
-775,Hawaii,1924,1.0
-776,Hawaii,1926,0.0
-777,Hawaii,1928,0.0
-778,Hawaii,1930,0.0
-779,Hawaii,1932,1.0
-780,Hawaii,1934,1.0
-781,Hawaii,1936,0.0
-782,Hawaii,1938,0.0
-783,Hawaii,1940,0.0
-784,Hungary,1878,0.0
-785,Hungary,1880,0.0
-786,Hungary,1882,0.0
-787,Hungary,1884,1.0
-788,Hungary,1886,0.0
-789,Hungary,1888,0.0
-790,Hungary,1890,2.0
-791,Hungary,1892,0.0
-792,Hungary,1896,1.0
-793,Hungary,1900,0.0
-794,Hungary,1902,1.0
-795,Hungary,1906,1.0
-796,Hungary,1908,4.0
-797,Hungary,1912,1.0
-798,Hungary,1914,1.0
-799,Hungary,1916,3.0
-800,Hungary,1918,1.0
-801,Hungary,1920,1.0
-802,Hungary,1922,0.0
-803,Hungary,1924,0.0
-804,Hungary,1926,1.0
-805,Hungary,1928,1.0
-806,Hungary,1930,0.0
-807,Hungary,1932,1.0
-808,Hungary,1934,0.0
-809,Hungary,1936,1.0
-810,Hungary,1938,1.0
-811,Hungary,1940,0.0
-812,India,1878,0.0
-813,India,1880,0.0
-814,India,1882,0.0
-815,India,1884,0.0
-816,India,1886,0.0
-817,India,1888,0.0
-818,India,1890,0.0
-819,India,1892,0.0
-820,India,1896,0.0
-821,India,1900,0.0
-822,India,1902,0.0
-823,India,1906,0.0
-824,India,1908,0.0
-825,India,1912,0.0
-826,India,1914,1.0
-827,India,1916,1.0
-828,India,1918,1.0
-829,India,1920,0.0
-830,India,1922,0.0
-831,India,1924,1.0
-832,India,1926,0.0
-833,India,1928,2.0
-834,India,1930,0.0
-835,India,1932,0.0
-836,India,1934,2.0
-837,India,1936,1.0
-838,India,1938,0.0
-839,India,1940,0.0
-840,Ireland,1878,12.0
-841,Ireland,1880,18.0
-842,Ireland,1882,15.0
-843,Ireland,1884,19.0
-844,Ireland,1886,16.0
-845,Ireland,1888,24.0
-846,Ireland,1890,28.0
-847,Ireland,1892,25.0
-848,Ireland,1896,14.0
-849,Ireland,1900,10.0
-850,Ireland,1902,21.0
-851,Ireland,1906,6.0
-852,Ireland,1908,9.0
-853,Ireland,1912,8.0
-854,Ireland,1914,8.0
-855,Ireland,1916,7.0
-856,Ireland,1918,2.0
-857,Ireland,1920,1.0
-858,Ireland,1922,5.0
-859,Ireland,1924,6.0
-860,Ireland,1926,6.0
-861,Ireland,1928,2.0
-862,Ireland,1930,7.0
-863,Ireland,1932,5.0
-864,Ireland,1934,1.0
-865,Ireland,1936,1.0
-866,Ireland,1938,1.0
-867,Ireland,1940,2.0
-868,Italy,1878,7.0
-869,Italy,1880,6.0
-870,Italy,1882,4.0
-871,Italy,1884,7.0
-872,Italy,1886,6.0
-873,Italy,1888,5.0
-874,Italy,1890,4.0
-875,Italy,1892,11.0
-876,Italy,1896,9.0
-877,Italy,1900,1.0
-878,Italy,1902,8.0
-879,Italy,1906,8.0
-880,Italy,1908,16.0
-881,Italy,1912,18.0
-882,Italy,1914,25.0
-883,Italy,1916,12.0
-884,Italy,1918,14.0
-885,Italy,1920,5.0
-886,Italy,1922,12.0
-887,Italy,1924,18.0
-888,Italy,1926,22.0
-889,Italy,1928,24.0
-890,Italy,1930,20.0
-891,Italy,1932,17.0
-892,Italy,1934,6.0
-893,Italy,1936,2.0
-894,Italy,1938,5.0
-895,Italy,1940,2.0
-896,Jamaica,1878,0.0
-897,Jamaica,1880,0.0
-898,Jamaica,1882,0.0
-899,Jamaica,1884,0.0
-900,Jamaica,1886,0.0
-901,Jamaica,1888,0.0
-902,Jamaica,1890,0.0
-903,Jamaica,1892,0.0
-904,Jamaica,1896,0.0
-905,Jamaica,1900,1.0
-906,Jamaica,1902,0.0
-907,Jamaica,1906,0.0
-908,Jamaica,1908,0.0
-909,Jamaica,1912,0.0
-910,Jamaica,1914,0.0
-911,Jamaica,1916,0.0
-912,Jamaica,1918,0.0
-913,Jamaica,1920,0.0
-914,Jamaica,1922,1.0
-915,Jamaica,1924,2.0
-916,Jamaica,1926,0.0
-917,Jamaica,1928,0.0
-918,Jamaica,1930,0.0
-919,Jamaica,1932,0.0
-920,Jamaica,1934,0.0
-921,Jamaica,1936,0.0
-922,Jamaica,1938,0.0
-923,Jamaica,1940,0.0
-924,Japan,1878,0.0
-925,Japan,1880,0.0
-926,Japan,1882,0.0
-927,Japan,1884,0.0
-928,Japan,1886,0.0
-929,Japan,1888,0.0
-930,Japan,1890,0.0
-931,Japan,1892,0.0
-932,Japan,1896,1.0
-933,Japan,1900,0.0
-934,Japan,1902,2.0
-935,Japan,1906,1.0
-936,Japan,1908,0.0
-937,Japan,1912,3.0
-938,Japan,1914,3.0
-939,Japan,1916,2.0
-940,Japan,1918,0.0
-941,Japan,1920,2.0
-942,Japan,1922,1.0
-943,Japan,1924,0.0
-944,Japan,1926,0.0
-945,Japan,1928,0.0
-946,Japan,1930,0.0
-947,Japan,1932,0.0
-948,Japan,1934,0.0
-949,Japan,1936,1.0
-950,Japan,1938,0.0
-951,Japan,1940,0.0
-952,Java,1878,0.0
-953,Java,1880,0.0
-954,Java,1882,0.0
-955,Java,1884,0.0
-956,Java,1886,0.0
-957,Java,1888,0.0
-958,Java,1890,0.0
-959,Java,1892,1.0
-960,Java,1896,0.0
-961,Java,1900,0.0
-962,Java,1902,0.0
-963,Java,1906,0.0
-964,Java,1908,0.0
-965,Java,1912,0.0
-966,Java,1914,0.0
-967,Java,1916,0.0
-968,Java,1918,0.0
-969,Java,1920,0.0
-970,Java,1922,0.0
-971,Java,1924,0.0
-972,Java,1926,0.0
-973,Java,1928,0.0
-974,Java,1930,0.0
-975,Java,1932,0.0
-976,Java,1934,0.0
-977,Java,1936,0.0
-978,Java,1938,0.0
-979,Java,1940,0.0
-980,Yugoslavia,1878,0.0
-981,Yugoslavia,1880,0.0
-982,Yugoslavia,1882,0.0
-983,Yugoslavia,1884,0.0
-984,Yugoslavia,1886,0.0
-985,Yugoslavia,1888,0.0
-986,Yugoslavia,1890,0.0
-987,Yugoslavia,1892,0.0
-988,Yugoslavia,1896,0.0
-989,Yugoslavia,1900,0.0
-990,Yugoslavia,1902,0.0
-991,Yugoslavia,1906,0.0
-992,Yugoslavia,1908,0.0
-993,Yugoslavia,1912,0.0
-994,Yugoslavia,1914,0.0
-995,Yugoslavia,1916,0.0
-996,Yugoslavia,1918,0.0
-997,Yugoslavia,1920,0.0
-998,Yugoslavia,1922,0.0
-999,Yugoslavia,1924,1.0
-1000,Yugoslavia,1926,1.0
-1001,Yugoslavia,1928,1.0
-1002,Yugoslavia,1930,26.0
-1003,Yugoslavia,1932,1.0
-1004,Yugoslavia,1934,0.0
-1005,Yugoslavia,1936,1.0
-1006,Yugoslavia,1938,0.0
-1007,Yugoslavia,1940,0.0
-1008,Korea,1878,0.0
-1009,Korea,1880,0.0
-1010,Korea,1882,0.0
-1011,Korea,1884,0.0
-1012,Korea,1886,0.0
-1013,Korea,1888,0.0
-1014,Korea,1890,0.0
-1015,Korea,1892,0.0
-1016,Korea,1896,0.0
-1017,Korea,1900,0.0
-1018,Korea,1902,0.0
-1019,Korea,1906,0.0
-1020,Korea,1908,0.0
-1021,Korea,1912,0.0
-1022,Korea,1914,0.0
-1023,Korea,1916,2.0
-1024,Korea,1918,0.0
-1025,Korea,1920,2.0
-1026,Korea,1922,1.0
-1027,Korea,1924,0.0
-1028,Korea,1926,0.0
-1029,Korea,1928,0.0
-1030,Korea,1930,0.0
-1031,Korea,1932,0.0
-1032,Korea,1934,0.0
-1033,Korea,1936,0.0
-1034,Korea,1938,0.0
-1035,Korea,1940,0.0
-1036,Lithuania,1878,0.0
-1037,Lithuania,1880,0.0
-1038,Lithuania,1882,0.0
-1039,Lithuania,1884,0.0
-1040,Lithuania,1886,0.0
-1041,Lithuania,1888,0.0
-1042,Lithuania,1890,0.0
-1043,Lithuania,1892,0.0
-1044,Lithuania,1896,0.0
-1045,Lithuania,1900,0.0
-1046,Lithuania,1902,0.0
-1047,Lithuania,1906,0.0
-1048,Lithuania,1908,0.0
-1049,Lithuania,1912,0.0
-1050,Lithuania,1914,0.0
-1051,Lithuania,1916,0.0
-1052,Lithuania,1918,0.0
-1053,Lithuania,1920,0.0
-1054,Lithuania,1922,0.0
-1055,Lithuania,1924,0.0
-1056,Lithuania,1926,0.0
-1057,Lithuania,1928,0.0
-1058,Lithuania,1930,0.0
-1059,Lithuania,1932,0.0
-1060,Lithuania,1934,0.0
-1061,Lithuania,1936,0.0
-1062,Lithuania,1938,0.0
-1063,Lithuania,1940,1.0
-1064,Mexico ,1878,1.0
-1065,Mexico ,1880,2.0
-1066,Mexico ,1882,0.0
-1067,Mexico ,1884,1.0
-1068,Mexico ,1886,0.0
-1069,Mexico ,1888,1.0
-1070,Mexico ,1890,3.0
-1071,Mexico ,1892,3.0
-1072,Mexico ,1896,2.0
-1073,Mexico ,1900,0.0
-1074,Mexico ,1902,7.0
-1075,Mexico ,1906,7.0
-1076,Mexico ,1908,28.0
-1077,Mexico ,1912,36.0
-1078,Mexico ,1914,62.0
-1079,Mexico ,1916,62.0
-1080,Mexico ,1918,40.0
-1081,Mexico ,1920,61.0
-1082,Mexico ,1922,70.0
-1083,Mexico ,1924,59.0
-1084,Mexico ,1926,95.0
-1085,Mexico ,1928,91.0
-1086,Mexico ,1930,41.0
-1087,Mexico ,1932,69.0
-1088,Mexico ,1934,51.0
-1089,Mexico ,1936,27.0
-1090,Mexico ,1938,24.0
-1091,Mexico ,1940,10.0
-1092,Montenegro,1878,0.0
-1093,Montenegro,1880,0.0
-1094,Montenegro,1882,0.0
-1095,Montenegro,1884,0.0
-1096,Montenegro,1886,0.0
-1097,Montenegro,1888,0.0
-1098,Montenegro,1890,0.0
-1099,Montenegro,1892,0.0
-1100,Montenegro,1896,0.0
-1101,Montenegro,1900,0.0
-1102,Montenegro,1902,0.0
-1103,Montenegro,1906,0.0
-1104,Montenegro,1908,0.0
-1105,Montenegro,1912,0.0
-1106,Montenegro,1914,0.0
-1107,Montenegro,1916,1.0
-1108,Montenegro,1918,0.0
-1109,Montenegro,1920,0.0
-1110,Montenegro,1922,0.0
-1111,Montenegro,1924,0.0
-1112,Montenegro,1926,1.0
-1113,Montenegro,1928,0.0
-1114,Montenegro,1930,0.0
-1115,Montenegro,1932,0.0
-1116,Montenegro,1934,0.0
-1117,Montenegro,1936,0.0
-1118,Montenegro,1938,0.0
-1119,Montenegro,1940,0.0
-1120,Netherlands,1878,0.0
-1121,Netherlands,1880,0.0
-1122,Netherlands,1882,0.0
-1123,Netherlands,1884,0.0
-1124,Netherlands,1886,1.0
-1125,Netherlands,1888,1.0
-1126,Netherlands,1890,0.0
-1127,Netherlands,1892,0.0
-1128,Netherlands,1896,0.0
-1129,Netherlands,1900,0.0
-1130,Netherlands,1902,0.0
-1131,Netherlands,1906,0.0
-1132,Netherlands,1908,1.0
-1133,Netherlands,1912,0.0
-1134,Netherlands,1914,0.0
-1135,Netherlands,1916,1.0
-1136,Netherlands,1918,0.0
-1137,Netherlands,1920,0.0
-1138,Netherlands,1922,0.0
-1139,Netherlands,1924,0.0
-1140,Netherlands,1926,0.0
-1141,Netherlands,1928,1.0
-1142,Netherlands,1930,1.0
-1143,Netherlands,1932,1.0
-1144,Netherlands,1934,0.0
-1145,Netherlands,1936,0.0
-1146,Netherlands,1938,0.0
-1147,Netherlands,1940,0.0
-1148,New Zealand,1878,0.0
-1149,New Zealand,1880,0.0
-1150,New Zealand,1882,0.0
-1151,New Zealand,1884,0.0
-1152,New Zealand,1886,0.0
-1153,New Zealand,1888,0.0
-1154,New Zealand,1890,0.0
-1155,New Zealand,1892,0.0
-1156,New Zealand,1896,0.0
-1157,New Zealand,1900,0.0
-1158,New Zealand,1902,0.0
-1159,New Zealand,1906,0.0
-1160,New Zealand,1908,0.0
-1161,New Zealand,1912,0.0
-1162,New Zealand,1914,1.0
-1163,New Zealand,1916,0.0
-1164,New Zealand,1918,0.0
-1165,New Zealand,1920,0.0
-1166,New Zealand,1922,0.0
-1167,New Zealand,1924,0.0
-1168,New Zealand,1926,0.0
-1169,New Zealand,1928,0.0
-1170,New Zealand,1930,0.0
-1171,New Zealand,1932,0.0
-1172,New Zealand,1934,0.0
-1173,New Zealand,1936,0.0
-1174,New Zealand,1938,0.0
-1175,New Zealand,1940,0.0
-1176,Nicaragua,1878,0.0
-1177,Nicaragua,1880,0.0
-1178,Nicaragua,1882,0.0
-1179,Nicaragua,1884,0.0
-1180,Nicaragua,1886,0.0
-1181,Nicaragua,1888,0.0
-1182,Nicaragua,1890,0.0
-1183,Nicaragua,1892,0.0
-1184,Nicaragua,1896,0.0
-1185,Nicaragua,1900,0.0
-1186,Nicaragua,1902,0.0
-1187,Nicaragua,1906,0.0
-1188,Nicaragua,1908,0.0
-1189,Nicaragua,1912,0.0
-1190,Nicaragua,1914,0.0
-1191,Nicaragua,1916,0.0
-1192,Nicaragua,1918,0.0
-1193,Nicaragua,1920,0.0
-1194,Nicaragua,1922,0.0
-1195,Nicaragua,1924,0.0
-1196,Nicaragua,1926,1.0
-1197,Nicaragua,1928,0.0
-1198,Nicaragua,1930,0.0
-1199,Nicaragua,1932,0.0
-1200,Nicaragua,1934,0.0
-1201,Nicaragua,1936,0.0
-1202,Nicaragua,1938,0.0
-1203,Nicaragua,1940,0.0
-1204,Norway,1878,0.0
-1205,Norway,1880,0.0
-1206,Norway,1882,1.0
-1207,Norway,1884,1.0
-1208,Norway,1886,1.0
-1209,Norway,1888,2.0
-1210,Norway,1890,1.0
-1211,Norway,1892,0.0
-1212,Norway,1896,0.0
-1213,Norway,1900,0.0
-1214,Norway,1902,0.0
-1215,Norway,1906,0.0
-1216,Norway,1908,1.0
-1217,Norway,1912,0.0
-1218,Norway,1914,1.0
-1219,Norway,1916,1.0
-1220,Norway,1918,1.0
-1221,Norway,1920,0.0
-1222,Norway,1922,1.0
-1223,Norway,1924,1.0
-1224,Norway,1926,1.0
-1225,Norway,1928,2.0
-1226,Norway,1930,2.0
-1227,Norway,1932,2.0
-1228,Norway,1934,0.0
-1229,Norway,1936,0.0
-1230,Norway,1938,0.0
-1231,Norway,1940,0.0
-1232,Philippines,1878,0.0
-1233,Philippines,1880,0.0
-1234,Philippines,1882,0.0
-1235,Philippines,1884,0.0
-1236,Philippines,1886,0.0
-1237,Philippines,1888,0.0
-1238,Philippines,1890,0.0
-1239,Philippines,1892,0.0
-1240,Philippines,1896,0.0
-1241,Philippines,1900,0.0
-1242,Philippines,1902,0.0
-1243,Philippines,1906,0.0
-1244,Philippines,1908,0.0
-1245,Philippines,1912,0.0
-1246,Philippines,1914,0.0
-1247,Philippines,1916,0.0
-1248,Philippines,1918,0.0
-1249,Philippines,1920,0.0
-1250,Philippines,1922,0.0
-1251,Philippines,1924,0.0
-1252,Philippines,1926,0.0
-1253,Philippines,1928,1.0
-1254,Philippines,1930,1.0
-1255,Philippines,1932,3.0
-1256,Philippines,1934,1.0
-1257,Philippines,1936,0.0
-1258,Philippines,1938,2.0
-1259,Philippines,1940,0.0
-1260,Poland,1878,0.0
-1261,Poland,1880,0.0
-1262,Poland,1882,0.0
-1263,Poland,1884,0.0
-1264,Poland,1886,0.0
-1265,Poland,1888,1.0
-1266,Poland,1890,0.0
-1267,Poland,1892,1.0
-1268,Poland,1896,0.0
-1269,Poland,1900,0.0
-1270,Poland,1902,0.0
-1271,Poland,1906,0.0
-1272,Poland,1908,2.0
-1273,Poland,1912,0.0
-1274,Poland,1914,0.0
-1275,Poland,1916,1.0
-1276,Poland,1918,0.0
-1277,Poland,1920,0.0
-1278,Poland,1922,1.0
-1279,Poland,1924,1.0
-1280,Poland,1926,2.0
-1281,Poland,1928,2.0
-1282,Poland,1930,2.0
-1283,Poland,1932,2.0
-1284,Poland,1934,4.0
-1285,Poland,1936,0.0
-1286,Poland,1938,0.0
-1287,Poland,1940,0.0
-1288,Porto Rico,1878,0.0
-1289,Porto Rico,1880,0.0
-1290,Porto Rico,1882,0.0
-1291,Porto Rico,1884,0.0
-1292,Porto Rico,1886,0.0
-1293,Porto Rico,1888,0.0
-1294,Porto Rico,1890,0.0
-1295,Porto Rico,1892,0.0
-1296,Porto Rico,1896,0.0
-1297,Porto Rico,1900,0.0
-1298,Porto Rico,1902,0.0
-1299,Porto Rico,1906,0.0
-1300,Porto Rico,1908,0.0
-1301,Porto Rico,1912,0.0
-1302,Porto Rico,1914,0.0
-1303,Porto Rico,1916,0.0
-1304,Porto Rico,1918,1.0
-1305,Porto Rico,1920,0.0
-1306,Porto Rico,1922,0.0
-1307,Porto Rico,1924,1.0
-1308,Porto Rico,1926,0.0
-1309,Porto Rico,1928,0.0
-1310,Porto Rico,1930,0.0
-1311,Porto Rico,1932,0.0
-1312,Porto Rico,1934,0.0
-1313,Porto Rico,1936,0.0
-1314,Porto Rico,1938,1.0
-1315,Porto Rico,1940,0.0
-1316,Portugal,1878,0.0
-1317,Portugal,1880,0.0
-1318,Portugal,1882,0.0
-1319,Portugal,1884,0.0
-1320,Portugal,1886,0.0
-1321,Portugal,1888,0.0
-1322,Portugal,1890,0.0
-1323,Portugal,1892,0.0
-1324,Portugal,1896,0.0
-1325,Portugal,1900,0.0
-1326,Portugal,1902,0.0
-1327,Portugal,1906,0.0
-1328,Portugal,1908,0.0
-1329,Portugal,1912,0.0
-1330,Portugal,1914,0.0
-1331,Portugal,1916,0.0
-1332,Portugal,1918,0.0
-1333,Portugal,1920,0.0
-1334,Portugal,1922,0.0
-1335,Portugal,1924,0.0
-1336,Portugal,1926,0.0
-1337,Portugal,1928,0.0
-1338,Portugal,1930,0.0
-1339,Portugal,1932,0.0
-1340,Portugal,1934,0.0
-1341,Portugal,1936,1.0
-1342,Portugal,1938,0.0
-1343,Portugal,1940,0.0
-1344,Romania,1878,0.0
-1345,Romania,1880,0.0
-1346,Romania,1882,0.0
-1347,Romania,1884,0.0
-1348,Romania,1886,0.0
-1349,Romania,1888,0.0
-1350,Romania,1890,0.0
-1351,Romania,1892,0.0
-1352,Romania,1896,0.0
-1353,Romania,1900,0.0
-1354,Romania,1902,0.0
-1355,Romania,1906,0.0
-1356,Romania,1908,0.0
-1357,Romania,1912,1.0
-1358,Romania,1914,0.0
-1359,Romania,1916,0.0
-1360,Romania,1918,0.0
-1361,Romania,1920,0.0
-1362,Romania,1922,1.0
-1363,Romania,1924,0.0
-1364,Romania,1926,0.0
-1365,Romania,1928,0.0
-1366,Romania,1930,1.0
-1367,Romania,1932,0.0
-1368,Romania,1934,0.0
-1369,Romania,1936,0.0
-1370,Romania,1938,0.0
-1371,Romania,1940,0.0
-1372,Russia,1878,0.0
-1373,Russia,1880,1.0
-1374,Russia,1882,1.0
-1375,Russia,1884,1.0
-1376,Russia,1886,0.0
-1377,Russia,1888,1.0
-1378,Russia,1890,2.0
-1379,Russia,1892,2.0
-1380,Russia,1896,6.0
-1381,Russia,1900,3.0
-1382,Russia,1902,1.0
-1383,Russia,1906,1.0
-1384,Russia,1908,1.0
-1385,Russia,1912,3.0
-1386,Russia,1914,3.0
-1387,Russia,1916,5.0
-1388,Russia,1918,10.0
-1389,Russia,1920,7.0
-1390,Russia,1922,10.0
-1391,Russia,1924,8.0
-1392,Russia,1926,8.0
-1393,Russia,1928,12.0
-1394,Russia,1930,8.0
-1395,Russia,1932,8.0
-1396,Russia,1934,11.0
-1397,Russia,1936,7.0
-1398,Russia,1938,5.0
-1399,Russia,1940,2.0
-1400,Scotland,1878,0.0
-1401,Scotland,1880,1.0
-1402,Scotland,1882,2.0
-1403,Scotland,1884,3.0
-1404,Scotland,1886,1.0
-1405,Scotland,1888,2.0
-1406,Scotland,1890,8.0
-1407,Scotland,1892,4.0
-1408,Scotland,1896,5.0
-1409,Scotland,1900,7.0
-1410,Scotland,1902,3.0
-1411,Scotland,1906,4.0
-1412,Scotland,1908,4.0
-1413,Scotland,1912,2.0
-1414,Scotland,1914,4.0
-1415,Scotland,1916,4.0
-1416,Scotland,1918,1.0
-1417,Scotland,1920,1.0
-1418,Scotland,1922,3.0
-1419,Scotland,1924,3.0
-1420,Scotland,1926,7.0
-1421,Scotland,1928,2.0
-1422,Scotland,1930,5.0
-1423,Scotland,1932,2.0
-1424,Scotland,1934,0.0
-1425,Scotland,1936,0.0
-1426,Scotland,1938,0.0
-1427,Scotland,1940,0.0
-1428,Serbia,1878,0.0
-1429,Serbia,1880,0.0
-1430,Serbia,1882,0.0
-1431,Serbia,1884,0.0
-1432,Serbia,1886,0.0
-1433,Serbia,1888,0.0
-1434,Serbia,1890,0.0
-1435,Serbia,1892,0.0
-1436,Serbia,1896,0.0
-1437,Serbia,1900,0.0
-1438,Serbia,1902,0.0
-1439,Serbia,1906,0.0
-1440,Serbia,1908,0.0
-1441,Serbia,1912,0.0
-1442,Serbia,1914,0.0
-1443,Serbia,1916,0.0
-1444,Serbia,1918,0.0
-1445,Serbia,1920,0.0
-1446,Serbia,1922,2.0
-1447,Serbia,1924,1.0
-1448,Serbia,1926,0.0
-1449,Serbia,1928,0.0
-1450,Serbia,1930,1.0
-1451,Serbia,1932,0.0
-1452,Serbia,1934,2.0
-1453,Serbia,1936,0.0
-1454,Serbia,1938,0.0
-1455,Serbia,1940,0.0
-1456,Thailand,1878,0.0
-1457,Thailand,1880,0.0
-1458,Thailand,1882,0.0
-1459,Thailand,1884,0.0
-1460,Thailand,1886,0.0
-1461,Thailand,1888,0.0
-1462,Thailand,1890,0.0
-1463,Thailand,1892,0.0
-1464,Thailand,1896,0.0
-1465,Thailand,1900,0.0
-1466,Thailand,1902,0.0
-1467,Thailand,1906,0.0
-1468,Thailand,1908,0.0
-1469,Thailand,1912,0.0
-1470,Thailand,1914,0.0
-1471,Thailand,1916,0.0
-1472,Thailand,1918,0.0
-1473,Thailand,1920,0.0
-1474,Thailand,1922,0.0
-1475,Thailand,1924,0.0
-1476,Thailand,1926,0.0
-1477,Thailand,1928,0.0
-1478,Thailand,1930,0.0
-1479,Thailand,1932,1.0
-1480,Thailand,1934,0.0
-1481,Thailand,1936,0.0
-1482,Thailand,1938,0.0
-1483,Thailand,1940,0.0
-1484,South Africa,1878,0.0
-1485,South Africa,1880,0.0
-1486,South Africa,1882,0.0
-1487,South Africa,1884,0.0
-1488,South Africa,1886,0.0
-1489,South Africa,1888,0.0
-1490,South Africa,1890,1.0
-1491,South Africa,1892,1.0
-1492,South Africa,1896,0.0
-1493,South Africa,1900,0.0
-1494,South Africa,1902,0.0
-1495,South Africa,1906,0.0
-1496,South Africa,1908,0.0
-1497,South Africa,1912,2.0
-1498,South Africa,1914,0.0
-1499,South Africa,1916,0.0
-1500,South Africa,1918,0.0
-1501,South Africa,1920,0.0
-1502,South Africa,1922,0.0
-1503,South Africa,1924,0.0
-1504,South Africa,1926,0.0
-1505,South Africa,1928,0.0
-1506,South Africa,1930,0.0
-1507,South Africa,1932,0.0
-1508,South Africa,1934,0.0
-1509,South Africa,1936,0.0
-1510,South Africa,1938,0.0
-1511,South Africa,1940,0.0
-1512,South America,1878,0.0
-1513,South America,1880,0.0
-1514,South America,1882,0.0
-1515,South America,1884,0.0
-1516,South America,1886,0.0
-1517,South America,1888,0.0
-1518,South America,1890,1.0
-1519,South America,1892,0.0
-1520,South America,1896,0.0
-1521,South America,1900,0.0
-1522,South America,1902,0.0
-1523,South America,1906,1.0
-1524,South America,1908,0.0
-1525,South America,1912,0.0
-1526,South America,1914,0.0
-1527,South America,1916,0.0
-1528,South America,1918,0.0
-1529,South America,1920,0.0
-1530,South America,1922,0.0
-1531,South America,1924,1.0
-1532,South America,1926,0.0
-1533,South America,1928,0.0
-1534,South America,1930,0.0
-1535,South America,1932,0.0
-1536,South America,1934,0.0
-1537,South America,1936,0.0
-1538,South America,1938,0.0
-1539,South America,1940,0.0
-1540,Solomon Islands,1878,0.0
-1541,Solomon Islands,1880,0.0
-1542,Solomon Islands,1882,0.0
-1543,Solomon Islands,1884,0.0
-1544,Solomon Islands,1886,0.0
-1545,Solomon Islands,1888,0.0
-1546,Solomon Islands,1890,0.0
-1547,Solomon Islands,1892,0.0
-1548,Solomon Islands,1896,0.0
-1549,Solomon Islands,1900,0.0
-1550,Solomon Islands,1902,0.0
-1551,Solomon Islands,1906,0.0
-1552,Solomon Islands,1908,0.0
-1553,Solomon Islands,1912,0.0
-1554,Solomon Islands,1914,0.0
-1555,Solomon Islands,1916,0.0
-1556,Solomon Islands,1918,0.0
-1557,Solomon Islands,1920,0.0
-1558,Solomon Islands,1922,0.0
-1559,Solomon Islands,1924,1.0
-1560,Solomon Islands,1926,0.0
-1561,Solomon Islands,1928,0.0
-1562,Solomon Islands,1930,0.0
-1563,Solomon Islands,1932,0.0
-1564,Solomon Islands,1934,0.0
-1565,Solomon Islands,1936,0.0
-1566,Solomon Islands,1938,0.0
-1567,Solomon Islands,1940,0.0
-1568,Spain,1878,0.0
-1569,Spain,1880,0.0
-1570,Spain,1882,0.0
-1571,Spain,1884,0.0
-1572,Spain,1886,0.0
-1573,Spain,1888,0.0
-1574,Spain,1890,0.0
-1575,Spain,1892,0.0
-1576,Spain,1896,1.0
-1577,Spain,1900,0.0
-1578,Spain,1902,0.0
-1579,Spain,1906,0.0
-1580,Spain,1908,0.0
-1581,Spain,1912,0.0
-1582,Spain,1914,0.0
-1583,Spain,1916,0.0
-1584,Spain,1918,0.0
-1585,Spain,1920,1.0
-1586,Spain,1922,1.0
-1587,Spain,1924,0.0
-1588,Spain,1926,0.0
-1589,Spain,1928,0.0
-1590,Spain,1930,1.0
-1591,Spain,1932,0.0
-1592,Spain,1934,0.0
-1593,Spain,1936,0.0
-1594,Spain,1938,1.0
-1595,Spain,1940,0.0
-1596,Sweden,1878,0.0
-1597,Sweden,1880,0.0
-1598,Sweden,1882,1.0
-1599,Sweden,1884,1.0
-1600,Sweden,1886,1.0
-1601,Sweden,1888,6.0
-1602,Sweden,1890,2.0
-1603,Sweden,1892,5.0
-1604,Sweden,1896,12.0
-1605,Sweden,1900,8.0
-1606,Sweden,1902,4.0
-1607,Sweden,1906,2.0
-1608,Sweden,1908,6.0
-1609,Sweden,1912,4.0
-1610,Sweden,1914,4.0
-1611,Sweden,1916,4.0
-1612,Sweden,1918,1.0
-1613,Sweden,1920,0.0
-1614,Sweden,1922,1.0
-1615,Sweden,1924,1.0
-1616,Sweden,1926,0.0
-1617,Sweden,1928,0.0
-1618,Sweden,1930,6.0
-1619,Sweden,1932,4.0
-1620,Sweden,1934,1.0
-1621,Sweden,1936,1.0
-1622,Sweden,1938,2.0
-1623,Sweden,1940,1.0
-1624,Switzerland,1878,0.0
-1625,Switzerland,1880,0.0
-1626,Switzerland,1882,1.0
-1627,Switzerland,1884,0.0
-1628,Switzerland,1886,1.0
-1629,Switzerland,1888,0.0
-1630,Switzerland,1890,1.0
-1631,Switzerland,1892,2.0
-1632,Switzerland,1896,4.0
-1633,Switzerland,1900,4.0
-1634,Switzerland,1902,2.0
-1635,Switzerland,1906,1.0
-1636,Switzerland,1908,0.0
-1637,Switzerland,1912,1.0
-1638,Switzerland,1914,1.0
-1639,Switzerland,1916,1.0
-1640,Switzerland,1918,1.0
-1641,Switzerland,1920,1.0
-1642,Switzerland,1922,0.0
-1643,Switzerland,1924,1.0
-1644,Switzerland,1926,3.0
-1645,Switzerland,1928,0.0
-1646,Switzerland,1930,0.0
-1647,Switzerland,1932,0.0
-1648,Switzerland,1934,1.0
-1649,Switzerland,1936,0.0
-1650,Switzerland,1938,0.0
-1651,Switzerland,1940,0.0
-1652,Syria,1878,0.0
-1653,Syria,1880,0.0
-1654,Syria,1882,0.0
-1655,Syria,1884,0.0
-1656,Syria,1886,0.0
-1657,Syria,1888,0.0
-1658,Syria,1890,0.0
-1659,Syria,1892,0.0
-1660,Syria,1896,0.0
-1661,Syria,1900,0.0
-1662,Syria,1902,1.0
-1663,Syria,1906,0.0
-1664,Syria,1908,0.0
-1665,Syria,1912,0.0
-1666,Syria,1914,0.0
-1667,Syria,1916,0.0
-1668,Syria,1918,0.0
-1669,Syria,1920,0.0
-1670,Syria,1922,0.0
-1671,Syria,1924,0.0
-1672,Syria,1926,0.0
-1673,Syria,1928,0.0
-1674,Syria,1930,0.0
-1675,Syria,1932,0.0
-1676,Syria,1934,0.0
-1677,Syria,1936,0.0
-1678,Syria,1938,0.0
-1679,Syria,1940,0.0
-1680,Turkey,1878,0.0
-1681,Turkey,1880,0.0
-1682,Turkey,1882,0.0
-1683,Turkey,1884,0.0
-1684,Turkey,1886,0.0
-1685,Turkey,1888,0.0
-1686,Turkey,1890,0.0
-1687,Turkey,1892,0.0
-1688,Turkey,1896,0.0
-1689,Turkey,1900,0.0
-1690,Turkey,1902,0.0
-1691,Turkey,1906,0.0
-1692,Turkey,1908,1.0
-1693,Turkey,1912,0.0
-1694,Turkey,1914,0.0
-1695,Turkey,1916,0.0
-1696,Turkey,1918,0.0
-1697,Turkey,1920,0.0
-1698,Turkey,1922,0.0
-1699,Turkey,1924,0.0
-1700,Turkey,1926,1.0
-1701,Turkey,1928,1.0
-1702,Turkey,1930,0.0
-1703,Turkey,1932,1.0
-1704,Turkey,1934,1.0
-1705,Turkey,1936,0.0
-1706,Turkey,1938,0.0
-1707,Turkey,1940,0.0
-1708,Wales,1878,0.0
-1709,Wales,1880,0.0
-1710,Wales,1882,0.0
-1711,Wales,1884,1.0
-1712,Wales,1886,0.0
-1713,Wales,1888,2.0
-1714,Wales,1890,0.0
-1715,Wales,1892,2.0
-1716,Wales,1896,0.0
-1717,Wales,1900,0.0
-1718,Wales,1902,1.0
-1719,Wales,1906,1.0
-1720,Wales,1908,3.0
-1721,Wales,1912,0.0
-1722,Wales,1914,3.0
-1723,Wales,1916,0.0
-1724,Wales,1918,1.0
-1725,Wales,1920,0.0
-1726,Wales,1922,1.0
-1727,Wales,1924,0.0
-1728,Wales,1926,0.0
-1729,Wales,1928,1.0
-1730,Wales,1930,0.0
-1731,Wales,1932,0.0
-1732,Wales,1934,0.0
-1733,Wales,1936,0.0
-1734,Wales,1938,1.0
-1735,Wales,1940,0.0
-1736,West Indies,1878,0.0
-1737,West Indies,1880,0.0
-1738,West Indies,1882,0.0
-1739,West Indies,1884,0.0
-1740,West Indies,1886,1.0
-1741,West Indies,1888,1.0
-1742,West Indies,1890,0.0
-1743,West Indies,1892,0.0
-1744,West Indies,1896,0.0
-1745,West Indies,1900,0.0
-1746,West Indies,1902,0.0
-1747,West Indies,1906,0.0
-1748,West Indies,1908,0.0
-1749,West Indies,1912,3.0
-1750,West Indies,1914,0.0
-1751,West Indies,1916,0.0
-1752,West Indies,1918,0.0
-1753,West Indies,1920,0.0
-1754,West Indies,1922,0.0
-1755,West Indies,1924,0.0
-1756,West Indies,1926,0.0
-1757,West Indies,1928,0.0
-1758,West Indies,1930,0.0
-1759,West Indies,1932,0.0
-1760,West Indies,1934,0.0
-1761,West Indies,1936,0.0
-1762,West Indies,1938,0.0
-1763,West Indies,1940,0.0
+0,Albania,1878,0
+1,Albania,1880,0
+2,Albania,1882,0
+3,Albania,1884,0
+4,Albania,1886,0
+5,Albania,1888,0
+6,Albania,1890,0
+7,Albania,1892,0
+8,Albania,1896,0
+9,Albania,1900,0
+10,Albania,1902,0
+11,Albania,1906,0
+12,Albania,1908,0
+13,Albania,1912,0
+14,Albania,1914,0
+15,Albania,1916,0
+16,Albania,1918,0
+17,Albania,1920,0
+18,Albania,1922,0
+19,Albania,1924,0
+20,Albania,1926,0
+21,Albania,1928,0
+22,Albania,1930,0
+23,Albania,1932,1
+24,Albania,1934,0
+25,Albania,1936,0
+26,Albania,1938,0
+27,Albania,1940,0
+28,Argentina,1878,0
+29,Argentina,1880,0
+30,Argentina,1882,0
+31,Argentina,1884,0
+32,Argentina,1886,0
+33,Argentina,1888,0
+34,Argentina,1890,1
+35,Argentina,1892,0
+36,Argentina,1896,0
+37,Argentina,1900,0
+38,Argentina,1902,0
+39,Argentina,1906,0
+40,Argentina,1908,0
+41,Argentina,1912,0
+42,Argentina,1914,0
+43,Argentina,1916,0
+44,Argentina,1918,1
+45,Argentina,1920,0
+46,Argentina,1922,0
+47,Argentina,1924,2
+48,Argentina,1926,0
+49,Argentina,1928,0
+50,Argentina,1930,0
+51,Argentina,1932,0
+52,Argentina,1934,0
+53,Argentina,1936,0
+54,Argentina,1938,0
+55,Argentina,1940,0
+56,Australia,1878,0
+57,Australia,1880,0
+58,Australia,1882,1
+59,Australia,1884,0
+60,Australia,1886,1
+61,Australia,1888,0
+62,Australia,1890,1
+63,Australia,1892,1
+64,Australia,1896,1
+65,Australia,1900,1
+66,Australia,1902,1
+67,Australia,1906,3
+68,Australia,1908,0
+69,Australia,1912,0
+70,Australia,1914,3
+71,Australia,1916,1
+72,Australia,1918,0
+73,Australia,1920,0
+74,Australia,1922,15
+75,Australia,1924,0
+76,Australia,1926,1
+77,Australia,1928,0
+78,Australia,1930,0
+79,Australia,1932,0
+80,Australia,1934,0
+81,Australia,1936,0
+82,Australia,1938,0
+83,Australia,1940,0
+84,Austria,1878,1
+85,Austria,1880,1
+86,Austria,1882,0
+87,Austria,1884,2
+88,Austria,1886,0
+89,Austria,1888,5
+90,Austria,1890,1
+91,Austria,1892,3
+92,Austria,1896,4
+93,Austria,1900,3
+94,Austria,1902,12
+95,Austria,1906,5
+96,Austria,1908,14
+97,Austria,1912,13
+98,Austria,1914,11
+99,Austria,1916,16
+100,Austria,1918,8
+101,Austria,1920,13
+102,Austria,1922,2
+103,Austria,1924,15
+104,Austria,1926,16
+105,Austria,1928,2
+106,Austria,1930,7
+107,Austria,1932,7
+108,Austria,1934,2
+109,Austria,1936,2
+110,Austria,1938,1
+111,Austria,1940,2
+112,Belgium,1878,0
+113,Belgium,1880,0
+114,Belgium,1882,0
+115,Belgium,1884,0
+116,Belgium,1886,1
+117,Belgium,1888,0
+118,Belgium,1890,0
+119,Belgium,1892,3
+120,Belgium,1896,2
+121,Belgium,1900,0
+122,Belgium,1902,0
+123,Belgium,1906,0
+124,Belgium,1908,0
+125,Belgium,1912,0
+126,Belgium,1914,0
+127,Belgium,1916,0
+128,Belgium,1918,0
+129,Belgium,1920,0
+130,Belgium,1922,0
+131,Belgium,1924,1
+132,Belgium,1926,2
+133,Belgium,1928,3
+134,Belgium,1930,1
+135,Belgium,1932,0
+136,Belgium,1934,0
+137,Belgium,1936,1
+138,Belgium,1938,0
+139,Belgium,1940,0
+140,Czech Republic,1878,0
+141,Czech Republic,1880,1
+142,Czech Republic,1882,0
+143,Czech Republic,1884,0
+144,Czech Republic,1886,0
+145,Czech Republic,1888,0
+146,Czech Republic,1890,0
+147,Czech Republic,1892,0
+148,Czech Republic,1896,0
+149,Czech Republic,1900,0
+150,Czech Republic,1902,0
+151,Czech Republic,1906,0
+152,Czech Republic,1908,0
+153,Czech Republic,1912,0
+154,Czech Republic,1914,1
+155,Czech Republic,1916,1
+156,Czech Republic,1918,0
+157,Czech Republic,1920,0
+158,Czech Republic,1922,1
+159,Czech Republic,1924,1
+160,Czech Republic,1926,0
+161,Czech Republic,1928,0
+162,Czech Republic,1930,1
+163,Czech Republic,1932,0
+164,Czech Republic,1934,0
+165,Czech Republic,1936,0
+166,Czech Republic,1938,0
+167,Czech Republic,1940,0
+168,Brazil,1878,0
+169,Brazil,1880,0
+170,Brazil,1882,0
+171,Brazil,1884,0
+172,Brazil,1886,0
+173,Brazil,1888,0
+174,Brazil,1890,0
+175,Brazil,1892,0
+176,Brazil,1896,0
+177,Brazil,1900,0
+178,Brazil,1902,0
+179,Brazil,1906,1
+180,Brazil,1908,0
+181,Brazil,1912,0
+182,Brazil,1914,0
+183,Brazil,1916,0
+184,Brazil,1918,0
+185,Brazil,1920,0
+186,Brazil,1922,0
+187,Brazil,1924,1
+188,Brazil,1926,0
+189,Brazil,1928,0
+190,Brazil,1930,0
+191,Brazil,1932,0
+192,Brazil,1934,1
+193,Brazil,1936,0
+194,Brazil,1938,0
+195,Brazil,1940,0
+196,Bulgaria,1878,0
+197,Bulgaria,1880,0
+198,Bulgaria,1882,0
+199,Bulgaria,1884,0
+200,Bulgaria,1886,0
+201,Bulgaria,1888,0
+202,Bulgaria,1890,0
+203,Bulgaria,1892,0
+204,Bulgaria,1896,0
+205,Bulgaria,1900,0
+206,Bulgaria,1902,0
+207,Bulgaria,1906,0
+208,Bulgaria,1908,1
+209,Bulgaria,1912,1
+210,Bulgaria,1914,0
+211,Bulgaria,1916,0
+212,Bulgaria,1918,2
+213,Bulgaria,1920,1
+214,Bulgaria,1922,3
+215,Bulgaria,1924,2
+216,Bulgaria,1926,4
+217,Bulgaria,1928,1
+218,Bulgaria,1930,0
+219,Bulgaria,1932,0
+220,Bulgaria,1934,0
+221,Bulgaria,1936,0
+222,Bulgaria,1938,1
+223,Bulgaria,1940,0
+224,Canada,1878,9
+225,Canada,1880,7
+226,Canada,1882,8
+227,Canada,1884,11
+228,Canada,1886,8
+229,Canada,1888,14
+230,Canada,1890,23
+231,Canada,1892,16
+232,Canada,1896,12
+233,Canada,1900,5
+234,Canada,1902,6
+235,Canada,1906,11
+236,Canada,1908,11
+237,Canada,1912,3
+238,Canada,1914,7
+239,Canada,1916,10
+240,Canada,1918,5
+241,Canada,1920,7
+242,Canada,1922,7
+243,Canada,1924,15
+244,Canada,1926,7
+245,Canada,1928,9
+246,Canada,1930,3
+247,Canada,1932,6
+248,Canada,1934,4
+249,Canada,1936,2
+250,Canada,1938,7
+251,Canada,1940,2
+252,China,1878,0
+253,China,1880,0
+254,China,1882,0
+255,China,1884,1
+256,China,1886,1
+257,China,1888,0
+258,China,1890,0
+259,China,1892,1
+260,China,1896,0
+261,China,1900,0
+262,China,1902,0
+263,China,1906,0
+264,China,1908,1
+265,China,1912,0
+266,China,1914,0
+267,China,1916,0
+268,China,1918,0
+269,China,1920,0
+270,China,1922,0
+271,China,1924,0
+272,China,1926,0
+273,China,1928,0
+274,China,1930,0
+275,China,1932,0
+276,China,1934,0
+277,China,1936,0
+278,China,1938,1
+279,China,1940,0
+280,Costa Rica,1878,0
+281,Costa Rica,1880,0
+282,Costa Rica,1882,0
+283,Costa Rica,1884,0
+284,Costa Rica,1886,0
+285,Costa Rica,1888,0
+286,Costa Rica,1890,0
+287,Costa Rica,1892,0
+288,Costa Rica,1896,0
+289,Costa Rica,1900,0
+290,Costa Rica,1902,0
+291,Costa Rica,1906,0
+292,Costa Rica,1908,0
+293,Costa Rica,1912,0
+294,Costa Rica,1914,0
+295,Costa Rica,1916,0
+296,Costa Rica,1918,0
+297,Costa Rica,1920,3
+298,Costa Rica,1922,0
+299,Costa Rica,1924,0
+300,Costa Rica,1926,1
+301,Costa Rica,1928,0
+302,Costa Rica,1930,0
+303,Costa Rica,1932,0
+304,Costa Rica,1934,0
+305,Costa Rica,1936,0
+306,Costa Rica,1938,0
+307,Costa Rica,1940,0
+308,Croatia,1878,0
+309,Croatia,1880,0
+310,Croatia,1882,0
+311,Croatia,1884,0
+312,Croatia,1886,0
+313,Croatia,1888,0
+314,Croatia,1890,0
+315,Croatia,1892,0
+316,Croatia,1896,0
+317,Croatia,1900,0
+318,Croatia,1902,0
+319,Croatia,1906,0
+320,Croatia,1908,0
+321,Croatia,1912,0
+322,Croatia,1914,0
+323,Croatia,1916,0
+324,Croatia,1918,0
+325,Croatia,1920,0
+326,Croatia,1922,0
+327,Croatia,1924,0
+328,Croatia,1926,0
+329,Croatia,1928,0
+330,Croatia,1930,2
+331,Croatia,1932,0
+332,Croatia,1934,0
+333,Croatia,1936,1
+334,Croatia,1938,0
+335,Croatia,1940,0
+336,Cuba,1878,0
+337,Cuba,1880,0
+338,Cuba,1882,1
+339,Cuba,1884,1
+340,Cuba,1886,1
+341,Cuba,1888,0
+342,Cuba,1890,0
+343,Cuba,1892,2
+344,Cuba,1896,1
+345,Cuba,1900,0
+346,Cuba,1902,0
+347,Cuba,1906,0
+348,Cuba,1908,0
+349,Cuba,1912,2
+350,Cuba,1914,0
+351,Cuba,1916,2
+352,Cuba,1918,0
+353,Cuba,1920,0
+354,Cuba,1922,2
+355,Cuba,1924,0
+356,Cuba,1926,0
+357,Cuba,1928,0
+358,Cuba,1930,0
+359,Cuba,1932,0
+360,Cuba,1934,0
+361,Cuba,1936,0
+362,Cuba,1938,0
+363,Cuba,1940,0
+364,Denmark,1878,0
+365,Denmark,1880,0
+366,Denmark,1882,0
+367,Denmark,1884,1
+368,Denmark,1886,1
+369,Denmark,1888,1
+370,Denmark,1890,0
+371,Denmark,1892,3
+372,Denmark,1896,2
+373,Denmark,1900,2
+374,Denmark,1902,0
+375,Denmark,1906,3
+376,Denmark,1908,2
+377,Denmark,1912,2
+378,Denmark,1914,0
+379,Denmark,1916,0
+380,Denmark,1918,0
+381,Denmark,1920,0
+382,Denmark,1922,2
+383,Denmark,1924,1
+384,Denmark,1926,1
+385,Denmark,1928,0
+386,Denmark,1930,1
+387,Denmark,1932,0
+388,Denmark,1934,1
+389,Denmark,1936,0
+390,Denmark,1938,1
+391,Denmark,1940,2
+392,Egypt,1878,0
+393,Egypt,1880,0
+394,Egypt,1882,0
+395,Egypt,1884,0
+396,Egypt,1886,0
+397,Egypt,1888,0
+398,Egypt,1890,1
+399,Egypt,1892,0
+400,Egypt,1896,0
+401,Egypt,1900,0
+402,Egypt,1902,0
+403,Egypt,1906,0
+404,Egypt,1908,0
+405,Egypt,1912,0
+406,Egypt,1914,0
+407,Egypt,1916,0
+408,Egypt,1918,0
+409,Egypt,1920,0
+410,Egypt,1922,1
+411,Egypt,1924,0
+412,Egypt,1926,0
+413,Egypt,1928,0
+414,Egypt,1930,0
+415,Egypt,1932,1
+416,Egypt,1934,0
+417,Egypt,1936,0
+418,Egypt,1938,0
+419,Egypt,1940,0
+420,Finland,1878,0
+421,Finland,1880,0
+422,Finland,1882,0
+423,Finland,1884,0
+424,Finland,1886,0
+425,Finland,1888,0
+426,Finland,1890,0
+427,Finland,1892,0
+428,Finland,1896,0
+429,Finland,1900,0
+430,Finland,1902,0
+431,Finland,1906,0
+432,Finland,1908,1
+433,Finland,1912,0
+434,Finland,1914,0
+435,Finland,1916,2
+436,Finland,1918,0
+437,Finland,1920,1
+438,Finland,1922,0
+439,Finland,1924,1
+440,Finland,1926,2
+441,Finland,1928,0
+442,Finland,1930,2
+443,Finland,1932,0
+444,Finland,1934,0
+445,Finland,1936,0
+446,Finland,1938,1
+447,Finland,1940,0
+448,France,1878,4
+449,France,1880,1
+450,France,1882,1
+451,France,1884,3
+452,France,1886,1
+453,France,1888,5
+454,France,1890,3
+455,France,1892,5
+456,France,1896,4
+457,France,1900,2
+458,France,1902,2
+459,France,1906,2
+460,France,1908,1
+461,France,1912,2
+462,France,1914,4
+463,France,1916,1
+464,France,1918,0
+465,France,1920,1
+466,France,1922,3
+467,France,1924,0
+468,France,1926,1
+469,France,1928,1
+470,France,1930,3
+471,France,1932,5
+472,France,1934,0
+473,France,1936,0
+474,France,1938,0
+475,France,1940,0
+476,Germany,1878,7
+477,Germany,1880,12
+478,Germany,1882,13
+479,Germany,1884,15
+480,Germany,1886,12
+481,Germany,1888,14
+482,Germany,1890,22
+483,Germany,1892,27
+484,Germany,1896,29
+485,Germany,1900,14
+486,Germany,1902,11
+487,Germany,1906,17
+488,Germany,1908,22
+489,Germany,1912,19
+490,Germany,1914,19
+491,Germany,1916,11
+492,Germany,1918,8
+493,Germany,1920,2
+494,Germany,1922,9
+495,Germany,1924,12
+496,Germany,1926,13
+497,Germany,1928,4
+498,Germany,1930,15
+499,Germany,1932,8
+500,Germany,1934,8
+501,Germany,1936,5
+502,Germany,1938,2
+503,Germany,1940,1
+504,Greece,1878,0
+505,Greece,1880,0
+506,Greece,1882,0
+507,Greece,1884,0
+508,Greece,1886,0
+509,Greece,1888,0
+510,Greece,1890,0
+511,Greece,1892,0
+512,Greece,1896,0
+513,Greece,1900,0
+514,Greece,1902,0
+515,Greece,1906,1
+516,Greece,1908,5
+517,Greece,1912,0
+518,Greece,1914,2
+519,Greece,1916,7
+520,Greece,1918,2
+521,Greece,1920,5
+522,Greece,1922,1
+523,Greece,1924,10
+524,Greece,1926,4
+525,Greece,1928,8
+526,Greece,1930,1
+527,Greece,1932,2
+528,Greece,1934,1
+529,Greece,1936,4
+530,Greece,1938,0
+531,Greece,1940,0
+532,Hungary,1878,0
+533,Hungary,1880,0
+534,Hungary,1882,0
+535,Hungary,1884,1
+536,Hungary,1886,0
+537,Hungary,1888,0
+538,Hungary,1890,2
+539,Hungary,1892,0
+540,Hungary,1896,1
+541,Hungary,1900,0
+542,Hungary,1902,1
+543,Hungary,1906,1
+544,Hungary,1908,4
+545,Hungary,1912,1
+546,Hungary,1914,1
+547,Hungary,1916,3
+548,Hungary,1918,1
+549,Hungary,1920,1
+550,Hungary,1922,0
+551,Hungary,1924,0
+552,Hungary,1926,1
+553,Hungary,1928,1
+554,Hungary,1930,0
+555,Hungary,1932,1
+556,Hungary,1934,0
+557,Hungary,1936,1
+558,Hungary,1938,1
+559,Hungary,1940,0
+560,India,1878,0
+561,India,1880,0
+562,India,1882,0
+563,India,1884,0
+564,India,1886,0
+565,India,1888,0
+566,India,1890,0
+567,India,1892,0
+568,India,1896,0
+569,India,1900,0
+570,India,1902,0
+571,India,1906,0
+572,India,1908,0
+573,India,1912,0
+574,India,1914,1
+575,India,1916,1
+576,India,1918,1
+577,India,1920,0
+578,India,1922,0
+579,India,1924,1
+580,India,1926,0
+581,India,1928,2
+582,India,1930,0
+583,India,1932,0
+584,India,1934,2
+585,India,1936,1
+586,India,1938,0
+587,India,1940,0
+588,Ireland,1878,12
+589,Ireland,1880,18
+590,Ireland,1882,15
+591,Ireland,1884,19
+592,Ireland,1886,16
+593,Ireland,1888,24
+594,Ireland,1890,28
+595,Ireland,1892,25
+596,Ireland,1896,14
+597,Ireland,1900,10
+598,Ireland,1902,21
+599,Ireland,1906,6
+600,Ireland,1908,9
+601,Ireland,1912,8
+602,Ireland,1914,8
+603,Ireland,1916,7
+604,Ireland,1918,2
+605,Ireland,1920,1
+606,Ireland,1922,5
+607,Ireland,1924,6
+608,Ireland,1926,6
+609,Ireland,1928,2
+610,Ireland,1930,7
+611,Ireland,1932,5
+612,Ireland,1934,1
+613,Ireland,1936,1
+614,Ireland,1938,1
+615,Ireland,1940,2
+616,Italy,1878,7
+617,Italy,1880,6
+618,Italy,1882,4
+619,Italy,1884,7
+620,Italy,1886,6
+621,Italy,1888,5
+622,Italy,1890,4
+623,Italy,1892,11
+624,Italy,1896,9
+625,Italy,1900,1
+626,Italy,1902,8
+627,Italy,1906,8
+628,Italy,1908,16
+629,Italy,1912,18
+630,Italy,1914,25
+631,Italy,1916,12
+632,Italy,1918,14
+633,Italy,1920,5
+634,Italy,1922,12
+635,Italy,1924,18
+636,Italy,1926,22
+637,Italy,1928,24
+638,Italy,1930,20
+639,Italy,1932,17
+640,Italy,1934,6
+641,Italy,1936,2
+642,Italy,1938,5
+643,Italy,1940,2
+644,Jamaica,1878,0
+645,Jamaica,1880,0
+646,Jamaica,1882,0
+647,Jamaica,1884,0
+648,Jamaica,1886,0
+649,Jamaica,1888,1
+650,Jamaica,1890,0
+651,Jamaica,1892,0
+652,Jamaica,1896,0
+653,Jamaica,1900,1
+654,Jamaica,1902,0
+655,Jamaica,1906,0
+656,Jamaica,1908,0
+657,Jamaica,1912,0
+658,Jamaica,1914,0
+659,Jamaica,1916,0
+660,Jamaica,1918,0
+661,Jamaica,1920,0
+662,Jamaica,1922,1
+663,Jamaica,1924,2
+664,Jamaica,1926,0
+665,Jamaica,1928,0
+666,Jamaica,1930,0
+667,Jamaica,1932,0
+668,Jamaica,1934,0
+669,Jamaica,1936,0
+670,Jamaica,1938,0
+671,Jamaica,1940,0
+672,Japan,1878,0
+673,Japan,1880,0
+674,Japan,1882,0
+675,Japan,1884,0
+676,Japan,1886,0
+677,Japan,1888,0
+678,Japan,1890,0
+679,Japan,1892,0
+680,Japan,1896,1
+681,Japan,1900,0
+682,Japan,1902,2
+683,Japan,1906,1
+684,Japan,1908,0
+685,Japan,1912,3
+686,Japan,1914,3
+687,Japan,1916,2
+688,Japan,1918,0
+689,Japan,1920,2
+690,Japan,1922,1
+691,Japan,1924,0
+692,Japan,1926,0
+693,Japan,1928,0
+694,Japan,1930,0
+695,Japan,1932,0
+696,Japan,1934,0
+697,Japan,1936,1
+698,Japan,1938,0
+699,Japan,1940,0
+700,Indonesia,1878,0
+701,Indonesia,1880,0
+702,Indonesia,1882,0
+703,Indonesia,1884,0
+704,Indonesia,1886,0
+705,Indonesia,1888,0
+706,Indonesia,1890,0
+707,Indonesia,1892,1
+708,Indonesia,1896,0
+709,Indonesia,1900,0
+710,Indonesia,1902,0
+711,Indonesia,1906,0
+712,Indonesia,1908,0
+713,Indonesia,1912,0
+714,Indonesia,1914,0
+715,Indonesia,1916,0
+716,Indonesia,1918,0
+717,Indonesia,1920,0
+718,Indonesia,1922,0
+719,Indonesia,1924,0
+720,Indonesia,1926,0
+721,Indonesia,1928,0
+722,Indonesia,1930,0
+723,Indonesia,1932,0
+724,Indonesia,1934,0
+725,Indonesia,1936,0
+726,Indonesia,1938,0
+727,Indonesia,1940,0
+728,South Korea,1878,0
+729,South Korea,1880,0
+730,South Korea,1882,0
+731,South Korea,1884,0
+732,South Korea,1886,0
+733,South Korea,1888,0
+734,South Korea,1890,0
+735,South Korea,1892,0
+736,South Korea,1896,0
+737,South Korea,1900,0
+738,South Korea,1902,0
+739,South Korea,1906,0
+740,South Korea,1908,0
+741,South Korea,1912,0
+742,South Korea,1914,0
+743,South Korea,1916,2
+744,South Korea,1918,0
+745,South Korea,1920,2
+746,South Korea,1922,1
+747,South Korea,1924,0
+748,South Korea,1926,0
+749,South Korea,1928,0
+750,South Korea,1930,0
+751,South Korea,1932,0
+752,South Korea,1934,0
+753,South Korea,1936,0
+754,South Korea,1938,0
+755,South Korea,1940,0
+756,Lithuania,1878,0
+757,Lithuania,1880,0
+758,Lithuania,1882,0
+759,Lithuania,1884,0
+760,Lithuania,1886,0
+761,Lithuania,1888,0
+762,Lithuania,1890,0
+763,Lithuania,1892,0
+764,Lithuania,1896,0
+765,Lithuania,1900,0
+766,Lithuania,1902,0
+767,Lithuania,1906,0
+768,Lithuania,1908,0
+769,Lithuania,1912,0
+770,Lithuania,1914,0
+771,Lithuania,1916,0
+772,Lithuania,1918,0
+773,Lithuania,1920,0
+774,Lithuania,1922,0
+775,Lithuania,1924,0
+776,Lithuania,1926,0
+777,Lithuania,1928,0
+778,Lithuania,1930,0
+779,Lithuania,1932,0
+780,Lithuania,1934,0
+781,Lithuania,1936,0
+782,Lithuania,1938,0
+783,Lithuania,1940,1
+784,Mexico,1878,1
+785,Mexico,1880,2
+786,Mexico,1882,0
+787,Mexico,1884,1
+788,Mexico,1886,0
+789,Mexico,1888,1
+790,Mexico,1890,3
+791,Mexico,1892,3
+792,Mexico,1896,2
+793,Mexico,1900,0
+794,Mexico,1902,7
+795,Mexico,1906,7
+796,Mexico,1908,28
+797,Mexico,1912,36
+798,Mexico,1914,62
+799,Mexico,1916,62
+800,Mexico,1918,40
+801,Mexico,1920,61
+802,Mexico,1922,70
+803,Mexico,1924,59
+804,Mexico,1926,95
+805,Mexico,1928,91
+806,Mexico,1930,41
+807,Mexico,1932,69
+808,Mexico,1934,51
+809,Mexico,1936,27
+810,Mexico,1938,24
+811,Mexico,1940,10
+812,Montenegro,1878,0
+813,Montenegro,1880,0
+814,Montenegro,1882,0
+815,Montenegro,1884,0
+816,Montenegro,1886,0
+817,Montenegro,1888,0
+818,Montenegro,1890,0
+819,Montenegro,1892,0
+820,Montenegro,1896,0
+821,Montenegro,1900,0
+822,Montenegro,1902,0
+823,Montenegro,1906,0
+824,Montenegro,1908,0
+825,Montenegro,1912,0
+826,Montenegro,1914,0
+827,Montenegro,1916,1
+828,Montenegro,1918,0
+829,Montenegro,1920,0
+830,Montenegro,1922,0
+831,Montenegro,1924,0
+832,Montenegro,1926,1
+833,Montenegro,1928,0
+834,Montenegro,1930,0
+835,Montenegro,1932,0
+836,Montenegro,1934,0
+837,Montenegro,1936,0
+838,Montenegro,1938,0
+839,Montenegro,1940,0
+840,Netherlands,1878,0
+841,Netherlands,1880,0
+842,Netherlands,1882,0
+843,Netherlands,1884,0
+844,Netherlands,1886,1
+845,Netherlands,1888,1
+846,Netherlands,1890,0
+847,Netherlands,1892,0
+848,Netherlands,1896,0
+849,Netherlands,1900,0
+850,Netherlands,1902,0
+851,Netherlands,1906,0
+852,Netherlands,1908,1
+853,Netherlands,1912,0
+854,Netherlands,1914,0
+855,Netherlands,1916,1
+856,Netherlands,1918,0
+857,Netherlands,1920,0
+858,Netherlands,1922,0
+859,Netherlands,1924,0
+860,Netherlands,1926,0
+861,Netherlands,1928,1
+862,Netherlands,1930,1
+863,Netherlands,1932,1
+864,Netherlands,1934,0
+865,Netherlands,1936,0
+866,Netherlands,1938,0
+867,Netherlands,1940,0
+868,New Zealand,1878,0
+869,New Zealand,1880,0
+870,New Zealand,1882,0
+871,New Zealand,1884,0
+872,New Zealand,1886,0
+873,New Zealand,1888,0
+874,New Zealand,1890,0
+875,New Zealand,1892,0
+876,New Zealand,1896,0
+877,New Zealand,1900,0
+878,New Zealand,1902,0
+879,New Zealand,1906,0
+880,New Zealand,1908,0
+881,New Zealand,1912,0
+882,New Zealand,1914,1
+883,New Zealand,1916,0
+884,New Zealand,1918,0
+885,New Zealand,1920,0
+886,New Zealand,1922,0
+887,New Zealand,1924,0
+888,New Zealand,1926,0
+889,New Zealand,1928,0
+890,New Zealand,1930,0
+891,New Zealand,1932,0
+892,New Zealand,1934,0
+893,New Zealand,1936,0
+894,New Zealand,1938,0
+895,New Zealand,1940,0
+896,Nicaragua,1878,0
+897,Nicaragua,1880,0
+898,Nicaragua,1882,0
+899,Nicaragua,1884,0
+900,Nicaragua,1886,0
+901,Nicaragua,1888,0
+902,Nicaragua,1890,0
+903,Nicaragua,1892,0
+904,Nicaragua,1896,0
+905,Nicaragua,1900,0
+906,Nicaragua,1902,0
+907,Nicaragua,1906,0
+908,Nicaragua,1908,0
+909,Nicaragua,1912,0
+910,Nicaragua,1914,0
+911,Nicaragua,1916,0
+912,Nicaragua,1918,0
+913,Nicaragua,1920,0
+914,Nicaragua,1922,0
+915,Nicaragua,1924,0
+916,Nicaragua,1926,1
+917,Nicaragua,1928,0
+918,Nicaragua,1930,0
+919,Nicaragua,1932,0
+920,Nicaragua,1934,0
+921,Nicaragua,1936,0
+922,Nicaragua,1938,0
+923,Nicaragua,1940,0
+924,Norway,1878,0
+925,Norway,1880,0
+926,Norway,1882,1
+927,Norway,1884,1
+928,Norway,1886,1
+929,Norway,1888,2
+930,Norway,1890,1
+931,Norway,1892,0
+932,Norway,1896,0
+933,Norway,1900,0
+934,Norway,1902,0
+935,Norway,1906,0
+936,Norway,1908,1
+937,Norway,1912,0
+938,Norway,1914,1
+939,Norway,1916,1
+940,Norway,1918,1
+941,Norway,1920,0
+942,Norway,1922,1
+943,Norway,1924,1
+944,Norway,1926,1
+945,Norway,1928,2
+946,Norway,1930,2
+947,Norway,1932,2
+948,Norway,1934,0
+949,Norway,1936,0
+950,Norway,1938,0
+951,Norway,1940,0
+952,Philippines,1878,0
+953,Philippines,1880,0
+954,Philippines,1882,0
+955,Philippines,1884,0
+956,Philippines,1886,1
+957,Philippines,1888,0
+958,Philippines,1890,0
+959,Philippines,1892,0
+960,Philippines,1896,0
+961,Philippines,1900,0
+962,Philippines,1902,0
+963,Philippines,1906,0
+964,Philippines,1908,0
+965,Philippines,1912,0
+966,Philippines,1914,0
+967,Philippines,1916,0
+968,Philippines,1918,0
+969,Philippines,1920,0
+970,Philippines,1922,0
+971,Philippines,1924,0
+972,Philippines,1926,0
+973,Philippines,1928,1
+974,Philippines,1930,1
+975,Philippines,1932,3
+976,Philippines,1934,1
+977,Philippines,1936,0
+978,Philippines,1938,2
+979,Philippines,1940,0
+980,Poland,1878,0
+981,Poland,1880,0
+982,Poland,1882,0
+983,Poland,1884,0
+984,Poland,1886,0
+985,Poland,1888,1
+986,Poland,1890,0
+987,Poland,1892,1
+988,Poland,1896,0
+989,Poland,1900,0
+990,Poland,1902,0
+991,Poland,1906,0
+992,Poland,1908,2
+993,Poland,1912,0
+994,Poland,1914,0
+995,Poland,1916,1
+996,Poland,1918,0
+997,Poland,1920,0
+998,Poland,1922,1
+999,Poland,1924,1
+1000,Poland,1926,2
+1001,Poland,1928,2
+1002,Poland,1930,2
+1003,Poland,1932,2
+1004,Poland,1934,4
+1005,Poland,1936,0
+1006,Poland,1938,0
+1007,Poland,1940,0
+1008,Porto Rico,1878,0
+1009,Porto Rico,1880,0
+1010,Porto Rico,1882,0
+1011,Porto Rico,1884,0
+1012,Porto Rico,1886,0
+1013,Porto Rico,1888,0
+1014,Porto Rico,1890,0
+1015,Porto Rico,1892,0
+1016,Porto Rico,1896,0
+1017,Porto Rico,1900,0
+1018,Porto Rico,1902,0
+1019,Porto Rico,1906,0
+1020,Porto Rico,1908,0
+1021,Porto Rico,1912,1
+1022,Porto Rico,1914,0
+1023,Porto Rico,1916,0
+1024,Porto Rico,1918,1
+1025,Porto Rico,1920,0
+1026,Porto Rico,1922,0
+1027,Porto Rico,1924,1
+1028,Porto Rico,1926,0
+1029,Porto Rico,1928,0
+1030,Porto Rico,1930,0
+1031,Porto Rico,1932,0
+1032,Porto Rico,1934,0
+1033,Porto Rico,1936,0
+1034,Porto Rico,1938,1
+1035,Porto Rico,1940,0
+1036,Portugal,1878,0
+1037,Portugal,1880,0
+1038,Portugal,1882,0
+1039,Portugal,1884,0
+1040,Portugal,1886,0
+1041,Portugal,1888,0
+1042,Portugal,1890,0
+1043,Portugal,1892,0
+1044,Portugal,1896,0
+1045,Portugal,1900,0
+1046,Portugal,1902,0
+1047,Portugal,1906,0
+1048,Portugal,1908,0
+1049,Portugal,1912,0
+1050,Portugal,1914,0
+1051,Portugal,1916,0
+1052,Portugal,1918,0
+1053,Portugal,1920,0
+1054,Portugal,1922,0
+1055,Portugal,1924,0
+1056,Portugal,1926,0
+1057,Portugal,1928,0
+1058,Portugal,1930,0
+1059,Portugal,1932,0
+1060,Portugal,1934,0
+1061,Portugal,1936,1
+1062,Portugal,1938,0
+1063,Portugal,1940,0
+1064,Romania,1878,0
+1065,Romania,1880,0
+1066,Romania,1882,0
+1067,Romania,1884,0
+1068,Romania,1886,0
+1069,Romania,1888,0
+1070,Romania,1890,0
+1071,Romania,1892,0
+1072,Romania,1896,0
+1073,Romania,1900,0
+1074,Romania,1902,0
+1075,Romania,1906,0
+1076,Romania,1908,0
+1077,Romania,1912,1
+1078,Romania,1914,0
+1079,Romania,1916,0
+1080,Romania,1918,0
+1081,Romania,1920,0
+1082,Romania,1922,1
+1083,Romania,1924,0
+1084,Romania,1926,0
+1085,Romania,1928,0
+1086,Romania,1930,1
+1087,Romania,1932,0
+1088,Romania,1934,0
+1089,Romania,1936,0
+1090,Romania,1938,0
+1091,Romania,1940,0
+1092,Russia,1878,0
+1093,Russia,1880,1
+1094,Russia,1882,1
+1095,Russia,1884,1
+1096,Russia,1886,0
+1097,Russia,1888,1
+1098,Russia,1890,2
+1099,Russia,1892,2
+1100,Russia,1896,6
+1101,Russia,1900,3
+1102,Russia,1902,1
+1103,Russia,1906,1
+1104,Russia,1908,1
+1105,Russia,1912,3
+1106,Russia,1914,3
+1107,Russia,1916,5
+1108,Russia,1918,10
+1109,Russia,1920,7
+1110,Russia,1922,10
+1111,Russia,1924,8
+1112,Russia,1926,8
+1113,Russia,1928,12
+1114,Russia,1930,8
+1115,Russia,1932,8
+1116,Russia,1934,11
+1117,Russia,1936,7
+1118,Russia,1938,5
+1119,Russia,1940,2
+1120,Scotland,1878,0
+1121,Scotland,1880,1
+1122,Scotland,1882,2
+1123,Scotland,1884,3
+1124,Scotland,1886,1
+1125,Scotland,1888,2
+1126,Scotland,1890,8
+1127,Scotland,1892,4
+1128,Scotland,1896,5
+1129,Scotland,1900,7
+1130,Scotland,1902,3
+1131,Scotland,1906,4
+1132,Scotland,1908,4
+1133,Scotland,1912,2
+1134,Scotland,1914,4
+1135,Scotland,1916,4
+1136,Scotland,1918,1
+1137,Scotland,1920,1
+1138,Scotland,1922,3
+1139,Scotland,1924,3
+1140,Scotland,1926,7
+1141,Scotland,1928,2
+1142,Scotland,1930,5
+1143,Scotland,1932,2
+1144,Scotland,1934,0
+1145,Scotland,1936,0
+1146,Scotland,1938,0
+1147,Scotland,1940,0
+1148,Serbia,1878,0
+1149,Serbia,1880,0
+1150,Serbia,1882,0
+1151,Serbia,1884,0
+1152,Serbia,1886,0
+1153,Serbia,1888,0
+1154,Serbia,1890,0
+1155,Serbia,1892,0
+1156,Serbia,1896,0
+1157,Serbia,1900,0
+1158,Serbia,1902,0
+1159,Serbia,1906,0
+1160,Serbia,1908,0
+1161,Serbia,1912,0
+1162,Serbia,1914,0
+1163,Serbia,1916,0
+1164,Serbia,1918,0
+1165,Serbia,1920,0
+1166,Serbia,1922,2
+1167,Serbia,1924,2
+1168,Serbia,1926,1
+1169,Serbia,1928,1
+1170,Serbia,1930,25
+1171,Serbia,1932,1
+1172,Serbia,1934,2
+1173,Serbia,1936,1
+1174,Serbia,1938,0
+1175,Serbia,1940,0
+1176,Thailand,1878,0
+1177,Thailand,1880,0
+1178,Thailand,1882,0
+1179,Thailand,1884,0
+1180,Thailand,1886,0
+1181,Thailand,1888,0
+1182,Thailand,1890,0
+1183,Thailand,1892,0
+1184,Thailand,1896,0
+1185,Thailand,1900,0
+1186,Thailand,1902,0
+1187,Thailand,1906,0
+1188,Thailand,1908,0
+1189,Thailand,1912,0
+1190,Thailand,1914,0
+1191,Thailand,1916,0
+1192,Thailand,1918,0
+1193,Thailand,1920,0
+1194,Thailand,1922,0
+1195,Thailand,1924,0
+1196,Thailand,1926,0
+1197,Thailand,1928,0
+1198,Thailand,1930,0
+1199,Thailand,1932,1
+1200,Thailand,1934,0
+1201,Thailand,1936,0
+1202,Thailand,1938,0
+1203,Thailand,1940,0
+1204,South Africa,1878,0
+1205,South Africa,1880,0
+1206,South Africa,1882,0
+1207,South Africa,1884,0
+1208,South Africa,1886,0
+1209,South Africa,1888,0
+1210,South Africa,1890,1
+1211,South Africa,1892,1
+1212,South Africa,1896,0
+1213,South Africa,1900,0
+1214,South Africa,1902,0
+1215,South Africa,1906,0
+1216,South Africa,1908,0
+1217,South Africa,1912,2
+1218,South Africa,1914,0
+1219,South Africa,1916,0
+1220,South Africa,1918,0
+1221,South Africa,1920,0
+1222,South Africa,1922,0
+1223,South Africa,1924,0
+1224,South Africa,1926,0
+1225,South Africa,1928,0
+1226,South Africa,1930,0
+1227,South Africa,1932,0
+1228,South Africa,1934,0
+1229,South Africa,1936,0
+1230,South Africa,1938,0
+1231,South Africa,1940,0
+1232,Solomon Islands,1878,0
+1233,Solomon Islands,1880,0
+1234,Solomon Islands,1882,0
+1235,Solomon Islands,1884,0
+1236,Solomon Islands,1886,0
+1237,Solomon Islands,1888,0
+1238,Solomon Islands,1890,0
+1239,Solomon Islands,1892,0
+1240,Solomon Islands,1896,0
+1241,Solomon Islands,1900,0
+1242,Solomon Islands,1902,0
+1243,Solomon Islands,1906,0
+1244,Solomon Islands,1908,0
+1245,Solomon Islands,1912,0
+1246,Solomon Islands,1914,0
+1247,Solomon Islands,1916,0
+1248,Solomon Islands,1918,0
+1249,Solomon Islands,1920,0
+1250,Solomon Islands,1922,0
+1251,Solomon Islands,1924,1
+1252,Solomon Islands,1926,0
+1253,Solomon Islands,1928,0
+1254,Solomon Islands,1930,0
+1255,Solomon Islands,1932,0
+1256,Solomon Islands,1934,0
+1257,Solomon Islands,1936,0
+1258,Solomon Islands,1938,0
+1259,Solomon Islands,1940,0
+1260,Spain,1878,0
+1261,Spain,1880,0
+1262,Spain,1882,0
+1263,Spain,1884,0
+1264,Spain,1886,0
+1265,Spain,1888,0
+1266,Spain,1890,0
+1267,Spain,1892,0
+1268,Spain,1896,1
+1269,Spain,1900,0
+1270,Spain,1902,0
+1271,Spain,1906,0
+1272,Spain,1908,0
+1273,Spain,1912,0
+1274,Spain,1914,0
+1275,Spain,1916,0
+1276,Spain,1918,0
+1277,Spain,1920,1
+1278,Spain,1922,1
+1279,Spain,1924,0
+1280,Spain,1926,0
+1281,Spain,1928,0
+1282,Spain,1930,1
+1283,Spain,1932,0
+1284,Spain,1934,0
+1285,Spain,1936,0
+1286,Spain,1938,1
+1287,Spain,1940,0
+1288,Sweden,1878,0
+1289,Sweden,1880,0
+1290,Sweden,1882,1
+1291,Sweden,1884,1
+1292,Sweden,1886,1
+1293,Sweden,1888,6
+1294,Sweden,1890,2
+1295,Sweden,1892,5
+1296,Sweden,1896,12
+1297,Sweden,1900,8
+1298,Sweden,1902,4
+1299,Sweden,1906,2
+1300,Sweden,1908,6
+1301,Sweden,1912,4
+1302,Sweden,1914,4
+1303,Sweden,1916,4
+1304,Sweden,1918,1
+1305,Sweden,1920,0
+1306,Sweden,1922,1
+1307,Sweden,1924,1
+1308,Sweden,1926,0
+1309,Sweden,1928,0
+1310,Sweden,1930,6
+1311,Sweden,1932,4
+1312,Sweden,1934,1
+1313,Sweden,1936,1
+1314,Sweden,1938,2
+1315,Sweden,1940,1
+1316,Switzerland,1878,0
+1317,Switzerland,1880,0
+1318,Switzerland,1882,1
+1319,Switzerland,1884,0
+1320,Switzerland,1886,1
+1321,Switzerland,1888,0
+1322,Switzerland,1890,1
+1323,Switzerland,1892,2
+1324,Switzerland,1896,4
+1325,Switzerland,1900,4
+1326,Switzerland,1902,2
+1327,Switzerland,1906,1
+1328,Switzerland,1908,0
+1329,Switzerland,1912,1
+1330,Switzerland,1914,1
+1331,Switzerland,1916,1
+1332,Switzerland,1918,1
+1333,Switzerland,1920,1
+1334,Switzerland,1922,0
+1335,Switzerland,1924,1
+1336,Switzerland,1926,3
+1337,Switzerland,1928,0
+1338,Switzerland,1930,0
+1339,Switzerland,1932,0
+1340,Switzerland,1934,1
+1341,Switzerland,1936,0
+1342,Switzerland,1938,0
+1343,Switzerland,1940,0
+1344,Syria,1878,0
+1345,Syria,1880,0
+1346,Syria,1882,0
+1347,Syria,1884,0
+1348,Syria,1886,0
+1349,Syria,1888,0
+1350,Syria,1890,0
+1351,Syria,1892,0
+1352,Syria,1896,0
+1353,Syria,1900,0
+1354,Syria,1902,1
+1355,Syria,1906,0
+1356,Syria,1908,0
+1357,Syria,1912,0
+1358,Syria,1914,0
+1359,Syria,1916,0
+1360,Syria,1918,0
+1361,Syria,1920,0
+1362,Syria,1922,0
+1363,Syria,1924,0
+1364,Syria,1926,0
+1365,Syria,1928,0
+1366,Syria,1930,0
+1367,Syria,1932,0
+1368,Syria,1934,0
+1369,Syria,1936,0
+1370,Syria,1938,0
+1371,Syria,1940,0
+1372,Turkey,1878,0
+1373,Turkey,1880,0
+1374,Turkey,1882,0
+1375,Turkey,1884,0
+1376,Turkey,1886,0
+1377,Turkey,1888,0
+1378,Turkey,1890,0
+1379,Turkey,1892,0
+1380,Turkey,1896,0
+1381,Turkey,1900,0
+1382,Turkey,1902,0
+1383,Turkey,1906,0
+1384,Turkey,1908,1
+1385,Turkey,1912,0
+1386,Turkey,1914,0
+1387,Turkey,1916,0
+1388,Turkey,1918,0
+1389,Turkey,1920,0
+1390,Turkey,1922,0
+1391,Turkey,1924,0
+1392,Turkey,1926,1
+1393,Turkey,1928,1
+1394,Turkey,1930,0
+1395,Turkey,1932,1
+1396,Turkey,1934,1
+1397,Turkey,1936,0
+1398,Turkey,1938,0
+1399,Turkey,1940,0
+1400,United Kingdom,1878,8
+1401,United Kingdom,1880,12
+1402,United Kingdom,1882,12
+1403,United Kingdom,1884,14
+1404,United Kingdom,1886,15
+1405,United Kingdom,1888,19
+1406,United Kingdom,1890,21
+1407,United Kingdom,1892,33
+1408,United Kingdom,1896,19
+1409,United Kingdom,1900,21
+1410,United Kingdom,1902,9
+1411,United Kingdom,1906,7
+1412,United Kingdom,1908,11
+1413,United Kingdom,1912,12
+1414,United Kingdom,1914,15
+1415,United Kingdom,1916,8
+1416,United Kingdom,1918,9
+1417,United Kingdom,1920,4
+1418,United Kingdom,1922,8
+1419,United Kingdom,1924,3
+1420,United Kingdom,1926,7
+1421,United Kingdom,1928,6
+1422,United Kingdom,1930,4
+1423,United Kingdom,1932,5
+1424,United Kingdom,1934,1
+1425,United Kingdom,1936,3
+1426,United Kingdom,1938,3
+1427,United Kingdom,1940,5

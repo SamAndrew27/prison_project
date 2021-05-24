@@ -17,7 +17,7 @@
 15,[3.0],['Larceny'],White,United States,1878,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 16,[5.0],['Forgery'],White,England,1878,5.0,5.0,5.0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Foreign
 17,[6.0],['Larceny'],White,United States,1878,6.0,6.0,6.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
-18,[5.0],['Larceny'],Mexican,Ireland,1878,5.0,5.0,5.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+18,[5.0],['Larceny'],Mexican,Ireland,1878,5.0,5.0,5.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 19,[2.5],['Larceny'],White,United States,1878,2.5,2.5,2.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 20,[6.0],['Robbery'],White,United States,1878,6.0,6.0,6.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 21,[5.0],['Burglary'],White,Ireland,1878,5.0,5.0,5.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
@@ -62,7 +62,7 @@
 60,[10.0],['Robbery'],White,Austria,1878,10.0,10.0,10.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Foreign
 61,['Life'],['Murder'],White,Italy,1878,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
 62,[1.5],['Larceny'],Mexican,United States,1878,1.5,1.5,1.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,Mexican
-63,[2.0],['Larceny'],Mexican,Mexico,1878,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+63,[2.0],['Larceny'],Mexican,Mexico,1878,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 64,[5.0],['Assault'],White,Ireland,1878,5.0,5.0,5.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
 65,[3.5],['Burglary'],Black,United States,1878,3.5,3.5,3.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Black
 66,[2.5],['Larceny'],Black,United States,1878,2.5,2.5,2.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,Black
@@ -292,7 +292,7 @@
 290,[2.5],['Larceny'],White,United States,1880,2.5,2.5,2.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 291,[1.0],['Larceny'],White,United States,1880,1.0,1.0,1.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 292,[1.5],['Larceny'],White,United States,1880,1.5,1.5,1.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
-293,[1.0],['Larceny'],Mexican,Mexico,1880,1.0,1.0,1.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+293,[1.0],['Larceny'],Mexican,Mexico,1880,1.0,1.0,1.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 294,[2.0],['Assault w/ Intent to Murder'],White,Ireland,1880,2.0,2.0,2.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
 295,[7.0],"['Burglary', 'Larceny']",White,Nova Scotia,1880,7.0,7.0,7.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
 296,['Life'],['Murder'],White,United States,1880,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
@@ -808,7 +808,7 @@
 806,['Life'],['Murder'],White,Ireland,1884,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
 807,[4.0],['Assault w/ Intent to Kill'],White,United States,1884,4.0,4.0,4.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 808,[4.0],['Forgery'],White,Hungary,1884,4.0,4.0,4.0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Foreign
-809,[4.0],['Larceny'],Asian,China,1884,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+809,[4.0],['Larceny'],Asian,China,1884,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Asian
 810,[1.0],['Larceny'],Mexican,United States,1884,1.0,1.0,1.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,Mexican
 811,[4.0],['Forgery'],White,United States,1884,4.0,4.0,4.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
 812,[2.0],['Murder'],Mexican,United States,1884,2.0,2.0,2.0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Mexican
@@ -1550,7 +1550,7 @@
 93,['Life'],['Murder'],White,United States,1890,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
 94,[2.0],['Forgery'],White,United States,1890,2.0,2.0,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
 95,[4.0],['Forgery'],White,United States,1890,4.0,4.0,4.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
-96,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+96,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 97,[3.0],['Burglary'],White,United States,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 98,[2.0],['Forgery'],White,Germany,1890,2.0,2.0,2.0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Foreign
 99,[2.0],['Burglary'],White,United States,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
@@ -1611,7 +1611,7 @@
 154,[2.0],['Larceny'],White,Scotland,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
 155,[3.5],['Larceny'],White,United States,1890,3.5,3.5,3.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 156,['Death'],['Murder'],White,United States,1890,Death,Death,,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,White
-157,[3.0],['Larceny'],Mexican,Mexican,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+157,[3.0],['Larceny'],Mexican,Mexican,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 158,[3.0],['Larceny'],White,United States,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 159,[3.0],['Assault w/ Intent to Rape'],White,United States,1890,3.0,3.0,3.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 160,[3.0],['Larceny'],White,United States,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
@@ -1640,9 +1640,9 @@
 183,[10.0],"['Burglary', 'Larceny']",White,United States,1890,10.0,10.0,10.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 184,['Life'],['Murder'],White,Ireland,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
 185,[2.0],['Burglary'],White,United States,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
-186,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
-187,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
-188,['Life'],['Murder'],Mexican,Mexican,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+186,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
+187,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
+188,['Life'],['Murder'],Mexican,Mexican,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 189,[7.0],['Assault w/ Intent to Rob'],White,Austria,1890,7.0,7.0,7.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
 190,[2.5],['Forgery'],White,England,1890,2.5,2.5,2.5,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Foreign
 191,[3.0],['Burglary'],White,United States,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
@@ -1667,7 +1667,7 @@
 210,[5.0],['Larceny'],White,United States,1890,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 211,[5.0],['Assault w/ Intent to Murder'],White,Italy,1890,5.0,5.0,5.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
 212,[10.0],['Murder'],White,United States,1890,10.0,10.0,10.0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White
-213,[3.0],['Larceny'],Mexican,Mexican,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+213,[3.0],['Larceny'],Mexican,Mexican,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 214,[3.0],['Larceny'],White,United States,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 215,[5.0],['Larceny'],White,Ireland,1890,5.0,5.0,5.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
 216,[5.0],['Burglary'],White,England,1890,5.0,5.0,5.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
@@ -1687,10 +1687,10 @@
 230,[2.0],['Larceny'],White,United States,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 231,[15.0],['Larceny'],White,United States,1890,15.0,15.0,15.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 232,[2.0],['Forgery'],White,United States,1890,2.0,2.0,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
-233,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
-234,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
-235,[4.0],['Burglary'],Mexican,Mexican,1890,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
-236,[4.0],['Larceny'],Mexican,Mexican,1890,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+233,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
+234,[2.0],['Larceny'],Mexican,Mexican,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
+235,[4.0],['Burglary'],Mexican,Mexican,1890,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Mexican
+236,[4.0],['Larceny'],Mexican,Mexican,1890,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 237,[10.0],['Manslaughter'],White,Canada,1890,10.0,10.0,10.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Foreign
 238,['Life'],['Manslaughter'],White,United States,1890,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,White
 239,['Death'],['Manslaughter'],White,Canada,1890,Death,Death,,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,Foreign
@@ -1759,9 +1759,9 @@
 302,[5.0],['Larceny'],White,United States,1890,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 303,[10.0],['Assault w/ Intent to Murder'],White,United States,1890,10.0,10.0,10.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 304,[2.0],['Kidnapping'],White,United States,1890,2.0,2.0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
-305,[3.0],['Robbery'],Mexican,Mexican,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Foreign
+305,[3.0],['Robbery'],Mexican,Mexican,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Mexican
 306,[3.0],['Robbery'],White,United States,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
-307,[3.0],['Robbery'],Mexican,Mexican,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Foreign
+307,[3.0],['Robbery'],Mexican,Mexican,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Mexican
 308,[1.0],['Burglary'],Black,United States,1890,1.0,1.0,1.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Black
 309,[2.0],"['Robbery', 'Larceny']",White,United States,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 310,[3.0],['Larceny'],White,United States,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
@@ -1793,8 +1793,8 @@
 336,[13.0],['Burglary'],White,United States,1890,13.0,13.0,13.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 337,[1.6],['Having Tools with Intent to Enter Building'],White,Canada,1890,1.6,1.6,1.6,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Foreign
 338,[5.0],"['Forgery', 'False Pretenses']",White,United States,1890,5.0,5.0,5.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
-339,[2.6],['Assault w/ Intent to Rob'],Mexican,Mexican,1890,2.6,2.6,2.6,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
-340,[2.6],['Assault w/ Intent to Rob'],Mexican,Mexican,1890,2.6,2.6,2.6,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
+339,[2.6],['Assault w/ Intent to Rob'],Mexican,Mexican,1890,2.6,2.6,2.6,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Mexican
+340,[2.6],['Assault w/ Intent to Rob'],Mexican,Mexican,1890,2.6,2.6,2.6,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Mexican
 341,[1.0],['Larceny'],White,Germany,1890,1.0,1.0,1.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
 342,[2.0],['Uttering Forgery'],White,United States,1890,2.0,2.0,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,White
 343,[1.0],['False Pretenses'],White,United States,1890,1.0,1.0,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,White
@@ -1880,7 +1880,7 @@
 423,[1.0],"['Burglary', 'Larceny']",White,United States,1890,1.0,1.0,1.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 424,[1.0],"['Burglary', 'Larceny']",White,United States,1890,1.0,1.0,1.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 425,[0.33],['Kidnapping'],White,United States,1890,0.33,0.33,0.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
-426,[1.0],['Forgery'],Mexican,Mexican,1890,1.0,1.0,1.0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Foreign
+426,[1.0],['Forgery'],Mexican,Mexican,1890,1.0,1.0,1.0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Mexican
 427,[2.0],['Larceny'],White,United States,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 428,[2.0],['Larceny'],White,United States,1890,2.0,2.0,2.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 429,[2.0],['Forgery'],White,United States,1890,2.0,2.0,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
@@ -1908,7 +1908,7 @@
 451,[3.5],['Burglary'],White,United States,1890,3.5,3.5,3.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 452,[1.0],['Larceny'],White,Germany,1890,1.0,1.0,1.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
 453,[3.0],['Burglary'],Black,United States,1890,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Black
-454,['Death'],['Murder'],?,?,1890,Death,Death,,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,Foreign
+454,['Death'],['Murder'],?,?,1890,Death,Death,,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,?
 455,[1.0],['Larceny'],White,United States,1890,1.0,1.0,1.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 456,[10.0],['Murder'],White,Ireland,1890,10.0,10.0,10.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
 457,[1.0],['Forgery'],White,United States,1890,1.0,1.0,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
@@ -1936,14 +1936,14 @@
 479,['Life'],['Murder'],White,United States,1890,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
 480,['Life'],['Murder'],White,United States,1890,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
 481,['Life'],['Murder'],White,Germany,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
-482,['Life'],['Murder'],Mexican,Mexican,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+482,['Life'],['Murder'],Mexican,Mexican,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 483,[21.0],['Larceny'],White,United States,1890,21.0,21.0,21.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 484,[20.0],['Larceny'],White,United States,1890,20.0,20.0,20.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 485,['Life'],['Murder'],White,Ireland,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
 486,['Life'],['Murder'],White,United States,1890,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
 487,['Life'],['Murder'],White,Ireland,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
 488,['Life'],['Murder'],White,United States,1890,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
-489,['Life'],['Murder'],Mexican,Mexican,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+489,['Life'],['Murder'],Mexican,Mexican,1890,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 490,[8.0],['Larceny'],White,United States,1890,8.0,8.0,8.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 491,[12.0],['Robbery'],White,United States,1890,12.0,12.0,12.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 492,[12.0],['Robbery'],White,United States,1890,12.0,12.0,12.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
@@ -2001,7 +2001,7 @@
 544,[5.0],"['Burglary', 'Larceny']",White,United States,1892,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 545,[10.0],"['Burglary', 'Larceny']",White,United States,1892,10.0,10.0,10.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 546,['Life'],['Murder'],White,Ireland,1892,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
-547,['Life'],['Murder'],Mexican,Mexican,1892,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+547,['Life'],['Murder'],Mexican,Mexican,1892,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 548,[7.0],['Assault w/ Intent to Rob'],White,United States,1892,7.0,7.0,7.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 549,[7.5],['Robbery'],White,England,1892,7.5,7.5,7.5,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Foreign
 550,[14.0],['Robbery'],White,United States,1892,14.0,14.0,14.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
@@ -2019,8 +2019,8 @@
 562,[8.0],['Larceny'],Black,United States,1892,8.0,8.0,8.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,Black
 563,[9.0],['Robbery'],Black,United States,1892,9.0,9.0,9.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Black
 564,[8.0],['Manslaughter'],White,Germany,1892,8.0,8.0,8.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Foreign
-565,[4.0],['Burglary'],Mexican,Mexican,1892,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
-566,[4.0],['Larceny'],Mexican,Mexican,1892,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+565,[4.0],['Burglary'],Mexican,Mexican,1892,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Mexican
+566,[4.0],['Larceny'],Mexican,Mexican,1892,4.0,4.0,4.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 567,[10.0],['Manslaughter'],White,Canada,1892,10.0,10.0,10.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Foreign
 568,[5.0],['Larceny as Bailee'],Black,United States,1892,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Black
 569,[5.0],['Larceny'],White,United States,1892,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
@@ -2077,7 +2077,7 @@
 620,[8.0],['Manslaughter'],White,United States,1892,8.0,8.0,8.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,White
 621,[3.5],['Burglary'],White,United States,1892,3.5,3.5,3.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 622,[3.0],['Burglary'],Black,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Black
-623,['Death'],['Murder'],?,?,1892,Death,Death,,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,Foreign
+623,['Death'],['Murder'],?,?,1892,Death,Death,,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,?
 624,[10.0],['Murder'],White,Ireland,1892,10.0,10.0,10.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
 625,[3.0],['Larceny'],White,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 626,[2.5],['Larceny'],White,United States,1892,2.5,2.5,2.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
@@ -2166,7 +2166,7 @@
 709,[8.0],"['Robbery', 'Assault w/ Intent to Rob']",White,United States,1892,8.0,8.0,8.0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 710,[4.0],['Forgery'],White,United States,1892,4.0,4.0,4.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
 711,[10.0],['Robbery'],White,United States,1892,10.0,10.0,10.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
-712,[4.0],['Voluntary Manslaughter'],Asian,China,1892,4.0,4.0,4.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Foreign
+712,[4.0],['Voluntary Manslaughter'],Asian,China,1892,4.0,4.0,4.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Asian
 713,['Life'],['Murder'],White,United States,1892,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
 714,[8.0],"['Robbery', 'Attempted Robbery']",White,United States,1892,8.0,8.0,8.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 715,[4.5],"['Burglary', 'Larceny']",White,United States,1892,4.5,4.5,4.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
@@ -2195,8 +2195,8 @@
 738,[3.0],['Larceny'],White,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 739,[3.0],"['Burglary', 'Larceny']",White,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 740,[3.0],"['Burglary', 'Larceny']",White,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
-741,[10.5],['Murder'],Mexican,Mexican,1892,10.5,10.5,10.5,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
-742,[10.5],['Murder'],Mexican,Mexican,1892,10.5,10.5,10.5,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
+741,[10.5],['Murder'],Mexican,Mexican,1892,10.5,10.5,10.5,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Mexican
+742,[10.5],['Murder'],Mexican,Mexican,1892,10.5,10.5,10.5,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Mexican
 743,[10.5],['Murder'],White,United States,1892,10.5,10.5,10.5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White
 744,[2.0],"['Burglary', 'Larceny']",White,United States,1892,2.0,2.0,2.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 745,[5.0],['Killing Stock'],White,Denmark,1892,5.0,5.0,5.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Foreign
@@ -2207,7 +2207,7 @@
 750,[20.0],['Rape'],White,France,1892,20.0,20.0,20.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Foreign
 751,[20.0],['Rape'],White,United States,1892,20.0,20.0,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 752,[2.75],['Larceny'],White,United States,1892,2.75,2.75,2.75,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
-753,[4.5],"['Burglary', 'Larceny']",Mexican,Mexican,1892,4.5,4.5,4.5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
+753,[4.5],"['Burglary', 'Larceny']",Mexican,Mexican,1892,4.5,4.5,4.5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Mexican
 754,[4.0],"['Burglary', 'Larceny']",White,United States,1892,4.0,4.0,4.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 755,[4.0],['Assault w/ Intent to Rape'],White,United States,1892,4.0,4.0,4.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 756,[3.0],['Larceny'],White,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
@@ -2219,7 +2219,7 @@
 762,[1.5],['Larceny'],White,United States,1892,1.5,1.5,1.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 763,[3.0],['Burglary'],Black,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Black
 764,[2.0],['Forgery'],White,United States,1892,2.0,2.0,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
-765,[7.0],['Rape'],Mexican,Mexican,1892,7.0,7.0,7.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Foreign
+765,[7.0],['Rape'],Mexican,Mexican,1892,7.0,7.0,7.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Mexican
 766,[2.0],['Burglary'],White,United States,1892,2.0,2.0,2.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 767,[2.0],"['Forgery', 'Uttering']",White,Germany,1892,2.0,2.0,2.0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Foreign
 768,[1.5],"['Larceny', 'Receiving Stolen Goods']",White,United States,1892,1.5,1.5,1.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
@@ -2269,7 +2269,7 @@
 812,[3.0],['Robbery'],White,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 813,[4.0],"['Burglary', 'Larceny', 'Receiving Stolen Goods']",White,United States,1892,4.0,4.0,4.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 814,[3.0],['Larceny'],White,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
-815,[2.5],['Assault w/ Intent to Murder'],Mexican,Mexican,1892,2.5,2.5,2.5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
+815,[2.5],['Assault w/ Intent to Murder'],Mexican,Mexican,1892,2.5,2.5,2.5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Mexican
 816,['Death'],['Murder'],White,United States,1892,Death,Death,,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,White
 817,[3.0],['Larceny'],White,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 818,[2.0],['Larceny'],White,Prince Edward's Island,1892,2.0,2.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
@@ -2518,7 +2518,7 @@
 1061,[1.5],['Malicious Mischief'],White,United States,1892,1.5,1.5,1.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1062,[3.0],['Larceny'],White,United States,1892,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1063,[4.0],['Larceny'],White,United States,1892,4.0,4.0,4.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
-1064,['Death'],['Murder'],Mexican,Mexican,1892,Death,Death,,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,Foreign
+1064,['Death'],['Murder'],Mexican,Mexican,1892,Death,Death,,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,Mexican
 1065,[14.0],['Murder'],White,Sweden,1892,14.0,14.0,14.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
 1066,[5.0],['Larceny'],White,United States,1892,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1067,[5.0],['Larceny'],White,United States,1892,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
@@ -2582,7 +2582,7 @@
 1125,[1.0],['Larceny'],White,United States,1892,1.0,1.0,1.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1126,[1.0],['Forgery'],White,Denmark,1892,1.0,1.0,1.0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Foreign
 1127,[1.0],"['Larceny', 'Receiving Stolen Goods']",White,Spanish,1892,1.0,1.0,1.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
-1128,['Death'],['Murder'],?,?,1892,Death,Death,,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,Foreign
+1128,['Death'],['Murder'],?,?,1892,Death,Death,,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,?
 1129,[1.0],['Larceny'],White,England,1892,1.0,1.0,1.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
 1130,[1.0],['Larceny'],White,Denmark,1892,1.0,1.0,1.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
 1131,[1.0],['Forgery'],White,United States,1892,1.0,1.0,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
@@ -2608,12 +2608,12 @@
 1151,[1.0],"['Burglary', 'Larceny']",White,United States,1892,1.0,1.0,1.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1152,[5.0],['Robbery'],White,United States,1892,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1153,[5.0],['Robbery'],White,United States,1892,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
-1154,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
-1155,[10.0],['Murder'],Mexican,Mexican,1900,10.0,10.0,10.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
-1156,[8.0],['Larceny'],Mexican,Mexican,1900,8.0,8.0,8.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+1154,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
+1155,[10.0],['Murder'],Mexican,Mexican,1900,10.0,10.0,10.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Mexican
+1156,[8.0],['Larceny'],Mexican,Mexican,1900,8.0,8.0,8.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 1157,[5.0],['Rape'],White,Italy,1900,5.0,5.0,5.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Foreign
 1158,[3.5],['Larceny'],White,United States,1900,3.5,3.5,3.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
-1159,[5.0],['Assault w/ Intent to Rape'],Mexican,Mexican,1900,5.0,5.0,5.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
+1159,[5.0],['Assault w/ Intent to Rape'],Mexican,Mexican,1900,5.0,5.0,5.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Mexican
 1160,[4.5],['Burglary'],White,United States,1900,4.5,4.5,4.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1161,[3.0],['Forgery'],White,United States,1900,3.0,3.0,3.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
 1162,[5.0],['Robbery'],White,Sweden,1900,5.0,5.0,5.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Foreign
@@ -2621,7 +2621,7 @@
 1164,"[10.0, 12.0]",['Murder'],White,Sweden,1900,12.0,10.0,11.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
 1165,"[2.0, 3.0]",['Larceny'],White,United States,1900,3.0,2.0,2.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1166,"[7.0, 8.0]",['Murder'],White,United States,1900,8.0,7.0,7.5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White
-1167,"[10.0, 12.0]",['Rape'],Mexican,Mexican,1900,12.0,10.0,11.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Foreign
+1167,"[10.0, 12.0]",['Rape'],Mexican,Mexican,1900,12.0,10.0,11.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Mexican
 1168,"[1.5, 3.0]",['Forgery'],White,England,1900,3.0,1.5,2.25,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Foreign
 1169,['Life'],['Murder'],White,United States,1900,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
 1170,[14.0],"['Incest', 'Rape']",Black,United States,1900,14.0,14.0,14.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black
@@ -2636,7 +2636,7 @@
 1179,[7.0],['Robbery'],White,United States,1900,7.0,7.0,7.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1180,['Life'],['Murder'],White,England,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
 1181,[20.0],['Rape'],White,United States,1900,20.0,20.0,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
-1182,[3.0],['Arson'],Mexican,Mexican,1900,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Foreign
+1182,[3.0],['Arson'],Mexican,Mexican,1900,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Mexican
 1183,[14.0],['Robbery'],White,England,1900,14.0,14.0,14.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Foreign
 1184,[15.0],['Murder'],White,United States,1900,15.0,15.0,15.0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White
 1185,[3.0],['Robbery'],White,United States,1900,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
@@ -2665,7 +2665,7 @@
 1208,"[6.0, 10.0]",['Rape'],White,United States,1900,10.0,6.0,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1209,"[3.0, 5.0]",['Robbery'],White,United States,1900,5.0,3.0,4.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1210,"[1.0, 2.0]",['Rape'],White,United States,1900,2.0,1.0,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
-1211,"[1.0, 3.0]",['Larceny'],Mexican,Mexican,1900,3.0,1.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+1211,"[1.0, 3.0]",['Larceny'],Mexican,Mexican,1900,3.0,1.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 1212,"[2.0, 3.0]",['Assault w/ Intent to Kill'],Black,United States,1900,3.0,2.0,2.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Black
 1213,"[16.0, 18.0]",['Incest'],White,United States,1900,18.0,16.0,17.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1214,"[7.5, 8.0]",['Murder'],White,United States,1900,8.0,7.5,7.75,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White
@@ -2720,7 +2720,7 @@
 1263,[6.0],['Burglary'],White,United States,1900,6.0,6.0,6.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1264,['Life'],['Murder'],Black,United States,1900,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,Black
 1265,['Life'],['Murder'],White,United States,1900,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
-1266,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+1266,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 1267,[4.0],['Robbery'],White,United States,1900,4.0,4.0,4.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1268,[8.0],['Assault w/ Intent to Kill'],White,United States,1900,8.0,8.0,8.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 1269,[7.0],['Burglary'],White,United States,1900,7.0,7.0,7.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
@@ -2758,7 +2758,7 @@
 1301,"[5.0, 10.0]",['Rape'],White,United States,1900,10.0,5.0,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1302,"[1.0, 3.0]",['Burglary'],White,United States,1900,3.0,1.0,2.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1303,['Life'],['Murder'],Black,United States,1900,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,Black
-1304,[99.0],['Murder'],Mexican,Mexican,1900,99.0,99.0,99.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
+1304,[99.0],['Murder'],Mexican,Mexican,1900,99.0,99.0,99.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Mexican
 1305,[10.0],['Robbery'],White,United States,1900,10.0,10.0,10.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1306,[4.0],['Burglary'],White,United States,1900,4.0,4.0,4.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1307,[10.0],['Murder'],White,Swiss,1900,10.0,10.0,10.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
@@ -2767,7 +2767,7 @@
 1310,"[1.33, 2.5]",['Larceny'],White,United States,1900,2.5,1.33,1.915,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1311,"[1.0, 2.0]",['Bigamy'],White,United States,1900,2.0,1.0,1.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1312,"[3.0, 5.0]",['Larceny'],White,United States,1900,5.0,3.0,4.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
-1313,"[5.0, 8.0]",['Murder'],Mexican,Mexican,1900,8.0,5.0,6.5,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
+1313,"[5.0, 8.0]",['Murder'],Mexican,Mexican,1900,8.0,5.0,6.5,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Mexican
 1314,"[1.0, 5.0]",['Assault w/ Intent to Kill'],Black,United States,1900,5.0,1.0,3.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Black
 1315,"[3.0, 5.0]","['Burglary', 'Larceny']",White,United States,1900,5.0,3.0,4.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1316,"[1.0, 3.0]",['Robbery'],Black,United States,1900,3.0,1.0,2.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Black
@@ -2788,7 +2788,7 @@
 1331,"[7.0, 10.0]",['Robbery'],White,United States,1900,10.0,7.0,8.5,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1332,"[13.0, 14.0]",['Assault w/ Intent to Kill'],Black,United States,1900,14.0,13.0,13.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Black
 1333,"[1.0, 2.0]","['Burglary', 'Larceny']",White,United States,1900,2.0,1.0,1.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
-1334,"[3.0, 3.5]",['Larceny'],Mexican,Mexican,1900,3.5,3.0,3.25,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+1334,"[3.0, 3.5]",['Larceny'],Mexican,Mexican,1900,3.5,3.0,3.25,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 1335,"[2.5, 5.0]",['Burglary'],White,England,1900,5.0,2.5,3.75,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
 1336,"[1.0, 6.0]",['Robbery'],White,United States,1900,6.0,1.0,3.5,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1337,['Life'],['Murder'],White,United States,1900,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
@@ -2856,7 +2856,7 @@
 1399,"[5.0, 8.0]",['Larceny'],White,Germany,1900,8.0,5.0,6.5,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
 1400,['Life'],['Murder'],White,United States,1900,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
 1401,['Life'],['Murder'],White,Germany,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
-1402,[13.0],['Murder'],Asian,Japan,1900,13.0,13.0,13.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
+1402,[13.0],['Murder'],Asian,Japan,1900,13.0,13.0,13.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Asian
 1403,[10.0],['Train Wrecking'],White,United States,1900,10.0,10.0,10.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1404,[10.0],['Rape'],White,United States,1900,10.0,10.0,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1405,[3.0],['Robbery'],White,United States,1900,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
@@ -2871,29 +2871,29 @@
 1414,"[1.0, 10.0]",['Larceny'],White,Denmark,1900,10.0,1.0,5.5,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
 1415,"[2.5, 4.0]",['Larceny'],White,United States,1900,4.0,2.5,3.25,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1416,[1.25],['Forgery'],White,United States,1900,1.25,1.25,1.25,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
-1417,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
-1418,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+1417,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
+1418,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 1419,[4.0],['Forgery'],White,Ireland,1900,4.0,4.0,4.0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Foreign
 1420,[8.0],['Rape'],Black,United States,1900,8.0,8.0,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black
 1421,[20.0],['Rape'],White,United States,1900,20.0,20.0,20.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1422,[18.0],['Murder'],White,England,1900,18.0,18.0,18.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
 1423,[2.0],['Administering Poison'],White,England,1900,2.0,2.0,2.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Foreign
 1424,"[9.0, 14.0]",['Burglary'],White,United States,1900,14.0,9.0,11.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
-1425,"[30.0, 40.0]",['Murder'],Mexican,Mexican,1900,40.0,30.0,35.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
+1425,"[30.0, 40.0]",['Murder'],Mexican,Mexican,1900,40.0,30.0,35.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Mexican
 1426,"[4.0, 6.0]",['Burglary'],White,Germany,1900,6.0,4.0,5.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
 1427,"[3.83, 6.0]",['Larceny'],Black,United States,1900,6.0,3.83,4.915,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,Black
 1428,[1.0],['Larceny'],White,England,1900,1.0,1.0,1.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
-1429,"[6.0, 10.0]",['Robbery'],Mexican,Mexican,1900,10.0,6.0,8.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Foreign
+1429,"[6.0, 10.0]",['Robbery'],Mexican,Mexican,1900,10.0,6.0,8.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Mexican
 1430,"[2.0, 3.0]","['Burglary', 'Larceny']",Black,United States,1900,3.0,2.0,2.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Black
 1431,"[3.0, 5.0]",['Larceny'],White,United States,1900,5.0,3.0,4.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1432,"[1.0, 2.0]","['Burglary', 'Larceny']",White,United States,1900,2.0,1.0,1.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1433,"[7.0, 8.0]",['Forgery'],White,United States,1900,8.0,7.0,7.5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,White
-1434,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
-1435,[21.0],['Murder'],Mexican,Mexican,1900,21.0,21.0,21.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
-1436,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+1434,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
+1435,[21.0],['Murder'],Mexican,Mexican,1900,21.0,21.0,21.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Mexican
+1436,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 1437,[10.0],['Murder'],White,Scotland,1900,10.0,10.0,10.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
-1438,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
-1439,[45.0],['Murder'],Mexican,Mexican,1900,45.0,45.0,45.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
+1438,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
+1439,[45.0],['Murder'],Mexican,Mexican,1900,45.0,45.0,45.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Mexican
 1440,[14.0],['Assault w/ Intent to Kill'],White,United States,1900,14.0,14.0,14.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 1441,[12.0],['Robbery'],White,United States,1900,12.0,12.0,12.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1442,[12.0],['Incest'],White,Austria,1900,12.0,12.0,12.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Foreign
@@ -2913,7 +2913,7 @@
 1456,[14.0],['Assault w/ Intent to Rob'],White,United States,1900,14.0,14.0,14.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 1457,[10.0],['Assault w/ Intent to Kill'],White,United States,1900,10.0,10.0,10.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 1458,[3.0],['Burglary'],White,United States,1900,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
-1459,[3.0],['Assault w/ Intent to Rape'],Mexican,Mexican,1900,3.0,3.0,3.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
+1459,[3.0],['Assault w/ Intent to Rape'],Mexican,Mexican,1900,3.0,3.0,3.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Mexican
 1460,[3.0],['Larceny'],Black,United States,1900,3.0,3.0,3.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,Black
 1461,[5.0],['Robbery'],White,United States,1900,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1462,"[1.0, 2.0]",['Burglary'],Black,United States,1900,2.0,1.0,1.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Black
@@ -2935,7 +2935,7 @@
 1478,[20.0],['Incest'],White,United States,1900,20.0,20.0,20.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1479,[6.0],['Sodomy'],White,United States,1900,6.0,6.0,6.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1480,[10.0],['Burglary'],White,United States,1900,10.0,10.0,10.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
-1481,[99.0],['Murder'],Mexican,Mexican,1900,99.0,99.0,99.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
+1481,[99.0],['Murder'],Mexican,Mexican,1900,99.0,99.0,99.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Mexican
 1482,[5.5],['Assault w/ Intent to Kill'],White,Austria,1900,5.5,5.5,5.5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
 1483,[6.5],['False Pretenses'],White,United States,1900,6.5,6.5,6.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,White
 1484,[14.0],['Assault w/ Intent to Rob'],White,United States,1900,14.0,14.0,14.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
@@ -2965,7 +2965,7 @@
 1508,"[3.0, 6.0]",['Robbery'],White,United States,1900,6.0,3.0,4.5,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1509,"[3.0, 6.0]",['Burglary'],White,United States,1900,6.0,3.0,4.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1510,"[4.0, 6.0]",['Robbery'],White,United States,1900,6.0,4.0,5.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
-1511,"[1.0, 3.0]",['Larceny'],Mexican,Mexican,1900,3.0,1.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
+1511,"[1.0, 3.0]",['Larceny'],Mexican,Mexican,1900,3.0,1.0,2.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Mexican
 1512,"[4.0, 8.0]",['Murder'],White,United States,1900,8.0,4.0,6.0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White
 1513,"[1.0, 1.04]",['Larceny'],White,United States,1900,1.04,1.0,1.02,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1514,"[4.0, 5.0]",['Larceny'],Black,United States,1900,5.0,4.0,4.5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,Black
@@ -2974,13 +2974,13 @@
 1517,[40.0],['Rape'],Black,United States,1900,40.0,40.0,40.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black
 1518,[15.0],['Sodomy'],White,United States,1900,15.0,15.0,15.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1519,['Life'],['Murder'],White,United States,1900,Life,Life,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
-1520,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+1520,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 1521,[14.0],['Assault w/ Intent to Rape'],White,United States,1900,14.0,14.0,14.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
 1522,[6.0],"['Burglary', 'Larceny']",White,United States,1900,6.0,6.0,6.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1523,[5.0],['Murder'],White,Sweden,1900,5.0,5.0,5.0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Foreign
 1524,[5.0],['Robbery'],White,United States,1900,5.0,5.0,5.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1525,[15.0],['Murder'],White,United States,1900,15.0,15.0,15.0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White
-1526,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+1526,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 1527,[3.0],['Robbery'],White,Germany,1900,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Foreign
 1528,[6.0],['Robbery'],White,Canada,1900,6.0,6.0,6.0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Foreign
 1529,[6.5],"['Burglary', 'Larceny']",White,United States,1900,6.5,6.5,6.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
@@ -2999,7 +2999,7 @@
 1542,[3.0],['Forgery'],Black,United States,1900,3.0,3.0,3.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Black
 1543,[3.0],"['Burglary', 'Larceny']",White,Germany,1900,3.0,3.0,3.0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
 1544,[2.5],"['Burglary', 'Larceny']",White,United States,1900,2.5,2.5,2.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
-1545,"[3.0, 5.0]",['Assault w/ Intent to Rape'],Mexican,Mexican,1900,5.0,3.0,4.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
+1545,"[3.0, 5.0]",['Assault w/ Intent to Rape'],Mexican,Mexican,1900,5.0,3.0,4.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Mexican
 1546,"[3.0, 10.0]",['Robbery'],White,United States,1900,10.0,3.0,6.5,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1547,"[1.5, 3.0]",['Larceny'],White,United States,1900,3.0,1.5,2.25,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1548,"[6.0, 15.0]",['Rape'],White,United States,1900,15.0,6.0,10.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
@@ -3009,14 +3009,14 @@
 1552,"[5.0, 8.0]","['Burglary', 'Larceny']",White,England,1900,8.0,5.0,6.5,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Foreign
 1553,"[2.0, 5.0]",['Burglary'],White,United States,1900,5.0,2.0,3.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1554,"[20.0, 'Life']",['Murder'],White,United States,1900,Life,20.0,,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,White
-1555,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+1555,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 1556,"[1.0, 3.0]",['Larceny'],White,United States,1900,3.0,1.0,2.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1557,[1.0],['Larceny'],White,Swiss,1900,1.0,1.0,1.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
 1558,"[1.0, 2.0]",['Malicious Mischief'],White,United States,1900,2.0,1.0,1.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,White
 1559,"[2.0, 5.0]",['Burglary'],White,United States,1900,5.0,2.0,3.5,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1560,"[2.0, 4.0]",['Larceny'],White,England,1900,4.0,2.0,3.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Foreign
-1561,"[1.0, 10.0]",['Assault w/ Intent to Kill'],Mexican,Mexican,1900,10.0,1.0,5.5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
-1562,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+1561,"[1.0, 10.0]",['Assault w/ Intent to Kill'],Mexican,Mexican,1900,10.0,1.0,5.5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Mexican
+1562,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 1563,[10.0],['Robbery'],White,United States,1900,10.0,10.0,10.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White
 1564,[8.0],['Murder'],White,United States,1900,8.0,8.0,8.0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White
 1565,[8.0],['Assault w/ Intent to Rape'],White,United States,1900,8.0,8.0,8.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White
@@ -3033,7 +3033,7 @@
 1576,"[2.0, 8.0]",['Manslaughter'],White,United States,1900,8.0,2.0,5.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,White
 1577,"[1.0, 3.0]","['Burglary', 'Larceny']",White,United States,1900,3.0,1.0,2.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,White
 1578,[5.0],['Rape'],White,United States,1900,5.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White
-1579,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Foreign
+1579,['Life'],['Murder'],Mexican,Mexican,1900,Life,Life,,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Mexican
 1580,"[4.0, 6.0]",['Larceny'],White,United States,1900,6.0,4.0,5.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,White
 1581,"[5.0, 12.0]",['Assault w/ Intent to Kill'],White,Canada,1900,12.0,5.0,8.5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Foreign
 1582,"[1.0, 1.5]",['Perjury'],White,England,1900,1.5,1.0,1.25,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Foreign

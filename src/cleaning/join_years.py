@@ -48,10 +48,12 @@ def load_all_years(save=False):
 
 
 def nativity_race_combined(row):
-    if row['foreign'] == 1:
-        return 'Foreign'
-    else:
-        return row['race']
+    if row['race'] == 'White':
+        if row['foreign'] == 1:
+            return 'Foreign'
+
+    return row['race']
+
 
 def avg_term(x):
     if 'Life' in x or 'Death' in x or '?' in x:
@@ -313,5 +315,5 @@ if __name__=="__main__":
     #             result.add(term)
     # print(result)
     # print(df['all_larceny'].value_counts())
-    df = load_all_years()
-    print(df.head())
+    # df = load_all_years()
+    # print(df.tail())
