@@ -1,225 +1,533 @@
 ,Region,Year,Prisoners
-0,Southeast,1878,10
-1,Southeast,1880,20
-2,Southeast,1882,25
-3,Southeast,1884,39
-4,Southeast,1886,37
-5,Southeast,1888,36
-6,Southeast,1890,45
-7,Southeast,1892,55
-8,Southeast,1896,45
-9,Southeast,1900,43
-10,Southeast,1902,80
-11,Southeast,1906,65
-12,Southeast,1908,81
-13,Southeast,1912,67
-14,Southeast,1914,86
-15,Southeast,1916,67
-16,Southeast,1918,50
-17,Southeast,1920,46
-18,Southeast,1922,76
-19,Southeast,1924,86
-20,Southeast,1926,96
-21,Southeast,1928,77
-22,Southeast,1930,79
-23,Southeast,1932,130
-24,Southeast,1934,102
-25,Southeast,1936,98
-26,Southeast,1938,102
-27,Southeast,1940,106
-28,Southwest,1878,4
-29,Southwest,1880,6
-30,Southwest,1882,12
-31,Southwest,1884,17
-32,Southwest,1886,13
-33,Southwest,1888,9
-34,Southwest,1890,30
-35,Southwest,1892,16
-36,Southwest,1896,26
-37,Southwest,1900,15
-38,Southwest,1902,21
-39,Southwest,1906,30
-40,Southwest,1908,34
-41,Southwest,1912,53
-42,Southwest,1914,56
-43,Southwest,1916,61
-44,Southwest,1918,37
-45,Southwest,1920,52
-46,Southwest,1922,99
-47,Southwest,1924,99
-48,Southwest,1926,124
-49,Southwest,1928,151
-50,Southwest,1930,142
-51,Southwest,1932,177
-52,Southwest,1934,214
-53,Southwest,1936,184
-54,Southwest,1938,239
-55,Southwest,1940,220
-56,Far West,1878,1
-57,Far West,1880,1
-58,Far West,1882,5
-59,Far West,1884,3
-60,Far West,1886,3
-61,Far West,1888,6
-62,Far West,1890,4
-63,Far West,1892,16
-64,Far West,1896,10
-65,Far West,1900,15
-66,Far West,1902,11
-67,Far West,1906,6
-68,Far West,1908,12
-69,Far West,1912,17
-70,Far West,1914,17
-71,Far West,1916,22
-72,Far West,1918,5
-73,Far West,1920,13
-74,Far West,1922,17
-75,Far West,1924,10
-76,Far West,1926,19
-77,Far West,1928,21
-78,Far West,1930,22
-79,Far West,1932,20
-80,Far West,1934,23
-81,Far West,1936,29
-82,Far West,1938,21
-83,Far West,1940,13
-84,Rocky Mountain,1878,0
-85,Rocky Mountain,1880,0
-86,Rocky Mountain,1882,4
-87,Rocky Mountain,1884,10
-88,Rocky Mountain,1886,4
-89,Rocky Mountain,1888,9
-90,Rocky Mountain,1890,15
-91,Rocky Mountain,1892,23
-92,Rocky Mountain,1896,32
-93,Rocky Mountain,1900,16
-94,Rocky Mountain,1902,44
-95,Rocky Mountain,1906,32
-96,Rocky Mountain,1908,55
-97,Rocky Mountain,1912,89
-98,Rocky Mountain,1914,75
-99,Rocky Mountain,1916,100
-100,Rocky Mountain,1918,75
-101,Rocky Mountain,1920,76
-102,Rocky Mountain,1922,95
-103,Rocky Mountain,1924,113
-104,Rocky Mountain,1926,159
-105,Rocky Mountain,1928,177
-106,Rocky Mountain,1930,205
-107,Rocky Mountain,1932,270
-108,Rocky Mountain,1934,302
-109,Rocky Mountain,1936,314
-110,Rocky Mountain,1938,320
-111,Rocky Mountain,1940,298
-112,New England,1878,6
-113,New England,1880,13
-114,New England,1882,26
-115,New England,1884,19
-116,New England,1886,12
-117,New England,1888,18
-118,New England,1890,26
-119,New England,1892,29
-120,New England,1896,24
-121,New England,1900,24
-122,New England,1902,24
-123,New England,1906,17
-124,New England,1908,24
-125,New England,1912,13
-126,New England,1914,25
-127,New England,1916,10
-128,New England,1918,11
-129,New England,1920,9
-130,New England,1922,10
-131,New England,1924,14
-132,New England,1926,16
-133,New England,1928,13
-134,New England,1930,17
-135,New England,1932,23
-136,New England,1934,16
-137,New England,1936,10
-138,New England,1938,17
-139,New England,1940,11
-140,Mideast,1878,33
-141,Mideast,1880,66
-142,Mideast,1882,82
-143,Mideast,1884,75
-144,Mideast,1886,75
-145,Mideast,1888,98
-146,Mideast,1890,116
-147,Mideast,1892,151
-148,Mideast,1896,93
-149,Mideast,1900,48
-150,Mideast,1902,71
-151,Mideast,1906,56
-152,Mideast,1908,61
-153,Mideast,1912,80
-154,Mideast,1914,82
-155,Mideast,1916,67
-156,Mideast,1918,35
-157,Mideast,1920,33
-158,Mideast,1922,49
-159,Mideast,1924,61
-160,Mideast,1926,61
-161,Mideast,1928,61
-162,Mideast,1930,54
-163,Mideast,1932,62
-164,Mideast,1934,68
-165,Mideast,1936,44
-166,Mideast,1938,56
-167,Mideast,1940,50
-168,Great Lakes,1878,19
-169,Great Lakes,1880,30
-170,Great Lakes,1882,62
-171,Great Lakes,1884,76
-172,Great Lakes,1886,57
-173,Great Lakes,1888,89
-174,Great Lakes,1890,119
-175,Great Lakes,1892,159
-176,Great Lakes,1896,100
-177,Great Lakes,1900,73
-178,Great Lakes,1902,100
-179,Great Lakes,1906,98
-180,Great Lakes,1908,98
-181,Great Lakes,1912,97
-182,Great Lakes,1914,108
-183,Great Lakes,1916,107
-184,Great Lakes,1918,63
-185,Great Lakes,1920,68
-186,Great Lakes,1922,104
-187,Great Lakes,1924,98
-188,Great Lakes,1926,96
-189,Great Lakes,1928,132
-190,Great Lakes,1930,131
-191,Great Lakes,1932,146
-192,Great Lakes,1934,132
-193,Great Lakes,1936,114
-194,Great Lakes,1938,124
-195,Great Lakes,1940,107
-196,Plains,1878,23
-197,Plains,1880,26
-198,Plains,1882,43
-199,Plains,1884,50
-200,Plains,1886,27
-201,Plains,1888,37
-202,Plains,1890,82
-203,Plains,1892,110
-204,Plains,1896,74
-205,Plains,1900,68
-206,Plains,1902,104
-207,Plains,1906,111
-208,Plains,1908,106
-209,Plains,1912,116
-210,Plains,1914,139
-211,Plains,1916,134
-212,Plains,1918,98
-213,Plains,1920,124
-214,Plains,1922,171
-215,Plains,1924,148
-216,Plains,1926,235
-217,Plains,1928,253
-218,Plains,1930,254
-219,Plains,1932,319
-220,Plains,1934,265
-221,Plains,1936,259
-222,Plains,1938,326
-223,Plains,1940,296
+0,Southeast (US),1878,10
+1,Southeast (US),1880,20
+2,Southeast (US),1882,25
+3,Southeast (US),1884,39
+4,Southeast (US),1886,37
+5,Southeast (US),1888,36
+6,Southeast (US),1890,45
+7,Southeast (US),1892,55
+8,Southeast (US),1896,45
+9,Southeast (US),1900,43
+10,Southeast (US),1902,80
+11,Southeast (US),1906,65
+12,Southeast (US),1908,81
+13,Southeast (US),1912,67
+14,Southeast (US),1914,86
+15,Southeast (US),1916,67
+16,Southeast (US),1918,50
+17,Southeast (US),1920,46
+18,Southeast (US),1922,76
+19,Southeast (US),1924,86
+20,Southeast (US),1926,96
+21,Southeast (US),1928,77
+22,Southeast (US),1930,79
+23,Southeast (US),1932,130
+24,Southeast (US),1934,102
+25,Southeast (US),1936,98
+26,Southeast (US),1938,102
+27,Southeast (US),1940,106
+28,Canada & Alaska,1878,9
+29,Canada & Alaska,1880,7
+30,Canada & Alaska,1882,8
+31,Canada & Alaska,1884,11
+32,Canada & Alaska,1886,8
+33,Canada & Alaska,1888,14
+34,Canada & Alaska,1890,23
+35,Canada & Alaska,1892,16
+36,Canada & Alaska,1896,12
+37,Canada & Alaska,1900,5
+38,Canada & Alaska,1902,6
+39,Canada & Alaska,1906,11
+40,Canada & Alaska,1908,11
+41,Canada & Alaska,1912,3
+42,Canada & Alaska,1914,7
+43,Canada & Alaska,1916,11
+44,Canada & Alaska,1918,5
+45,Canada & Alaska,1920,7
+46,Canada & Alaska,1922,8
+47,Canada & Alaska,1924,15
+48,Canada & Alaska,1926,7
+49,Canada & Alaska,1928,9
+50,Canada & Alaska,1930,3
+51,Canada & Alaska,1932,6
+52,Canada & Alaska,1934,4
+53,Canada & Alaska,1936,2
+54,Canada & Alaska,1938,7
+55,Canada & Alaska,1940,2
+56,Southwest (US),1878,4
+57,Southwest (US),1880,6
+58,Southwest (US),1882,12
+59,Southwest (US),1884,17
+60,Southwest (US),1886,13
+61,Southwest (US),1888,9
+62,Southwest (US),1890,30
+63,Southwest (US),1892,16
+64,Southwest (US),1896,26
+65,Southwest (US),1900,15
+66,Southwest (US),1902,21
+67,Southwest (US),1906,30
+68,Southwest (US),1908,34
+69,Southwest (US),1912,53
+70,Southwest (US),1914,56
+71,Southwest (US),1916,61
+72,Southwest (US),1918,37
+73,Southwest (US),1920,52
+74,Southwest (US),1922,99
+75,Southwest (US),1924,99
+76,Southwest (US),1926,124
+77,Southwest (US),1928,151
+78,Southwest (US),1930,142
+79,Southwest (US),1932,177
+80,Southwest (US),1934,214
+81,Southwest (US),1936,184
+82,Southwest (US),1938,239
+83,Southwest (US),1940,220
+84,Far West (US),1878,1
+85,Far West (US),1880,1
+86,Far West (US),1882,5
+87,Far West (US),1884,3
+88,Far West (US),1886,3
+89,Far West (US),1888,6
+90,Far West (US),1890,4
+91,Far West (US),1892,16
+92,Far West (US),1896,10
+93,Far West (US),1900,15
+94,Far West (US),1902,11
+95,Far West (US),1906,6
+96,Far West (US),1908,12
+97,Far West (US),1912,17
+98,Far West (US),1914,17
+99,Far West (US),1916,22
+100,Far West (US),1918,5
+101,Far West (US),1920,13
+102,Far West (US),1922,17
+103,Far West (US),1924,10
+104,Far West (US),1926,19
+105,Far West (US),1928,21
+106,Far West (US),1930,22
+107,Far West (US),1932,20
+108,Far West (US),1934,23
+109,Far West (US),1936,29
+110,Far West (US),1938,21
+111,Far West (US),1940,13
+112,Rocky Mountain (US),1878,0
+113,Rocky Mountain (US),1880,0
+114,Rocky Mountain (US),1882,4
+115,Rocky Mountain (US),1884,10
+116,Rocky Mountain (US),1886,4
+117,Rocky Mountain (US),1888,9
+118,Rocky Mountain (US),1890,15
+119,Rocky Mountain (US),1892,23
+120,Rocky Mountain (US),1896,32
+121,Rocky Mountain (US),1900,16
+122,Rocky Mountain (US),1902,44
+123,Rocky Mountain (US),1906,32
+124,Rocky Mountain (US),1908,55
+125,Rocky Mountain (US),1912,89
+126,Rocky Mountain (US),1914,75
+127,Rocky Mountain (US),1916,100
+128,Rocky Mountain (US),1918,75
+129,Rocky Mountain (US),1920,76
+130,Rocky Mountain (US),1922,95
+131,Rocky Mountain (US),1924,113
+132,Rocky Mountain (US),1926,159
+133,Rocky Mountain (US),1928,177
+134,Rocky Mountain (US),1930,205
+135,Rocky Mountain (US),1932,270
+136,Rocky Mountain (US),1934,302
+137,Rocky Mountain (US),1936,314
+138,Rocky Mountain (US),1938,320
+139,Rocky Mountain (US),1940,298
+140,New England (US),1878,6
+141,New England (US),1880,13
+142,New England (US),1882,26
+143,New England (US),1884,19
+144,New England (US),1886,12
+145,New England (US),1888,18
+146,New England (US),1890,26
+147,New England (US),1892,29
+148,New England (US),1896,24
+149,New England (US),1900,24
+150,New England (US),1902,24
+151,New England (US),1906,17
+152,New England (US),1908,24
+153,New England (US),1912,13
+154,New England (US),1914,25
+155,New England (US),1916,10
+156,New England (US),1918,11
+157,New England (US),1920,9
+158,New England (US),1922,10
+159,New England (US),1924,14
+160,New England (US),1926,16
+161,New England (US),1928,13
+162,New England (US),1930,17
+163,New England (US),1932,23
+164,New England (US),1934,16
+165,New England (US),1936,10
+166,New England (US),1938,17
+167,New England (US),1940,11
+168,Mideast (US),1878,33
+169,Mideast (US),1880,66
+170,Mideast (US),1882,82
+171,Mideast (US),1884,75
+172,Mideast (US),1886,75
+173,Mideast (US),1888,98
+174,Mideast (US),1890,116
+175,Mideast (US),1892,151
+176,Mideast (US),1896,93
+177,Mideast (US),1900,48
+178,Mideast (US),1902,71
+179,Mideast (US),1906,56
+180,Mideast (US),1908,61
+181,Mideast (US),1912,80
+182,Mideast (US),1914,82
+183,Mideast (US),1916,67
+184,Mideast (US),1918,35
+185,Mideast (US),1920,33
+186,Mideast (US),1922,49
+187,Mideast (US),1924,61
+188,Mideast (US),1926,61
+189,Mideast (US),1928,61
+190,Mideast (US),1930,54
+191,Mideast (US),1932,62
+192,Mideast (US),1934,68
+193,Mideast (US),1936,44
+194,Mideast (US),1938,56
+195,Mideast (US),1940,50
+196,Asia,1878,0
+197,Asia,1880,0
+198,Asia,1882,0
+199,Asia,1884,1
+200,Asia,1886,2
+201,Asia,1888,0
+202,Asia,1890,0
+203,Asia,1892,2
+204,Asia,1896,1
+205,Asia,1900,0
+206,Asia,1902,2
+207,Asia,1906,1
+208,Asia,1908,1
+209,Asia,1912,4
+210,Asia,1914,5
+211,Asia,1916,5
+212,Asia,1918,1
+213,Asia,1920,4
+214,Asia,1922,2
+215,Asia,1924,2
+216,Asia,1926,0
+217,Asia,1928,3
+218,Asia,1930,1
+219,Asia,1932,5
+220,Asia,1934,4
+221,Asia,1936,2
+222,Asia,1938,3
+223,Asia,1940,0
+224,Great Lakes (US),1878,19
+225,Great Lakes (US),1880,30
+226,Great Lakes (US),1882,62
+227,Great Lakes (US),1884,76
+228,Great Lakes (US),1886,57
+229,Great Lakes (US),1888,89
+230,Great Lakes (US),1890,119
+231,Great Lakes (US),1892,159
+232,Great Lakes (US),1896,100
+233,Great Lakes (US),1900,73
+234,Great Lakes (US),1902,100
+235,Great Lakes (US),1906,98
+236,Great Lakes (US),1908,98
+237,Great Lakes (US),1912,97
+238,Great Lakes (US),1914,108
+239,Great Lakes (US),1916,107
+240,Great Lakes (US),1918,63
+241,Great Lakes (US),1920,68
+242,Great Lakes (US),1922,104
+243,Great Lakes (US),1924,98
+244,Great Lakes (US),1926,96
+245,Great Lakes (US),1928,132
+246,Great Lakes (US),1930,131
+247,Great Lakes (US),1932,146
+248,Great Lakes (US),1934,132
+249,Great Lakes (US),1936,114
+250,Great Lakes (US),1938,124
+251,Great Lakes (US),1940,107
+252,Plains (US),1878,23
+253,Plains (US),1880,26
+254,Plains (US),1882,43
+255,Plains (US),1884,50
+256,Plains (US),1886,27
+257,Plains (US),1888,37
+258,Plains (US),1890,82
+259,Plains (US),1892,110
+260,Plains (US),1896,74
+261,Plains (US),1900,68
+262,Plains (US),1902,104
+263,Plains (US),1906,111
+264,Plains (US),1908,106
+265,Plains (US),1912,116
+266,Plains (US),1914,139
+267,Plains (US),1916,134
+268,Plains (US),1918,98
+269,Plains (US),1920,124
+270,Plains (US),1922,171
+271,Plains (US),1924,148
+272,Plains (US),1926,235
+273,Plains (US),1928,253
+274,Plains (US),1930,254
+275,Plains (US),1932,319
+276,Plains (US),1934,265
+277,Plains (US),1936,259
+278,Plains (US),1938,326
+279,Plains (US),1940,296
+280,Central & Eastern Europe,1878,0
+281,Central & Eastern Europe,1880,2
+282,Central & Eastern Europe,1882,1
+283,Central & Eastern Europe,1884,2
+284,Central & Eastern Europe,1886,0
+285,Central & Eastern Europe,1888,2
+286,Central & Eastern Europe,1890,4
+287,Central & Eastern Europe,1892,3
+288,Central & Eastern Europe,1896,7
+289,Central & Eastern Europe,1900,3
+290,Central & Eastern Europe,1902,2
+291,Central & Eastern Europe,1906,2
+292,Central & Eastern Europe,1908,8
+293,Central & Eastern Europe,1912,6
+294,Central & Eastern Europe,1914,5
+295,Central & Eastern Europe,1916,11
+296,Central & Eastern Europe,1918,13
+297,Central & Eastern Europe,1920,9
+298,Central & Eastern Europe,1922,18
+299,Central & Eastern Europe,1924,14
+300,Central & Eastern Europe,1926,17
+301,Central & Eastern Europe,1928,17
+302,Central & Eastern Europe,1930,39
+303,Central & Eastern Europe,1932,13
+304,Central & Eastern Europe,1934,17
+305,Central & Eastern Europe,1936,10
+306,Central & Eastern Europe,1938,7
+307,Central & Eastern Europe,1940,2
+308,South America,1878,0
+309,South America,1880,0
+310,South America,1882,0
+311,South America,1884,0
+312,South America,1886,0
+313,South America,1888,0
+314,South America,1890,1
+315,South America,1892,0
+316,South America,1896,0
+317,South America,1900,0
+318,South America,1902,0
+319,South America,1906,1
+320,South America,1908,0
+321,South America,1912,0
+322,South America,1914,0
+323,South America,1916,0
+324,South America,1918,1
+325,South America,1920,0
+326,South America,1922,0
+327,South America,1924,3
+328,South America,1926,0
+329,South America,1928,0
+330,South America,1930,0
+331,South America,1932,0
+332,South America,1934,1
+333,South America,1936,0
+334,South America,1938,0
+335,South America,1940,0
+336,Oceania,1878,0
+337,Oceania,1880,0
+338,Oceania,1882,1
+339,Oceania,1884,0
+340,Oceania,1886,1
+341,Oceania,1888,0
+342,Oceania,1890,1
+343,Oceania,1892,1
+344,Oceania,1896,1
+345,Oceania,1900,1
+346,Oceania,1902,1
+347,Oceania,1906,3
+348,Oceania,1908,0
+349,Oceania,1912,0
+350,Oceania,1914,4
+351,Oceania,1916,1
+352,Oceania,1918,0
+353,Oceania,1920,0
+354,Oceania,1922,15
+355,Oceania,1924,1
+356,Oceania,1926,1
+357,Oceania,1928,0
+358,Oceania,1930,0
+359,Oceania,1932,0
+360,Oceania,1934,0
+361,Oceania,1936,0
+362,Oceania,1938,0
+363,Oceania,1940,0
+364,Western Europe,1878,32
+365,Western Europe,1880,45
+366,Western Europe,1882,44
+367,Western Europe,1884,56
+368,Western Europe,1886,48
+369,Western Europe,1888,70
+370,Western Europe,1890,84
+371,Western Europe,1892,102
+372,Western Europe,1896,81
+373,Western Europe,1900,61
+374,Western Europe,1902,60
+375,Western Europe,1906,42
+376,Western Europe,1908,62
+377,Western Europe,1912,57
+378,Western Europe,1914,62
+379,Western Europe,1916,49
+380,Western Europe,1918,29
+381,Western Europe,1920,23
+382,Western Europe,1922,30
+383,Western Europe,1924,41
+384,Western Europe,1926,55
+385,Western Europe,1928,21
+386,Western Europe,1930,43
+387,Western Europe,1932,33
+388,Western Europe,1934,13
+389,Western Europe,1936,12
+390,Western Europe,1938,7
+391,Western Europe,1940,10
+392,Central America,1878,1
+393,Central America,1880,2
+394,Central America,1882,0
+395,Central America,1884,1
+396,Central America,1886,0
+397,Central America,1888,1
+398,Central America,1890,3
+399,Central America,1892,3
+400,Central America,1896,2
+401,Central America,1900,0
+402,Central America,1902,7
+403,Central America,1906,7
+404,Central America,1908,28
+405,Central America,1912,36
+406,Central America,1914,62
+407,Central America,1916,62
+408,Central America,1918,40
+409,Central America,1920,64
+410,Central America,1922,70
+411,Central America,1924,59
+412,Central America,1926,97
+413,Central America,1928,91
+414,Central America,1930,41
+415,Central America,1932,69
+416,Central America,1934,51
+417,Central America,1936,27
+418,Central America,1938,24
+419,Central America,1940,10
+420,Caribbean,1878,0
+421,Caribbean,1880,0
+422,Caribbean,1882,1
+423,Caribbean,1884,1
+424,Caribbean,1886,1
+425,Caribbean,1888,1
+426,Caribbean,1890,0
+427,Caribbean,1892,2
+428,Caribbean,1896,1
+429,Caribbean,1900,1
+430,Caribbean,1902,0
+431,Caribbean,1906,0
+432,Caribbean,1908,0
+433,Caribbean,1912,3
+434,Caribbean,1914,0
+435,Caribbean,1916,2
+436,Caribbean,1918,1
+437,Caribbean,1920,0
+438,Caribbean,1922,3
+439,Caribbean,1924,3
+440,Caribbean,1926,0
+441,Caribbean,1928,0
+442,Caribbean,1930,0
+443,Caribbean,1932,0
+444,Caribbean,1934,0
+445,Caribbean,1936,0
+446,Caribbean,1938,1
+447,Caribbean,1940,0
+448,Northern Europe,1878,0
+449,Northern Europe,1880,0
+450,Northern Europe,1882,2
+451,Northern Europe,1884,3
+452,Northern Europe,1886,3
+453,Northern Europe,1888,9
+454,Northern Europe,1890,3
+455,Northern Europe,1892,8
+456,Northern Europe,1896,14
+457,Northern Europe,1900,10
+458,Northern Europe,1902,4
+459,Northern Europe,1906,5
+460,Northern Europe,1908,10
+461,Northern Europe,1912,6
+462,Northern Europe,1914,5
+463,Northern Europe,1916,7
+464,Northern Europe,1918,2
+465,Northern Europe,1920,1
+466,Northern Europe,1922,4
+467,Northern Europe,1924,4
+468,Northern Europe,1926,4
+469,Northern Europe,1928,2
+470,Northern Europe,1930,11
+471,Northern Europe,1932,6
+472,Northern Europe,1934,2
+473,Northern Europe,1936,1
+474,Northern Europe,1938,4
+475,Northern Europe,1940,4
+476,Africa/Middle East,1878,0
+477,Africa/Middle East,1880,0
+478,Africa/Middle East,1882,0
+479,Africa/Middle East,1884,0
+480,Africa/Middle East,1886,0
+481,Africa/Middle East,1888,0
+482,Africa/Middle East,1890,2
+483,Africa/Middle East,1892,1
+484,Africa/Middle East,1896,0
+485,Africa/Middle East,1900,0
+486,Africa/Middle East,1902,1
+487,Africa/Middle East,1906,0
+488,Africa/Middle East,1908,1
+489,Africa/Middle East,1912,2
+490,Africa/Middle East,1914,0
+491,Africa/Middle East,1916,0
+492,Africa/Middle East,1918,0
+493,Africa/Middle East,1920,0
+494,Africa/Middle East,1922,1
+495,Africa/Middle East,1924,0
+496,Africa/Middle East,1926,1
+497,Africa/Middle East,1928,1
+498,Africa/Middle East,1930,0
+499,Africa/Middle East,1932,2
+500,Africa/Middle East,1934,1
+501,Africa/Middle East,1936,0
+502,Africa/Middle East,1938,0
+503,Africa/Middle East,1940,0
+504,Southern Europe,1878,7
+505,Southern Europe,1880,6
+506,Southern Europe,1882,4
+507,Southern Europe,1884,7
+508,Southern Europe,1886,6
+509,Southern Europe,1888,5
+510,Southern Europe,1890,4
+511,Southern Europe,1892,11
+512,Southern Europe,1896,10
+513,Southern Europe,1900,1
+514,Southern Europe,1902,8
+515,Southern Europe,1906,9
+516,Southern Europe,1908,21
+517,Southern Europe,1912,18
+518,Southern Europe,1914,27
+519,Southern Europe,1916,19
+520,Southern Europe,1918,16
+521,Southern Europe,1920,11
+522,Southern Europe,1922,14
+523,Southern Europe,1924,28
+524,Southern Europe,1926,26
+525,Southern Europe,1928,32
+526,Southern Europe,1930,22
+527,Southern Europe,1932,19
+528,Southern Europe,1934,7
+529,Southern Europe,1936,7
+530,Southern Europe,1938,6
+531,Southern Europe,1940,2

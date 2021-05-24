@@ -38,10 +38,7 @@ def load_location_data_and_clean(states = True, modernized=True, save=False):
     result = result.fillna(0)
     result['Prisoners'] = result['Prisoners'].astype(int)
     result['Year'] = result['Year'].astype(int)
-
-
-    # if states:
-    #     result['Region'] = result['State'].apply(lambda x: regional_us_apply(x))
+    result['Region'] = result['Location'].apply(lambda x: regional_apply(x))
 
     if save:
         result.to_csv(save_local)
@@ -50,43 +47,74 @@ def load_location_data_and_clean(states = True, modernized=True, save=False):
 
 
 
-# def regional_us_apply(x):
-#     if x in  [ 'Connecticut', 'Maine', 'Massachusetts', 'New Hampshire', 'Rhode Island' , 'Vermont']:
-#         return 'New England'
-#     elif x in ['Delaware', 'D.C.', 'Maryland', 'New Jersey', 'New York' , 'Pennsylvania']:
-#         return 'Mideast'
-#     elif x in ['Illinois', 'Indiana', 'Michigan', 'Ohio', 'Wisconsin']:
-#         return 'Great Lakes'
-#     elif x in ['Iowa', 'Kansas', 'Minnesota', 'Missouri', 'Nebraska', 'North Dakota', 'South Dakota']:
-#         return 'Plains'
-#     elif x in ['Alabama','Arkansas','Florida','Georgia','Kentucky','Louisiana','Mississippi', 'North Carolina', 'South Carolina', 'Tennessee', 'Virginia','West Virginia']:
-#         return 'Southeast'
-#     elif x in ['Arizona', 'New Mexico', 'Oklahoma', 'Texas']:
-#         return 'Southwest'
-#     elif x in ['Colorado', 'Idaho', 'Montana', 'Utah', 'Wyoming']:
-#         return 'Rocky Mountain'
-#     elif x in ['California', 'Nevada', 'Oregon', 'Washington']:
-#         return 'Far West'
+def regional_apply(x):
+    if x in  [ 'Connecticut', 'Maine', 'Massachusetts', 'New Hampshire', 'Rhode Island' , 'Vermont']:
+        return 'New England (US)'
+    elif x in ['Delaware', 'D.C.', 'Maryland', 'New Jersey', 'New York' , 'Pennsylvania']:
+        return 'Mideast (US)'
+    elif x in ['Illinois', 'Indiana', 'Michigan', 'Ohio', 'Wisconsin']:
+        return 'Great Lakes (US)'
+    elif x in ['Iowa', 'Kansas', 'Minnesota', 'Missouri', 'Nebraska', 'North Dakota', 'South Dakota']:
+        return 'Plains (US)'
+    elif x in ['Alabama','Arkansas','Florida','Georgia','Kentucky','Louisiana','Mississippi', 'North Carolina', 'South Carolina', 'Tennessee', 'Virginia','West Virginia']:
+        return 'Southeast (US)'
+    elif x in ['Arizona', 'New Mexico', 'Oklahoma', 'Texas']:
+        return 'Southwest (US)'
+    elif x in ['Colorado', 'Idaho', 'Montana', 'Utah', 'Wyoming']:
+        return 'Rocky Mountain (US)'
+    elif x in ['California', 'Nevada', 'Oregon', 'Washington']:
+        return 'Far West (US)'
+    elif x in ['Brazil', 'Argentina']:
+        return 'South America'
+    elif x in ['Mexico', 'Nicaragua', 'Costa Rica']: # really mexico/central america --- combine with Caribbean? 
+        return 'Central America'
+    elif x in ['Jamaica', 'Cuba', 'Porto Rico']:
+        return 'Caribbean'
+    elif x in ['South Africa', 'Egypt', 'Turkey', 'Syria']:
+        return 'Africa/Middle East'
+    elif x in ['Australia', 'New Zealand', 'Solomon Islands']:
+        return 'Oceania'
+    elif x in ['Indonesia', 'Philippines', 'Thailand', 'India', 'China', 'South Korea', 'Japan', 'Hawaii']:
+        return 'Asia'
+    elif x in ['Portugal', 'Spain', 'Italy', 'Greece']:
+        return 'Southern Europe'
+    elif x in ['France', 'Ireland', 'United Kingdom', 'Germany', 'Austria', 'Netherlands', 'Switzerland', 'Belgium']:
+        return 'Western Europe'
+    elif x in ['Norway', 'Sweden', 'Finland', 'Lithuania', 'Denmark']:
+        return 'Northern Europe'
+    elif x in ['Poland','Czech Republic','Croatia', 'Serbia', 'Albania', 'Montenegro', 'Bulgaria', 'Romania', 'Hungary', 'Russia']:
+        return 'Central & Eastern Europe'
+    elif x in  ['Canada', 'Alaska']:
+        return 'Canada & Alaska'
 
-# def regional_df(save=False): # do this again with foreign data as well once we see how they work in Tableau 
-#     df = load_location_data_and_clean()
-#     regions = df['Region'].unique()
-#     years = df['Year'].unique()
-#     result_idx = list(range(len(years) * len(regions)))
-#     result = pd.DataFrame(columns=['Region', 'Year', 'Prisoners'], index=result_idx)
+    
 
-#     idx = 0
-#     for region in regions:
-#         sub_df = df[df['Region'] == region]
-#         for year in years:
-#             year_df = sub_df[sub_df['Year'] == year]
-#             total = year_df['Prisoners'].sum()
-#             result.iloc[idx] = [region, year, total]
-#             idx += 1
-#     if save:
-#         result.to_csv('../../data/regional_data.csv')
-#     else:
-#         return result 
+    # Use the below link for European regions
+    # https://en.wikipedia.org/wiki/Regions_of_Europe#/media/File:European_sub-regions_(according_to_EuroVoc,_the_thesaurus_of_the_EU).png
+
+
+
+def regional_df(save=False): # do this again with foreign data as well once we see how they work in Tableau 
+    states = load_location_data_and_clean()
+    foreign = load_location_data_and_clean(False)
+    df = pd.concat([states,foreign])
+    regions = df['Region'].unique()
+    years = df['Year'].unique()
+    result_idx = list(range(len(years) * len(regions)))
+    result = pd.DataFrame(columns=['Region', 'Year', 'Prisoners'], index=result_idx)
+
+    idx = 0
+    for region in regions:
+        sub_df = df[df['Region'] == region]
+        for year in years:
+            year_df = sub_df[sub_df['Year'] == year]
+            total = year_df['Prisoners'].sum()
+            result.iloc[idx] = [region, year, total]
+            idx += 1
+    if save:
+        result.to_csv('../../data/regional_data.csv')
+    else:
+        return result 
 
 
 def state_sizes(years = [1878]):
@@ -154,13 +182,23 @@ def create_grouped_df(groups=4, cutoff=500, cutoff_column = False,  save = False
 
 
 if __name__=="__main__":
-    load_location_data_and_clean(False, True, True)
+    # load_location_data_and_clean(False, True, True)
+    # load_location_data_and_clean(True, True, True)
 
-    # print(load_location_data_and_clean(True, False, False).head())
-    # print(load_location_data_and_clean(False, True, False).head())
-    # print(load_location_data_and_clean(False, False, False).head())
 
-    # print(create_grouped_df(4, 200, True, False, '4_year_groupings_no_cutoff').head())
 
-    # print(df.head())
+    # states = load_location_data_and_clean(False, True, False)
+    # foreign = load_location_data_and_clean(True, True, False)
 
+    # both = pd.concat([states,foreign])
+    # print(both.info())
+
+    # print(both.head())
+
+    # na = both[pd.isnull(both['Region'])]
+    # print(na.head())
+    # print(na.Location.unique())
+    df = regional_df()
+    print(df.info())
+    print(df.head())
+    regional_df(True)

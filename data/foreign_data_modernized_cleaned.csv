@@ -1,1429 +1,1401 @@
-,Location,Year,Prisoners
-0,Albania,1878,0
-1,Albania,1880,0
-2,Albania,1882,0
-3,Albania,1884,0
-4,Albania,1886,0
-5,Albania,1888,0
-6,Albania,1890,0
-7,Albania,1892,0
-8,Albania,1896,0
-9,Albania,1900,0
-10,Albania,1902,0
-11,Albania,1906,0
-12,Albania,1908,0
-13,Albania,1912,0
-14,Albania,1914,0
-15,Albania,1916,0
-16,Albania,1918,0
-17,Albania,1920,0
-18,Albania,1922,0
-19,Albania,1924,0
-20,Albania,1926,0
-21,Albania,1928,0
-22,Albania,1930,0
-23,Albania,1932,1
-24,Albania,1934,0
-25,Albania,1936,0
-26,Albania,1938,0
-27,Albania,1940,0
-28,Argentina,1878,0
-29,Argentina,1880,0
-30,Argentina,1882,0
-31,Argentina,1884,0
-32,Argentina,1886,0
-33,Argentina,1888,0
-34,Argentina,1890,1
-35,Argentina,1892,0
-36,Argentina,1896,0
-37,Argentina,1900,0
-38,Argentina,1902,0
-39,Argentina,1906,0
-40,Argentina,1908,0
-41,Argentina,1912,0
-42,Argentina,1914,0
-43,Argentina,1916,0
-44,Argentina,1918,1
-45,Argentina,1920,0
-46,Argentina,1922,0
-47,Argentina,1924,2
-48,Argentina,1926,0
-49,Argentina,1928,0
-50,Argentina,1930,0
-51,Argentina,1932,0
-52,Argentina,1934,0
-53,Argentina,1936,0
-54,Argentina,1938,0
-55,Argentina,1940,0
-56,Australia,1878,0
-57,Australia,1880,0
-58,Australia,1882,1
-59,Australia,1884,0
-60,Australia,1886,1
-61,Australia,1888,0
-62,Australia,1890,1
-63,Australia,1892,1
-64,Australia,1896,1
-65,Australia,1900,1
-66,Australia,1902,1
-67,Australia,1906,3
-68,Australia,1908,0
-69,Australia,1912,0
-70,Australia,1914,3
-71,Australia,1916,1
-72,Australia,1918,0
-73,Australia,1920,0
-74,Australia,1922,15
-75,Australia,1924,0
-76,Australia,1926,1
-77,Australia,1928,0
-78,Australia,1930,0
-79,Australia,1932,0
-80,Australia,1934,0
-81,Australia,1936,0
-82,Australia,1938,0
-83,Australia,1940,0
-84,Austria,1878,1
-85,Austria,1880,1
-86,Austria,1882,0
-87,Austria,1884,2
-88,Austria,1886,0
-89,Austria,1888,5
-90,Austria,1890,1
-91,Austria,1892,3
-92,Austria,1896,4
-93,Austria,1900,3
-94,Austria,1902,12
-95,Austria,1906,5
-96,Austria,1908,14
-97,Austria,1912,13
-98,Austria,1914,11
-99,Austria,1916,16
-100,Austria,1918,8
-101,Austria,1920,13
-102,Austria,1922,2
-103,Austria,1924,15
-104,Austria,1926,16
-105,Austria,1928,2
-106,Austria,1930,7
-107,Austria,1932,7
-108,Austria,1934,2
-109,Austria,1936,2
-110,Austria,1938,1
-111,Austria,1940,2
-112,Belgium,1878,0
-113,Belgium,1880,0
-114,Belgium,1882,0
-115,Belgium,1884,0
-116,Belgium,1886,1
-117,Belgium,1888,0
-118,Belgium,1890,0
-119,Belgium,1892,3
-120,Belgium,1896,2
-121,Belgium,1900,0
-122,Belgium,1902,0
-123,Belgium,1906,0
-124,Belgium,1908,0
-125,Belgium,1912,0
-126,Belgium,1914,0
-127,Belgium,1916,0
-128,Belgium,1918,0
-129,Belgium,1920,0
-130,Belgium,1922,0
-131,Belgium,1924,1
-132,Belgium,1926,2
-133,Belgium,1928,3
-134,Belgium,1930,1
-135,Belgium,1932,0
-136,Belgium,1934,0
-137,Belgium,1936,1
-138,Belgium,1938,0
-139,Belgium,1940,0
-140,Czech Republic,1878,0
-141,Czech Republic,1880,1
-142,Czech Republic,1882,0
-143,Czech Republic,1884,0
-144,Czech Republic,1886,0
-145,Czech Republic,1888,0
-146,Czech Republic,1890,0
-147,Czech Republic,1892,0
-148,Czech Republic,1896,0
-149,Czech Republic,1900,0
-150,Czech Republic,1902,0
-151,Czech Republic,1906,0
-152,Czech Republic,1908,0
-153,Czech Republic,1912,0
-154,Czech Republic,1914,1
-155,Czech Republic,1916,1
-156,Czech Republic,1918,0
-157,Czech Republic,1920,0
-158,Czech Republic,1922,1
-159,Czech Republic,1924,1
-160,Czech Republic,1926,0
-161,Czech Republic,1928,0
-162,Czech Republic,1930,1
-163,Czech Republic,1932,0
-164,Czech Republic,1934,0
-165,Czech Republic,1936,0
-166,Czech Republic,1938,0
-167,Czech Republic,1940,0
-168,Brazil,1878,0
-169,Brazil,1880,0
-170,Brazil,1882,0
-171,Brazil,1884,0
-172,Brazil,1886,0
-173,Brazil,1888,0
-174,Brazil,1890,0
-175,Brazil,1892,0
-176,Brazil,1896,0
-177,Brazil,1900,0
-178,Brazil,1902,0
-179,Brazil,1906,1
-180,Brazil,1908,0
-181,Brazil,1912,0
-182,Brazil,1914,0
-183,Brazil,1916,0
-184,Brazil,1918,0
-185,Brazil,1920,0
-186,Brazil,1922,0
-187,Brazil,1924,1
-188,Brazil,1926,0
-189,Brazil,1928,0
-190,Brazil,1930,0
-191,Brazil,1932,0
-192,Brazil,1934,1
-193,Brazil,1936,0
-194,Brazil,1938,0
-195,Brazil,1940,0
-196,Bulgaria,1878,0
-197,Bulgaria,1880,0
-198,Bulgaria,1882,0
-199,Bulgaria,1884,0
-200,Bulgaria,1886,0
-201,Bulgaria,1888,0
-202,Bulgaria,1890,0
-203,Bulgaria,1892,0
-204,Bulgaria,1896,0
-205,Bulgaria,1900,0
-206,Bulgaria,1902,0
-207,Bulgaria,1906,0
-208,Bulgaria,1908,1
-209,Bulgaria,1912,1
-210,Bulgaria,1914,0
-211,Bulgaria,1916,0
-212,Bulgaria,1918,2
-213,Bulgaria,1920,1
-214,Bulgaria,1922,3
-215,Bulgaria,1924,2
-216,Bulgaria,1926,4
-217,Bulgaria,1928,1
-218,Bulgaria,1930,0
-219,Bulgaria,1932,0
-220,Bulgaria,1934,0
-221,Bulgaria,1936,0
-222,Bulgaria,1938,1
-223,Bulgaria,1940,0
-224,Canada,1878,9
-225,Canada,1880,7
-226,Canada,1882,8
-227,Canada,1884,11
-228,Canada,1886,8
-229,Canada,1888,14
-230,Canada,1890,23
-231,Canada,1892,16
-232,Canada,1896,12
-233,Canada,1900,5
-234,Canada,1902,6
-235,Canada,1906,11
-236,Canada,1908,11
-237,Canada,1912,3
-238,Canada,1914,7
-239,Canada,1916,10
-240,Canada,1918,5
-241,Canada,1920,7
-242,Canada,1922,7
-243,Canada,1924,15
-244,Canada,1926,7
-245,Canada,1928,9
-246,Canada,1930,3
-247,Canada,1932,6
-248,Canada,1934,4
-249,Canada,1936,2
-250,Canada,1938,7
-251,Canada,1940,2
-252,China,1878,0
-253,China,1880,0
-254,China,1882,0
-255,China,1884,1
-256,China,1886,1
-257,China,1888,0
-258,China,1890,0
-259,China,1892,1
-260,China,1896,0
-261,China,1900,0
-262,China,1902,0
-263,China,1906,0
-264,China,1908,1
-265,China,1912,0
-266,China,1914,0
-267,China,1916,0
-268,China,1918,0
-269,China,1920,0
-270,China,1922,0
-271,China,1924,0
-272,China,1926,0
-273,China,1928,0
-274,China,1930,0
-275,China,1932,0
-276,China,1934,0
-277,China,1936,0
-278,China,1938,1
-279,China,1940,0
-280,Costa Rica,1878,0
-281,Costa Rica,1880,0
-282,Costa Rica,1882,0
-283,Costa Rica,1884,0
-284,Costa Rica,1886,0
-285,Costa Rica,1888,0
-286,Costa Rica,1890,0
-287,Costa Rica,1892,0
-288,Costa Rica,1896,0
-289,Costa Rica,1900,0
-290,Costa Rica,1902,0
-291,Costa Rica,1906,0
-292,Costa Rica,1908,0
-293,Costa Rica,1912,0
-294,Costa Rica,1914,0
-295,Costa Rica,1916,0
-296,Costa Rica,1918,0
-297,Costa Rica,1920,3
-298,Costa Rica,1922,0
-299,Costa Rica,1924,0
-300,Costa Rica,1926,1
-301,Costa Rica,1928,0
-302,Costa Rica,1930,0
-303,Costa Rica,1932,0
-304,Costa Rica,1934,0
-305,Costa Rica,1936,0
-306,Costa Rica,1938,0
-307,Costa Rica,1940,0
-308,Croatia,1878,0
-309,Croatia,1880,0
-310,Croatia,1882,0
-311,Croatia,1884,0
-312,Croatia,1886,0
-313,Croatia,1888,0
-314,Croatia,1890,0
-315,Croatia,1892,0
-316,Croatia,1896,0
-317,Croatia,1900,0
-318,Croatia,1902,0
-319,Croatia,1906,0
-320,Croatia,1908,0
-321,Croatia,1912,0
-322,Croatia,1914,0
-323,Croatia,1916,0
-324,Croatia,1918,0
-325,Croatia,1920,0
-326,Croatia,1922,0
-327,Croatia,1924,0
-328,Croatia,1926,0
-329,Croatia,1928,0
-330,Croatia,1930,2
-331,Croatia,1932,0
-332,Croatia,1934,0
-333,Croatia,1936,1
-334,Croatia,1938,0
-335,Croatia,1940,0
-336,Cuba,1878,0
-337,Cuba,1880,0
-338,Cuba,1882,1
-339,Cuba,1884,1
-340,Cuba,1886,1
-341,Cuba,1888,0
-342,Cuba,1890,0
-343,Cuba,1892,2
-344,Cuba,1896,1
-345,Cuba,1900,0
-346,Cuba,1902,0
-347,Cuba,1906,0
-348,Cuba,1908,0
-349,Cuba,1912,2
-350,Cuba,1914,0
-351,Cuba,1916,2
-352,Cuba,1918,0
-353,Cuba,1920,0
-354,Cuba,1922,2
-355,Cuba,1924,0
-356,Cuba,1926,0
-357,Cuba,1928,0
-358,Cuba,1930,0
-359,Cuba,1932,0
-360,Cuba,1934,0
-361,Cuba,1936,0
-362,Cuba,1938,0
-363,Cuba,1940,0
-364,Denmark,1878,0
-365,Denmark,1880,0
-366,Denmark,1882,0
-367,Denmark,1884,1
-368,Denmark,1886,1
-369,Denmark,1888,1
-370,Denmark,1890,0
-371,Denmark,1892,3
-372,Denmark,1896,2
-373,Denmark,1900,2
-374,Denmark,1902,0
-375,Denmark,1906,3
-376,Denmark,1908,2
-377,Denmark,1912,2
-378,Denmark,1914,0
-379,Denmark,1916,0
-380,Denmark,1918,0
-381,Denmark,1920,0
-382,Denmark,1922,2
-383,Denmark,1924,1
-384,Denmark,1926,1
-385,Denmark,1928,0
-386,Denmark,1930,1
-387,Denmark,1932,0
-388,Denmark,1934,1
-389,Denmark,1936,0
-390,Denmark,1938,1
-391,Denmark,1940,2
-392,Egypt,1878,0
-393,Egypt,1880,0
-394,Egypt,1882,0
-395,Egypt,1884,0
-396,Egypt,1886,0
-397,Egypt,1888,0
-398,Egypt,1890,1
-399,Egypt,1892,0
-400,Egypt,1896,0
-401,Egypt,1900,0
-402,Egypt,1902,0
-403,Egypt,1906,0
-404,Egypt,1908,0
-405,Egypt,1912,0
-406,Egypt,1914,0
-407,Egypt,1916,0
-408,Egypt,1918,0
-409,Egypt,1920,0
-410,Egypt,1922,1
-411,Egypt,1924,0
-412,Egypt,1926,0
-413,Egypt,1928,0
-414,Egypt,1930,0
-415,Egypt,1932,1
-416,Egypt,1934,0
-417,Egypt,1936,0
-418,Egypt,1938,0
-419,Egypt,1940,0
-420,Finland,1878,0
-421,Finland,1880,0
-422,Finland,1882,0
-423,Finland,1884,0
-424,Finland,1886,0
-425,Finland,1888,0
-426,Finland,1890,0
-427,Finland,1892,0
-428,Finland,1896,0
-429,Finland,1900,0
-430,Finland,1902,0
-431,Finland,1906,0
-432,Finland,1908,1
-433,Finland,1912,0
-434,Finland,1914,0
-435,Finland,1916,2
-436,Finland,1918,0
-437,Finland,1920,1
-438,Finland,1922,0
-439,Finland,1924,1
-440,Finland,1926,2
-441,Finland,1928,0
-442,Finland,1930,2
-443,Finland,1932,0
-444,Finland,1934,0
-445,Finland,1936,0
-446,Finland,1938,1
-447,Finland,1940,0
-448,France,1878,4
-449,France,1880,1
-450,France,1882,1
-451,France,1884,3
-452,France,1886,1
-453,France,1888,5
-454,France,1890,3
-455,France,1892,5
-456,France,1896,4
-457,France,1900,2
-458,France,1902,2
-459,France,1906,2
-460,France,1908,1
-461,France,1912,2
-462,France,1914,4
-463,France,1916,1
-464,France,1918,0
-465,France,1920,1
-466,France,1922,3
-467,France,1924,0
-468,France,1926,1
-469,France,1928,1
-470,France,1930,3
-471,France,1932,5
-472,France,1934,0
-473,France,1936,0
-474,France,1938,0
-475,France,1940,0
-476,Germany,1878,7
-477,Germany,1880,12
-478,Germany,1882,13
-479,Germany,1884,15
-480,Germany,1886,12
-481,Germany,1888,14
-482,Germany,1890,22
-483,Germany,1892,27
-484,Germany,1896,29
-485,Germany,1900,14
-486,Germany,1902,11
-487,Germany,1906,17
-488,Germany,1908,22
-489,Germany,1912,19
-490,Germany,1914,19
-491,Germany,1916,11
-492,Germany,1918,8
-493,Germany,1920,2
-494,Germany,1922,9
-495,Germany,1924,12
-496,Germany,1926,13
-497,Germany,1928,4
-498,Germany,1930,15
-499,Germany,1932,8
-500,Germany,1934,8
-501,Germany,1936,5
-502,Germany,1938,2
-503,Germany,1940,1
-504,Greece,1878,0
-505,Greece,1880,0
-506,Greece,1882,0
-507,Greece,1884,0
-508,Greece,1886,0
-509,Greece,1888,0
-510,Greece,1890,0
-511,Greece,1892,0
-512,Greece,1896,0
-513,Greece,1900,0
-514,Greece,1902,0
-515,Greece,1906,1
-516,Greece,1908,5
-517,Greece,1912,0
-518,Greece,1914,2
-519,Greece,1916,7
-520,Greece,1918,2
-521,Greece,1920,5
-522,Greece,1922,1
-523,Greece,1924,10
-524,Greece,1926,4
-525,Greece,1928,8
-526,Greece,1930,1
-527,Greece,1932,2
-528,Greece,1934,1
-529,Greece,1936,4
-530,Greece,1938,0
-531,Greece,1940,0
-532,Hungary,1878,0
-533,Hungary,1880,0
-534,Hungary,1882,0
-535,Hungary,1884,1
-536,Hungary,1886,0
-537,Hungary,1888,0
-538,Hungary,1890,2
-539,Hungary,1892,0
-540,Hungary,1896,1
-541,Hungary,1900,0
-542,Hungary,1902,1
-543,Hungary,1906,1
-544,Hungary,1908,4
-545,Hungary,1912,1
-546,Hungary,1914,1
-547,Hungary,1916,3
-548,Hungary,1918,1
-549,Hungary,1920,1
-550,Hungary,1922,0
-551,Hungary,1924,0
-552,Hungary,1926,1
-553,Hungary,1928,1
-554,Hungary,1930,0
-555,Hungary,1932,1
-556,Hungary,1934,0
-557,Hungary,1936,1
-558,Hungary,1938,1
-559,Hungary,1940,0
-560,India,1878,0
-561,India,1880,0
-562,India,1882,0
-563,India,1884,0
-564,India,1886,0
-565,India,1888,0
-566,India,1890,0
-567,India,1892,0
-568,India,1896,0
-569,India,1900,0
-570,India,1902,0
-571,India,1906,0
-572,India,1908,0
-573,India,1912,0
-574,India,1914,1
-575,India,1916,1
-576,India,1918,1
-577,India,1920,0
-578,India,1922,0
-579,India,1924,1
-580,India,1926,0
-581,India,1928,2
-582,India,1930,0
-583,India,1932,0
-584,India,1934,2
-585,India,1936,1
-586,India,1938,0
-587,India,1940,0
-588,Ireland,1878,12
-589,Ireland,1880,18
-590,Ireland,1882,15
-591,Ireland,1884,19
-592,Ireland,1886,16
-593,Ireland,1888,24
-594,Ireland,1890,28
-595,Ireland,1892,25
-596,Ireland,1896,14
-597,Ireland,1900,10
-598,Ireland,1902,21
-599,Ireland,1906,6
-600,Ireland,1908,9
-601,Ireland,1912,8
-602,Ireland,1914,8
-603,Ireland,1916,7
-604,Ireland,1918,2
-605,Ireland,1920,1
-606,Ireland,1922,5
-607,Ireland,1924,6
-608,Ireland,1926,6
-609,Ireland,1928,2
-610,Ireland,1930,7
-611,Ireland,1932,5
-612,Ireland,1934,1
-613,Ireland,1936,1
-614,Ireland,1938,1
-615,Ireland,1940,2
-616,Italy,1878,7
-617,Italy,1880,6
-618,Italy,1882,4
-619,Italy,1884,7
-620,Italy,1886,6
-621,Italy,1888,5
-622,Italy,1890,4
-623,Italy,1892,11
-624,Italy,1896,9
-625,Italy,1900,1
-626,Italy,1902,8
-627,Italy,1906,8
-628,Italy,1908,16
-629,Italy,1912,18
-630,Italy,1914,25
-631,Italy,1916,12
-632,Italy,1918,14
-633,Italy,1920,5
-634,Italy,1922,12
-635,Italy,1924,18
-636,Italy,1926,22
-637,Italy,1928,24
-638,Italy,1930,20
-639,Italy,1932,17
-640,Italy,1934,6
-641,Italy,1936,2
-642,Italy,1938,5
-643,Italy,1940,2
-644,Jamaica,1878,0
-645,Jamaica,1880,0
-646,Jamaica,1882,0
-647,Jamaica,1884,0
-648,Jamaica,1886,0
-649,Jamaica,1888,1
-650,Jamaica,1890,0
-651,Jamaica,1892,0
-652,Jamaica,1896,0
-653,Jamaica,1900,1
-654,Jamaica,1902,0
-655,Jamaica,1906,0
-656,Jamaica,1908,0
-657,Jamaica,1912,0
-658,Jamaica,1914,0
-659,Jamaica,1916,0
-660,Jamaica,1918,0
-661,Jamaica,1920,0
-662,Jamaica,1922,1
-663,Jamaica,1924,2
-664,Jamaica,1926,0
-665,Jamaica,1928,0
-666,Jamaica,1930,0
-667,Jamaica,1932,0
-668,Jamaica,1934,0
-669,Jamaica,1936,0
-670,Jamaica,1938,0
-671,Jamaica,1940,0
-672,Japan,1878,0
-673,Japan,1880,0
-674,Japan,1882,0
-675,Japan,1884,0
-676,Japan,1886,0
-677,Japan,1888,0
-678,Japan,1890,0
-679,Japan,1892,0
-680,Japan,1896,1
-681,Japan,1900,0
-682,Japan,1902,2
-683,Japan,1906,1
-684,Japan,1908,0
-685,Japan,1912,3
-686,Japan,1914,3
-687,Japan,1916,2
-688,Japan,1918,0
-689,Japan,1920,2
-690,Japan,1922,1
-691,Japan,1924,0
-692,Japan,1926,0
-693,Japan,1928,0
-694,Japan,1930,0
-695,Japan,1932,0
-696,Japan,1934,0
-697,Japan,1936,1
-698,Japan,1938,0
-699,Japan,1940,0
-700,Indonesia,1878,0
-701,Indonesia,1880,0
-702,Indonesia,1882,0
-703,Indonesia,1884,0
-704,Indonesia,1886,0
-705,Indonesia,1888,0
-706,Indonesia,1890,0
-707,Indonesia,1892,1
-708,Indonesia,1896,0
-709,Indonesia,1900,0
-710,Indonesia,1902,0
-711,Indonesia,1906,0
-712,Indonesia,1908,0
-713,Indonesia,1912,0
-714,Indonesia,1914,0
-715,Indonesia,1916,0
-716,Indonesia,1918,0
-717,Indonesia,1920,0
-718,Indonesia,1922,0
-719,Indonesia,1924,0
-720,Indonesia,1926,0
-721,Indonesia,1928,0
-722,Indonesia,1930,0
-723,Indonesia,1932,0
-724,Indonesia,1934,0
-725,Indonesia,1936,0
-726,Indonesia,1938,0
-727,Indonesia,1940,0
-728,South Korea,1878,0
-729,South Korea,1880,0
-730,South Korea,1882,0
-731,South Korea,1884,0
-732,South Korea,1886,0
-733,South Korea,1888,0
-734,South Korea,1890,0
-735,South Korea,1892,0
-736,South Korea,1896,0
-737,South Korea,1900,0
-738,South Korea,1902,0
-739,South Korea,1906,0
-740,South Korea,1908,0
-741,South Korea,1912,0
-742,South Korea,1914,0
-743,South Korea,1916,2
-744,South Korea,1918,0
-745,South Korea,1920,2
-746,South Korea,1922,1
-747,South Korea,1924,0
-748,South Korea,1926,0
-749,South Korea,1928,0
-750,South Korea,1930,0
-751,South Korea,1932,0
-752,South Korea,1934,0
-753,South Korea,1936,0
-754,South Korea,1938,0
-755,South Korea,1940,0
-756,Lithuania,1878,0
-757,Lithuania,1880,0
-758,Lithuania,1882,0
-759,Lithuania,1884,0
-760,Lithuania,1886,0
-761,Lithuania,1888,0
-762,Lithuania,1890,0
-763,Lithuania,1892,0
-764,Lithuania,1896,0
-765,Lithuania,1900,0
-766,Lithuania,1902,0
-767,Lithuania,1906,0
-768,Lithuania,1908,0
-769,Lithuania,1912,0
-770,Lithuania,1914,0
-771,Lithuania,1916,0
-772,Lithuania,1918,0
-773,Lithuania,1920,0
-774,Lithuania,1922,0
-775,Lithuania,1924,0
-776,Lithuania,1926,0
-777,Lithuania,1928,0
-778,Lithuania,1930,0
-779,Lithuania,1932,0
-780,Lithuania,1934,0
-781,Lithuania,1936,0
-782,Lithuania,1938,0
-783,Lithuania,1940,1
-784,Mexico,1878,1
-785,Mexico,1880,2
-786,Mexico,1882,0
-787,Mexico,1884,1
-788,Mexico,1886,0
-789,Mexico,1888,1
-790,Mexico,1890,3
-791,Mexico,1892,3
-792,Mexico,1896,2
-793,Mexico,1900,0
-794,Mexico,1902,7
-795,Mexico,1906,7
-796,Mexico,1908,28
-797,Mexico,1912,36
-798,Mexico,1914,62
-799,Mexico,1916,62
-800,Mexico,1918,40
-801,Mexico,1920,61
-802,Mexico,1922,70
-803,Mexico,1924,59
-804,Mexico,1926,95
-805,Mexico,1928,91
-806,Mexico,1930,41
-807,Mexico,1932,69
-808,Mexico,1934,51
-809,Mexico,1936,27
-810,Mexico,1938,24
-811,Mexico,1940,10
-812,Montenegro,1878,0
-813,Montenegro,1880,0
-814,Montenegro,1882,0
-815,Montenegro,1884,0
-816,Montenegro,1886,0
-817,Montenegro,1888,0
-818,Montenegro,1890,0
-819,Montenegro,1892,0
-820,Montenegro,1896,0
-821,Montenegro,1900,0
-822,Montenegro,1902,0
-823,Montenegro,1906,0
-824,Montenegro,1908,0
-825,Montenegro,1912,0
-826,Montenegro,1914,0
-827,Montenegro,1916,1
-828,Montenegro,1918,0
-829,Montenegro,1920,0
-830,Montenegro,1922,0
-831,Montenegro,1924,0
-832,Montenegro,1926,1
-833,Montenegro,1928,0
-834,Montenegro,1930,0
-835,Montenegro,1932,0
-836,Montenegro,1934,0
-837,Montenegro,1936,0
-838,Montenegro,1938,0
-839,Montenegro,1940,0
-840,Netherlands,1878,0
-841,Netherlands,1880,0
-842,Netherlands,1882,0
-843,Netherlands,1884,0
-844,Netherlands,1886,1
-845,Netherlands,1888,1
-846,Netherlands,1890,0
-847,Netherlands,1892,0
-848,Netherlands,1896,0
-849,Netherlands,1900,0
-850,Netherlands,1902,0
-851,Netherlands,1906,0
-852,Netherlands,1908,1
-853,Netherlands,1912,0
-854,Netherlands,1914,0
-855,Netherlands,1916,1
-856,Netherlands,1918,0
-857,Netherlands,1920,0
-858,Netherlands,1922,0
-859,Netherlands,1924,0
-860,Netherlands,1926,0
-861,Netherlands,1928,1
-862,Netherlands,1930,1
-863,Netherlands,1932,1
-864,Netherlands,1934,0
-865,Netherlands,1936,0
-866,Netherlands,1938,0
-867,Netherlands,1940,0
-868,New Zealand,1878,0
-869,New Zealand,1880,0
-870,New Zealand,1882,0
-871,New Zealand,1884,0
-872,New Zealand,1886,0
-873,New Zealand,1888,0
-874,New Zealand,1890,0
-875,New Zealand,1892,0
-876,New Zealand,1896,0
-877,New Zealand,1900,0
-878,New Zealand,1902,0
-879,New Zealand,1906,0
-880,New Zealand,1908,0
-881,New Zealand,1912,0
-882,New Zealand,1914,1
-883,New Zealand,1916,0
-884,New Zealand,1918,0
-885,New Zealand,1920,0
-886,New Zealand,1922,0
-887,New Zealand,1924,0
-888,New Zealand,1926,0
-889,New Zealand,1928,0
-890,New Zealand,1930,0
-891,New Zealand,1932,0
-892,New Zealand,1934,0
-893,New Zealand,1936,0
-894,New Zealand,1938,0
-895,New Zealand,1940,0
-896,Nicaragua,1878,0
-897,Nicaragua,1880,0
-898,Nicaragua,1882,0
-899,Nicaragua,1884,0
-900,Nicaragua,1886,0
-901,Nicaragua,1888,0
-902,Nicaragua,1890,0
-903,Nicaragua,1892,0
-904,Nicaragua,1896,0
-905,Nicaragua,1900,0
-906,Nicaragua,1902,0
-907,Nicaragua,1906,0
-908,Nicaragua,1908,0
-909,Nicaragua,1912,0
-910,Nicaragua,1914,0
-911,Nicaragua,1916,0
-912,Nicaragua,1918,0
-913,Nicaragua,1920,0
-914,Nicaragua,1922,0
-915,Nicaragua,1924,0
-916,Nicaragua,1926,1
-917,Nicaragua,1928,0
-918,Nicaragua,1930,0
-919,Nicaragua,1932,0
-920,Nicaragua,1934,0
-921,Nicaragua,1936,0
-922,Nicaragua,1938,0
-923,Nicaragua,1940,0
-924,Norway,1878,0
-925,Norway,1880,0
-926,Norway,1882,1
-927,Norway,1884,1
-928,Norway,1886,1
-929,Norway,1888,2
-930,Norway,1890,1
-931,Norway,1892,0
-932,Norway,1896,0
-933,Norway,1900,0
-934,Norway,1902,0
-935,Norway,1906,0
-936,Norway,1908,1
-937,Norway,1912,0
-938,Norway,1914,1
-939,Norway,1916,1
-940,Norway,1918,1
-941,Norway,1920,0
-942,Norway,1922,1
-943,Norway,1924,1
-944,Norway,1926,1
-945,Norway,1928,2
-946,Norway,1930,2
-947,Norway,1932,2
-948,Norway,1934,0
-949,Norway,1936,0
-950,Norway,1938,0
-951,Norway,1940,0
-952,Philippines,1878,0
-953,Philippines,1880,0
-954,Philippines,1882,0
-955,Philippines,1884,0
-956,Philippines,1886,1
-957,Philippines,1888,0
-958,Philippines,1890,0
-959,Philippines,1892,0
-960,Philippines,1896,0
-961,Philippines,1900,0
-962,Philippines,1902,0
-963,Philippines,1906,0
-964,Philippines,1908,0
-965,Philippines,1912,0
-966,Philippines,1914,0
-967,Philippines,1916,0
-968,Philippines,1918,0
-969,Philippines,1920,0
-970,Philippines,1922,0
-971,Philippines,1924,0
-972,Philippines,1926,0
-973,Philippines,1928,1
-974,Philippines,1930,1
-975,Philippines,1932,3
-976,Philippines,1934,1
-977,Philippines,1936,0
-978,Philippines,1938,2
-979,Philippines,1940,0
-980,Poland,1878,0
-981,Poland,1880,0
-982,Poland,1882,0
-983,Poland,1884,0
-984,Poland,1886,0
-985,Poland,1888,1
-986,Poland,1890,0
-987,Poland,1892,1
-988,Poland,1896,0
-989,Poland,1900,0
-990,Poland,1902,0
-991,Poland,1906,0
-992,Poland,1908,2
-993,Poland,1912,0
-994,Poland,1914,0
-995,Poland,1916,1
-996,Poland,1918,0
-997,Poland,1920,0
-998,Poland,1922,1
-999,Poland,1924,1
-1000,Poland,1926,2
-1001,Poland,1928,2
-1002,Poland,1930,2
-1003,Poland,1932,2
-1004,Poland,1934,4
-1005,Poland,1936,0
-1006,Poland,1938,0
-1007,Poland,1940,0
-1008,Porto Rico,1878,0
-1009,Porto Rico,1880,0
-1010,Porto Rico,1882,0
-1011,Porto Rico,1884,0
-1012,Porto Rico,1886,0
-1013,Porto Rico,1888,0
-1014,Porto Rico,1890,0
-1015,Porto Rico,1892,0
-1016,Porto Rico,1896,0
-1017,Porto Rico,1900,0
-1018,Porto Rico,1902,0
-1019,Porto Rico,1906,0
-1020,Porto Rico,1908,0
-1021,Porto Rico,1912,1
-1022,Porto Rico,1914,0
-1023,Porto Rico,1916,0
-1024,Porto Rico,1918,1
-1025,Porto Rico,1920,0
-1026,Porto Rico,1922,0
-1027,Porto Rico,1924,1
-1028,Porto Rico,1926,0
-1029,Porto Rico,1928,0
-1030,Porto Rico,1930,0
-1031,Porto Rico,1932,0
-1032,Porto Rico,1934,0
-1033,Porto Rico,1936,0
-1034,Porto Rico,1938,1
-1035,Porto Rico,1940,0
-1036,Portugal,1878,0
-1037,Portugal,1880,0
-1038,Portugal,1882,0
-1039,Portugal,1884,0
-1040,Portugal,1886,0
-1041,Portugal,1888,0
-1042,Portugal,1890,0
-1043,Portugal,1892,0
-1044,Portugal,1896,0
-1045,Portugal,1900,0
-1046,Portugal,1902,0
-1047,Portugal,1906,0
-1048,Portugal,1908,0
-1049,Portugal,1912,0
-1050,Portugal,1914,0
-1051,Portugal,1916,0
-1052,Portugal,1918,0
-1053,Portugal,1920,0
-1054,Portugal,1922,0
-1055,Portugal,1924,0
-1056,Portugal,1926,0
-1057,Portugal,1928,0
-1058,Portugal,1930,0
-1059,Portugal,1932,0
-1060,Portugal,1934,0
-1061,Portugal,1936,1
-1062,Portugal,1938,0
-1063,Portugal,1940,0
-1064,Romania,1878,0
-1065,Romania,1880,0
-1066,Romania,1882,0
-1067,Romania,1884,0
-1068,Romania,1886,0
-1069,Romania,1888,0
-1070,Romania,1890,0
-1071,Romania,1892,0
-1072,Romania,1896,0
-1073,Romania,1900,0
-1074,Romania,1902,0
-1075,Romania,1906,0
-1076,Romania,1908,0
-1077,Romania,1912,1
-1078,Romania,1914,0
-1079,Romania,1916,0
-1080,Romania,1918,0
-1081,Romania,1920,0
-1082,Romania,1922,1
-1083,Romania,1924,0
-1084,Romania,1926,0
-1085,Romania,1928,0
-1086,Romania,1930,1
-1087,Romania,1932,0
-1088,Romania,1934,0
-1089,Romania,1936,0
-1090,Romania,1938,0
-1091,Romania,1940,0
-1092,Russia,1878,0
-1093,Russia,1880,1
-1094,Russia,1882,1
-1095,Russia,1884,1
-1096,Russia,1886,0
-1097,Russia,1888,1
-1098,Russia,1890,2
-1099,Russia,1892,2
-1100,Russia,1896,6
-1101,Russia,1900,3
-1102,Russia,1902,1
-1103,Russia,1906,1
-1104,Russia,1908,1
-1105,Russia,1912,3
-1106,Russia,1914,3
-1107,Russia,1916,5
-1108,Russia,1918,10
-1109,Russia,1920,7
-1110,Russia,1922,10
-1111,Russia,1924,8
-1112,Russia,1926,8
-1113,Russia,1928,12
-1114,Russia,1930,8
-1115,Russia,1932,8
-1116,Russia,1934,11
-1117,Russia,1936,7
-1118,Russia,1938,5
-1119,Russia,1940,2
-1120,Scotland,1878,0
-1121,Scotland,1880,1
-1122,Scotland,1882,2
-1123,Scotland,1884,3
-1124,Scotland,1886,1
-1125,Scotland,1888,2
-1126,Scotland,1890,8
-1127,Scotland,1892,4
-1128,Scotland,1896,5
-1129,Scotland,1900,7
-1130,Scotland,1902,3
-1131,Scotland,1906,4
-1132,Scotland,1908,4
-1133,Scotland,1912,2
-1134,Scotland,1914,4
-1135,Scotland,1916,4
-1136,Scotland,1918,1
-1137,Scotland,1920,1
-1138,Scotland,1922,3
-1139,Scotland,1924,3
-1140,Scotland,1926,7
-1141,Scotland,1928,2
-1142,Scotland,1930,5
-1143,Scotland,1932,2
-1144,Scotland,1934,0
-1145,Scotland,1936,0
-1146,Scotland,1938,0
-1147,Scotland,1940,0
-1148,Serbia,1878,0
-1149,Serbia,1880,0
-1150,Serbia,1882,0
-1151,Serbia,1884,0
-1152,Serbia,1886,0
-1153,Serbia,1888,0
-1154,Serbia,1890,0
-1155,Serbia,1892,0
-1156,Serbia,1896,0
-1157,Serbia,1900,0
-1158,Serbia,1902,0
-1159,Serbia,1906,0
-1160,Serbia,1908,0
-1161,Serbia,1912,0
-1162,Serbia,1914,0
-1163,Serbia,1916,0
-1164,Serbia,1918,0
-1165,Serbia,1920,0
-1166,Serbia,1922,2
-1167,Serbia,1924,2
-1168,Serbia,1926,1
-1169,Serbia,1928,1
-1170,Serbia,1930,25
-1171,Serbia,1932,1
-1172,Serbia,1934,2
-1173,Serbia,1936,1
-1174,Serbia,1938,0
-1175,Serbia,1940,0
-1176,Thailand,1878,0
-1177,Thailand,1880,0
-1178,Thailand,1882,0
-1179,Thailand,1884,0
-1180,Thailand,1886,0
-1181,Thailand,1888,0
-1182,Thailand,1890,0
-1183,Thailand,1892,0
-1184,Thailand,1896,0
-1185,Thailand,1900,0
-1186,Thailand,1902,0
-1187,Thailand,1906,0
-1188,Thailand,1908,0
-1189,Thailand,1912,0
-1190,Thailand,1914,0
-1191,Thailand,1916,0
-1192,Thailand,1918,0
-1193,Thailand,1920,0
-1194,Thailand,1922,0
-1195,Thailand,1924,0
-1196,Thailand,1926,0
-1197,Thailand,1928,0
-1198,Thailand,1930,0
-1199,Thailand,1932,1
-1200,Thailand,1934,0
-1201,Thailand,1936,0
-1202,Thailand,1938,0
-1203,Thailand,1940,0
-1204,South Africa,1878,0
-1205,South Africa,1880,0
-1206,South Africa,1882,0
-1207,South Africa,1884,0
-1208,South Africa,1886,0
-1209,South Africa,1888,0
-1210,South Africa,1890,1
-1211,South Africa,1892,1
-1212,South Africa,1896,0
-1213,South Africa,1900,0
-1214,South Africa,1902,0
-1215,South Africa,1906,0
-1216,South Africa,1908,0
-1217,South Africa,1912,2
-1218,South Africa,1914,0
-1219,South Africa,1916,0
-1220,South Africa,1918,0
-1221,South Africa,1920,0
-1222,South Africa,1922,0
-1223,South Africa,1924,0
-1224,South Africa,1926,0
-1225,South Africa,1928,0
-1226,South Africa,1930,0
-1227,South Africa,1932,0
-1228,South Africa,1934,0
-1229,South Africa,1936,0
-1230,South Africa,1938,0
-1231,South Africa,1940,0
-1232,Solomon Islands,1878,0
-1233,Solomon Islands,1880,0
-1234,Solomon Islands,1882,0
-1235,Solomon Islands,1884,0
-1236,Solomon Islands,1886,0
-1237,Solomon Islands,1888,0
-1238,Solomon Islands,1890,0
-1239,Solomon Islands,1892,0
-1240,Solomon Islands,1896,0
-1241,Solomon Islands,1900,0
-1242,Solomon Islands,1902,0
-1243,Solomon Islands,1906,0
-1244,Solomon Islands,1908,0
-1245,Solomon Islands,1912,0
-1246,Solomon Islands,1914,0
-1247,Solomon Islands,1916,0
-1248,Solomon Islands,1918,0
-1249,Solomon Islands,1920,0
-1250,Solomon Islands,1922,0
-1251,Solomon Islands,1924,1
-1252,Solomon Islands,1926,0
-1253,Solomon Islands,1928,0
-1254,Solomon Islands,1930,0
-1255,Solomon Islands,1932,0
-1256,Solomon Islands,1934,0
-1257,Solomon Islands,1936,0
-1258,Solomon Islands,1938,0
-1259,Solomon Islands,1940,0
-1260,Spain,1878,0
-1261,Spain,1880,0
-1262,Spain,1882,0
-1263,Spain,1884,0
-1264,Spain,1886,0
-1265,Spain,1888,0
-1266,Spain,1890,0
-1267,Spain,1892,0
-1268,Spain,1896,1
-1269,Spain,1900,0
-1270,Spain,1902,0
-1271,Spain,1906,0
-1272,Spain,1908,0
-1273,Spain,1912,0
-1274,Spain,1914,0
-1275,Spain,1916,0
-1276,Spain,1918,0
-1277,Spain,1920,1
-1278,Spain,1922,1
-1279,Spain,1924,0
-1280,Spain,1926,0
-1281,Spain,1928,0
-1282,Spain,1930,1
-1283,Spain,1932,0
-1284,Spain,1934,0
-1285,Spain,1936,0
-1286,Spain,1938,1
-1287,Spain,1940,0
-1288,Sweden,1878,0
-1289,Sweden,1880,0
-1290,Sweden,1882,1
-1291,Sweden,1884,1
-1292,Sweden,1886,1
-1293,Sweden,1888,6
-1294,Sweden,1890,2
-1295,Sweden,1892,5
-1296,Sweden,1896,12
-1297,Sweden,1900,8
-1298,Sweden,1902,4
-1299,Sweden,1906,2
-1300,Sweden,1908,6
-1301,Sweden,1912,4
-1302,Sweden,1914,4
-1303,Sweden,1916,4
-1304,Sweden,1918,1
-1305,Sweden,1920,0
-1306,Sweden,1922,1
-1307,Sweden,1924,1
-1308,Sweden,1926,0
-1309,Sweden,1928,0
-1310,Sweden,1930,6
-1311,Sweden,1932,4
-1312,Sweden,1934,1
-1313,Sweden,1936,1
-1314,Sweden,1938,2
-1315,Sweden,1940,1
-1316,Switzerland,1878,0
-1317,Switzerland,1880,0
-1318,Switzerland,1882,1
-1319,Switzerland,1884,0
-1320,Switzerland,1886,1
-1321,Switzerland,1888,0
-1322,Switzerland,1890,1
-1323,Switzerland,1892,2
-1324,Switzerland,1896,4
-1325,Switzerland,1900,4
-1326,Switzerland,1902,2
-1327,Switzerland,1906,1
-1328,Switzerland,1908,0
-1329,Switzerland,1912,1
-1330,Switzerland,1914,1
-1331,Switzerland,1916,1
-1332,Switzerland,1918,1
-1333,Switzerland,1920,1
-1334,Switzerland,1922,0
-1335,Switzerland,1924,1
-1336,Switzerland,1926,3
-1337,Switzerland,1928,0
-1338,Switzerland,1930,0
-1339,Switzerland,1932,0
-1340,Switzerland,1934,1
-1341,Switzerland,1936,0
-1342,Switzerland,1938,0
-1343,Switzerland,1940,0
-1344,Syria,1878,0
-1345,Syria,1880,0
-1346,Syria,1882,0
-1347,Syria,1884,0
-1348,Syria,1886,0
-1349,Syria,1888,0
-1350,Syria,1890,0
-1351,Syria,1892,0
-1352,Syria,1896,0
-1353,Syria,1900,0
-1354,Syria,1902,1
-1355,Syria,1906,0
-1356,Syria,1908,0
-1357,Syria,1912,0
-1358,Syria,1914,0
-1359,Syria,1916,0
-1360,Syria,1918,0
-1361,Syria,1920,0
-1362,Syria,1922,0
-1363,Syria,1924,0
-1364,Syria,1926,0
-1365,Syria,1928,0
-1366,Syria,1930,0
-1367,Syria,1932,0
-1368,Syria,1934,0
-1369,Syria,1936,0
-1370,Syria,1938,0
-1371,Syria,1940,0
-1372,Turkey,1878,0
-1373,Turkey,1880,0
-1374,Turkey,1882,0
-1375,Turkey,1884,0
-1376,Turkey,1886,0
-1377,Turkey,1888,0
-1378,Turkey,1890,0
-1379,Turkey,1892,0
-1380,Turkey,1896,0
-1381,Turkey,1900,0
-1382,Turkey,1902,0
-1383,Turkey,1906,0
-1384,Turkey,1908,1
-1385,Turkey,1912,0
-1386,Turkey,1914,0
-1387,Turkey,1916,0
-1388,Turkey,1918,0
-1389,Turkey,1920,0
-1390,Turkey,1922,0
-1391,Turkey,1924,0
-1392,Turkey,1926,1
-1393,Turkey,1928,1
-1394,Turkey,1930,0
-1395,Turkey,1932,1
-1396,Turkey,1934,1
-1397,Turkey,1936,0
-1398,Turkey,1938,0
-1399,Turkey,1940,0
-1400,United Kingdom,1878,8
-1401,United Kingdom,1880,12
-1402,United Kingdom,1882,12
-1403,United Kingdom,1884,14
-1404,United Kingdom,1886,15
-1405,United Kingdom,1888,19
-1406,United Kingdom,1890,21
-1407,United Kingdom,1892,33
-1408,United Kingdom,1896,19
-1409,United Kingdom,1900,21
-1410,United Kingdom,1902,9
-1411,United Kingdom,1906,7
-1412,United Kingdom,1908,11
-1413,United Kingdom,1912,12
-1414,United Kingdom,1914,15
-1415,United Kingdom,1916,8
-1416,United Kingdom,1918,9
-1417,United Kingdom,1920,4
-1418,United Kingdom,1922,8
-1419,United Kingdom,1924,3
-1420,United Kingdom,1926,7
-1421,United Kingdom,1928,6
-1422,United Kingdom,1930,4
-1423,United Kingdom,1932,5
-1424,United Kingdom,1934,1
-1425,United Kingdom,1936,3
-1426,United Kingdom,1938,3
-1427,United Kingdom,1940,5
+,Location,Year,Prisoners,Region
+0,Albania,1878,0,Central & Eastern Europe
+1,Albania,1880,0,Central & Eastern Europe
+2,Albania,1882,0,Central & Eastern Europe
+3,Albania,1884,0,Central & Eastern Europe
+4,Albania,1886,0,Central & Eastern Europe
+5,Albania,1888,0,Central & Eastern Europe
+6,Albania,1890,0,Central & Eastern Europe
+7,Albania,1892,0,Central & Eastern Europe
+8,Albania,1896,0,Central & Eastern Europe
+9,Albania,1900,0,Central & Eastern Europe
+10,Albania,1902,0,Central & Eastern Europe
+11,Albania,1906,0,Central & Eastern Europe
+12,Albania,1908,0,Central & Eastern Europe
+13,Albania,1912,0,Central & Eastern Europe
+14,Albania,1914,0,Central & Eastern Europe
+15,Albania,1916,0,Central & Eastern Europe
+16,Albania,1918,0,Central & Eastern Europe
+17,Albania,1920,0,Central & Eastern Europe
+18,Albania,1922,0,Central & Eastern Europe
+19,Albania,1924,0,Central & Eastern Europe
+20,Albania,1926,0,Central & Eastern Europe
+21,Albania,1928,0,Central & Eastern Europe
+22,Albania,1930,0,Central & Eastern Europe
+23,Albania,1932,1,Central & Eastern Europe
+24,Albania,1934,0,Central & Eastern Europe
+25,Albania,1936,0,Central & Eastern Europe
+26,Albania,1938,0,Central & Eastern Europe
+27,Albania,1940,0,Central & Eastern Europe
+28,Argentina,1878,0,South America
+29,Argentina,1880,0,South America
+30,Argentina,1882,0,South America
+31,Argentina,1884,0,South America
+32,Argentina,1886,0,South America
+33,Argentina,1888,0,South America
+34,Argentina,1890,1,South America
+35,Argentina,1892,0,South America
+36,Argentina,1896,0,South America
+37,Argentina,1900,0,South America
+38,Argentina,1902,0,South America
+39,Argentina,1906,0,South America
+40,Argentina,1908,0,South America
+41,Argentina,1912,0,South America
+42,Argentina,1914,0,South America
+43,Argentina,1916,0,South America
+44,Argentina,1918,1,South America
+45,Argentina,1920,0,South America
+46,Argentina,1922,0,South America
+47,Argentina,1924,2,South America
+48,Argentina,1926,0,South America
+49,Argentina,1928,0,South America
+50,Argentina,1930,0,South America
+51,Argentina,1932,0,South America
+52,Argentina,1934,0,South America
+53,Argentina,1936,0,South America
+54,Argentina,1938,0,South America
+55,Argentina,1940,0,South America
+56,Australia,1878,0,Oceania
+57,Australia,1880,0,Oceania
+58,Australia,1882,1,Oceania
+59,Australia,1884,0,Oceania
+60,Australia,1886,1,Oceania
+61,Australia,1888,0,Oceania
+62,Australia,1890,1,Oceania
+63,Australia,1892,1,Oceania
+64,Australia,1896,1,Oceania
+65,Australia,1900,1,Oceania
+66,Australia,1902,1,Oceania
+67,Australia,1906,3,Oceania
+68,Australia,1908,0,Oceania
+69,Australia,1912,0,Oceania
+70,Australia,1914,3,Oceania
+71,Australia,1916,1,Oceania
+72,Australia,1918,0,Oceania
+73,Australia,1920,0,Oceania
+74,Australia,1922,15,Oceania
+75,Australia,1924,0,Oceania
+76,Australia,1926,1,Oceania
+77,Australia,1928,0,Oceania
+78,Australia,1930,0,Oceania
+79,Australia,1932,0,Oceania
+80,Australia,1934,0,Oceania
+81,Australia,1936,0,Oceania
+82,Australia,1938,0,Oceania
+83,Australia,1940,0,Oceania
+84,Austria,1878,1,Western Europe
+85,Austria,1880,1,Western Europe
+86,Austria,1882,0,Western Europe
+87,Austria,1884,2,Western Europe
+88,Austria,1886,0,Western Europe
+89,Austria,1888,5,Western Europe
+90,Austria,1890,1,Western Europe
+91,Austria,1892,3,Western Europe
+92,Austria,1896,4,Western Europe
+93,Austria,1900,3,Western Europe
+94,Austria,1902,12,Western Europe
+95,Austria,1906,5,Western Europe
+96,Austria,1908,14,Western Europe
+97,Austria,1912,13,Western Europe
+98,Austria,1914,11,Western Europe
+99,Austria,1916,16,Western Europe
+100,Austria,1918,8,Western Europe
+101,Austria,1920,13,Western Europe
+102,Austria,1922,2,Western Europe
+103,Austria,1924,15,Western Europe
+104,Austria,1926,16,Western Europe
+105,Austria,1928,2,Western Europe
+106,Austria,1930,7,Western Europe
+107,Austria,1932,7,Western Europe
+108,Austria,1934,2,Western Europe
+109,Austria,1936,2,Western Europe
+110,Austria,1938,1,Western Europe
+111,Austria,1940,2,Western Europe
+112,Belgium,1878,0,Western Europe
+113,Belgium,1880,0,Western Europe
+114,Belgium,1882,0,Western Europe
+115,Belgium,1884,0,Western Europe
+116,Belgium,1886,1,Western Europe
+117,Belgium,1888,0,Western Europe
+118,Belgium,1890,0,Western Europe
+119,Belgium,1892,3,Western Europe
+120,Belgium,1896,2,Western Europe
+121,Belgium,1900,0,Western Europe
+122,Belgium,1902,0,Western Europe
+123,Belgium,1906,0,Western Europe
+124,Belgium,1908,0,Western Europe
+125,Belgium,1912,0,Western Europe
+126,Belgium,1914,0,Western Europe
+127,Belgium,1916,0,Western Europe
+128,Belgium,1918,0,Western Europe
+129,Belgium,1920,0,Western Europe
+130,Belgium,1922,0,Western Europe
+131,Belgium,1924,1,Western Europe
+132,Belgium,1926,2,Western Europe
+133,Belgium,1928,3,Western Europe
+134,Belgium,1930,1,Western Europe
+135,Belgium,1932,0,Western Europe
+136,Belgium,1934,0,Western Europe
+137,Belgium,1936,1,Western Europe
+138,Belgium,1938,0,Western Europe
+139,Belgium,1940,0,Western Europe
+140,Czech Republic,1878,0,Central & Eastern Europe
+141,Czech Republic,1880,1,Central & Eastern Europe
+142,Czech Republic,1882,0,Central & Eastern Europe
+143,Czech Republic,1884,0,Central & Eastern Europe
+144,Czech Republic,1886,0,Central & Eastern Europe
+145,Czech Republic,1888,0,Central & Eastern Europe
+146,Czech Republic,1890,0,Central & Eastern Europe
+147,Czech Republic,1892,0,Central & Eastern Europe
+148,Czech Republic,1896,0,Central & Eastern Europe
+149,Czech Republic,1900,0,Central & Eastern Europe
+150,Czech Republic,1902,0,Central & Eastern Europe
+151,Czech Republic,1906,0,Central & Eastern Europe
+152,Czech Republic,1908,0,Central & Eastern Europe
+153,Czech Republic,1912,0,Central & Eastern Europe
+154,Czech Republic,1914,1,Central & Eastern Europe
+155,Czech Republic,1916,1,Central & Eastern Europe
+156,Czech Republic,1918,0,Central & Eastern Europe
+157,Czech Republic,1920,0,Central & Eastern Europe
+158,Czech Republic,1922,1,Central & Eastern Europe
+159,Czech Republic,1924,1,Central & Eastern Europe
+160,Czech Republic,1926,0,Central & Eastern Europe
+161,Czech Republic,1928,0,Central & Eastern Europe
+162,Czech Republic,1930,1,Central & Eastern Europe
+163,Czech Republic,1932,0,Central & Eastern Europe
+164,Czech Republic,1934,0,Central & Eastern Europe
+165,Czech Republic,1936,0,Central & Eastern Europe
+166,Czech Republic,1938,0,Central & Eastern Europe
+167,Czech Republic,1940,0,Central & Eastern Europe
+168,Brazil,1878,0,South America
+169,Brazil,1880,0,South America
+170,Brazil,1882,0,South America
+171,Brazil,1884,0,South America
+172,Brazil,1886,0,South America
+173,Brazil,1888,0,South America
+174,Brazil,1890,0,South America
+175,Brazil,1892,0,South America
+176,Brazil,1896,0,South America
+177,Brazil,1900,0,South America
+178,Brazil,1902,0,South America
+179,Brazil,1906,1,South America
+180,Brazil,1908,0,South America
+181,Brazil,1912,0,South America
+182,Brazil,1914,0,South America
+183,Brazil,1916,0,South America
+184,Brazil,1918,0,South America
+185,Brazil,1920,0,South America
+186,Brazil,1922,0,South America
+187,Brazil,1924,1,South America
+188,Brazil,1926,0,South America
+189,Brazil,1928,0,South America
+190,Brazil,1930,0,South America
+191,Brazil,1932,0,South America
+192,Brazil,1934,1,South America
+193,Brazil,1936,0,South America
+194,Brazil,1938,0,South America
+195,Brazil,1940,0,South America
+196,Bulgaria,1878,0,Central & Eastern Europe
+197,Bulgaria,1880,0,Central & Eastern Europe
+198,Bulgaria,1882,0,Central & Eastern Europe
+199,Bulgaria,1884,0,Central & Eastern Europe
+200,Bulgaria,1886,0,Central & Eastern Europe
+201,Bulgaria,1888,0,Central & Eastern Europe
+202,Bulgaria,1890,0,Central & Eastern Europe
+203,Bulgaria,1892,0,Central & Eastern Europe
+204,Bulgaria,1896,0,Central & Eastern Europe
+205,Bulgaria,1900,0,Central & Eastern Europe
+206,Bulgaria,1902,0,Central & Eastern Europe
+207,Bulgaria,1906,0,Central & Eastern Europe
+208,Bulgaria,1908,1,Central & Eastern Europe
+209,Bulgaria,1912,1,Central & Eastern Europe
+210,Bulgaria,1914,0,Central & Eastern Europe
+211,Bulgaria,1916,0,Central & Eastern Europe
+212,Bulgaria,1918,2,Central & Eastern Europe
+213,Bulgaria,1920,1,Central & Eastern Europe
+214,Bulgaria,1922,3,Central & Eastern Europe
+215,Bulgaria,1924,2,Central & Eastern Europe
+216,Bulgaria,1926,4,Central & Eastern Europe
+217,Bulgaria,1928,1,Central & Eastern Europe
+218,Bulgaria,1930,0,Central & Eastern Europe
+219,Bulgaria,1932,0,Central & Eastern Europe
+220,Bulgaria,1934,0,Central & Eastern Europe
+221,Bulgaria,1936,0,Central & Eastern Europe
+222,Bulgaria,1938,1,Central & Eastern Europe
+223,Bulgaria,1940,0,Central & Eastern Europe
+224,Canada,1878,9,Canada & Alaska
+225,Canada,1880,7,Canada & Alaska
+226,Canada,1882,8,Canada & Alaska
+227,Canada,1884,11,Canada & Alaska
+228,Canada,1886,8,Canada & Alaska
+229,Canada,1888,14,Canada & Alaska
+230,Canada,1890,23,Canada & Alaska
+231,Canada,1892,16,Canada & Alaska
+232,Canada,1896,12,Canada & Alaska
+233,Canada,1900,5,Canada & Alaska
+234,Canada,1902,6,Canada & Alaska
+235,Canada,1906,11,Canada & Alaska
+236,Canada,1908,11,Canada & Alaska
+237,Canada,1912,3,Canada & Alaska
+238,Canada,1914,7,Canada & Alaska
+239,Canada,1916,10,Canada & Alaska
+240,Canada,1918,5,Canada & Alaska
+241,Canada,1920,7,Canada & Alaska
+242,Canada,1922,7,Canada & Alaska
+243,Canada,1924,15,Canada & Alaska
+244,Canada,1926,7,Canada & Alaska
+245,Canada,1928,9,Canada & Alaska
+246,Canada,1930,3,Canada & Alaska
+247,Canada,1932,6,Canada & Alaska
+248,Canada,1934,4,Canada & Alaska
+249,Canada,1936,2,Canada & Alaska
+250,Canada,1938,7,Canada & Alaska
+251,Canada,1940,2,Canada & Alaska
+252,China,1878,0,Asia
+253,China,1880,0,Asia
+254,China,1882,0,Asia
+255,China,1884,1,Asia
+256,China,1886,1,Asia
+257,China,1888,0,Asia
+258,China,1890,0,Asia
+259,China,1892,1,Asia
+260,China,1896,0,Asia
+261,China,1900,0,Asia
+262,China,1902,0,Asia
+263,China,1906,0,Asia
+264,China,1908,1,Asia
+265,China,1912,0,Asia
+266,China,1914,0,Asia
+267,China,1916,0,Asia
+268,China,1918,0,Asia
+269,China,1920,0,Asia
+270,China,1922,0,Asia
+271,China,1924,0,Asia
+272,China,1926,0,Asia
+273,China,1928,0,Asia
+274,China,1930,0,Asia
+275,China,1932,0,Asia
+276,China,1934,0,Asia
+277,China,1936,0,Asia
+278,China,1938,1,Asia
+279,China,1940,0,Asia
+280,Costa Rica,1878,0,Central America
+281,Costa Rica,1880,0,Central America
+282,Costa Rica,1882,0,Central America
+283,Costa Rica,1884,0,Central America
+284,Costa Rica,1886,0,Central America
+285,Costa Rica,1888,0,Central America
+286,Costa Rica,1890,0,Central America
+287,Costa Rica,1892,0,Central America
+288,Costa Rica,1896,0,Central America
+289,Costa Rica,1900,0,Central America
+290,Costa Rica,1902,0,Central America
+291,Costa Rica,1906,0,Central America
+292,Costa Rica,1908,0,Central America
+293,Costa Rica,1912,0,Central America
+294,Costa Rica,1914,0,Central America
+295,Costa Rica,1916,0,Central America
+296,Costa Rica,1918,0,Central America
+297,Costa Rica,1920,3,Central America
+298,Costa Rica,1922,0,Central America
+299,Costa Rica,1924,0,Central America
+300,Costa Rica,1926,1,Central America
+301,Costa Rica,1928,0,Central America
+302,Costa Rica,1930,0,Central America
+303,Costa Rica,1932,0,Central America
+304,Costa Rica,1934,0,Central America
+305,Costa Rica,1936,0,Central America
+306,Costa Rica,1938,0,Central America
+307,Costa Rica,1940,0,Central America
+308,Croatia,1878,0,Central & Eastern Europe
+309,Croatia,1880,0,Central & Eastern Europe
+310,Croatia,1882,0,Central & Eastern Europe
+311,Croatia,1884,0,Central & Eastern Europe
+312,Croatia,1886,0,Central & Eastern Europe
+313,Croatia,1888,0,Central & Eastern Europe
+314,Croatia,1890,0,Central & Eastern Europe
+315,Croatia,1892,0,Central & Eastern Europe
+316,Croatia,1896,0,Central & Eastern Europe
+317,Croatia,1900,0,Central & Eastern Europe
+318,Croatia,1902,0,Central & Eastern Europe
+319,Croatia,1906,0,Central & Eastern Europe
+320,Croatia,1908,0,Central & Eastern Europe
+321,Croatia,1912,0,Central & Eastern Europe
+322,Croatia,1914,0,Central & Eastern Europe
+323,Croatia,1916,0,Central & Eastern Europe
+324,Croatia,1918,0,Central & Eastern Europe
+325,Croatia,1920,0,Central & Eastern Europe
+326,Croatia,1922,0,Central & Eastern Europe
+327,Croatia,1924,0,Central & Eastern Europe
+328,Croatia,1926,0,Central & Eastern Europe
+329,Croatia,1928,0,Central & Eastern Europe
+330,Croatia,1930,2,Central & Eastern Europe
+331,Croatia,1932,0,Central & Eastern Europe
+332,Croatia,1934,0,Central & Eastern Europe
+333,Croatia,1936,1,Central & Eastern Europe
+334,Croatia,1938,0,Central & Eastern Europe
+335,Croatia,1940,0,Central & Eastern Europe
+336,Cuba,1878,0,Caribbean
+337,Cuba,1880,0,Caribbean
+338,Cuba,1882,1,Caribbean
+339,Cuba,1884,1,Caribbean
+340,Cuba,1886,1,Caribbean
+341,Cuba,1888,0,Caribbean
+342,Cuba,1890,0,Caribbean
+343,Cuba,1892,2,Caribbean
+344,Cuba,1896,1,Caribbean
+345,Cuba,1900,0,Caribbean
+346,Cuba,1902,0,Caribbean
+347,Cuba,1906,0,Caribbean
+348,Cuba,1908,0,Caribbean
+349,Cuba,1912,2,Caribbean
+350,Cuba,1914,0,Caribbean
+351,Cuba,1916,2,Caribbean
+352,Cuba,1918,0,Caribbean
+353,Cuba,1920,0,Caribbean
+354,Cuba,1922,2,Caribbean
+355,Cuba,1924,0,Caribbean
+356,Cuba,1926,0,Caribbean
+357,Cuba,1928,0,Caribbean
+358,Cuba,1930,0,Caribbean
+359,Cuba,1932,0,Caribbean
+360,Cuba,1934,0,Caribbean
+361,Cuba,1936,0,Caribbean
+362,Cuba,1938,0,Caribbean
+363,Cuba,1940,0,Caribbean
+364,Denmark,1878,0,Northern Europe
+365,Denmark,1880,0,Northern Europe
+366,Denmark,1882,0,Northern Europe
+367,Denmark,1884,1,Northern Europe
+368,Denmark,1886,1,Northern Europe
+369,Denmark,1888,1,Northern Europe
+370,Denmark,1890,0,Northern Europe
+371,Denmark,1892,3,Northern Europe
+372,Denmark,1896,2,Northern Europe
+373,Denmark,1900,2,Northern Europe
+374,Denmark,1902,0,Northern Europe
+375,Denmark,1906,3,Northern Europe
+376,Denmark,1908,2,Northern Europe
+377,Denmark,1912,2,Northern Europe
+378,Denmark,1914,0,Northern Europe
+379,Denmark,1916,0,Northern Europe
+380,Denmark,1918,0,Northern Europe
+381,Denmark,1920,0,Northern Europe
+382,Denmark,1922,2,Northern Europe
+383,Denmark,1924,1,Northern Europe
+384,Denmark,1926,1,Northern Europe
+385,Denmark,1928,0,Northern Europe
+386,Denmark,1930,1,Northern Europe
+387,Denmark,1932,0,Northern Europe
+388,Denmark,1934,1,Northern Europe
+389,Denmark,1936,0,Northern Europe
+390,Denmark,1938,1,Northern Europe
+391,Denmark,1940,2,Northern Europe
+392,Egypt,1878,0,Africa/Middle East
+393,Egypt,1880,0,Africa/Middle East
+394,Egypt,1882,0,Africa/Middle East
+395,Egypt,1884,0,Africa/Middle East
+396,Egypt,1886,0,Africa/Middle East
+397,Egypt,1888,0,Africa/Middle East
+398,Egypt,1890,1,Africa/Middle East
+399,Egypt,1892,0,Africa/Middle East
+400,Egypt,1896,0,Africa/Middle East
+401,Egypt,1900,0,Africa/Middle East
+402,Egypt,1902,0,Africa/Middle East
+403,Egypt,1906,0,Africa/Middle East
+404,Egypt,1908,0,Africa/Middle East
+405,Egypt,1912,0,Africa/Middle East
+406,Egypt,1914,0,Africa/Middle East
+407,Egypt,1916,0,Africa/Middle East
+408,Egypt,1918,0,Africa/Middle East
+409,Egypt,1920,0,Africa/Middle East
+410,Egypt,1922,1,Africa/Middle East
+411,Egypt,1924,0,Africa/Middle East
+412,Egypt,1926,0,Africa/Middle East
+413,Egypt,1928,0,Africa/Middle East
+414,Egypt,1930,0,Africa/Middle East
+415,Egypt,1932,1,Africa/Middle East
+416,Egypt,1934,0,Africa/Middle East
+417,Egypt,1936,0,Africa/Middle East
+418,Egypt,1938,0,Africa/Middle East
+419,Egypt,1940,0,Africa/Middle East
+420,Finland,1878,0,Northern Europe
+421,Finland,1880,0,Northern Europe
+422,Finland,1882,0,Northern Europe
+423,Finland,1884,0,Northern Europe
+424,Finland,1886,0,Northern Europe
+425,Finland,1888,0,Northern Europe
+426,Finland,1890,0,Northern Europe
+427,Finland,1892,0,Northern Europe
+428,Finland,1896,0,Northern Europe
+429,Finland,1900,0,Northern Europe
+430,Finland,1902,0,Northern Europe
+431,Finland,1906,0,Northern Europe
+432,Finland,1908,1,Northern Europe
+433,Finland,1912,0,Northern Europe
+434,Finland,1914,0,Northern Europe
+435,Finland,1916,2,Northern Europe
+436,Finland,1918,0,Northern Europe
+437,Finland,1920,1,Northern Europe
+438,Finland,1922,0,Northern Europe
+439,Finland,1924,1,Northern Europe
+440,Finland,1926,2,Northern Europe
+441,Finland,1928,0,Northern Europe
+442,Finland,1930,2,Northern Europe
+443,Finland,1932,0,Northern Europe
+444,Finland,1934,0,Northern Europe
+445,Finland,1936,0,Northern Europe
+446,Finland,1938,1,Northern Europe
+447,Finland,1940,0,Northern Europe
+448,France,1878,4,Western Europe
+449,France,1880,1,Western Europe
+450,France,1882,1,Western Europe
+451,France,1884,3,Western Europe
+452,France,1886,1,Western Europe
+453,France,1888,5,Western Europe
+454,France,1890,3,Western Europe
+455,France,1892,5,Western Europe
+456,France,1896,4,Western Europe
+457,France,1900,2,Western Europe
+458,France,1902,2,Western Europe
+459,France,1906,2,Western Europe
+460,France,1908,1,Western Europe
+461,France,1912,2,Western Europe
+462,France,1914,4,Western Europe
+463,France,1916,1,Western Europe
+464,France,1918,0,Western Europe
+465,France,1920,1,Western Europe
+466,France,1922,3,Western Europe
+467,France,1924,0,Western Europe
+468,France,1926,1,Western Europe
+469,France,1928,1,Western Europe
+470,France,1930,3,Western Europe
+471,France,1932,5,Western Europe
+472,France,1934,0,Western Europe
+473,France,1936,0,Western Europe
+474,France,1938,0,Western Europe
+475,France,1940,0,Western Europe
+476,Germany,1878,7,Western Europe
+477,Germany,1880,12,Western Europe
+478,Germany,1882,13,Western Europe
+479,Germany,1884,15,Western Europe
+480,Germany,1886,12,Western Europe
+481,Germany,1888,14,Western Europe
+482,Germany,1890,22,Western Europe
+483,Germany,1892,27,Western Europe
+484,Germany,1896,29,Western Europe
+485,Germany,1900,14,Western Europe
+486,Germany,1902,11,Western Europe
+487,Germany,1906,17,Western Europe
+488,Germany,1908,22,Western Europe
+489,Germany,1912,19,Western Europe
+490,Germany,1914,19,Western Europe
+491,Germany,1916,11,Western Europe
+492,Germany,1918,8,Western Europe
+493,Germany,1920,2,Western Europe
+494,Germany,1922,9,Western Europe
+495,Germany,1924,12,Western Europe
+496,Germany,1926,13,Western Europe
+497,Germany,1928,4,Western Europe
+498,Germany,1930,15,Western Europe
+499,Germany,1932,8,Western Europe
+500,Germany,1934,8,Western Europe
+501,Germany,1936,5,Western Europe
+502,Germany,1938,2,Western Europe
+503,Germany,1940,1,Western Europe
+504,Greece,1878,0,Southern Europe
+505,Greece,1880,0,Southern Europe
+506,Greece,1882,0,Southern Europe
+507,Greece,1884,0,Southern Europe
+508,Greece,1886,0,Southern Europe
+509,Greece,1888,0,Southern Europe
+510,Greece,1890,0,Southern Europe
+511,Greece,1892,0,Southern Europe
+512,Greece,1896,0,Southern Europe
+513,Greece,1900,0,Southern Europe
+514,Greece,1902,0,Southern Europe
+515,Greece,1906,1,Southern Europe
+516,Greece,1908,5,Southern Europe
+517,Greece,1912,0,Southern Europe
+518,Greece,1914,2,Southern Europe
+519,Greece,1916,7,Southern Europe
+520,Greece,1918,2,Southern Europe
+521,Greece,1920,5,Southern Europe
+522,Greece,1922,1,Southern Europe
+523,Greece,1924,10,Southern Europe
+524,Greece,1926,4,Southern Europe
+525,Greece,1928,8,Southern Europe
+526,Greece,1930,1,Southern Europe
+527,Greece,1932,2,Southern Europe
+528,Greece,1934,1,Southern Europe
+529,Greece,1936,4,Southern Europe
+530,Greece,1938,0,Southern Europe
+531,Greece,1940,0,Southern Europe
+532,Hungary,1878,0,Central & Eastern Europe
+533,Hungary,1880,0,Central & Eastern Europe
+534,Hungary,1882,0,Central & Eastern Europe
+535,Hungary,1884,1,Central & Eastern Europe
+536,Hungary,1886,0,Central & Eastern Europe
+537,Hungary,1888,0,Central & Eastern Europe
+538,Hungary,1890,2,Central & Eastern Europe
+539,Hungary,1892,0,Central & Eastern Europe
+540,Hungary,1896,1,Central & Eastern Europe
+541,Hungary,1900,0,Central & Eastern Europe
+542,Hungary,1902,1,Central & Eastern Europe
+543,Hungary,1906,1,Central & Eastern Europe
+544,Hungary,1908,4,Central & Eastern Europe
+545,Hungary,1912,1,Central & Eastern Europe
+546,Hungary,1914,1,Central & Eastern Europe
+547,Hungary,1916,3,Central & Eastern Europe
+548,Hungary,1918,1,Central & Eastern Europe
+549,Hungary,1920,1,Central & Eastern Europe
+550,Hungary,1922,0,Central & Eastern Europe
+551,Hungary,1924,0,Central & Eastern Europe
+552,Hungary,1926,1,Central & Eastern Europe
+553,Hungary,1928,1,Central & Eastern Europe
+554,Hungary,1930,0,Central & Eastern Europe
+555,Hungary,1932,1,Central & Eastern Europe
+556,Hungary,1934,0,Central & Eastern Europe
+557,Hungary,1936,1,Central & Eastern Europe
+558,Hungary,1938,1,Central & Eastern Europe
+559,Hungary,1940,0,Central & Eastern Europe
+560,India,1878,0,Asia
+561,India,1880,0,Asia
+562,India,1882,0,Asia
+563,India,1884,0,Asia
+564,India,1886,0,Asia
+565,India,1888,0,Asia
+566,India,1890,0,Asia
+567,India,1892,0,Asia
+568,India,1896,0,Asia
+569,India,1900,0,Asia
+570,India,1902,0,Asia
+571,India,1906,0,Asia
+572,India,1908,0,Asia
+573,India,1912,0,Asia
+574,India,1914,1,Asia
+575,India,1916,1,Asia
+576,India,1918,1,Asia
+577,India,1920,0,Asia
+578,India,1922,0,Asia
+579,India,1924,1,Asia
+580,India,1926,0,Asia
+581,India,1928,2,Asia
+582,India,1930,0,Asia
+583,India,1932,0,Asia
+584,India,1934,2,Asia
+585,India,1936,1,Asia
+586,India,1938,0,Asia
+587,India,1940,0,Asia
+588,Ireland,1878,12,Western Europe
+589,Ireland,1880,18,Western Europe
+590,Ireland,1882,15,Western Europe
+591,Ireland,1884,19,Western Europe
+592,Ireland,1886,16,Western Europe
+593,Ireland,1888,24,Western Europe
+594,Ireland,1890,28,Western Europe
+595,Ireland,1892,25,Western Europe
+596,Ireland,1896,14,Western Europe
+597,Ireland,1900,10,Western Europe
+598,Ireland,1902,21,Western Europe
+599,Ireland,1906,6,Western Europe
+600,Ireland,1908,9,Western Europe
+601,Ireland,1912,8,Western Europe
+602,Ireland,1914,8,Western Europe
+603,Ireland,1916,7,Western Europe
+604,Ireland,1918,2,Western Europe
+605,Ireland,1920,1,Western Europe
+606,Ireland,1922,5,Western Europe
+607,Ireland,1924,6,Western Europe
+608,Ireland,1926,6,Western Europe
+609,Ireland,1928,2,Western Europe
+610,Ireland,1930,7,Western Europe
+611,Ireland,1932,5,Western Europe
+612,Ireland,1934,1,Western Europe
+613,Ireland,1936,1,Western Europe
+614,Ireland,1938,1,Western Europe
+615,Ireland,1940,2,Western Europe
+616,Italy,1878,7,Southern Europe
+617,Italy,1880,6,Southern Europe
+618,Italy,1882,4,Southern Europe
+619,Italy,1884,7,Southern Europe
+620,Italy,1886,6,Southern Europe
+621,Italy,1888,5,Southern Europe
+622,Italy,1890,4,Southern Europe
+623,Italy,1892,11,Southern Europe
+624,Italy,1896,9,Southern Europe
+625,Italy,1900,1,Southern Europe
+626,Italy,1902,8,Southern Europe
+627,Italy,1906,8,Southern Europe
+628,Italy,1908,16,Southern Europe
+629,Italy,1912,18,Southern Europe
+630,Italy,1914,25,Southern Europe
+631,Italy,1916,12,Southern Europe
+632,Italy,1918,14,Southern Europe
+633,Italy,1920,5,Southern Europe
+634,Italy,1922,12,Southern Europe
+635,Italy,1924,18,Southern Europe
+636,Italy,1926,22,Southern Europe
+637,Italy,1928,24,Southern Europe
+638,Italy,1930,20,Southern Europe
+639,Italy,1932,17,Southern Europe
+640,Italy,1934,6,Southern Europe
+641,Italy,1936,2,Southern Europe
+642,Italy,1938,5,Southern Europe
+643,Italy,1940,2,Southern Europe
+644,Jamaica,1878,0,Caribbean
+645,Jamaica,1880,0,Caribbean
+646,Jamaica,1882,0,Caribbean
+647,Jamaica,1884,0,Caribbean
+648,Jamaica,1886,0,Caribbean
+649,Jamaica,1888,1,Caribbean
+650,Jamaica,1890,0,Caribbean
+651,Jamaica,1892,0,Caribbean
+652,Jamaica,1896,0,Caribbean
+653,Jamaica,1900,1,Caribbean
+654,Jamaica,1902,0,Caribbean
+655,Jamaica,1906,0,Caribbean
+656,Jamaica,1908,0,Caribbean
+657,Jamaica,1912,0,Caribbean
+658,Jamaica,1914,0,Caribbean
+659,Jamaica,1916,0,Caribbean
+660,Jamaica,1918,0,Caribbean
+661,Jamaica,1920,0,Caribbean
+662,Jamaica,1922,1,Caribbean
+663,Jamaica,1924,2,Caribbean
+664,Jamaica,1926,0,Caribbean
+665,Jamaica,1928,0,Caribbean
+666,Jamaica,1930,0,Caribbean
+667,Jamaica,1932,0,Caribbean
+668,Jamaica,1934,0,Caribbean
+669,Jamaica,1936,0,Caribbean
+670,Jamaica,1938,0,Caribbean
+671,Jamaica,1940,0,Caribbean
+672,Japan,1878,0,Asia
+673,Japan,1880,0,Asia
+674,Japan,1882,0,Asia
+675,Japan,1884,0,Asia
+676,Japan,1886,0,Asia
+677,Japan,1888,0,Asia
+678,Japan,1890,0,Asia
+679,Japan,1892,0,Asia
+680,Japan,1896,1,Asia
+681,Japan,1900,0,Asia
+682,Japan,1902,2,Asia
+683,Japan,1906,1,Asia
+684,Japan,1908,0,Asia
+685,Japan,1912,3,Asia
+686,Japan,1914,3,Asia
+687,Japan,1916,2,Asia
+688,Japan,1918,0,Asia
+689,Japan,1920,2,Asia
+690,Japan,1922,1,Asia
+691,Japan,1924,0,Asia
+692,Japan,1926,0,Asia
+693,Japan,1928,0,Asia
+694,Japan,1930,0,Asia
+695,Japan,1932,0,Asia
+696,Japan,1934,0,Asia
+697,Japan,1936,1,Asia
+698,Japan,1938,0,Asia
+699,Japan,1940,0,Asia
+700,Indonesia,1878,0,Asia
+701,Indonesia,1880,0,Asia
+702,Indonesia,1882,0,Asia
+703,Indonesia,1884,0,Asia
+704,Indonesia,1886,0,Asia
+705,Indonesia,1888,0,Asia
+706,Indonesia,1890,0,Asia
+707,Indonesia,1892,1,Asia
+708,Indonesia,1896,0,Asia
+709,Indonesia,1900,0,Asia
+710,Indonesia,1902,0,Asia
+711,Indonesia,1906,0,Asia
+712,Indonesia,1908,0,Asia
+713,Indonesia,1912,0,Asia
+714,Indonesia,1914,0,Asia
+715,Indonesia,1916,0,Asia
+716,Indonesia,1918,0,Asia
+717,Indonesia,1920,0,Asia
+718,Indonesia,1922,0,Asia
+719,Indonesia,1924,0,Asia
+720,Indonesia,1926,0,Asia
+721,Indonesia,1928,0,Asia
+722,Indonesia,1930,0,Asia
+723,Indonesia,1932,0,Asia
+724,Indonesia,1934,0,Asia
+725,Indonesia,1936,0,Asia
+726,Indonesia,1938,0,Asia
+727,Indonesia,1940,0,Asia
+728,South Korea,1878,0,Asia
+729,South Korea,1880,0,Asia
+730,South Korea,1882,0,Asia
+731,South Korea,1884,0,Asia
+732,South Korea,1886,0,Asia
+733,South Korea,1888,0,Asia
+734,South Korea,1890,0,Asia
+735,South Korea,1892,0,Asia
+736,South Korea,1896,0,Asia
+737,South Korea,1900,0,Asia
+738,South Korea,1902,0,Asia
+739,South Korea,1906,0,Asia
+740,South Korea,1908,0,Asia
+741,South Korea,1912,0,Asia
+742,South Korea,1914,0,Asia
+743,South Korea,1916,2,Asia
+744,South Korea,1918,0,Asia
+745,South Korea,1920,2,Asia
+746,South Korea,1922,1,Asia
+747,South Korea,1924,0,Asia
+748,South Korea,1926,0,Asia
+749,South Korea,1928,0,Asia
+750,South Korea,1930,0,Asia
+751,South Korea,1932,0,Asia
+752,South Korea,1934,0,Asia
+753,South Korea,1936,0,Asia
+754,South Korea,1938,0,Asia
+755,South Korea,1940,0,Asia
+756,Lithuania,1878,0,Northern Europe
+757,Lithuania,1880,0,Northern Europe
+758,Lithuania,1882,0,Northern Europe
+759,Lithuania,1884,0,Northern Europe
+760,Lithuania,1886,0,Northern Europe
+761,Lithuania,1888,0,Northern Europe
+762,Lithuania,1890,0,Northern Europe
+763,Lithuania,1892,0,Northern Europe
+764,Lithuania,1896,0,Northern Europe
+765,Lithuania,1900,0,Northern Europe
+766,Lithuania,1902,0,Northern Europe
+767,Lithuania,1906,0,Northern Europe
+768,Lithuania,1908,0,Northern Europe
+769,Lithuania,1912,0,Northern Europe
+770,Lithuania,1914,0,Northern Europe
+771,Lithuania,1916,0,Northern Europe
+772,Lithuania,1918,0,Northern Europe
+773,Lithuania,1920,0,Northern Europe
+774,Lithuania,1922,0,Northern Europe
+775,Lithuania,1924,0,Northern Europe
+776,Lithuania,1926,0,Northern Europe
+777,Lithuania,1928,0,Northern Europe
+778,Lithuania,1930,0,Northern Europe
+779,Lithuania,1932,0,Northern Europe
+780,Lithuania,1934,0,Northern Europe
+781,Lithuania,1936,0,Northern Europe
+782,Lithuania,1938,0,Northern Europe
+783,Lithuania,1940,1,Northern Europe
+784,Mexico,1878,1,Central America
+785,Mexico,1880,2,Central America
+786,Mexico,1882,0,Central America
+787,Mexico,1884,1,Central America
+788,Mexico,1886,0,Central America
+789,Mexico,1888,1,Central America
+790,Mexico,1890,3,Central America
+791,Mexico,1892,3,Central America
+792,Mexico,1896,2,Central America
+793,Mexico,1900,0,Central America
+794,Mexico,1902,7,Central America
+795,Mexico,1906,7,Central America
+796,Mexico,1908,28,Central America
+797,Mexico,1912,36,Central America
+798,Mexico,1914,62,Central America
+799,Mexico,1916,62,Central America
+800,Mexico,1918,40,Central America
+801,Mexico,1920,61,Central America
+802,Mexico,1922,70,Central America
+803,Mexico,1924,59,Central America
+804,Mexico,1926,95,Central America
+805,Mexico,1928,91,Central America
+806,Mexico,1930,41,Central America
+807,Mexico,1932,69,Central America
+808,Mexico,1934,51,Central America
+809,Mexico,1936,27,Central America
+810,Mexico,1938,24,Central America
+811,Mexico,1940,10,Central America
+812,Montenegro,1878,0,Central & Eastern Europe
+813,Montenegro,1880,0,Central & Eastern Europe
+814,Montenegro,1882,0,Central & Eastern Europe
+815,Montenegro,1884,0,Central & Eastern Europe
+816,Montenegro,1886,0,Central & Eastern Europe
+817,Montenegro,1888,0,Central & Eastern Europe
+818,Montenegro,1890,0,Central & Eastern Europe
+819,Montenegro,1892,0,Central & Eastern Europe
+820,Montenegro,1896,0,Central & Eastern Europe
+821,Montenegro,1900,0,Central & Eastern Europe
+822,Montenegro,1902,0,Central & Eastern Europe
+823,Montenegro,1906,0,Central & Eastern Europe
+824,Montenegro,1908,0,Central & Eastern Europe
+825,Montenegro,1912,0,Central & Eastern Europe
+826,Montenegro,1914,0,Central & Eastern Europe
+827,Montenegro,1916,1,Central & Eastern Europe
+828,Montenegro,1918,0,Central & Eastern Europe
+829,Montenegro,1920,0,Central & Eastern Europe
+830,Montenegro,1922,0,Central & Eastern Europe
+831,Montenegro,1924,0,Central & Eastern Europe
+832,Montenegro,1926,1,Central & Eastern Europe
+833,Montenegro,1928,0,Central & Eastern Europe
+834,Montenegro,1930,0,Central & Eastern Europe
+835,Montenegro,1932,0,Central & Eastern Europe
+836,Montenegro,1934,0,Central & Eastern Europe
+837,Montenegro,1936,0,Central & Eastern Europe
+838,Montenegro,1938,0,Central & Eastern Europe
+839,Montenegro,1940,0,Central & Eastern Europe
+840,Netherlands,1878,0,Western Europe
+841,Netherlands,1880,0,Western Europe
+842,Netherlands,1882,0,Western Europe
+843,Netherlands,1884,0,Western Europe
+844,Netherlands,1886,1,Western Europe
+845,Netherlands,1888,1,Western Europe
+846,Netherlands,1890,0,Western Europe
+847,Netherlands,1892,0,Western Europe
+848,Netherlands,1896,0,Western Europe
+849,Netherlands,1900,0,Western Europe
+850,Netherlands,1902,0,Western Europe
+851,Netherlands,1906,0,Western Europe
+852,Netherlands,1908,1,Western Europe
+853,Netherlands,1912,0,Western Europe
+854,Netherlands,1914,0,Western Europe
+855,Netherlands,1916,1,Western Europe
+856,Netherlands,1918,0,Western Europe
+857,Netherlands,1920,0,Western Europe
+858,Netherlands,1922,0,Western Europe
+859,Netherlands,1924,0,Western Europe
+860,Netherlands,1926,0,Western Europe
+861,Netherlands,1928,1,Western Europe
+862,Netherlands,1930,1,Western Europe
+863,Netherlands,1932,1,Western Europe
+864,Netherlands,1934,0,Western Europe
+865,Netherlands,1936,0,Western Europe
+866,Netherlands,1938,0,Western Europe
+867,Netherlands,1940,0,Western Europe
+868,New Zealand,1878,0,Oceania
+869,New Zealand,1880,0,Oceania
+870,New Zealand,1882,0,Oceania
+871,New Zealand,1884,0,Oceania
+872,New Zealand,1886,0,Oceania
+873,New Zealand,1888,0,Oceania
+874,New Zealand,1890,0,Oceania
+875,New Zealand,1892,0,Oceania
+876,New Zealand,1896,0,Oceania
+877,New Zealand,1900,0,Oceania
+878,New Zealand,1902,0,Oceania
+879,New Zealand,1906,0,Oceania
+880,New Zealand,1908,0,Oceania
+881,New Zealand,1912,0,Oceania
+882,New Zealand,1914,1,Oceania
+883,New Zealand,1916,0,Oceania
+884,New Zealand,1918,0,Oceania
+885,New Zealand,1920,0,Oceania
+886,New Zealand,1922,0,Oceania
+887,New Zealand,1924,0,Oceania
+888,New Zealand,1926,0,Oceania
+889,New Zealand,1928,0,Oceania
+890,New Zealand,1930,0,Oceania
+891,New Zealand,1932,0,Oceania
+892,New Zealand,1934,0,Oceania
+893,New Zealand,1936,0,Oceania
+894,New Zealand,1938,0,Oceania
+895,New Zealand,1940,0,Oceania
+896,Nicaragua,1878,0,Central America
+897,Nicaragua,1880,0,Central America
+898,Nicaragua,1882,0,Central America
+899,Nicaragua,1884,0,Central America
+900,Nicaragua,1886,0,Central America
+901,Nicaragua,1888,0,Central America
+902,Nicaragua,1890,0,Central America
+903,Nicaragua,1892,0,Central America
+904,Nicaragua,1896,0,Central America
+905,Nicaragua,1900,0,Central America
+906,Nicaragua,1902,0,Central America
+907,Nicaragua,1906,0,Central America
+908,Nicaragua,1908,0,Central America
+909,Nicaragua,1912,0,Central America
+910,Nicaragua,1914,0,Central America
+911,Nicaragua,1916,0,Central America
+912,Nicaragua,1918,0,Central America
+913,Nicaragua,1920,0,Central America
+914,Nicaragua,1922,0,Central America
+915,Nicaragua,1924,0,Central America
+916,Nicaragua,1926,1,Central America
+917,Nicaragua,1928,0,Central America
+918,Nicaragua,1930,0,Central America
+919,Nicaragua,1932,0,Central America
+920,Nicaragua,1934,0,Central America
+921,Nicaragua,1936,0,Central America
+922,Nicaragua,1938,0,Central America
+923,Nicaragua,1940,0,Central America
+924,Norway,1878,0,Northern Europe
+925,Norway,1880,0,Northern Europe
+926,Norway,1882,1,Northern Europe
+927,Norway,1884,1,Northern Europe
+928,Norway,1886,1,Northern Europe
+929,Norway,1888,2,Northern Europe
+930,Norway,1890,1,Northern Europe
+931,Norway,1892,0,Northern Europe
+932,Norway,1896,0,Northern Europe
+933,Norway,1900,0,Northern Europe
+934,Norway,1902,0,Northern Europe
+935,Norway,1906,0,Northern Europe
+936,Norway,1908,1,Northern Europe
+937,Norway,1912,0,Northern Europe
+938,Norway,1914,1,Northern Europe
+939,Norway,1916,1,Northern Europe
+940,Norway,1918,1,Northern Europe
+941,Norway,1920,0,Northern Europe
+942,Norway,1922,1,Northern Europe
+943,Norway,1924,1,Northern Europe
+944,Norway,1926,1,Northern Europe
+945,Norway,1928,2,Northern Europe
+946,Norway,1930,2,Northern Europe
+947,Norway,1932,2,Northern Europe
+948,Norway,1934,0,Northern Europe
+949,Norway,1936,0,Northern Europe
+950,Norway,1938,0,Northern Europe
+951,Norway,1940,0,Northern Europe
+952,Philippines,1878,0,Asia
+953,Philippines,1880,0,Asia
+954,Philippines,1882,0,Asia
+955,Philippines,1884,0,Asia
+956,Philippines,1886,1,Asia
+957,Philippines,1888,0,Asia
+958,Philippines,1890,0,Asia
+959,Philippines,1892,0,Asia
+960,Philippines,1896,0,Asia
+961,Philippines,1900,0,Asia
+962,Philippines,1902,0,Asia
+963,Philippines,1906,0,Asia
+964,Philippines,1908,0,Asia
+965,Philippines,1912,0,Asia
+966,Philippines,1914,0,Asia
+967,Philippines,1916,0,Asia
+968,Philippines,1918,0,Asia
+969,Philippines,1920,0,Asia
+970,Philippines,1922,0,Asia
+971,Philippines,1924,0,Asia
+972,Philippines,1926,0,Asia
+973,Philippines,1928,1,Asia
+974,Philippines,1930,1,Asia
+975,Philippines,1932,3,Asia
+976,Philippines,1934,1,Asia
+977,Philippines,1936,0,Asia
+978,Philippines,1938,2,Asia
+979,Philippines,1940,0,Asia
+980,Poland,1878,0,Central & Eastern Europe
+981,Poland,1880,0,Central & Eastern Europe
+982,Poland,1882,0,Central & Eastern Europe
+983,Poland,1884,0,Central & Eastern Europe
+984,Poland,1886,0,Central & Eastern Europe
+985,Poland,1888,1,Central & Eastern Europe
+986,Poland,1890,0,Central & Eastern Europe
+987,Poland,1892,1,Central & Eastern Europe
+988,Poland,1896,0,Central & Eastern Europe
+989,Poland,1900,0,Central & Eastern Europe
+990,Poland,1902,0,Central & Eastern Europe
+991,Poland,1906,0,Central & Eastern Europe
+992,Poland,1908,2,Central & Eastern Europe
+993,Poland,1912,0,Central & Eastern Europe
+994,Poland,1914,0,Central & Eastern Europe
+995,Poland,1916,1,Central & Eastern Europe
+996,Poland,1918,0,Central & Eastern Europe
+997,Poland,1920,0,Central & Eastern Europe
+998,Poland,1922,1,Central & Eastern Europe
+999,Poland,1924,1,Central & Eastern Europe
+1000,Poland,1926,2,Central & Eastern Europe
+1001,Poland,1928,2,Central & Eastern Europe
+1002,Poland,1930,2,Central & Eastern Europe
+1003,Poland,1932,2,Central & Eastern Europe
+1004,Poland,1934,4,Central & Eastern Europe
+1005,Poland,1936,0,Central & Eastern Europe
+1006,Poland,1938,0,Central & Eastern Europe
+1007,Poland,1940,0,Central & Eastern Europe
+1008,Porto Rico,1878,0,Caribbean
+1009,Porto Rico,1880,0,Caribbean
+1010,Porto Rico,1882,0,Caribbean
+1011,Porto Rico,1884,0,Caribbean
+1012,Porto Rico,1886,0,Caribbean
+1013,Porto Rico,1888,0,Caribbean
+1014,Porto Rico,1890,0,Caribbean
+1015,Porto Rico,1892,0,Caribbean
+1016,Porto Rico,1896,0,Caribbean
+1017,Porto Rico,1900,0,Caribbean
+1018,Porto Rico,1902,0,Caribbean
+1019,Porto Rico,1906,0,Caribbean
+1020,Porto Rico,1908,0,Caribbean
+1021,Porto Rico,1912,1,Caribbean
+1022,Porto Rico,1914,0,Caribbean
+1023,Porto Rico,1916,0,Caribbean
+1024,Porto Rico,1918,1,Caribbean
+1025,Porto Rico,1920,0,Caribbean
+1026,Porto Rico,1922,0,Caribbean
+1027,Porto Rico,1924,1,Caribbean
+1028,Porto Rico,1926,0,Caribbean
+1029,Porto Rico,1928,0,Caribbean
+1030,Porto Rico,1930,0,Caribbean
+1031,Porto Rico,1932,0,Caribbean
+1032,Porto Rico,1934,0,Caribbean
+1033,Porto Rico,1936,0,Caribbean
+1034,Porto Rico,1938,1,Caribbean
+1035,Porto Rico,1940,0,Caribbean
+1036,Portugal,1878,0,Southern Europe
+1037,Portugal,1880,0,Southern Europe
+1038,Portugal,1882,0,Southern Europe
+1039,Portugal,1884,0,Southern Europe
+1040,Portugal,1886,0,Southern Europe
+1041,Portugal,1888,0,Southern Europe
+1042,Portugal,1890,0,Southern Europe
+1043,Portugal,1892,0,Southern Europe
+1044,Portugal,1896,0,Southern Europe
+1045,Portugal,1900,0,Southern Europe
+1046,Portugal,1902,0,Southern Europe
+1047,Portugal,1906,0,Southern Europe
+1048,Portugal,1908,0,Southern Europe
+1049,Portugal,1912,0,Southern Europe
+1050,Portugal,1914,0,Southern Europe
+1051,Portugal,1916,0,Southern Europe
+1052,Portugal,1918,0,Southern Europe
+1053,Portugal,1920,0,Southern Europe
+1054,Portugal,1922,0,Southern Europe
+1055,Portugal,1924,0,Southern Europe
+1056,Portugal,1926,0,Southern Europe
+1057,Portugal,1928,0,Southern Europe
+1058,Portugal,1930,0,Southern Europe
+1059,Portugal,1932,0,Southern Europe
+1060,Portugal,1934,0,Southern Europe
+1061,Portugal,1936,1,Southern Europe
+1062,Portugal,1938,0,Southern Europe
+1063,Portugal,1940,0,Southern Europe
+1064,Romania,1878,0,Central & Eastern Europe
+1065,Romania,1880,0,Central & Eastern Europe
+1066,Romania,1882,0,Central & Eastern Europe
+1067,Romania,1884,0,Central & Eastern Europe
+1068,Romania,1886,0,Central & Eastern Europe
+1069,Romania,1888,0,Central & Eastern Europe
+1070,Romania,1890,0,Central & Eastern Europe
+1071,Romania,1892,0,Central & Eastern Europe
+1072,Romania,1896,0,Central & Eastern Europe
+1073,Romania,1900,0,Central & Eastern Europe
+1074,Romania,1902,0,Central & Eastern Europe
+1075,Romania,1906,0,Central & Eastern Europe
+1076,Romania,1908,0,Central & Eastern Europe
+1077,Romania,1912,1,Central & Eastern Europe
+1078,Romania,1914,0,Central & Eastern Europe
+1079,Romania,1916,0,Central & Eastern Europe
+1080,Romania,1918,0,Central & Eastern Europe
+1081,Romania,1920,0,Central & Eastern Europe
+1082,Romania,1922,1,Central & Eastern Europe
+1083,Romania,1924,0,Central & Eastern Europe
+1084,Romania,1926,0,Central & Eastern Europe
+1085,Romania,1928,0,Central & Eastern Europe
+1086,Romania,1930,1,Central & Eastern Europe
+1087,Romania,1932,0,Central & Eastern Europe
+1088,Romania,1934,0,Central & Eastern Europe
+1089,Romania,1936,0,Central & Eastern Europe
+1090,Romania,1938,0,Central & Eastern Europe
+1091,Romania,1940,0,Central & Eastern Europe
+1092,Russia,1878,0,Central & Eastern Europe
+1093,Russia,1880,1,Central & Eastern Europe
+1094,Russia,1882,1,Central & Eastern Europe
+1095,Russia,1884,1,Central & Eastern Europe
+1096,Russia,1886,0,Central & Eastern Europe
+1097,Russia,1888,1,Central & Eastern Europe
+1098,Russia,1890,2,Central & Eastern Europe
+1099,Russia,1892,2,Central & Eastern Europe
+1100,Russia,1896,6,Central & Eastern Europe
+1101,Russia,1900,3,Central & Eastern Europe
+1102,Russia,1902,1,Central & Eastern Europe
+1103,Russia,1906,1,Central & Eastern Europe
+1104,Russia,1908,1,Central & Eastern Europe
+1105,Russia,1912,3,Central & Eastern Europe
+1106,Russia,1914,3,Central & Eastern Europe
+1107,Russia,1916,5,Central & Eastern Europe
+1108,Russia,1918,10,Central & Eastern Europe
+1109,Russia,1920,7,Central & Eastern Europe
+1110,Russia,1922,10,Central & Eastern Europe
+1111,Russia,1924,8,Central & Eastern Europe
+1112,Russia,1926,8,Central & Eastern Europe
+1113,Russia,1928,12,Central & Eastern Europe
+1114,Russia,1930,8,Central & Eastern Europe
+1115,Russia,1932,8,Central & Eastern Europe
+1116,Russia,1934,11,Central & Eastern Europe
+1117,Russia,1936,7,Central & Eastern Europe
+1118,Russia,1938,5,Central & Eastern Europe
+1119,Russia,1940,2,Central & Eastern Europe
+1120,Serbia,1878,0,Central & Eastern Europe
+1121,Serbia,1880,0,Central & Eastern Europe
+1122,Serbia,1882,0,Central & Eastern Europe
+1123,Serbia,1884,0,Central & Eastern Europe
+1124,Serbia,1886,0,Central & Eastern Europe
+1125,Serbia,1888,0,Central & Eastern Europe
+1126,Serbia,1890,0,Central & Eastern Europe
+1127,Serbia,1892,0,Central & Eastern Europe
+1128,Serbia,1896,0,Central & Eastern Europe
+1129,Serbia,1900,0,Central & Eastern Europe
+1130,Serbia,1902,0,Central & Eastern Europe
+1131,Serbia,1906,0,Central & Eastern Europe
+1132,Serbia,1908,0,Central & Eastern Europe
+1133,Serbia,1912,0,Central & Eastern Europe
+1134,Serbia,1914,0,Central & Eastern Europe
+1135,Serbia,1916,0,Central & Eastern Europe
+1136,Serbia,1918,0,Central & Eastern Europe
+1137,Serbia,1920,0,Central & Eastern Europe
+1138,Serbia,1922,2,Central & Eastern Europe
+1139,Serbia,1924,2,Central & Eastern Europe
+1140,Serbia,1926,1,Central & Eastern Europe
+1141,Serbia,1928,1,Central & Eastern Europe
+1142,Serbia,1930,25,Central & Eastern Europe
+1143,Serbia,1932,1,Central & Eastern Europe
+1144,Serbia,1934,2,Central & Eastern Europe
+1145,Serbia,1936,1,Central & Eastern Europe
+1146,Serbia,1938,0,Central & Eastern Europe
+1147,Serbia,1940,0,Central & Eastern Europe
+1148,Thailand,1878,0,Asia
+1149,Thailand,1880,0,Asia
+1150,Thailand,1882,0,Asia
+1151,Thailand,1884,0,Asia
+1152,Thailand,1886,0,Asia
+1153,Thailand,1888,0,Asia
+1154,Thailand,1890,0,Asia
+1155,Thailand,1892,0,Asia
+1156,Thailand,1896,0,Asia
+1157,Thailand,1900,0,Asia
+1158,Thailand,1902,0,Asia
+1159,Thailand,1906,0,Asia
+1160,Thailand,1908,0,Asia
+1161,Thailand,1912,0,Asia
+1162,Thailand,1914,0,Asia
+1163,Thailand,1916,0,Asia
+1164,Thailand,1918,0,Asia
+1165,Thailand,1920,0,Asia
+1166,Thailand,1922,0,Asia
+1167,Thailand,1924,0,Asia
+1168,Thailand,1926,0,Asia
+1169,Thailand,1928,0,Asia
+1170,Thailand,1930,0,Asia
+1171,Thailand,1932,1,Asia
+1172,Thailand,1934,0,Asia
+1173,Thailand,1936,0,Asia
+1174,Thailand,1938,0,Asia
+1175,Thailand,1940,0,Asia
+1176,South Africa,1878,0,Africa/Middle East
+1177,South Africa,1880,0,Africa/Middle East
+1178,South Africa,1882,0,Africa/Middle East
+1179,South Africa,1884,0,Africa/Middle East
+1180,South Africa,1886,0,Africa/Middle East
+1181,South Africa,1888,0,Africa/Middle East
+1182,South Africa,1890,1,Africa/Middle East
+1183,South Africa,1892,1,Africa/Middle East
+1184,South Africa,1896,0,Africa/Middle East
+1185,South Africa,1900,0,Africa/Middle East
+1186,South Africa,1902,0,Africa/Middle East
+1187,South Africa,1906,0,Africa/Middle East
+1188,South Africa,1908,0,Africa/Middle East
+1189,South Africa,1912,2,Africa/Middle East
+1190,South Africa,1914,0,Africa/Middle East
+1191,South Africa,1916,0,Africa/Middle East
+1192,South Africa,1918,0,Africa/Middle East
+1193,South Africa,1920,0,Africa/Middle East
+1194,South Africa,1922,0,Africa/Middle East
+1195,South Africa,1924,0,Africa/Middle East
+1196,South Africa,1926,0,Africa/Middle East
+1197,South Africa,1928,0,Africa/Middle East
+1198,South Africa,1930,0,Africa/Middle East
+1199,South Africa,1932,0,Africa/Middle East
+1200,South Africa,1934,0,Africa/Middle East
+1201,South Africa,1936,0,Africa/Middle East
+1202,South Africa,1938,0,Africa/Middle East
+1203,South Africa,1940,0,Africa/Middle East
+1204,Solomon Islands,1878,0,Oceania
+1205,Solomon Islands,1880,0,Oceania
+1206,Solomon Islands,1882,0,Oceania
+1207,Solomon Islands,1884,0,Oceania
+1208,Solomon Islands,1886,0,Oceania
+1209,Solomon Islands,1888,0,Oceania
+1210,Solomon Islands,1890,0,Oceania
+1211,Solomon Islands,1892,0,Oceania
+1212,Solomon Islands,1896,0,Oceania
+1213,Solomon Islands,1900,0,Oceania
+1214,Solomon Islands,1902,0,Oceania
+1215,Solomon Islands,1906,0,Oceania
+1216,Solomon Islands,1908,0,Oceania
+1217,Solomon Islands,1912,0,Oceania
+1218,Solomon Islands,1914,0,Oceania
+1219,Solomon Islands,1916,0,Oceania
+1220,Solomon Islands,1918,0,Oceania
+1221,Solomon Islands,1920,0,Oceania
+1222,Solomon Islands,1922,0,Oceania
+1223,Solomon Islands,1924,1,Oceania
+1224,Solomon Islands,1926,0,Oceania
+1225,Solomon Islands,1928,0,Oceania
+1226,Solomon Islands,1930,0,Oceania
+1227,Solomon Islands,1932,0,Oceania
+1228,Solomon Islands,1934,0,Oceania
+1229,Solomon Islands,1936,0,Oceania
+1230,Solomon Islands,1938,0,Oceania
+1231,Solomon Islands,1940,0,Oceania
+1232,Spain,1878,0,Southern Europe
+1233,Spain,1880,0,Southern Europe
+1234,Spain,1882,0,Southern Europe
+1235,Spain,1884,0,Southern Europe
+1236,Spain,1886,0,Southern Europe
+1237,Spain,1888,0,Southern Europe
+1238,Spain,1890,0,Southern Europe
+1239,Spain,1892,0,Southern Europe
+1240,Spain,1896,1,Southern Europe
+1241,Spain,1900,0,Southern Europe
+1242,Spain,1902,0,Southern Europe
+1243,Spain,1906,0,Southern Europe
+1244,Spain,1908,0,Southern Europe
+1245,Spain,1912,0,Southern Europe
+1246,Spain,1914,0,Southern Europe
+1247,Spain,1916,0,Southern Europe
+1248,Spain,1918,0,Southern Europe
+1249,Spain,1920,1,Southern Europe
+1250,Spain,1922,1,Southern Europe
+1251,Spain,1924,0,Southern Europe
+1252,Spain,1926,0,Southern Europe
+1253,Spain,1928,0,Southern Europe
+1254,Spain,1930,1,Southern Europe
+1255,Spain,1932,0,Southern Europe
+1256,Spain,1934,0,Southern Europe
+1257,Spain,1936,0,Southern Europe
+1258,Spain,1938,1,Southern Europe
+1259,Spain,1940,0,Southern Europe
+1260,Sweden,1878,0,Northern Europe
+1261,Sweden,1880,0,Northern Europe
+1262,Sweden,1882,1,Northern Europe
+1263,Sweden,1884,1,Northern Europe
+1264,Sweden,1886,1,Northern Europe
+1265,Sweden,1888,6,Northern Europe
+1266,Sweden,1890,2,Northern Europe
+1267,Sweden,1892,5,Northern Europe
+1268,Sweden,1896,12,Northern Europe
+1269,Sweden,1900,8,Northern Europe
+1270,Sweden,1902,4,Northern Europe
+1271,Sweden,1906,2,Northern Europe
+1272,Sweden,1908,6,Northern Europe
+1273,Sweden,1912,4,Northern Europe
+1274,Sweden,1914,4,Northern Europe
+1275,Sweden,1916,4,Northern Europe
+1276,Sweden,1918,1,Northern Europe
+1277,Sweden,1920,0,Northern Europe
+1278,Sweden,1922,1,Northern Europe
+1279,Sweden,1924,1,Northern Europe
+1280,Sweden,1926,0,Northern Europe
+1281,Sweden,1928,0,Northern Europe
+1282,Sweden,1930,6,Northern Europe
+1283,Sweden,1932,4,Northern Europe
+1284,Sweden,1934,1,Northern Europe
+1285,Sweden,1936,1,Northern Europe
+1286,Sweden,1938,2,Northern Europe
+1287,Sweden,1940,1,Northern Europe
+1288,Switzerland,1878,0,Western Europe
+1289,Switzerland,1880,0,Western Europe
+1290,Switzerland,1882,1,Western Europe
+1291,Switzerland,1884,0,Western Europe
+1292,Switzerland,1886,1,Western Europe
+1293,Switzerland,1888,0,Western Europe
+1294,Switzerland,1890,1,Western Europe
+1295,Switzerland,1892,2,Western Europe
+1296,Switzerland,1896,4,Western Europe
+1297,Switzerland,1900,4,Western Europe
+1298,Switzerland,1902,2,Western Europe
+1299,Switzerland,1906,1,Western Europe
+1300,Switzerland,1908,0,Western Europe
+1301,Switzerland,1912,1,Western Europe
+1302,Switzerland,1914,1,Western Europe
+1303,Switzerland,1916,1,Western Europe
+1304,Switzerland,1918,1,Western Europe
+1305,Switzerland,1920,1,Western Europe
+1306,Switzerland,1922,0,Western Europe
+1307,Switzerland,1924,1,Western Europe
+1308,Switzerland,1926,3,Western Europe
+1309,Switzerland,1928,0,Western Europe
+1310,Switzerland,1930,0,Western Europe
+1311,Switzerland,1932,0,Western Europe
+1312,Switzerland,1934,1,Western Europe
+1313,Switzerland,1936,0,Western Europe
+1314,Switzerland,1938,0,Western Europe
+1315,Switzerland,1940,0,Western Europe
+1316,Syria,1878,0,Africa/Middle East
+1317,Syria,1880,0,Africa/Middle East
+1318,Syria,1882,0,Africa/Middle East
+1319,Syria,1884,0,Africa/Middle East
+1320,Syria,1886,0,Africa/Middle East
+1321,Syria,1888,0,Africa/Middle East
+1322,Syria,1890,0,Africa/Middle East
+1323,Syria,1892,0,Africa/Middle East
+1324,Syria,1896,0,Africa/Middle East
+1325,Syria,1900,0,Africa/Middle East
+1326,Syria,1902,1,Africa/Middle East
+1327,Syria,1906,0,Africa/Middle East
+1328,Syria,1908,0,Africa/Middle East
+1329,Syria,1912,0,Africa/Middle East
+1330,Syria,1914,0,Africa/Middle East
+1331,Syria,1916,0,Africa/Middle East
+1332,Syria,1918,0,Africa/Middle East
+1333,Syria,1920,0,Africa/Middle East
+1334,Syria,1922,0,Africa/Middle East
+1335,Syria,1924,0,Africa/Middle East
+1336,Syria,1926,0,Africa/Middle East
+1337,Syria,1928,0,Africa/Middle East
+1338,Syria,1930,0,Africa/Middle East
+1339,Syria,1932,0,Africa/Middle East
+1340,Syria,1934,0,Africa/Middle East
+1341,Syria,1936,0,Africa/Middle East
+1342,Syria,1938,0,Africa/Middle East
+1343,Syria,1940,0,Africa/Middle East
+1344,Turkey,1878,0,Africa/Middle East
+1345,Turkey,1880,0,Africa/Middle East
+1346,Turkey,1882,0,Africa/Middle East
+1347,Turkey,1884,0,Africa/Middle East
+1348,Turkey,1886,0,Africa/Middle East
+1349,Turkey,1888,0,Africa/Middle East
+1350,Turkey,1890,0,Africa/Middle East
+1351,Turkey,1892,0,Africa/Middle East
+1352,Turkey,1896,0,Africa/Middle East
+1353,Turkey,1900,0,Africa/Middle East
+1354,Turkey,1902,0,Africa/Middle East
+1355,Turkey,1906,0,Africa/Middle East
+1356,Turkey,1908,1,Africa/Middle East
+1357,Turkey,1912,0,Africa/Middle East
+1358,Turkey,1914,0,Africa/Middle East
+1359,Turkey,1916,0,Africa/Middle East
+1360,Turkey,1918,0,Africa/Middle East
+1361,Turkey,1920,0,Africa/Middle East
+1362,Turkey,1922,0,Africa/Middle East
+1363,Turkey,1924,0,Africa/Middle East
+1364,Turkey,1926,1,Africa/Middle East
+1365,Turkey,1928,1,Africa/Middle East
+1366,Turkey,1930,0,Africa/Middle East
+1367,Turkey,1932,1,Africa/Middle East
+1368,Turkey,1934,1,Africa/Middle East
+1369,Turkey,1936,0,Africa/Middle East
+1370,Turkey,1938,0,Africa/Middle East
+1371,Turkey,1940,0,Africa/Middle East
+1372,United Kingdom,1878,8,Western Europe
+1373,United Kingdom,1880,13,Western Europe
+1374,United Kingdom,1882,14,Western Europe
+1375,United Kingdom,1884,17,Western Europe
+1376,United Kingdom,1886,16,Western Europe
+1377,United Kingdom,1888,21,Western Europe
+1378,United Kingdom,1890,29,Western Europe
+1379,United Kingdom,1892,37,Western Europe
+1380,United Kingdom,1896,24,Western Europe
+1381,United Kingdom,1900,28,Western Europe
+1382,United Kingdom,1902,12,Western Europe
+1383,United Kingdom,1906,11,Western Europe
+1384,United Kingdom,1908,15,Western Europe
+1385,United Kingdom,1912,14,Western Europe
+1386,United Kingdom,1914,19,Western Europe
+1387,United Kingdom,1916,12,Western Europe
+1388,United Kingdom,1918,10,Western Europe
+1389,United Kingdom,1920,5,Western Europe
+1390,United Kingdom,1922,11,Western Europe
+1391,United Kingdom,1924,6,Western Europe
+1392,United Kingdom,1926,14,Western Europe
+1393,United Kingdom,1928,8,Western Europe
+1394,United Kingdom,1930,9,Western Europe
+1395,United Kingdom,1932,7,Western Europe
+1396,United Kingdom,1934,1,Western Europe
+1397,United Kingdom,1936,3,Western Europe
+1398,United Kingdom,1938,3,Western Europe
+1399,United Kingdom,1940,5,Western Europe
