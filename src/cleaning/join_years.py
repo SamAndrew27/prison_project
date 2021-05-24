@@ -37,6 +37,8 @@ def load_all_years(save=False):
     df_all['assault'] = df_all['crime'].apply(lambda x: assault(x))
     df_all['all_larceny'] = df_all['crime'].apply(lambda x: all_larceny(x))
     df_all['all_manslaughter'] = df_all['crime'].apply(lambda x: all_manslaughter(x))
+    df_all['foreign_and_race_combined'] = df_all.apply(lambda row: nativity_race_combined(row), axis =1)
+
 
 
     if save:
@@ -44,6 +46,12 @@ def load_all_years(save=False):
     else:
         return df_all        
 
+
+def nativity_race_combined(row):
+    if row['foreign'] == 1:
+        return 'Foreign'
+    else:
+        return row['race']
 
 def avg_term(x):
     if 'Life' in x or 'Death' in x or '?' in x:
@@ -109,9 +117,9 @@ def all_larceny(x):
 
 def foreign(x): # electing to count 'Indian Territory' as domestic 
     if x == 'United States' or x == 'Indian Territory':
-        return 1
-    else:
         return 0
+    else:
+        return 1
 
 
 def fix_nativity(x):
@@ -287,7 +295,7 @@ def crime_counts():
     return result 
 
 if __name__=="__main__":
-    df = load_all_years(True)
+    load_all_years(True)
     # df = df[df['nativity'] == 'Black']
     # print(df.race.unique())
     # print(df.nativity.unique())
@@ -304,5 +312,6 @@ if __name__=="__main__":
     #         if isinstance(term, str):
     #             result.add(term)
     # print(result)
-    print(df['all_larceny'].value_counts())
-    # load_all_years(True)
+    # print(df['all_larceny'].value_counts())
+    df = load_all_years()
+    print(df.head())

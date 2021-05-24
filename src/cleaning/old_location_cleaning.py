@@ -175,14 +175,12 @@ def create_grouped_df(groups=4, cutoff=500, cutoff_column = False,  save = False
         return result 
 
 
-    
-
+            
 
 
 if __name__=="__main__":
 
 
-
     # df = create_grouped_df(4, 5000)
 
-    create_grouped_df(4, 200, True, '4_year_groupings_no_cutoff')
+    # create_grouped_df(4, 200, True, '4_year_groupings_no_cutoff')
