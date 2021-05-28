@@ -1,0 +1,62 @@
+Category,Crime
+Violent,Assault w/ Intent to Kill
+Violent,Assault w/ Intent to Murder
+Violent,Assisting to Kill
+Violent,Assisting to Murder
+Violent,Attempted Murder
+Violent,Conspiring to Murder
+Violent,Murder
+Violent,Administering Poison
+Violent,Assault
+Violent,Felonious Assault
+Violent,False Imp. (Imprisonement)
+Violent,Assault w/ Intent to Rob
+Violent,Manslaughter
+Violent,Voluntary Manslaughter
+Violent,Kidnapping
+Violent,Mayhem
+Violent Sexual,Assault to Ravish
+Violent Sexual,Assault w/ Intent to Rape
+Violent Sexual,Rape
+Moral,Using Instruments with Intent to Commit Abortion
+Moral,Sodomy
+Moral,Abortion
+Moral,Bigamy
+Moral,Crime Against Nature
+Moral,Incest
+Moral,Buggary
+Property,Arson
+Property,Attempt to Rob
+Property,Attempted Arson
+Property,Attempted Robbery
+Property,Burglary
+Property,Defacing Brands
+Property,Effacing and Defacing Brands
+Property,Having Tools with Intent to Commit Burglary
+Property,Having Tools with Intent to Enter Building
+Property,Larceny
+Property,Larceny as Bailee
+Property,Larceny from Person
+Property,Receiving Stolen Goods
+Property,Stealing / Killing Cattle
+Property,Stealing Stock
+Property,Killing Cattle
+Property,Killing Stock
+Property,Robbery
+Property,"Having Burgular ToolsFelony, Branding Stock"
+Property,Malicious Mischief
+Property,Grand Larceny
+Property,Obstructing of Railroad Track
+Property,Train Wrecking
+Property,Maliciously Destroying Check
+Deceit,Cheat
+Deceit,Confidence Games
+Deceit,Counterfeiting
+Deceit,Embezzlement
+Deceit,False Pretenses
+Deceit,Forgery
+Deceit,Having Ficticious Checks
+Deceit,Illegal Voting
+Deceit,Perjury
+Deceit,Uttering
+Deceit,Uttering Forgery

@@ -6,15 +6,15 @@ import pandas as pd
 def load_location_data_and_clean(states = True, modernized=True, save=False):
     if states:
         df = pd.read_csv('../../data/original_data/state_data.csv')
-        save_local = '../../data/state_data_cleaned.csv'
+        save_local = '../../data/state_data_cleaned_final.csv'
     else: 
         if modernized:
             df = pd.read_csv('../../data/original_data/foreign_data_modernized.csv')
-            save_local = '../../data/foreign_data_modernized_cleaned.csv'
+            save_local = '../../data/foreign_data_modernized_cleaned_final.csv'
 
         else:
             df = pd.read_csv('../../data/original_data/foreign_data.csv')
-            save_local = '../../data/foreign_data_cleaned.csv'
+            save_local = '../../data/foreign_data_cleaned_final.csv'
 
 
 
@@ -64,6 +64,8 @@ def regional_apply(x):
         return 'Rocky Mountain (US)'
     elif x in ['California', 'Nevada', 'Oregon', 'Washington']:
         return 'Far West (US)'
+    elif x in ['Alaska', 'Hawaii']:
+        return 'Alaska & Hawaii'
     elif x in ['Brazil', 'Argentina']:
         return 'South America'
     elif x in ['Mexico', 'Nicaragua', 'Costa Rica']: # really mexico/central america --- combine with Caribbean? 
@@ -74,7 +76,7 @@ def regional_apply(x):
         return 'Africa/Middle East'
     elif x in ['Australia', 'New Zealand', 'Solomon Islands']:
         return 'Oceania'
-    elif x in ['Indonesia', 'Philippines', 'Thailand', 'India', 'China', 'South Korea', 'Japan', 'Hawaii']:
+    elif x in ['Indonesia', 'Philippines', 'Thailand', 'India', 'China', 'South Korea', 'Japan']:
         return 'Asia'
     elif x in ['Portugal', 'Spain', 'Italy', 'Greece']:
         return 'Southern Europe'
@@ -84,9 +86,8 @@ def regional_apply(x):
         return 'Northern Europe'
     elif x in ['Poland','Czech Republic','Croatia', 'Serbia', 'Albania', 'Montenegro', 'Bulgaria', 'Romania', 'Hungary', 'Russia']:
         return 'Central & Eastern Europe'
-    elif x in  ['Canada', 'Alaska']:
-        return 'Canada & Alaska'
-
+    elif x == 'Canada':
+        return x
     
 
     # Use the below link for European regions
@@ -182,8 +183,11 @@ def create_grouped_df(groups=4, cutoff=500, cutoff_column = False,  save = False
 
 
 if __name__=="__main__":
+    # def load_location_data_and_clean(states = True, modernized=True, save=False):
+
     # load_location_data_and_clean(False, True, True)
     # load_location_data_and_clean(True, True, True)
+    load_location_data_and_clean(False, False, True)
 
 
 
@@ -198,7 +202,7 @@ if __name__=="__main__":
     # na = both[pd.isnull(both['Region'])]
     # print(na.head())
     # print(na.Location.unique())
-    df = regional_df()
-    print(df.info())
-    print(df.head())
-    regional_df(True)
+    # df = regional_df()
+    # print(df.info())
+    # print(df.head())
+    # regional_df(True)

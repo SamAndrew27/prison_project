@@ -1,0 +1,66 @@
+,crime,category,number of incidents
+0,Cheat,Deceit,2
+1,Confidence Games,Deceit,5
+2,Counterfeiting,Deceit,6
+3,Embezzlement,Deceit,15
+4,False Pretenses,Deceit,25
+5,Forgery,Deceit,219
+6,Having Ficticious Checks,Deceit,1
+7,Illegal Voting,Deceit,1
+8,Perjury,Deceit,4
+9,Uttering,Deceit,19
+10,Uttering Forgery,Deceit,11
+11,Using Instruments with Intent to Commit Abortion,Moral,1
+12,Sodomy,Moral,3
+13,Abortion,Moral,1
+14,Bigamy,Moral,7
+15,Crime Against Nature,Moral,5
+16,Incest,Moral,7
+17,Buggary,Moral,3
+18,Arson,Property,9
+19,Attempt to Rob,Property,1
+20,Attempted Arson,Property,1
+21,Attempted Robbery,Property,3
+22,Burglary,Property,578
+23,Defacing Brands,Property,1
+24,Effacing and Defacing Brands,Property,1
+25,Having Tools with Intent to Commit Burglary,Property,1
+26,Having Tools with Intent to Enter Building,Property,1
+27,Larceny,Property,1075
+28,Larceny as Bailee,Property,18
+29,Larceny from Person,Property,15
+30,Receiving Stolen Goods,Property,47
+31,Stealing / Killing Cattle,Property,1
+32,Stealing Stock,Property,1
+33,Killing Cattle,Property,1
+34,Killing Stock,Property,2
+35,Robbery,Property,263
+36,Having Burgular Tools,Property,1
+37,"Felony, Branding Stock",Property,1
+38,Malicious Mischief,Property,4
+39,Grand Larceny,Property,111
+40,Obstructing of Railroad Track,Property,1
+41,Train Wrecking,Property,1
+42,Maliciously Destroying Check,Property,1
+43,Assault w/ Intent to Kill,Violent,60
+44,Assault w/ Intent to Murder,Violent,100
+45,Assisting to Kill,Violent,1
+46,Assisting to Murder,Violent,1
+47,Attempted Murder,Violent,1
+48,Conspiring to Murder,Violent,2
+49,Murder,Violent,399
+50,Administering Poison,Violent,1
+51,Assault,Violent,13
+52,Felonious Assault,Violent,4
+53,False Imp,Violent,1
+54,Assault w/ Intent to Rob,Violent,54
+55,Manslaughter,Violent,56
+56,Voluntary Manslaughter,Violent,6
+57,Kidnapping,Violent,3
+58,Mayhem,Violent,6
+59,Assault w/ Intent to Rape,Violent Sexual,50
+60,Assault to Ravish,Violent Sexual,1
+61,Rape,Violent Sexual,54
+62,Rescue of Prisoner,Uncategorized,2
+63,Conspiracy,Uncategorized,2
+64,Felony,Uncategorized,1

@@ -24,6 +24,7 @@ def load_all_years(save=False):
     df_all['moral'] = df_all['crime'].apply(lambda x: moral_apply(x))
     df_all['property'] = df_all['crime'].apply(lambda x: property_apply(x))
     df_all['deceit'] = df_all['crime'].apply(lambda x: deceit_apply(x))
+    df_all['uncategorized'] = df_all['crime'].apply(lambda x: uncategorized_apply(x))
     df_all['life_sentence'] = df_all['max_term'].apply(lambda x: life_sentence(x))
     df_all['death_sentence'] = df_all['max_term'].apply(lambda x: death_sentence(x))
     df_all['life_or_death_sentence'] = df_all['max_term'].apply(lambda x: life_or_death_sentence(x))
@@ -38,14 +39,21 @@ def load_all_years(save=False):
     df_all['all_larceny'] = df_all['crime'].apply(lambda x: all_larceny(x))
     df_all['all_manslaughter'] = df_all['crime'].apply(lambda x: all_manslaughter(x))
     df_all['foreign_and_race_combined'] = df_all.apply(lambda row: nativity_race_combined(row), axis =1)
+    df_all['nativity_race_with_countries'] = df_all.apply(lambda row: nativity_race_with_countries(row), axis =1)
 
 
 
     if save:
-        df_all.to_csv('../../data/all_data.csv')
+        df_all.to_csv('../../data/confined_data_final.csv')
     else:
         return df_all        
 
+
+def nativity_race_with_countries(row):
+    if row['nativity'] != 'United States':
+        return row['nativity']
+    else:
+        return row['race']
 
 def nativity_race_combined(row):
     if row['race'] == 'White':
@@ -151,7 +159,7 @@ def life_or_death_sentence(x):
 
 
 def violent_apply(x):
-    m_lst = ['Assault w/ Intent to Kill', 
+    v_lst = ['Assault w/ Intent to Kill', 
              'Assault w/ Intent to Murder',
              'Assisting to Kill',
              'Assisting to Murder',
@@ -164,20 +172,20 @@ def violent_apply(x):
              'False Imp', # this is probably kidnapping 
              'Assault w/ Intent to Rob',
              'Manslaughter',
-             'Voluntary Manslaughter'
+             'Voluntary Manslaughter',
              'Kidnapping',
              'Mayhem']
     for elem in x:
-        if elem in m_lst:
+        if elem in v_lst:
             return 1
     return 0 
 
 def violent_sexual_apply(x):
-    m_lst = ['Assault w/ Intent to Rape',
-             'Assault to Ravish' # make sure this is spelled correctly 
+    v_lst = ['Assault w/ Intent to Rape',
+             'Assault to Ravish', # make sure this is spelled correctly 
              'Rape']
     for elem in x:
-        if elem in m_lst:
+        if elem in v_lst:
             return 1
     return 0 
 
@@ -196,7 +204,7 @@ def moral_apply(x):
 
 
 def property_apply(x):
-    m_lst = ['Arson',
+    p_lst = ['Arson',
              'Attempt to Rob',
              'Attempted Arson',
              'Attempted Robbery', 
@@ -214,7 +222,7 @@ def property_apply(x):
              'Killing Cattle',
              'Killing Stock',
              'Robbery',
-             'Having Burgular Tools'
+             'Having Burgular Tools',
              'Felony, Branding Stock',
              'Malicious Mischief',
              'Grand Larceny',
@@ -222,12 +230,12 @@ def property_apply(x):
              'Train Wrecking',
              'Maliciously Destroying Check']
     for elem in x:
-        if elem in m_lst:
+        if elem in p_lst:
             return 1
     return 0 
 
 def deceit_apply(x): # previously included 'Conspiracy' - Leaving it out entirely for now 
-    m_lst = ['Cheat',
+    d_lst = ['Cheat',
             'Confidence Games',
             'Counterfeiting',
             'Embezzlement',
@@ -239,9 +247,19 @@ def deceit_apply(x): # previously included 'Conspiracy' - Leaving it out entirel
             'Uttering',
             'Uttering Forgery']
     for elem in x:
-        if elem in m_lst:
+        if elem in d_lst:
             return 1
     return 0 
+
+def uncategorized_apply(x):
+    uncategorized_lst = ['Rescue of Prisoner',
+                         'Conspiracy',
+                         'Felony']
+    for elem in x:
+        if elem in uncategorized_lst:
+            return 1
+    return 0 
+
 
 def max_apply(x):
     if len(x) == 1:
@@ -259,30 +277,6 @@ def avg_apply(x):
         else:
             return (x[0] + x[1]) / 2
 
-
-
-
-
-def death_life(save=False):
-    df = load_all_years()
-    life_df = df[df['max_term'] == 'Life']
-    death_df = df[df['max_term'] == 'Death']
-    both = pd.concat([life_df, death_df])
-    if save:
-        both.to_csv('../../data/life_death.csv')
-    else:
-        return both
-
-def no_death_life(save=False):
-    df = load_all_years()
-    no_life_df = df[df['max_term'] != 'Life']
-    no_death_df = df[df['max_term'] != 'Death']
-    both = pd.concat([no_life_df, no_death_df])
-    if save:
-        both.to_csv('../../data/no_life_death.csv')
-    else:
-        return both
-
 def crime_counts():
     df = load_all_years()
     result = {}
@@ -297,7 +291,16 @@ def crime_counts():
     return result 
 
 if __name__=="__main__":
+    df = load_all_years()
     load_all_years(True)
+    # print(df.iloc[1410:1415])
+    # print(df.info())
+    # print(df.nativity_race_with_countries.value_counts())
+    # load_all_years(True)
+    # for yr in df.year.unique():
+    #     yr_df = df[df.year == yr]
+    #     print(yr)
+    #     print(yr_df.race.value_counts())
     # df = df[df['nativity'] == 'Black']
     # print(df.race.unique())
     # print(df.nativity.unique())
@@ -317,3 +320,16 @@ if __name__=="__main__":
     # print(df['all_larceny'].value_counts())
     # df = load_all_years()
     # print(df.tail())
+    # m_lst = ['Cheat',
+    #         'Confidence Games',
+    #         'Counterfeiting',
+    #         'Embezzlement',
+    #         'False Pretenses',
+    #         'Forgery',
+    #         'Having Ficticious Checks',
+    #         'Illegal Voting',
+    #         'Perjury',
+    #         'Uttering',
+    #         'Uttering Forgery']
+    # for elem in m_lst:
+    #     print(elem)

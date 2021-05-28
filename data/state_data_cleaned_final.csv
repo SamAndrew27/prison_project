@@ -27,34 +27,34 @@
 25,Alabama,1936,4,Southeast (US)
 26,Alabama,1938,6,Southeast (US)
 27,Alabama,1940,6,Southeast (US)
-28,Alaska,1878,0,Canada & Alaska
-29,Alaska,1880,0,Canada & Alaska
-30,Alaska,1882,0,Canada & Alaska
-31,Alaska,1884,0,Canada & Alaska
-32,Alaska,1886,0,Canada & Alaska
-33,Alaska,1888,0,Canada & Alaska
-34,Alaska,1890,0,Canada & Alaska
-35,Alaska,1892,0,Canada & Alaska
-36,Alaska,1896,0,Canada & Alaska
-37,Alaska,1900,0,Canada & Alaska
-38,Alaska,1902,0,Canada & Alaska
-39,Alaska,1906,0,Canada & Alaska
-40,Alaska,1908,0,Canada & Alaska
-41,Alaska,1912,0,Canada & Alaska
-42,Alaska,1914,0,Canada & Alaska
-43,Alaska,1916,1,Canada & Alaska
-44,Alaska,1918,0,Canada & Alaska
-45,Alaska,1920,0,Canada & Alaska
-46,Alaska,1922,1,Canada & Alaska
-47,Alaska,1924,0,Canada & Alaska
-48,Alaska,1926,0,Canada & Alaska
-49,Alaska,1928,0,Canada & Alaska
-50,Alaska,1930,0,Canada & Alaska
-51,Alaska,1932,0,Canada & Alaska
-52,Alaska,1934,0,Canada & Alaska
-53,Alaska,1936,0,Canada & Alaska
-54,Alaska,1938,0,Canada & Alaska
-55,Alaska,1940,0,Canada & Alaska
+28,Alaska,1878,0,Alaska & Hawaii
+29,Alaska,1880,0,Alaska & Hawaii
+30,Alaska,1882,0,Alaska & Hawaii
+31,Alaska,1884,0,Alaska & Hawaii
+32,Alaska,1886,0,Alaska & Hawaii
+33,Alaska,1888,0,Alaska & Hawaii
+34,Alaska,1890,0,Alaska & Hawaii
+35,Alaska,1892,0,Alaska & Hawaii
+36,Alaska,1896,0,Alaska & Hawaii
+37,Alaska,1900,0,Alaska & Hawaii
+38,Alaska,1902,0,Alaska & Hawaii
+39,Alaska,1906,0,Alaska & Hawaii
+40,Alaska,1908,0,Alaska & Hawaii
+41,Alaska,1912,0,Alaska & Hawaii
+42,Alaska,1914,0,Alaska & Hawaii
+43,Alaska,1916,1,Alaska & Hawaii
+44,Alaska,1918,0,Alaska & Hawaii
+45,Alaska,1920,0,Alaska & Hawaii
+46,Alaska,1922,1,Alaska & Hawaii
+47,Alaska,1924,0,Alaska & Hawaii
+48,Alaska,1926,0,Alaska & Hawaii
+49,Alaska,1928,0,Alaska & Hawaii
+50,Alaska,1930,0,Alaska & Hawaii
+51,Alaska,1932,0,Alaska & Hawaii
+52,Alaska,1934,0,Alaska & Hawaii
+53,Alaska,1936,0,Alaska & Hawaii
+54,Alaska,1938,0,Alaska & Hawaii
+55,Alaska,1940,0,Alaska & Hawaii
 56,Arizona,1878,0,Southwest (US)
 57,Arizona,1880,0,Southwest (US)
 58,Arizona,1882,1,Southwest (US)
@@ -307,34 +307,34 @@
 305,Georgia,1936,5,Southeast (US)
 306,Georgia,1938,5,Southeast (US)
 307,Georgia,1940,3,Southeast (US)
-308,Hawaii,1878,0,Asia
-309,Hawaii,1880,0,Asia
-310,Hawaii,1882,0,Asia
-311,Hawaii,1884,0,Asia
-312,Hawaii,1886,0,Asia
-313,Hawaii,1888,0,Asia
-314,Hawaii,1890,0,Asia
-315,Hawaii,1892,0,Asia
-316,Hawaii,1896,0,Asia
-317,Hawaii,1900,0,Asia
-318,Hawaii,1902,0,Asia
-319,Hawaii,1906,0,Asia
-320,Hawaii,1908,0,Asia
-321,Hawaii,1912,1,Asia
-322,Hawaii,1914,1,Asia
-323,Hawaii,1916,0,Asia
-324,Hawaii,1918,0,Asia
-325,Hawaii,1920,0,Asia
-326,Hawaii,1922,0,Asia
-327,Hawaii,1924,1,Asia
-328,Hawaii,1926,0,Asia
-329,Hawaii,1928,0,Asia
-330,Hawaii,1930,0,Asia
-331,Hawaii,1932,1,Asia
-332,Hawaii,1934,1,Asia
-333,Hawaii,1936,0,Asia
-334,Hawaii,1938,0,Asia
-335,Hawaii,1940,0,Asia
+308,Hawaii,1878,0,Alaska & Hawaii
+309,Hawaii,1880,0,Alaska & Hawaii
+310,Hawaii,1882,0,Alaska & Hawaii
+311,Hawaii,1884,0,Alaska & Hawaii
+312,Hawaii,1886,0,Alaska & Hawaii
+313,Hawaii,1888,0,Alaska & Hawaii
+314,Hawaii,1890,0,Alaska & Hawaii
+315,Hawaii,1892,0,Alaska & Hawaii
+316,Hawaii,1896,0,Alaska & Hawaii
+317,Hawaii,1900,0,Alaska & Hawaii
+318,Hawaii,1902,0,Alaska & Hawaii
+319,Hawaii,1906,0,Alaska & Hawaii
+320,Hawaii,1908,0,Alaska & Hawaii
+321,Hawaii,1912,1,Alaska & Hawaii
+322,Hawaii,1914,1,Alaska & Hawaii
+323,Hawaii,1916,0,Alaska & Hawaii
+324,Hawaii,1918,0,Alaska & Hawaii
+325,Hawaii,1920,0,Alaska & Hawaii
+326,Hawaii,1922,0,Alaska & Hawaii
+327,Hawaii,1924,1,Alaska & Hawaii
+328,Hawaii,1926,0,Alaska & Hawaii
+329,Hawaii,1928,0,Alaska & Hawaii
+330,Hawaii,1930,0,Alaska & Hawaii
+331,Hawaii,1932,1,Alaska & Hawaii
+332,Hawaii,1934,1,Alaska & Hawaii
+333,Hawaii,1936,0,Alaska & Hawaii
+334,Hawaii,1938,0,Alaska & Hawaii
+335,Hawaii,1940,0,Alaska & Hawaii
 336,Idaho,1878,0,Rocky Mountain (US)
 337,Idaho,1880,0,Rocky Mountain (US)
 338,Idaho,1882,0,Rocky Mountain (US)
