@@ -87,26 +87,34 @@ def crime_categories(save=False):
     for cat, crime in crime_category_dic.items():
         idx_length += len(crime)
     
+    crime_nativity_race = list(df['foreign_and_race_combined'].unique())
 
           
-    result = pd.DataFrame(columns=['crime', 'category', 'number of incidents'], index=list(range(idx_length)))
+    result = pd.DataFrame(columns=['crime', 'category', 'race & nativity', 'number of incidents'], index=list(range(idx_length * len(crime_nativity_race))))
+
 
     crime_dic = {}
 
 
-    
-    for crime_lst in df['crime']:
-        for crime in crime_lst:
-            if crime in crime_dic:
-                crime_dic[crime] += 1
+    for idx, row in df.iterrows():
+        nat_race = row['foreign_and_race_combined']
+        for crime in row['crime']:
+            crime_nr = f'{crime}:{nat_race}'
+            if crime_nr in crime_dic:
+                crime_dic[crime_nr] += 1
             else:
-                crime_dic[crime] = 1
+                crime_dic[crime_nr] = 1
     
     idx = 0
     for category, crime_lst in crime_category_dic.items():
         for crime in crime_lst:
-            result.iloc[idx] = [crime, category, crime_dic[crime]]
-            idx += 1
+            for nr in crime_nativity_race:
+                crime_nr = f'{crime}:{nr}'
+                if crime_nr in crime_dic:
+                    result.iloc[idx] = [crime, category, nr, crime_dic[crime_nr]]
+                else:
+                    result.iloc[idx] = [crime, category, nr,  0]
+                idx += 1
     if save:
         result.to_csv('../../data/crime_categories.csv')
     else:
@@ -115,7 +123,12 @@ def crime_categories(save=False):
 
 
 if __name__=="__main__":
-    # dic = crime_categories()
-    # print(dic)
-    crime_categories(True)
+    # df = crime_categories()
+    # print(df.head(50))
+    # print(df.info())
+    # crime_categories(True)
+    # df = load_all_years()
+    # print(df.info())
+    # print(df.foreign_and_race_combined.unique())
 
+    crime_categories(True)

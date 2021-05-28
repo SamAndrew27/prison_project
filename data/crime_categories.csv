@@ -1,66 +1,456 @@
-,crime,category,number of incidents
-0,Cheat,Deceit,2
-1,Confidence Games,Deceit,5
-2,Counterfeiting,Deceit,6
-3,Embezzlement,Deceit,15
-4,False Pretenses,Deceit,25
-5,Forgery,Deceit,219
-6,Having Ficticious Checks,Deceit,1
-7,Illegal Voting,Deceit,1
-8,Perjury,Deceit,4
-9,Uttering,Deceit,19
-10,Uttering Forgery,Deceit,11
-11,Using Instruments with Intent to Commit Abortion,Moral,1
-12,Sodomy,Moral,3
-13,Abortion,Moral,1
-14,Bigamy,Moral,7
-15,Crime Against Nature,Moral,5
-16,Incest,Moral,7
-17,Buggary,Moral,3
-18,Arson,Property,9
-19,Attempt to Rob,Property,1
-20,Attempted Arson,Property,1
-21,Attempted Robbery,Property,3
-22,Burglary,Property,578
-23,Defacing Brands,Property,1
-24,Effacing and Defacing Brands,Property,1
-25,Having Tools with Intent to Commit Burglary,Property,1
-26,Having Tools with Intent to Enter Building,Property,1
-27,Larceny,Property,1075
-28,Larceny as Bailee,Property,18
-29,Larceny from Person,Property,15
-30,Receiving Stolen Goods,Property,47
-31,Stealing / Killing Cattle,Property,1
-32,Stealing Stock,Property,1
-33,Killing Cattle,Property,1
-34,Killing Stock,Property,2
-35,Robbery,Property,263
-36,Having Burgular Tools,Property,1
-37,"Felony, Branding Stock",Property,1
-38,Malicious Mischief,Property,4
-39,Grand Larceny,Property,111
-40,Obstructing of Railroad Track,Property,1
-41,Train Wrecking,Property,1
-42,Maliciously Destroying Check,Property,1
-43,Assault w/ Intent to Kill,Violent,60
-44,Assault w/ Intent to Murder,Violent,100
-45,Assisting to Kill,Violent,1
-46,Assisting to Murder,Violent,1
-47,Attempted Murder,Violent,1
-48,Conspiring to Murder,Violent,2
-49,Murder,Violent,399
-50,Administering Poison,Violent,1
-51,Assault,Violent,13
-52,Felonious Assault,Violent,4
-53,False Imp,Violent,1
-54,Assault w/ Intent to Rob,Violent,54
-55,Manslaughter,Violent,56
-56,Voluntary Manslaughter,Violent,6
-57,Kidnapping,Violent,3
-58,Mayhem,Violent,6
-59,Assault w/ Intent to Rape,Violent Sexual,50
-60,Assault to Ravish,Violent Sexual,1
-61,Rape,Violent Sexual,54
-62,Rescue of Prisoner,Uncategorized,2
-63,Conspiracy,Uncategorized,2
-64,Felony,Uncategorized,1
+,crime,category,race & nativity,number of incidents
+0,Cheat,Deceit,White,1
+1,Cheat,Deceit,Foreign,1
+2,Cheat,Deceit,Mexican,0
+3,Cheat,Deceit,Black,0
+4,Cheat,Deceit,Indian,0
+5,Cheat,Deceit,Asian,0
+6,Cheat,Deceit,?,0
+7,Confidence Games,Deceit,White,5
+8,Confidence Games,Deceit,Foreign,0
+9,Confidence Games,Deceit,Mexican,0
+10,Confidence Games,Deceit,Black,0
+11,Confidence Games,Deceit,Indian,0
+12,Confidence Games,Deceit,Asian,0
+13,Confidence Games,Deceit,?,0
+14,Counterfeiting,Deceit,White,3
+15,Counterfeiting,Deceit,Foreign,3
+16,Counterfeiting,Deceit,Mexican,0
+17,Counterfeiting,Deceit,Black,0
+18,Counterfeiting,Deceit,Indian,0
+19,Counterfeiting,Deceit,Asian,0
+20,Counterfeiting,Deceit,?,0
+21,Embezzlement,Deceit,White,12
+22,Embezzlement,Deceit,Foreign,3
+23,Embezzlement,Deceit,Mexican,0
+24,Embezzlement,Deceit,Black,0
+25,Embezzlement,Deceit,Indian,0
+26,Embezzlement,Deceit,Asian,0
+27,Embezzlement,Deceit,?,0
+28,False Pretenses,Deceit,White,17
+29,False Pretenses,Deceit,Foreign,4
+30,False Pretenses,Deceit,Mexican,0
+31,False Pretenses,Deceit,Black,4
+32,False Pretenses,Deceit,Indian,0
+33,False Pretenses,Deceit,Asian,0
+34,False Pretenses,Deceit,?,0
+35,Forgery,Deceit,White,150
+36,Forgery,Deceit,Foreign,62
+37,Forgery,Deceit,Mexican,2
+38,Forgery,Deceit,Black,4
+39,Forgery,Deceit,Indian,1
+40,Forgery,Deceit,Asian,0
+41,Forgery,Deceit,?,0
+42,Having Ficticious Checks,Deceit,White,1
+43,Having Ficticious Checks,Deceit,Foreign,0
+44,Having Ficticious Checks,Deceit,Mexican,0
+45,Having Ficticious Checks,Deceit,Black,0
+46,Having Ficticious Checks,Deceit,Indian,0
+47,Having Ficticious Checks,Deceit,Asian,0
+48,Having Ficticious Checks,Deceit,?,0
+49,Illegal Voting,Deceit,White,0
+50,Illegal Voting,Deceit,Foreign,1
+51,Illegal Voting,Deceit,Mexican,0
+52,Illegal Voting,Deceit,Black,0
+53,Illegal Voting,Deceit,Indian,0
+54,Illegal Voting,Deceit,Asian,0
+55,Illegal Voting,Deceit,?,0
+56,Perjury,Deceit,White,3
+57,Perjury,Deceit,Foreign,1
+58,Perjury,Deceit,Mexican,0
+59,Perjury,Deceit,Black,0
+60,Perjury,Deceit,Indian,0
+61,Perjury,Deceit,Asian,0
+62,Perjury,Deceit,?,0
+63,Uttering,Deceit,White,11
+64,Uttering,Deceit,Foreign,8
+65,Uttering,Deceit,Mexican,0
+66,Uttering,Deceit,Black,0
+67,Uttering,Deceit,Indian,0
+68,Uttering,Deceit,Asian,0
+69,Uttering,Deceit,?,0
+70,Uttering Forgery,Deceit,White,7
+71,Uttering Forgery,Deceit,Foreign,4
+72,Uttering Forgery,Deceit,Mexican,0
+73,Uttering Forgery,Deceit,Black,0
+74,Uttering Forgery,Deceit,Indian,0
+75,Uttering Forgery,Deceit,Asian,0
+76,Uttering Forgery,Deceit,?,0
+77,Using Instruments with Intent to Commit Abortion,Moral,White,0
+78,Using Instruments with Intent to Commit Abortion,Moral,Foreign,1
+79,Using Instruments with Intent to Commit Abortion,Moral,Mexican,0
+80,Using Instruments with Intent to Commit Abortion,Moral,Black,0
+81,Using Instruments with Intent to Commit Abortion,Moral,Indian,0
+82,Using Instruments with Intent to Commit Abortion,Moral,Asian,0
+83,Using Instruments with Intent to Commit Abortion,Moral,?,0
+84,Sodomy,Moral,White,3
+85,Sodomy,Moral,Foreign,0
+86,Sodomy,Moral,Mexican,0
+87,Sodomy,Moral,Black,0
+88,Sodomy,Moral,Indian,0
+89,Sodomy,Moral,Asian,0
+90,Sodomy,Moral,?,0
+91,Abortion,Moral,White,0
+92,Abortion,Moral,Foreign,1
+93,Abortion,Moral,Mexican,0
+94,Abortion,Moral,Black,0
+95,Abortion,Moral,Indian,0
+96,Abortion,Moral,Asian,0
+97,Abortion,Moral,?,0
+98,Bigamy,Moral,White,4
+99,Bigamy,Moral,Foreign,3
+100,Bigamy,Moral,Mexican,0
+101,Bigamy,Moral,Black,0
+102,Bigamy,Moral,Indian,0
+103,Bigamy,Moral,Asian,0
+104,Bigamy,Moral,?,0
+105,Crime Against Nature,Moral,White,4
+106,Crime Against Nature,Moral,Foreign,0
+107,Crime Against Nature,Moral,Mexican,0
+108,Crime Against Nature,Moral,Black,1
+109,Crime Against Nature,Moral,Indian,0
+110,Crime Against Nature,Moral,Asian,0
+111,Crime Against Nature,Moral,?,0
+112,Incest,Moral,White,5
+113,Incest,Moral,Foreign,1
+114,Incest,Moral,Mexican,0
+115,Incest,Moral,Black,1
+116,Incest,Moral,Indian,0
+117,Incest,Moral,Asian,0
+118,Incest,Moral,?,0
+119,Buggary,Moral,White,3
+120,Buggary,Moral,Foreign,0
+121,Buggary,Moral,Mexican,0
+122,Buggary,Moral,Black,0
+123,Buggary,Moral,Indian,0
+124,Buggary,Moral,Asian,0
+125,Buggary,Moral,?,0
+126,Arson,Property,White,2
+127,Arson,Property,Foreign,4
+128,Arson,Property,Mexican,1
+129,Arson,Property,Black,2
+130,Arson,Property,Indian,0
+131,Arson,Property,Asian,0
+132,Arson,Property,?,0
+133,Attempt to Rob,Property,White,1
+134,Attempt to Rob,Property,Foreign,0
+135,Attempt to Rob,Property,Mexican,0
+136,Attempt to Rob,Property,Black,0
+137,Attempt to Rob,Property,Indian,0
+138,Attempt to Rob,Property,Asian,0
+139,Attempt to Rob,Property,?,0
+140,Attempted Arson,Property,White,1
+141,Attempted Arson,Property,Foreign,0
+142,Attempted Arson,Property,Mexican,0
+143,Attempted Arson,Property,Black,0
+144,Attempted Arson,Property,Indian,0
+145,Attempted Arson,Property,Asian,0
+146,Attempted Arson,Property,?,0
+147,Attempted Robbery,Property,White,3
+148,Attempted Robbery,Property,Foreign,0
+149,Attempted Robbery,Property,Mexican,0
+150,Attempted Robbery,Property,Black,0
+151,Attempted Robbery,Property,Indian,0
+152,Attempted Robbery,Property,Asian,0
+153,Attempted Robbery,Property,?,0
+154,Burglary,Property,White,408
+155,Burglary,Property,Foreign,112
+156,Burglary,Property,Mexican,3
+157,Burglary,Property,Black,55
+158,Burglary,Property,Indian,0
+159,Burglary,Property,Asian,0
+160,Burglary,Property,?,0
+161,Defacing Brands,Property,White,0
+162,Defacing Brands,Property,Foreign,1
+163,Defacing Brands,Property,Mexican,0
+164,Defacing Brands,Property,Black,0
+165,Defacing Brands,Property,Indian,0
+166,Defacing Brands,Property,Asian,0
+167,Defacing Brands,Property,?,0
+168,Effacing and Defacing Brands,Property,White,0
+169,Effacing and Defacing Brands,Property,Foreign,1
+170,Effacing and Defacing Brands,Property,Mexican,0
+171,Effacing and Defacing Brands,Property,Black,0
+172,Effacing and Defacing Brands,Property,Indian,0
+173,Effacing and Defacing Brands,Property,Asian,0
+174,Effacing and Defacing Brands,Property,?,0
+175,Having Tools with Intent to Commit Burglary,Property,White,1
+176,Having Tools with Intent to Commit Burglary,Property,Foreign,0
+177,Having Tools with Intent to Commit Burglary,Property,Mexican,0
+178,Having Tools with Intent to Commit Burglary,Property,Black,0
+179,Having Tools with Intent to Commit Burglary,Property,Indian,0
+180,Having Tools with Intent to Commit Burglary,Property,Asian,0
+181,Having Tools with Intent to Commit Burglary,Property,?,0
+182,Having Tools with Intent to Enter Building,Property,White,0
+183,Having Tools with Intent to Enter Building,Property,Foreign,1
+184,Having Tools with Intent to Enter Building,Property,Mexican,0
+185,Having Tools with Intent to Enter Building,Property,Black,0
+186,Having Tools with Intent to Enter Building,Property,Indian,0
+187,Having Tools with Intent to Enter Building,Property,Asian,0
+188,Having Tools with Intent to Enter Building,Property,?,0
+189,Larceny,Property,White,764
+190,Larceny,Property,Foreign,210
+191,Larceny,Property,Mexican,26
+192,Larceny,Property,Black,74
+193,Larceny,Property,Indian,0
+194,Larceny,Property,Asian,1
+195,Larceny,Property,?,0
+196,Larceny as Bailee,Property,White,7
+197,Larceny as Bailee,Property,Foreign,8
+198,Larceny as Bailee,Property,Mexican,0
+199,Larceny as Bailee,Property,Black,3
+200,Larceny as Bailee,Property,Indian,0
+201,Larceny as Bailee,Property,Asian,0
+202,Larceny as Bailee,Property,?,0
+203,Larceny from Person,Property,White,9
+204,Larceny from Person,Property,Foreign,2
+205,Larceny from Person,Property,Mexican,0
+206,Larceny from Person,Property,Black,4
+207,Larceny from Person,Property,Indian,0
+208,Larceny from Person,Property,Asian,0
+209,Larceny from Person,Property,?,0
+210,Receiving Stolen Goods,Property,White,34
+211,Receiving Stolen Goods,Property,Foreign,10
+212,Receiving Stolen Goods,Property,Mexican,0
+213,Receiving Stolen Goods,Property,Black,3
+214,Receiving Stolen Goods,Property,Indian,0
+215,Receiving Stolen Goods,Property,Asian,0
+216,Receiving Stolen Goods,Property,?,0
+217,Stealing / Killing Cattle,Property,White,1
+218,Stealing / Killing Cattle,Property,Foreign,0
+219,Stealing / Killing Cattle,Property,Mexican,0
+220,Stealing / Killing Cattle,Property,Black,0
+221,Stealing / Killing Cattle,Property,Indian,0
+222,Stealing / Killing Cattle,Property,Asian,0
+223,Stealing / Killing Cattle,Property,?,0
+224,Stealing Stock,Property,White,1
+225,Stealing Stock,Property,Foreign,0
+226,Stealing Stock,Property,Mexican,0
+227,Stealing Stock,Property,Black,0
+228,Stealing Stock,Property,Indian,0
+229,Stealing Stock,Property,Asian,0
+230,Stealing Stock,Property,?,0
+231,Killing Cattle,Property,White,1
+232,Killing Cattle,Property,Foreign,0
+233,Killing Cattle,Property,Mexican,0
+234,Killing Cattle,Property,Black,0
+235,Killing Cattle,Property,Indian,0
+236,Killing Cattle,Property,Asian,0
+237,Killing Cattle,Property,?,0
+238,Killing Stock,Property,White,1
+239,Killing Stock,Property,Foreign,1
+240,Killing Stock,Property,Mexican,0
+241,Killing Stock,Property,Black,0
+242,Killing Stock,Property,Indian,0
+243,Killing Stock,Property,Asian,0
+244,Killing Stock,Property,?,0
+245,Robbery,Property,White,219
+246,Robbery,Property,Foreign,29
+247,Robbery,Property,Mexican,4
+248,Robbery,Property,Black,11
+249,Robbery,Property,Indian,0
+250,Robbery,Property,Asian,0
+251,Robbery,Property,?,0
+252,Having Burgular Tools,Property,White,1
+253,Having Burgular Tools,Property,Foreign,0
+254,Having Burgular Tools,Property,Mexican,0
+255,Having Burgular Tools,Property,Black,0
+256,Having Burgular Tools,Property,Indian,0
+257,Having Burgular Tools,Property,Asian,0
+258,Having Burgular Tools,Property,?,0
+259,"Felony, Branding Stock",Property,White,1
+260,"Felony, Branding Stock",Property,Foreign,0
+261,"Felony, Branding Stock",Property,Mexican,0
+262,"Felony, Branding Stock",Property,Black,0
+263,"Felony, Branding Stock",Property,Indian,0
+264,"Felony, Branding Stock",Property,Asian,0
+265,"Felony, Branding Stock",Property,?,0
+266,Malicious Mischief,Property,White,3
+267,Malicious Mischief,Property,Foreign,1
+268,Malicious Mischief,Property,Mexican,0
+269,Malicious Mischief,Property,Black,0
+270,Malicious Mischief,Property,Indian,0
+271,Malicious Mischief,Property,Asian,0
+272,Malicious Mischief,Property,?,0
+273,Grand Larceny,Property,White,79
+274,Grand Larceny,Property,Foreign,20
+275,Grand Larceny,Property,Mexican,3
+276,Grand Larceny,Property,Black,8
+277,Grand Larceny,Property,Indian,1
+278,Grand Larceny,Property,Asian,0
+279,Grand Larceny,Property,?,0
+280,Obstructing of Railroad Track,Property,White,1
+281,Obstructing of Railroad Track,Property,Foreign,0
+282,Obstructing of Railroad Track,Property,Mexican,0
+283,Obstructing of Railroad Track,Property,Black,0
+284,Obstructing of Railroad Track,Property,Indian,0
+285,Obstructing of Railroad Track,Property,Asian,0
+286,Obstructing of Railroad Track,Property,?,0
+287,Train Wrecking,Property,White,1
+288,Train Wrecking,Property,Foreign,0
+289,Train Wrecking,Property,Mexican,0
+290,Train Wrecking,Property,Black,0
+291,Train Wrecking,Property,Indian,0
+292,Train Wrecking,Property,Asian,0
+293,Train Wrecking,Property,?,0
+294,Maliciously Destroying Check,Property,White,1
+295,Maliciously Destroying Check,Property,Foreign,0
+296,Maliciously Destroying Check,Property,Mexican,0
+297,Maliciously Destroying Check,Property,Black,0
+298,Maliciously Destroying Check,Property,Indian,0
+299,Maliciously Destroying Check,Property,Asian,0
+300,Maliciously Destroying Check,Property,?,0
+301,Assault w/ Intent to Kill,Violent,White,44
+302,Assault w/ Intent to Kill,Violent,Foreign,4
+303,Assault w/ Intent to Kill,Violent,Mexican,2
+304,Assault w/ Intent to Kill,Violent,Black,10
+305,Assault w/ Intent to Kill,Violent,Indian,0
+306,Assault w/ Intent to Kill,Violent,Asian,0
+307,Assault w/ Intent to Kill,Violent,?,0
+308,Assault w/ Intent to Murder,Violent,White,68
+309,Assault w/ Intent to Murder,Violent,Foreign,17
+310,Assault w/ Intent to Murder,Violent,Mexican,2
+311,Assault w/ Intent to Murder,Violent,Black,13
+312,Assault w/ Intent to Murder,Violent,Indian,0
+313,Assault w/ Intent to Murder,Violent,Asian,0
+314,Assault w/ Intent to Murder,Violent,?,0
+315,Assisting to Kill,Violent,White,0
+316,Assisting to Kill,Violent,Foreign,0
+317,Assisting to Kill,Violent,Mexican,0
+318,Assisting to Kill,Violent,Black,1
+319,Assisting to Kill,Violent,Indian,0
+320,Assisting to Kill,Violent,Asian,0
+321,Assisting to Kill,Violent,?,0
+322,Assisting to Murder,Violent,White,0
+323,Assisting to Murder,Violent,Foreign,1
+324,Assisting to Murder,Violent,Mexican,0
+325,Assisting to Murder,Violent,Black,0
+326,Assisting to Murder,Violent,Indian,0
+327,Assisting to Murder,Violent,Asian,0
+328,Assisting to Murder,Violent,?,0
+329,Attempted Murder,Violent,White,1
+330,Attempted Murder,Violent,Foreign,0
+331,Attempted Murder,Violent,Mexican,0
+332,Attempted Murder,Violent,Black,0
+333,Attempted Murder,Violent,Indian,0
+334,Attempted Murder,Violent,Asian,0
+335,Attempted Murder,Violent,?,0
+336,Conspiring to Murder,Violent,White,1
+337,Conspiring to Murder,Violent,Foreign,1
+338,Conspiring to Murder,Violent,Mexican,0
+339,Conspiring to Murder,Violent,Black,0
+340,Conspiring to Murder,Violent,Indian,0
+341,Conspiring to Murder,Violent,Asian,0
+342,Conspiring to Murder,Violent,?,0
+343,Murder,Violent,White,203
+344,Murder,Violent,Foreign,114
+345,Murder,Violent,Mexican,37
+346,Murder,Violent,Black,41
+347,Murder,Violent,Indian,0
+348,Murder,Violent,Asian,1
+349,Murder,Violent,?,3
+350,Administering Poison,Violent,White,0
+351,Administering Poison,Violent,Foreign,1
+352,Administering Poison,Violent,Mexican,0
+353,Administering Poison,Violent,Black,0
+354,Administering Poison,Violent,Indian,0
+355,Administering Poison,Violent,Asian,0
+356,Administering Poison,Violent,?,0
+357,Assault,Violent,White,8
+358,Assault,Violent,Foreign,3
+359,Assault,Violent,Mexican,0
+360,Assault,Violent,Black,2
+361,Assault,Violent,Indian,0
+362,Assault,Violent,Asian,0
+363,Assault,Violent,?,0
+364,Felonious Assault,Violent,White,2
+365,Felonious Assault,Violent,Foreign,1
+366,Felonious Assault,Violent,Mexican,0
+367,Felonious Assault,Violent,Black,1
+368,Felonious Assault,Violent,Indian,0
+369,Felonious Assault,Violent,Asian,0
+370,Felonious Assault,Violent,?,0
+371,False Imp,Violent,White,1
+372,False Imp,Violent,Foreign,0
+373,False Imp,Violent,Mexican,0
+374,False Imp,Violent,Black,0
+375,False Imp,Violent,Indian,0
+376,False Imp,Violent,Asian,0
+377,False Imp,Violent,?,0
+378,Assault w/ Intent to Rob,Violent,White,30
+379,Assault w/ Intent to Rob,Violent,Foreign,15
+380,Assault w/ Intent to Rob,Violent,Mexican,2
+381,Assault w/ Intent to Rob,Violent,Black,7
+382,Assault w/ Intent to Rob,Violent,Indian,0
+383,Assault w/ Intent to Rob,Violent,Asian,0
+384,Assault w/ Intent to Rob,Violent,?,0
+385,Manslaughter,Violent,White,31
+386,Manslaughter,Violent,Foreign,15
+387,Manslaughter,Violent,Mexican,2
+388,Manslaughter,Violent,Black,8
+389,Manslaughter,Violent,Indian,0
+390,Manslaughter,Violent,Asian,0
+391,Manslaughter,Violent,?,0
+392,Voluntary Manslaughter,Violent,White,3
+393,Voluntary Manslaughter,Violent,Foreign,2
+394,Voluntary Manslaughter,Violent,Mexican,0
+395,Voluntary Manslaughter,Violent,Black,0
+396,Voluntary Manslaughter,Violent,Indian,0
+397,Voluntary Manslaughter,Violent,Asian,1
+398,Voluntary Manslaughter,Violent,?,0
+399,Kidnapping,Violent,White,2
+400,Kidnapping,Violent,Foreign,1
+401,Kidnapping,Violent,Mexican,0
+402,Kidnapping,Violent,Black,0
+403,Kidnapping,Violent,Indian,0
+404,Kidnapping,Violent,Asian,0
+405,Kidnapping,Violent,?,0
+406,Mayhem,Violent,White,2
+407,Mayhem,Violent,Foreign,2
+408,Mayhem,Violent,Mexican,0
+409,Mayhem,Violent,Black,2
+410,Mayhem,Violent,Indian,0
+411,Mayhem,Violent,Asian,0
+412,Mayhem,Violent,?,0
+413,Assault w/ Intent to Rape,Violent Sexual,White,35
+414,Assault w/ Intent to Rape,Violent Sexual,Foreign,7
+415,Assault w/ Intent to Rape,Violent Sexual,Mexican,3
+416,Assault w/ Intent to Rape,Violent Sexual,Black,5
+417,Assault w/ Intent to Rape,Violent Sexual,Indian,0
+418,Assault w/ Intent to Rape,Violent Sexual,Asian,0
+419,Assault w/ Intent to Rape,Violent Sexual,?,0
+420,Assault to Ravish,Violent Sexual,White,1
+421,Assault to Ravish,Violent Sexual,Foreign,0
+422,Assault to Ravish,Violent Sexual,Mexican,0
+423,Assault to Ravish,Violent Sexual,Black,0
+424,Assault to Ravish,Violent Sexual,Indian,0
+425,Assault to Ravish,Violent Sexual,Asian,0
+426,Assault to Ravish,Violent Sexual,?,0
+427,Rape,Violent Sexual,White,33
+428,Rape,Violent Sexual,Foreign,11
+429,Rape,Violent Sexual,Mexican,5
+430,Rape,Violent Sexual,Black,5
+431,Rape,Violent Sexual,Indian,0
+432,Rape,Violent Sexual,Asian,0
+433,Rape,Violent Sexual,?,0
+434,Rescue of Prisoner,Uncategorized,White,2
+435,Rescue of Prisoner,Uncategorized,Foreign,0
+436,Rescue of Prisoner,Uncategorized,Mexican,0
+437,Rescue of Prisoner,Uncategorized,Black,0
+438,Rescue of Prisoner,Uncategorized,Indian,0
+439,Rescue of Prisoner,Uncategorized,Asian,0
+440,Rescue of Prisoner,Uncategorized,?,0
+441,Conspiracy,Uncategorized,White,2
+442,Conspiracy,Uncategorized,Foreign,0
+443,Conspiracy,Uncategorized,Mexican,0
+444,Conspiracy,Uncategorized,Black,0
+445,Conspiracy,Uncategorized,Indian,0
+446,Conspiracy,Uncategorized,Asian,0
+447,Conspiracy,Uncategorized,?,0
+448,Felony,Uncategorized,White,1
+449,Felony,Uncategorized,Foreign,0
+450,Felony,Uncategorized,Mexican,0
+451,Felony,Uncategorized,Black,0
+452,Felony,Uncategorized,Indian,0
+453,Felony,Uncategorized,Asian,0
+454,Felony,Uncategorized,?,0
