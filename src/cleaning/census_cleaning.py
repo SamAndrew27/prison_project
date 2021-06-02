@@ -1,78 +1,29 @@
-import pandas as pd 
+import pandas as pd
+from sklearn.model_selection import train_test_split
+def create_sample(size=.01, save=True, name='sub_sample_census_data'):
+    df = pd.read_csv('../../data/original_data/entire_census_dataset.csv')
+    train, test = train_test_split(df, test_size=size)
+    if save:
+        test.to_csv(f'../../data/{name}.csv')
+    else:
+        return test
 
-def load_1900():
-    df = pd.read_csv('../../data/original_data/census_data_1900.csv')
-    return df
+def load_and_clean(sample=True, drop_cols=True):
+    if sample:
+        df = pd.read_csv('../../data/sub_sample_census_data.csv') 
+    else:
+        df = pd.read_csv('../../data/original_data/entire_census_dataset.csv')
+    codes = pd.read_csv('../../data/original_data/IPUMS_codes.csv')
 
-def codes_to_string(df, drop_cols=False):
-    codes = pd.read_csv('../../data/original_data/BPL_codes.csv')
-    code_dict = {}
-    for idx, row in codes.iterrows():
-        code_dict[row['Code']] = row['Location']
-
-    df['group_quarter_status'] = df['GQ'].apply(lambda x: gq_apply(x))
-    df['race'] = df['RACE'].apply(lambda x: race_apply(x))
-    df['racesing'] = df['RACESING'].apply(lambda x: racesing_apply(x))
-
-    df['hispanic'] = df['HISPAN'].apply(lambda x: hispan_apply(x))
-    df['birthplace'] = df['BPL'].apply(lambda x: code_dict[x])
-
-    if drop_cols:
-        df.drop(['GQ', 'RACE'], axis=1, inplace=True)
-    return df
-
-
-def gq_apply(x):
-    if x == 1:
-        return 'Households Under 1970 Definition'
-    elif x == 2:
-        return 'Additional Households Under 1990 Definition'
-    elif x == 3:
-        return 'Institutions'
-    elif x == 4:
-        return 'Other Group Quarters'
-
-def race_apply(x):
-    if x == 1:
-        return 'White'
-    elif x == 2:
-        return 'Black/African American/Negro'
-    elif x == 3:
-        return 'American Indian or Alaska Native'
-    elif x == 4:
-        return 'Chinese'
-    elif x == 5:
-        return 'Japanese'
-def racesing_apply(x):
-    if x == 1:
-        return 'White'
-    elif x == 2:
-        return 'Black'
-    elif x == 3:
-        return 'American Indian/Alaska Native'
-    elif x == 4:
-        return 'Asian and/or Pacific Islander'
-
-def hispan_apply(x):
-    if x == 0:
-        return 'Not Hispanic'
-    elif x == 1:
-        return 'Mexican'
-    elif x == 3:
-        return 'Cuban'
-    elif x == 4:
-        return 'Other'
-
-def bpl_apply(x, code_dict):
-    return code_dict[x]
+    
+    return df, codes
 if __name__=="__main__":
-    df = load_1900()
-    print(df.columns)
-    # print(df.BPL.unique())
+    df, codes = load_and_clean()
 
-    # df = codes_to_string(df)
-    # print(df.info())
-    # print(df.BPL.value_counts())
-    # print(df.birthplace.value_counts())
-    # print(len(list(df.birthplace.unique())))
-    # print(len(list(df.BPL.unique())))
+    for variable in codes.Variable.unique():
+        code_dict = {}
+        var_codes = codes[codes['Variable'] == variable]
+        for idx, row in var_codes.iterrows():
+            code_dict[row['Code']] = row['Label']
+        df[f'{variable}_cleaned'] = df[variable].apply(lambda x: code_dict[x])
+    print(df.info())

@@ -1,0 +1,2101 @@
+Code,Label,Variable
+0,Vacant unit,GQ
+1,Households under 1970 definition,GQ
+2,Additional households under 1990 definition,GQ
+3,Group quarters--Institutions,GQ
+4,Other group quarters,GQ
+5,Additional households under 2000 definition,GQ
+6,Fragment,GQ
+1,Male,SEX
+2,Female,SEX
+1,White,RACE
+2,Black/African American/Negro,RACE
+3,American Indian or Alaska Native,RACE
+4,Chinese,RACE
+5,Japanese,RACE
+6,Other Asian or Pacific Islander,RACE
+7,"Other race, nec",RACE
+8,Two major races,RACE
+9,Three or more major races,RACE
+100,White,RACED
+110,Spanish write_in,RACED
+120,Blank (white) (1850),RACED
+130,Portuguese,RACED
+140,Mexican (1930),RACED
+150,Puerto Rican (1910 Hawaii),RACED
+200,Black/African American/Negro,RACED
+210,Mulatto,RACED
+300,American Indian/Alaska Native,RACED
+302,Apache,RACED
+303,Blackfoot,RACED
+304,Cherokee,RACED
+305,Cheyenne,RACED
+306,Chickasaw,RACED
+307,Chippewa,RACED
+308,Choctaw,RACED
+309,Comanche,RACED
+310,Creek,RACED
+311,Crow,RACED
+312,Iroquois,RACED
+313,Kiowa,RACED
+314,Lumbee,RACED
+315,Navajo,RACED
+316,Osage,RACED
+317,Paiute,RACED
+318,Pima,RACED
+319,Potawatomi,RACED
+320,Pueblo,RACED
+321,Seminole,RACED
+322,Shoshone,RACED
+323,Sioux,RACED
+324,"Tlingit (Tlingit_Haida, 2000/ACS)",RACED
+325,Tohono O Odham,RACED
+326,All other tribes (1990),RACED
+328,Hopi,RACED
+329,Central American Indian,RACED
+330,Spanish American Indian,RACED
+350,Delaware,RACED
+351,Latin American Indian,RACED
+352,Puget Sound Salish,RACED
+353,Yakama,RACED
+354,Yaqui,RACED
+355,Colville,RACED
+356,Houma,RACED
+357,Menominee,RACED
+358,Yuman,RACED
+359,South American Indian,RACED
+360,Mexican American Indian,RACED
+361,"Other Amer. Indian tribe (2000,ACS)",RACED
+362,"2+ Amer. Indian tribes (2000,ACS)",RACED
+370,Alaskan Athabaskan,RACED
+371,Aleut,RACED
+372,Eskimo,RACED
+373,Alaskan mixed,RACED
+374,Inupiat,RACED
+375,Yup'ik,RACED
+379,"Other Alaska Native tribe(s) (2000,ACS)",RACED
+398,"Both Am. Ind. and Alaska Native (2000,ACS)",RACED
+399,Tribe not specified,RACED
+400,Chinese,RACED
+410,Taiwanese,RACED
+420,Chinese and Taiwanese,RACED
+500,Japanese,RACED
+600,Filipino,RACED
+610,Asian Indian (Hindu 1920_1940),RACED
+620,Korean,RACED
+630,Hawaiian,RACED
+631,"Hawaiian and Asian (1900,1920)",RACED
+632,"Hawaiian and European (1900,1920)",RACED
+634,Hawaiian mixed,RACED
+640,Vietnamese,RACED
+641,Bhutanese,RACED
+642,Mongolian,RACED
+643,Nepalese,RACED
+650,"Other Asian or Pacific Islander (1920,1980)",RACED
+651,Asian only (CPS),RACED
+652,Pacific Islander only (CPS),RACED
+653,"Asian or Pacific Islander, n.s. (1990 Internal Census files)",RACED
+660,Cambodian,RACED
+661,Hmong,RACED
+662,Laotian,RACED
+663,Thai,RACED
+664,Bangladeshi,RACED
+665,Burmese,RACED
+666,Indonesian,RACED
+667,Malaysian,RACED
+668,Okinawan,RACED
+669,Pakistani,RACED
+670,Sri Lankan,RACED
+671,"Other Asian, n.e.c.",RACED
+672,"Asian, not specified",RACED
+673,Chinese and Japanese,RACED
+674,Chinese and Filipino,RACED
+675,Chinese and Vietnamese,RACED
+676,Chinese and Asian write_in,RACED
+677,Japanese and Filipino,RACED
+678,Asian Indian and Asian write_in,RACED
+679,Other Asian race combinations,RACED
+680,Samoan,RACED
+681,Tahitian,RACED
+682,Tongan,RACED
+683,Other Polynesian (1990),RACED
+684,"1+ other Polynesian races (2000,ACS)",RACED
+685,Guamanian/Chamorro,RACED
+686,Northern Mariana Islander,RACED
+687,Palauan,RACED
+688,Other Micronesian (1990),RACED
+689,"1+ other Micronesian races (2000,ACS)",RACED
+690,Fijian,RACED
+691,Other Melanesian (1990),RACED
+692,"1+ other Melanesian races (2000,ACS)",RACED
+698,2+ PI races from 2+ PI regions,RACED
+699,"Pacific Islander, n.s.",RACED
+700,"Other race, n.e.c.",RACED
+801,White and Black,RACED
+802,White and AIAN,RACED
+810,White and Asian,RACED
+811,White and Chinese,RACED
+812,White and Japanese,RACED
+813,White and Filipino,RACED
+814,White and Asian Indian,RACED
+815,White and Korean,RACED
+816,White and Vietnamese,RACED
+817,White and Asian write_in,RACED
+818,White and other Asian race(s),RACED
+819,White and two or more Asian groups,RACED
+820,White and PI,RACED
+821,White and Native Hawaiian,RACED
+822,White and Samoan,RACED
+823,White and Guamanian,RACED
+824,White and PI write_in,RACED
+825,White and other PI race(s),RACED
+826,White and other race write_in,RACED
+827,"White and other race, n.e.c.",RACED
+830,Black and AIAN,RACED
+831,Black and Asian,RACED
+832,Black and Chinese,RACED
+833,Black and Japanese,RACED
+834,Black and Filipino,RACED
+835,Black and Asian Indian,RACED
+836,Black and Korean,RACED
+837,Black and Asian write_in,RACED
+838,Black and other Asian race(s),RACED
+840,Black and PI,RACED
+841,Black and PI write_in,RACED
+842,Black and other PI race(s),RACED
+845,Black and other race write_in,RACED
+850,AIAN and Asian,RACED
+851,AIAN and Filipino (2000 1%),RACED
+852,AIAN and Asian Indian,RACED
+853,AIAN and Asian write_in (2000 1%),RACED
+854,AIAN and other Asian race(s),RACED
+855,AIAN and PI,RACED
+856,AIAN and other race write_in,RACED
+860,Asian and PI,RACED
+861,Chinese and Hawaiian,RACED
+862,"Chinese, Filipino, Hawaiian (2000 1%)",RACED
+863,Japanese and Hawaiian (2000 1%),RACED
+864,Filipino and Hawaiian,RACED
+865,Filipino and PI write_in,RACED
+866,Asian Indian and PI write_in (2000 1%),RACED
+867,Asian write_in and PI write_in,RACED
+868,Other Asian race(s) and PI race(s),RACED
+869,Japanese and Korean (ACS),RACED
+880,Asian and other race write_in,RACED
+881,Chinese and other race write_in,RACED
+882,Japanese and other race write_in,RACED
+883,Filipino and other race write_in,RACED
+884,Asian Indian and other race write_in,RACED
+885,Asian write_in and other race write_in,RACED
+886,Other Asian race(s) and other race write_in,RACED
+887,Chinese and Korean,RACED
+890,PI and other race write_in:,RACED
+891,PI write_in and other race write_in,RACED
+892,Other PI race(s) and other race write_in,RACED
+893,Native Hawaiian or PI other race(s),RACED
+899,API and other race write_in,RACED
+901,"White, Black, AIAN",RACED
+902,"White, Black, Asian",RACED
+903,"White, Black, PI",RACED
+904,"White, Black, other race write_in",RACED
+905,"White, AIAN, Asian",RACED
+906,"White, AIAN, PI",RACED
+907,"White, AIAN, other race write_in",RACED
+910,"White, Asian, PI",RACED
+911,"White, Chinese, Hawaiian",RACED
+912,"White, Chinese, Filipino, Hawaiian (2000 1%)",RACED
+913,"White, Japanese, Hawaiian (2000 1%)",RACED
+914,"White, Filipino, Hawaiian",RACED
+915,"Other White, Asian race(s), PI race(s)",RACED
+916,"White, AIAN and Filipino",RACED
+917,"White, Black, and Filipino",RACED
+920,"White, Asian, other race write_in",RACED
+921,"White, Filipino, other race write_in (2000 1%)",RACED
+922,"White, Asian write_in, other race write_in (2000 1%)",RACED
+923,"Other White, Asian race(s), other race write_in (2000 1%)",RACED
+925,"White, PI, other race write_in",RACED
+930,"Black, AIAN, Asian",RACED
+931,"Black, AIAN, PI",RACED
+932,"Black, AIAN, other race write_in",RACED
+933,"Black, Asian, PI",RACED
+934,"Black, Asian, other race write_in",RACED
+935,"Black, PI, other race write_in",RACED
+940,"AIAN, Asian, PI",RACED
+941,"AIAN, Asian, other race write_in",RACED
+942,"AIAN, PI, other race write_in",RACED
+943,"Asian, PI, other race write_in",RACED
+944,"Asian (Chinese, Japanese, Korean, Vietnamese); and Native Hawaiian or PI; and Other",RACED
+949,2 or 3 races (CPS),RACED
+950,"White, Black, AIAN, Asian",RACED
+951,"White, Black, AIAN, PI",RACED
+952,"White, Black, AIAN, other race write_in",RACED
+953,"White, Black, Asian, PI",RACED
+954,"White, Black, Asian, other race write_in",RACED
+955,"White, Black, PI, other race write_in",RACED
+960,"White, AIAN, Asian, PI",RACED
+961,"White, AIAN, Asian, other race write_in",RACED
+962,"White, AIAN, PI, other race write_in",RACED
+963,"White, Asian, PI, other race write_in",RACED
+964,"White, Chinese, Japanese, Native Hawaiian",RACED
+970,"Black, AIAN, Asian, PI",RACED
+971,"Black, AIAN, Asian, other race write_in",RACED
+972,"Black, AIAN, PI, other race write_in",RACED
+973,"Black, Asian, PI, other race write_in",RACED
+974,"AIAN, Asian, PI, other race write_in",RACED
+975,"AIAN, Asian, PI, Hawaiian other race write_in",RACED
+976,"Two specified Asian (Chinese and other Asian, Chinese and Japanese, Japanese and other Asian, Korean and other Asian); Native Hawaiian/PI; and Other Race",RACED
+980,"White, Black, AIAN, Asian, PI",RACED
+981,"White, Black, AIAN, Asian, other race write_in",RACED
+982,"White, Black, AIAN, PI, other race write_in",RACED
+983,"White, Black, Asian, PI, other race write_in",RACED
+984,"White, AIAN, Asian, PI, other race write_in",RACED
+985,"Black, AIAN, Asian, PI, other race write_in",RACED
+986,"Black, AIAN, Asian, PI, Hawaiian, other race write_in",RACED
+989,4 or 5 races (CPS),RACED
+990,"White, Black, AIAN, Asian, PI, other race write_in",RACED
+991,White race; Some other race; Black or African American race and/or American Indian and Alaska Native race and/or Asian groups and/or Native Hawaiian and Other Pacific Islander groups,RACED
+996,"2+ races, n.e.c. (CPS)",RACED
+0,Not Hispanic,HISPAN
+1,Mexican,HISPAN
+2,Puerto Rican,HISPAN
+3,Cuban,HISPAN
+4,Other,HISPAN
+9,Not Reported,HISPAN
+0,Not Hispanic,HISPAND
+100,Mexican,HISPAND
+102,Mexican American,HISPAND
+103,Mexicano/Mexicana,HISPAND
+104,Chicano/Chicana,HISPAND
+105,La Raza,HISPAND
+106,Mexican American Indian,HISPAND
+107,Mexico,HISPAND
+200,Puerto Rican,HISPAND
+300,Cuban,HISPAND
+401,Central American Indian,HISPAND
+402,Canal Zone,HISPAND
+411,Costa Rican,HISPAND
+412,Guatemalan,HISPAND
+413,Honduran,HISPAND
+414,Nicaraguan,HISPAND
+415,Panamanian,HISPAND
+416,Salvadoran,HISPAND
+417,"Central American, n.e.c.",HISPAND
+420,Argentinean,HISPAND
+421,Bolivian,HISPAND
+422,Chilean,HISPAND
+423,Colombian,HISPAND
+424,Ecuadorian,HISPAND
+425,Paraguayan,HISPAND
+426,Peruvian,HISPAND
+427,Uruguayan,HISPAND
+428,Venezuelan,HISPAND
+429,South American Indian,HISPAND
+430,Criollo,HISPAND
+431,"South American, n.e.c.",HISPAND
+450,Spaniard,HISPAND
+451,Andalusian,HISPAND
+452,Asturian,HISPAND
+453,Castillian,HISPAND
+454,Catalonian,HISPAND
+455,Balearic Islander,HISPAND
+456,Gallego,HISPAND
+457,Valencian,HISPAND
+458,Canarian,HISPAND
+459,Spanish Basque,HISPAND
+460,Dominican,HISPAND
+465,Latin American,HISPAND
+470,Hispanic,HISPAND
+480,Spanish,HISPAND
+490,Californio,HISPAND
+491,Tejano,HISPAND
+492,Nuevo Mexicano,HISPAND
+493,Spanish American,HISPAND
+494,Spanish American Indian,HISPAND
+495,Meso American Indian,HISPAND
+496,Mestizo,HISPAND
+498,"Other, n.s.",HISPAND
+499,"Other, n.e.c.",HISPAND
+900,Not Reported,HISPAND
+1,Alabama,BPL
+2,Alaska,BPL
+4,Arizona,BPL
+5,Arkansas,BPL
+6,California,BPL
+8,Colorado,BPL
+9,Connecticut,BPL
+10,Delaware,BPL
+11,District of Columbia,BPL
+12,Florida,BPL
+13,Georgia,BPL
+15,Hawaii,BPL
+16,Idaho,BPL
+17,Illinois,BPL
+18,Indiana,BPL
+19,Iowa,BPL
+20,Kansas,BPL
+21,Kentucky,BPL
+22,Louisiana,BPL
+23,Maine,BPL
+24,Maryland,BPL
+25,Massachusetts,BPL
+26,Michigan,BPL
+27,Minnesota,BPL
+28,Mississippi,BPL
+29,Missouri,BPL
+30,Montana,BPL
+31,Nebraska,BPL
+32,Nevada,BPL
+33,New Hampshire,BPL
+34,New Jersey,BPL
+35,New Mexico,BPL
+36,New York,BPL
+37,North Carolina,BPL
+38,North Dakota,BPL
+39,Ohio,BPL
+40,Oklahoma,BPL
+41,Oregon,BPL
+42,Pennsylvania,BPL
+44,Rhode Island,BPL
+45,South Carolina,BPL
+46,South Dakota,BPL
+47,Tennessee,BPL
+48,Texas,BPL
+49,Utah,BPL
+50,Vermont,BPL
+51,Virginia,BPL
+53,Washington,BPL
+54,West Virginia,BPL
+55,Wisconsin,BPL
+56,Wyoming,BPL
+90,Native American,BPL
+99,"United States, ns",BPL
+100,American Samoa,BPL
+105,Guam,BPL
+110,Puerto Rico,BPL
+115,U.S. Virgin Islands,BPL
+120,Other US Possessions,BPL
+150,Canada,BPL
+155,St. Pierre and Miquelon,BPL
+160,Atlantic Islands,BPL
+199,"North America, ns",BPL
+200,Mexico,BPL
+210,Central America,BPL
+250,Cuba,BPL
+260,West Indies,BPL
+299,"Americas, n.s.",BPL
+300,SOUTH AMERICA,BPL
+400,Denmark,BPL
+401,Finland,BPL
+402,Iceland,BPL
+403,"Lapland, n.s.",BPL
+404,Norway,BPL
+405,Sweden,BPL
+410,England,BPL
+411,Scotland,BPL
+412,Wales,BPL
+413,"United Kingdom, ns",BPL
+414,Ireland,BPL
+419,"Northern Europe, ns",BPL
+420,Belgium,BPL
+421,France,BPL
+422,Liechtenstein,BPL
+423,Luxembourg,BPL
+424,Monaco,BPL
+425,Netherlands,BPL
+426,Switzerland,BPL
+429,"Western Europe, ns",BPL
+430,Albania,BPL
+431,Andorra,BPL
+432,Gibraltar,BPL
+433,Greece,BPL
+434,Italy,BPL
+435,Malta,BPL
+436,Portugal,BPL
+437,San Marino,BPL
+438,Spain,BPL
+439,Vatican City,BPL
+440,"Southern Europe, ns",BPL
+450,Austria,BPL
+451,Bulgaria,BPL
+452,Czechoslovakia,BPL
+453,Germany,BPL
+454,Hungary,BPL
+455,Poland,BPL
+456,Romania,BPL
+457,Yugoslavia,BPL
+458,"Central Europe, ns",BPL
+459,"Eastern Europe, ns",BPL
+460,Estonia,BPL
+461,Latvia,BPL
+462,Lithuania,BPL
+463,"Baltic States, ns",BPL
+465,Other USSR/Russia,BPL
+499,"Europe, ns",BPL
+500,China,BPL
+501,Japan,BPL
+502,Korea,BPL
+509,"East Asia, ns",BPL
+510,Brunei,BPL
+511,Cambodia (Kampuchea),BPL
+512,Indonesia,BPL
+513,Laos,BPL
+514,Malaysia,BPL
+515,Philippines,BPL
+516,Singapore,BPL
+517,Thailand,BPL
+518,Vietnam,BPL
+519,"Southeast Asia, ns",BPL
+520,Afghanistan,BPL
+521,India,BPL
+522,Iran,BPL
+523,Maldives,BPL
+524,Nepal,BPL
+530,Bahrain,BPL
+531,Cyprus,BPL
+532,Iraq,BPL
+533,Iraq/Saudi Arabia,BPL
+534,Israel/Palestine,BPL
+535,Jordan,BPL
+536,Kuwait,BPL
+537,Lebanon,BPL
+538,Oman,BPL
+539,Qatar,BPL
+540,Saudi Arabia,BPL
+541,Syria,BPL
+542,Turkey,BPL
+543,United Arab Emirates,BPL
+544,Yemen Arab Republic (North),BPL
+545,"Yemen, PDR (South)",BPL
+546,"Persian Gulf States, n.s.",BPL
+547,"Middle East, ns",BPL
+548,"Southwest Asia, nec/ns",BPL
+549,"Asia Minor, ns",BPL
+550,"South Asia, nec",BPL
+599,"Asia, nec/ns",BPL
+600,AFRICA,BPL
+700,Australia and New Zealand,BPL
+710,Pacific Islands,BPL
+800,"Antarctica, ns/nec",BPL
+900,Abroad (unknown) or at sea,BPL
+950,Other n.e.c.,BPL
+999,Missing/blank,BPL
+100,Alabama,BPLD
+200,Alaska,BPLD
+400,Arizona,BPLD
+500,Arkansas,BPLD
+600,California,BPLD
+800,Colorado,BPLD
+900,Connecticut,BPLD
+1000,Delaware,BPLD
+1100,District of Columbia,BPLD
+1200,Florida,BPLD
+1300,Georgia,BPLD
+1500,Hawaii,BPLD
+1600,Idaho,BPLD
+1610,Idaho Territory,BPLD
+1700,Illinois,BPLD
+1800,Indiana,BPLD
+1900,Iowa,BPLD
+2000,Kansas,BPLD
+2100,Kentucky,BPLD
+2200,Louisiana,BPLD
+2300,Maine,BPLD
+2400,Maryland,BPLD
+2500,Massachusetts,BPLD
+2600,Michigan,BPLD
+2700,Minnesota,BPLD
+2800,Mississippi,BPLD
+2900,Missouri,BPLD
+3000,Montana,BPLD
+3100,Nebraska,BPLD
+3200,Nevada,BPLD
+3300,New Hampshire,BPLD
+3400,New Jersey,BPLD
+3500,New Mexico,BPLD
+3510,New Mexico Territory,BPLD
+3600,New York,BPLD
+3700,North Carolina,BPLD
+3800,North Dakota,BPLD
+3900,Ohio,BPLD
+4000,Oklahoma,BPLD
+4010,Indian Territory,BPLD
+4100,Oregon,BPLD
+4200,Pennsylvania,BPLD
+4400,Rhode Island,BPLD
+4500,South Carolina,BPLD
+4600,South Dakota,BPLD
+4610,Dakota Territory,BPLD
+4700,Tennessee,BPLD
+4800,Texas,BPLD
+4900,Utah,BPLD
+4910,Utah Territory,BPLD
+5000,Vermont,BPLD
+5100,Virginia,BPLD
+5300,Washington,BPLD
+5400,West Virginia,BPLD
+5500,Wisconsin,BPLD
+5600,Wyoming,BPLD
+5610,Wyoming Territory,BPLD
+9000,Native American,BPLD
+9900,"United States, ns",BPLD
+10000,American Samoa,BPLD
+10010,"Samoa, 1940-1950",BPLD
+10500,Guam,BPLD
+11000,Puerto Rico,BPLD
+11500,U.S. Virgin Islands,BPLD
+11510,St. Croix,BPLD
+11520,St. John,BPLD
+11530,St. Thomas,BPLD
+12000,Other US Possessions:,BPLD
+12010,Johnston Atoll,BPLD
+12020,Midway Islands,BPLD
+12030,Wake Island,BPLD
+12040,Other US Caribbean Islands,BPLD
+12041,Navassa Island,BPLD
+12050,Other US Pacific Islands,BPLD
+12051,Baker Island,BPLD
+12052,Howland Island,BPLD
+12053,Jarvis Island,BPLD
+12054,Kingman Reef,BPLD
+12055,Palmyra Atoll,BPLD
+12056,Canton and Enderbury Island,BPLD
+12090,"US outlying areas, ns",BPLD
+12091,"US possessions, ns",BPLD
+12092,"US territory, ns",BPLD
+15000,Canada,BPLD
+15010,English Canada,BPLD
+15011,British Columbia,BPLD
+15013,Alberta,BPLD
+15015,Saskatchewan,BPLD
+15017,Northwest,BPLD
+15019,Ruperts Land,BPLD
+15020,Manitoba,BPLD
+15021,Red River,BPLD
+15030,Ontario/Upper Canada,BPLD
+15031,Upper Canada,BPLD
+15032,Canada West,BPLD
+15040,New Brunswick,BPLD
+15050,Nova Scotia,BPLD
+15051,Cape Breton,BPLD
+15052,Halifax,BPLD
+15060,Prince Edward Island,BPLD
+15070,Newfoundland,BPLD
+15080,French Canada,BPLD
+15081,Quebec,BPLD
+15082,Lower Canada,BPLD
+15083,Canada East,BPLD
+15500,St. Pierre and Miquelon,BPLD
+16000,Atlantic Islands,BPLD
+16010,Bermuda,BPLD
+16020,Cape Verde,BPLD
+16030,Falkland Islands,BPLD
+16040,Greenland,BPLD
+16050,St. Helena and Ascension,BPLD
+16060,Canary Islands,BPLD
+19900,"North America, ns",BPLD
+20000,Mexico,BPLD
+21000,Central America,BPLD
+21010,Belize/British Honduras,BPLD
+21020,Costa Rica,BPLD
+21030,El Salvador,BPLD
+21040,Guatemala,BPLD
+21050,Honduras,BPLD
+21060,Nicaragua,BPLD
+21070,Panama,BPLD
+21071,Canal Zone,BPLD
+21090,"Central America, ns",BPLD
+25000,Cuba,BPLD
+26000,West Indies,BPLD
+26010,Dominican Republic,BPLD
+26020,Haiti,BPLD
+26030,Jamaica,BPLD
+26040,British West Indies,BPLD
+26041,Anguilla,BPLD
+26042,Antigua-Barbuda,BPLD
+26043,Bahamas,BPLD
+26044,Barbados,BPLD
+26045,British Virgin Islands,BPLD
+26046,Anegada,BPLD
+26047,Cooper,BPLD
+26048,Jost Van Dyke,BPLD
+26049,Peter,BPLD
+26050,Tortola,BPLD
+26051,Virgin Gorda,BPLD
+26052,"Br. Virgin Islands, ns",BPLD
+26053,Cayman Islands,BPLD
+26054,Dominica,BPLD
+26055,Grenada,BPLD
+26056,Montserrat,BPLD
+26057,St. Kitts-Nevis,BPLD
+26058,St. Lucia,BPLD
+26059,St. Vincent,BPLD
+26060,Trinidad and Tobago,BPLD
+26061,Turks and Caicos,BPLD
+26069,"Br. Virgin Islands, ns",BPLD
+26070,Other West Indies,BPLD
+26071,Aruba,BPLD
+26072,Netherlands Antilles,BPLD
+26073,Bonaire,BPLD
+26074,Curacao,BPLD
+26075,Dutch St. Maarten,BPLD
+26076,Saba,BPLD
+26077,St. Eustatius,BPLD
+26079,"Dutch Caribbean, ns",BPLD
+26080,French St. Maarten,BPLD
+26081,Guadeloupe,BPLD
+26082,Martinique,BPLD
+26083,St. Barthelemy,BPLD
+26089,"French Caribbean, ns",BPLD
+26090,"Antilles, ns",BPLD
+26091,"Caribbean, ns",BPLD
+26092,"Latin America, ns",BPLD
+26093,"Leeward Islands, ns",BPLD
+26094,"West Indies, ns",BPLD
+26095,"Windward Islands, ns",BPLD
+29900,"Americas, ns",BPLD
+30000,South America,BPLD
+30005,Argentina,BPLD
+30010,Bolivia,BPLD
+30015,Brazil,BPLD
+30020,Chile,BPLD
+30025,Colombia,BPLD
+30030,Ecuador,BPLD
+30035,French Guiana,BPLD
+30040,Guyana/British Guiana,BPLD
+30045,Paraguay,BPLD
+30050,Peru,BPLD
+30055,Suriname,BPLD
+30060,Uruguay,BPLD
+30065,Venezuela,BPLD
+30090,"South America, ns",BPLD
+30091,"South and Central America, n.s.",BPLD
+40000,Denmark,BPLD
+40010,Faeroe Islands,BPLD
+40100,Finland,BPLD
+40200,Iceland,BPLD
+40300,"Lapland, ns",BPLD
+40400,Norway,BPLD
+40410,Svalbard and Jan Meyen,BPLD
+40411,Svalbard,BPLD
+40412,Jan Meyen,BPLD
+40500,Sweden,BPLD
+41000,England,BPLD
+41010,Channel Islands,BPLD
+41011,Guernsey,BPLD
+41012,Jersey,BPLD
+41020,Isle of Man,BPLD
+41100,Scotland,BPLD
+41200,Wales,BPLD
+41300,"United Kingdom, ns",BPLD
+41400,Ireland,BPLD
+41410,Northern Ireland,BPLD
+41900,"Northern Europe, ns",BPLD
+42000,Belgium,BPLD
+42100,France,BPLD
+42110,Alsace-Lorraine,BPLD
+42111,Alsace,BPLD
+42112,Lorraine,BPLD
+42200,Liechtenstein,BPLD
+42300,Luxembourg,BPLD
+42400,Monaco,BPLD
+42500,Netherlands,BPLD
+42600,Switzerland,BPLD
+42900,"Western Europe, ns",BPLD
+43000,Albania,BPLD
+43100,Andorra,BPLD
+43200,Gibraltar,BPLD
+43300,Greece,BPLD
+43310,Dodecanese Islands,BPLD
+43320,Turkey Greece,BPLD
+43330,Macedonia,BPLD
+43400,Italy,BPLD
+43500,Malta,BPLD
+43600,Portugal,BPLD
+43610,Azores,BPLD
+43620,Madeira Islands,BPLD
+43630,Cape Verde Islands,BPLD
+43640,St. Miguel,BPLD
+43700,San Marino,BPLD
+43800,Spain,BPLD
+43900,Vatican City,BPLD
+44000,"Southern Europe, ns",BPLD
+45000,Austria,BPLD
+45010,Austria-Hungary,BPLD
+45020,Austria-Graz,BPLD
+45030,Austria-Linz,BPLD
+45040,Austria-Salzburg,BPLD
+45050,Austria-Tyrol,BPLD
+45060,Austria-Vienna,BPLD
+45070,Austria-Kaernsten,BPLD
+45080,Austria-Neustadt,BPLD
+45100,Bulgaria,BPLD
+45200,Czechoslovakia,BPLD
+45210,Bohemia,BPLD
+45211,Bohemia-Moravia,BPLD
+45212,Slovakia,BPLD
+45213,Czech Republic,BPLD
+45300,Germany,BPLD
+45301,Berlin,BPLD
+45302,West Berlin,BPLD
+45303,East Berlin,BPLD
+45310,West Germany,BPLD
+45311,Baden,BPLD
+45312,Bavaria,BPLD
+45313,Braunschweig,BPLD
+45314,Bremen,BPLD
+45315,Hamburg,BPLD
+45316,Hanover,BPLD
+45317,Hessen,BPLD
+45318,Hesse-Nassau,BPLD
+45319,Lippe,BPLD
+45320,Lubeck,BPLD
+45321,Oldenburg,BPLD
+45322,Rheinland,BPLD
+45323,Schaumburg-Lippe,BPLD
+45324,Schleswig,BPLD
+45325,Sigmaringen,BPLD
+45326,Schwarzburg,BPLD
+45327,Westphalia,BPLD
+45328,Wurttemberg,BPLD
+45329,Waldeck,BPLD
+45330,Wittenberg,BPLD
+45331,Frankfurt,BPLD
+45332,Saarland,BPLD
+45333,Nordrhein-Westfalen,BPLD
+45340,East Germany,BPLD
+45341,Anhalt,BPLD
+45342,Brandenburg,BPLD
+45344,Kingdom of Saxony,BPLD
+45345,Mecklenburg,BPLD
+45346,Saxony,BPLD
+45347,Thuringian States,BPLD
+45348,Sachsen-Meiningen,BPLD
+45349,Sachsen-Weimar-Eisenach,BPLD
+45350,Probable Saxony,BPLD
+45351,Schwerin,BPLD
+45352,Strelitz,BPLD
+45353,Probably Thuringian States,BPLD
+45360,"Prussia, nec",BPLD
+45361,Hohenzollern,BPLD
+45362,Niedersachsen,BPLD
+45400,Hungary,BPLD
+45500,Poland,BPLD
+45510,Austrian Poland,BPLD
+45511,Galicia,BPLD
+45520,German Poland,BPLD
+45521,East Prussia,BPLD
+45522,Pomerania,BPLD
+45523,Posen,BPLD
+45524,Prussian Poland,BPLD
+45525,Silesia,BPLD
+45526,West Prussia,BPLD
+45530,Russian Poland,BPLD
+45600,Romania,BPLD
+45610,Transylvania,BPLD
+45700,Yugoslavia,BPLD
+45710,Croatia,BPLD
+45720,Montenegro,BPLD
+45730,Serbia,BPLD
+45740,Bosnia,BPLD
+45750,Dalmatia,BPLD
+45760,Slovonia,BPLD
+45770,Carniola,BPLD
+45780,Slovenia,BPLD
+45790,Kosovo,BPLD
+45800,"Central Europe, ns",BPLD
+45900,"Eastern Europe, ns",BPLD
+46000,Estonia,BPLD
+46100,Latvia,BPLD
+46200,Lithuania,BPLD
+46300,"Baltic States, ns",BPLD
+46500,Other USSR/Russia,BPLD
+46510,Byelorussia,BPLD
+46520,Moldavia,BPLD
+46521,Bessarabia,BPLD
+46530,Ukraine,BPLD
+46540,Armenia,BPLD
+46541,Azerbaijan,BPLD
+46542,Republic of Georgia,BPLD
+46543,Kazakhstan,BPLD
+46544,Kirghizia,BPLD
+46545,Tadzhik,BPLD
+46546,Turkmenistan,BPLD
+46547,Uzbekistan,BPLD
+46548,Siberia,BPLD
+46590,"USSR, ns",BPLD
+49900,"Europe, ns.",BPLD
+50000,China,BPLD
+50010,Hong Kong,BPLD
+50020,Macau,BPLD
+50030,Mongolia,BPLD
+50040,Taiwan,BPLD
+50100,Japan,BPLD
+50200,Korea,BPLD
+50210,North Korea,BPLD
+50220,South Korea,BPLD
+50900,"East Asia, ns",BPLD
+51000,Brunei,BPLD
+51100,Cambodia (Kampuchea),BPLD
+51200,Indonesia,BPLD
+51210,East Indies,BPLD
+51220,East Timor,BPLD
+51300,Laos,BPLD
+51400,Malaysia,BPLD
+51500,Philippines,BPLD
+51600,Singapore,BPLD
+51700,Thailand,BPLD
+51800,Vietnam,BPLD
+51900,"Southeast Asia, ns",BPLD
+51910,"Indochina, ns",BPLD
+52000,Afghanistan,BPLD
+52100,India,BPLD
+52110,Bangladesh,BPLD
+52120,Bhutan,BPLD
+52130,Burma (Myanmar),BPLD
+52140,Pakistan,BPLD
+52150,Sri Lanka (Ceylon),BPLD
+52200,Iran,BPLD
+52300,Maldives,BPLD
+52400,Nepal,BPLD
+53000,Bahrain,BPLD
+53100,Cyprus,BPLD
+53200,Iraq,BPLD
+53210,Mesopotamia,BPLD
+53300,Iraq/Saudi Arabia,BPLD
+53400,Israel/Palestine,BPLD
+53410,Gaza Strip,BPLD
+53420,Palestine,BPLD
+53430,West Bank,BPLD
+53440,Israel,BPLD
+53500,Jordan,BPLD
+53600,Kuwait,BPLD
+53700,Lebanon,BPLD
+53800,Oman,BPLD
+53900,Qatar,BPLD
+54000,Saudi Arabia,BPLD
+54100,Syria,BPLD
+54200,Turkey,BPLD
+54210,European Turkey,BPLD
+54220,Asian Turkey,BPLD
+54300,United Arab Emirates,BPLD
+54400,Yemen Arab Republic (North),BPLD
+54500,"Yemen, PDR (South)",BPLD
+54600,"Persian Gulf States, ns",BPLD
+54700,"Middle East, ns",BPLD
+54800,"Southwest Asia, nec/ns",BPLD
+54900,"Asia Minor, ns",BPLD
+55000,"South Asia, nec",BPLD
+59900,"Asia, nec/ns",BPLD
+60000,Africa,BPLD
+60010,Northern Africa,BPLD
+60011,Algeria,BPLD
+60012,Egypt/United Arab Rep.,BPLD
+60013,Libya,BPLD
+60014,Morocco,BPLD
+60015,Sudan,BPLD
+60016,Tunisia,BPLD
+60017,Western Sahara,BPLD
+60019,"North Africa, ns",BPLD
+60020,Benin,BPLD
+60021,Burkina Faso,BPLD
+60022,Gambia,BPLD
+60023,Ghana,BPLD
+60024,Guinea,BPLD
+60025,Guinea-Bissau,BPLD
+60026,Ivory Coast,BPLD
+60027,Liberia,BPLD
+60028,Mali,BPLD
+60029,Mauritania,BPLD
+60030,Niger,BPLD
+60031,Nigeria,BPLD
+60032,Senegal,BPLD
+60033,Sierra Leone,BPLD
+60034,Togo,BPLD
+60038,"Western Africa, ns",BPLD
+60039,"French West Africa, ns",BPLD
+60040,British Indian Ocean Territory,BPLD
+60041,Burundi,BPLD
+60042,Comoros,BPLD
+60043,Djibouti,BPLD
+60044,Ethiopia,BPLD
+60045,Kenya,BPLD
+60046,Madagascar,BPLD
+60047,Malawi,BPLD
+60048,Mauritius,BPLD
+60049,Mozambique,BPLD
+60050,Reunion,BPLD
+60051,Rwanda,BPLD
+60052,Seychelles,BPLD
+60053,Somalia,BPLD
+60054,Tanzania,BPLD
+60055,Uganda,BPLD
+60056,Zambia,BPLD
+60057,Zimbabwe,BPLD
+60058,Bassas de India,BPLD
+60059,Europa,BPLD
+60060,Gloriosos,BPLD
+60061,Juan de Nova,BPLD
+60062,Mayotte,BPLD
+60063,Tromelin,BPLD
+60064,"Eastern Africa, nec/ns",BPLD
+60065,Eritrea,BPLD
+60066,South Sudan,BPLD
+60070,Central Africa,BPLD
+60071,Angola,BPLD
+60072,Cameroon,BPLD
+60073,Central African Republic,BPLD
+60074,Chad,BPLD
+60075,Congo,BPLD
+60076,Equatorial Guinea,BPLD
+60077,Gabon,BPLD
+60078,Sao Tome and Principe,BPLD
+60079,Zaire,BPLD
+60080,"Central Africa, ns",BPLD
+60081,"Equatorial Africa, ns",BPLD
+60082,"French Equatorial Africa, ns",BPLD
+60090,Southern Africa,BPLD
+60091,Botswana,BPLD
+60092,Lesotho,BPLD
+60093,Namibia,BPLD
+60094,South Africa (Union of),BPLD
+60095,Swaziland,BPLD
+60096,"Southern Africa, ns",BPLD
+60099,"Africa, ns/nec",BPLD
+70000,Australia and New Zealand,BPLD
+70010,Australia,BPLD
+70011,Ashmore and Cartier Islands,BPLD
+70012,Coral Sea Islands Territory,BPLD
+70013,Christmas Island,BPLD
+70014,Cocos Islands,BPLD
+70020,New Zealand,BPLD
+71000,Pacific Islands,BPLD
+71010,New Caledonia,BPLD
+71012,Papua New Guinea,BPLD
+71013,Solomon Islands,BPLD
+71014,Vanuatu (New Hebrides),BPLD
+71015,Fiji,BPLD
+71016,"Melanesia, ns",BPLD
+71017,Norfolk Islands,BPLD
+71018,Niue,BPLD
+71020,Cook Islands,BPLD
+71022,French Polynesia,BPLD
+71023,Tonga,BPLD
+71024,Wallis and Futuna Islands,BPLD
+71025,Western Samoa,BPLD
+71026,Pitcairn Island,BPLD
+71027,Tokelau,BPLD
+71028,Tuvalu,BPLD
+71029,"Polynesia, ns",BPLD
+71032,Kiribati,BPLD
+71033,Canton and Enderbury,BPLD
+71034,Nauru,BPLD
+71039,"Micronesia, ns",BPLD
+71040,US Pacific Trust Territories,BPLD
+71041,Marshall Islands,BPLD
+71042,Micronesia,BPLD
+71043,Kosrae,BPLD
+71044,Pohnpei,BPLD
+71045,Truk,BPLD
+71046,Yap,BPLD
+71047,Northern Mariana Islands,BPLD
+71048,Palau,BPLD
+71049,"Pacific Trust Terr, ns",BPLD
+71050,Clipperton Island,BPLD
+71090,"Oceania, ns/nec",BPLD
+80000,"Antarctica, ns/nec",BPLD
+80010,Bouvet Islands,BPLD
+80020,British Antarctic Terr.,BPLD
+80030,Dronning Maud Land,BPLD
+80040,French Southern and Antarctic Lands,BPLD
+80050,Heard and McDonald Islands,BPLD
+90000,Abroad (unknown) or at sea,BPLD
+90010,"Abroad, ns",BPLD
+90011,Abroad (US citizen),BPLD
+90020,At sea,BPLD
+90021,At sea (US citizen),BPLD
+90022,At sea or abroad (U.S. citizen),BPLD
+95000,Other n.e.c.,BPLD
+99900,Missing/blank,BPLD
+0,N/A,NATIVITY
+1,"Native born, and both parents native born",NATIVITY
+2,"Native born, and father foreign, mother native",NATIVITY
+3,"Native born, and mother foreign, father native",NATIVITY
+4,"Native born, and both parents foreign",NATIVITY
+5,Foreign born,NATIVITY
+0,N/A,CITIZEN
+1,Born abroad of American parents,CITIZEN
+2,Naturalized citizen,CITIZEN
+3,Not a citizen,CITIZEN
+4,"Not a citizen, but has received first papers",CITIZEN
+5,"Foreign born, citizenship status not reported",CITIZEN
+0,N/A,YRSUSA2
+1,0-5 years,YRSUSA2
+2,6-10 years,YRSUSA2
+3,11-15 years,YRSUSA2
+4,16-20 years,YRSUSA2
+5,21+ years,YRSUSA2
+9,Missing,YRSUSA2
+0,N/A or blank,LANGUAGE
+1,English,LANGUAGE
+2,German,LANGUAGE
+3,"Yiddish, Jewish",LANGUAGE
+4,Dutch,LANGUAGE
+5,Swedish,LANGUAGE
+6,Danish,LANGUAGE
+7,Norwegian,LANGUAGE
+8,Icelandic,LANGUAGE
+9,Scandinavian,LANGUAGE
+10,Italian,LANGUAGE
+11,French,LANGUAGE
+12,Spanish,LANGUAGE
+13,Portuguese,LANGUAGE
+14,Rumanian,LANGUAGE
+15,Celtic,LANGUAGE
+16,Greek,LANGUAGE
+17,Albanian,LANGUAGE
+18,Russian,LANGUAGE
+19,"Ukrainian, Ruthenian, Little Russian",LANGUAGE
+20,Czech,LANGUAGE
+21,Polish,LANGUAGE
+22,Slovak,LANGUAGE
+23,"Serbo-Croatian, Yugoslavian, Slavonian",LANGUAGE
+24,Slovene,LANGUAGE
+25,Lithuanian,LANGUAGE
+26,Other Balto-Slavic,LANGUAGE
+27,Slavic unknown,LANGUAGE
+28,Armenian,LANGUAGE
+29,"Persian, Iranian, Farsi",LANGUAGE
+30,Other Persian dialects,LANGUAGE
+31,Hindi and related,LANGUAGE
+32,"Romany, Gypsy",LANGUAGE
+33,Finnish,LANGUAGE
+34,"Magyar, Hungarian",LANGUAGE
+35,Uralic,LANGUAGE
+36,Turkish,LANGUAGE
+37,Other Altaic,LANGUAGE
+38,"Caucasian, Georgian, Avar",LANGUAGE
+39,Basque,LANGUAGE
+40,Dravidian,LANGUAGE
+41,Kurukh,LANGUAGE
+42,Burushaski,LANGUAGE
+43,Chinese,LANGUAGE
+44,Tibetan,LANGUAGE
+45,"Burmese, Lisu, Lolo",LANGUAGE
+46,Kachin,LANGUAGE
+47,"Thai, Siamese, Lao",LANGUAGE
+48,Japanese,LANGUAGE
+49,Korean,LANGUAGE
+50,Vietnamese,LANGUAGE
+51,Other East/Southeast Asian,LANGUAGE
+52,Indonesian,LANGUAGE
+53,Other Malayan,LANGUAGE
+54,"Filipino, Tagalog",LANGUAGE
+55,"Micronesian, Polynesian",LANGUAGE
+56,Hawaiian,LANGUAGE
+57,Arabic,LANGUAGE
+58,Near East Arabic dialect,LANGUAGE
+59,"Hebrew, Israeli",LANGUAGE
+60,"Amharic, Ethiopian, etc.",LANGUAGE
+61,Hamitic,LANGUAGE
+62,Other Afro-Asiatic languages,LANGUAGE
+63,Sub-Saharan Africa,LANGUAGE
+64,"African, n.s.",LANGUAGE
+70,American Indian (all),LANGUAGE
+71,"Aleut, Eskimo",LANGUAGE
+72,Algonquian,LANGUAGE
+73,"Salish, Flathead",LANGUAGE
+74,Athapascan,LANGUAGE
+75,Navajo,LANGUAGE
+76,Penutian-Sahaptin,LANGUAGE
+77,Other Penutian,LANGUAGE
+78,Zuni,LANGUAGE
+79,Yuman,LANGUAGE
+80,Other Hokan languages,LANGUAGE
+81,Siouan languages,LANGUAGE
+82,Muskogean,LANGUAGE
+83,Keres,LANGUAGE
+84,Iroquoian,LANGUAGE
+85,Caddoan,LANGUAGE
+86,Shoshonean/Hopi,LANGUAGE
+87,"Pima, Papago",LANGUAGE
+88,"Yaqui and other Sonoran, nec",LANGUAGE
+89,"Aztecan, Nahuatl, Uto-Aztecan",LANGUAGE
+90,Tanoan languages,LANGUAGE
+91,Other Indian languages,LANGUAGE
+92,Mayan languages,LANGUAGE
+93,"American Indian, n.s.",LANGUAGE
+94,Native,LANGUAGE
+95,No language,LANGUAGE
+96,Other or not reported,LANGUAGE
+0,N/A or blank,LANGUAGED
+100,English,LANGUAGED
+110,Jamaican Creole,LANGUAGED
+120,"Krio, Pidgin Krio",LANGUAGED
+130,Hawaiian Pidgin,LANGUAGED
+140,Pidgin,LANGUAGED
+150,"Gullah, Geechee",LANGUAGED
+160,Saramacca,LANGUAGED
+170,Other English-based Creole languages,LANGUAGED
+200,German,LANGUAGED
+210,Austrian,LANGUAGED
+220,Swiss,LANGUAGED
+230,Luxembourgian,LANGUAGED
+240,Pennsylvania Dutch,LANGUAGED
+300,"Yiddish, Jewish",LANGUAGED
+310,Jewish,LANGUAGED
+320,Yiddish,LANGUAGED
+400,Dutch,LANGUAGED
+410,"Dutch, Flemish, Belgian",LANGUAGED
+420,Afrikaans,LANGUAGED
+430,Frisian,LANGUAGED
+440,"Dutch, Afrikaans, Frisian",LANGUAGED
+450,"Belgian, Flemish",LANGUAGED
+460,Belgian,LANGUAGED
+470,Flemish,LANGUAGED
+500,Swedish,LANGUAGED
+600,Danish,LANGUAGED
+700,Norwegian,LANGUAGED
+800,Icelandic,LANGUAGED
+810,Faroese,LANGUAGED
+900,Scandinavian,LANGUAGED
+1000,Italian,LANGUAGED
+1010,"Rhaeto-Romanic, Ladin",LANGUAGED
+1020,Friulian,LANGUAGED
+1030,Romansh,LANGUAGED
+1100,French,LANGUAGED
+1110,"French, Walloon",LANGUAGED
+1120,Provencal,LANGUAGED
+1130,Patois,LANGUAGED
+1140,French or Haitian Creole,LANGUAGED
+1150,Cajun,LANGUAGED
+1200,Spanish,LANGUAGED
+1210,"Catalonian, Valencian",LANGUAGED
+1220,"Ladino, Sefaradit, Spanol",LANGUAGED
+1230,Pachuco,LANGUAGED
+1250,Mexican,LANGUAGED
+1300,Portuguese,LANGUAGED
+1310,Papia Mentae,LANGUAGED
+1320,Cape Verdean Creole,LANGUAGED
+1400,Rumanian,LANGUAGED
+1500,Celtic,LANGUAGED
+1510,"Welsh, Breton, Cornish",LANGUAGED
+1520,Welsh,LANGUAGED
+1530,Breton,LANGUAGED
+1540,"Irish Gaelic, Gaelic",LANGUAGED
+1550,Gaelic,LANGUAGED
+1560,Irish,LANGUAGED
+1570,Scottish Gaelic,LANGUAGED
+1580,Scotch,LANGUAGED
+1590,"Manx, Manx Gaelic",LANGUAGED
+1600,Greek,LANGUAGED
+1700,Albanian,LANGUAGED
+1800,Russian,LANGUAGED
+1810,"Russian, Great Russian",LANGUAGED
+1811,Great Russian,LANGUAGED
+1820,"Bielo-, White Russian",LANGUAGED
+1900,"Ukrainian, Ruthenian, Little Russian",LANGUAGED
+1910,Ruthenian,LANGUAGED
+1920,Little Russian,LANGUAGED
+1930,Ukrainian,LANGUAGED
+2000,Czech,LANGUAGED
+2010,Bohemian,LANGUAGED
+2020,Moravian,LANGUAGED
+2100,Polish,LANGUAGED
+2110,"Kashubian, Slovincian",LANGUAGED
+2200,Slovak,LANGUAGED
+2300,"Serbo-Croatian, Yugoslavian, Slavonian",LANGUAGED
+2310,Croatian,LANGUAGED
+2320,Serbian,LANGUAGED
+2321,Bosnian,LANGUAGED
+2330,"Dalmatian, Montenegrin",LANGUAGED
+2331,Dalmatian,LANGUAGED
+2332,Montenegrin,LANGUAGED
+2400,Slovene,LANGUAGED
+2500,Lithuanian,LANGUAGED
+2510,"Lettish, Latvian",LANGUAGED
+2600,Other Balto-Slavic,LANGUAGED
+2610,Bulgarian,LANGUAGED
+2620,"Lusatian, Sorbian, Wendish",LANGUAGED
+2621,Wendish,LANGUAGED
+2630,Macedonian,LANGUAGED
+2700,Slavic unknown,LANGUAGED
+2800,Armenian,LANGUAGED
+2900,"Persian, Iranian, Farsi",LANGUAGED
+2910,Persian,LANGUAGED
+2920,Dari,LANGUAGED
+3000,Other Persian dialects,LANGUAGED
+3010,"Pashto, Afghan",LANGUAGED
+3020,Kurdish,LANGUAGED
+3030,Balochi,LANGUAGED
+3040,Tadzhik,LANGUAGED
+3050,Ossete,LANGUAGED
+3100,Hindi and related,LANGUAGED
+3101,"Hindi, Hindustani, Indic, Jaipuri, Pali, Urdu",LANGUAGED
+3102,Hindi,LANGUAGED
+3103,Urdu,LANGUAGED
+3104,Other Indo-Iranian languages,LANGUAGED
+3110,Other Indo-Aryan,LANGUAGED
+3111,Sanskrit,LANGUAGED
+3112,Bengali,LANGUAGED
+3113,Panjabi,LANGUAGED
+3114,Marathi,LANGUAGED
+3115,Gujarathi,LANGUAGED
+3116,Bihari,LANGUAGED
+3117,Rajasthani,LANGUAGED
+3118,Oriya,LANGUAGED
+3119,Assamese,LANGUAGED
+3120,Kashmiri,LANGUAGED
+3121,Sindhi,LANGUAGED
+3122,Maldivian,LANGUAGED
+3123,Sinhalese,LANGUAGED
+3130,Kannada,LANGUAGED
+3140,India nec,LANGUAGED
+3150,Pakistan nec,LANGUAGED
+3190,Other Indo-European languages,LANGUAGED
+3200,"Romany, Gypsy",LANGUAGED
+3210,Gypsy,LANGUAGED
+3300,Finnish,LANGUAGED
+3400,"Magyar, Hungarian",LANGUAGED
+3401,Magyar,LANGUAGED
+3402,Hungarian,LANGUAGED
+3500,Uralic,LANGUAGED
+3510,"Estonian, Ingrian, Livonian, Vepsian, Votic",LANGUAGED
+3511,Estonian,LANGUAGED
+3520,"Lapp, Inari, Kola, Lule, Pite, Ruija, Skolt, Ume",LANGUAGED
+3521,Lappish,LANGUAGED
+3530,Other Uralic,LANGUAGED
+3600,Turkish,LANGUAGED
+3700,Other Altaic,LANGUAGED
+3701,Chuvash,LANGUAGED
+3702,Karakalpak,LANGUAGED
+3703,Kazakh,LANGUAGED
+3704,Kirghiz,LANGUAGED
+3705,"Karachay, Tatar, Balkar, Bashkir, Kumyk",LANGUAGED
+3706,"Uzbek, Uighur",LANGUAGED
+3707,Azerbaijani,LANGUAGED
+3708,Turkmen,LANGUAGED
+3709,Yakut,LANGUAGED
+3710,Mongolian,LANGUAGED
+3711,Tungus,LANGUAGED
+3800,"Caucasian, Georgian, Avar",LANGUAGED
+3810,Georgian,LANGUAGED
+3900,Basque,LANGUAGED
+4000,Dravidian,LANGUAGED
+4001,Brahui,LANGUAGED
+4002,Gondi,LANGUAGED
+4003,Telugu,LANGUAGED
+4004,Malayalam,LANGUAGED
+4005,Tamil,LANGUAGED
+4010,Bhili,LANGUAGED
+4011,Nepali,LANGUAGED
+4100,Kurukh,LANGUAGED
+4110,Munda,LANGUAGED
+4200,Burushaski,LANGUAGED
+4300,Chinese,LANGUAGED
+4301,"Chinese, Cantonese, Min, Yueh",LANGUAGED
+4302,Cantonese,LANGUAGED
+4303,Mandarin,LANGUAGED
+4310,Other Chinese,LANGUAGED
+4311,"Hakka, Fukien, Kechia",LANGUAGED
+4312,"Kan, Nan Chang",LANGUAGED
+4313,"Hsiang, Chansa, Hunan, Iyan",LANGUAGED
+4314,"Fuchow, Min Pei",LANGUAGED
+4315,Wu,LANGUAGED
+4400,Tibetan,LANGUAGED
+4410,"Miao-Yao, Mien",LANGUAGED
+4420,"Miao, Hmong",LANGUAGED
+4430,Iu Mien,LANGUAGED
+4500,"Burmese, Lisu, Lolo",LANGUAGED
+4510,Karen,LANGUAGED
+4520,Chin languages,LANGUAGED
+4600,Kachin,LANGUAGED
+4700,"Thai, Siamese, Lao",LANGUAGED
+4710,Thai,LANGUAGED
+4720,Laotian,LANGUAGED
+4800,Japanese,LANGUAGED
+4900,Korean,LANGUAGED
+5000,Vietnamese,LANGUAGED
+5100,Other East/Southeast Asian,LANGUAGED
+5110,Ainu,LANGUAGED
+5120,"Mon-Khmer, Cambodian",LANGUAGED
+5130,"Siberian, n.e.c.",LANGUAGED
+5140,Yukagir,LANGUAGED
+5150,Muong,LANGUAGED
+5200,Indonesian,LANGUAGED
+5210,Buginese,LANGUAGED
+5220,Moluccan,LANGUAGED
+5230,Achinese,LANGUAGED
+5240,Balinese,LANGUAGED
+5250,Cham,LANGUAGED
+5260,Madurese,LANGUAGED
+5270,Malay,LANGUAGED
+5280,Minangkabau,LANGUAGED
+5290,Other Asian languages,LANGUAGED
+5300,Other Malayan,LANGUAGED
+5310,"Formosan, Taiwanese",LANGUAGED
+5320,Javanese,LANGUAGED
+5330,Malagasy,LANGUAGED
+5340,Sundanese,LANGUAGED
+5400,"Filipino, Tagalog",LANGUAGED
+5410,Bisayan,LANGUAGED
+5420,Sebuano,LANGUAGED
+5430,Pangasinan,LANGUAGED
+5440,"Llocano, Hocano",LANGUAGED
+5450,Bikol,LANGUAGED
+5460,Pampangan,LANGUAGED
+5470,Gorontalo,LANGUAGED
+5480,Palau,LANGUAGED
+5500,"Micronesian, Polynesian",LANGUAGED
+5501,Micronesian,LANGUAGED
+5502,Carolinian,LANGUAGED
+5503,"Chamorro, Guamanian",LANGUAGED
+5504,Gilbertese,LANGUAGED
+5505,Kusaiean,LANGUAGED
+5506,Marshallese,LANGUAGED
+5507,Mokilese,LANGUAGED
+5508,Mortlockese,LANGUAGED
+5509,Nauruan,LANGUAGED
+5510,Ponapean,LANGUAGED
+5511,Trukese,LANGUAGED
+5512,"Ulithean, Fais",LANGUAGED
+5513,Woleai-Ulithi,LANGUAGED
+5514,Yapese,LANGUAGED
+5520,Melanesian,LANGUAGED
+5521,Polynesian,LANGUAGED
+5522,Samoan,LANGUAGED
+5523,Tongan,LANGUAGED
+5524,Niuean,LANGUAGED
+5525,Tokelauan,LANGUAGED
+5526,Fijian,LANGUAGED
+5527,Marquesan,LANGUAGED
+5528,Rarotongan,LANGUAGED
+5529,Maori,LANGUAGED
+5530,"Nukuoro, Kapingarangan",LANGUAGED
+5590,Other Pacific Island languages,LANGUAGED
+5600,Hawaiian,LANGUAGED
+5700,Arabic,LANGUAGED
+5710,"Algerian, Moroccan, Tunisian",LANGUAGED
+5720,Egyptian,LANGUAGED
+5730,Iraqi,LANGUAGED
+5740,Libyan,LANGUAGED
+5750,Maltese,LANGUAGED
+5800,Near East Arabic dialect,LANGUAGED
+5810,"Syriac, Aramaic, Chaldean",LANGUAGED
+5820,Syrian,LANGUAGED
+5900,"Hebrew, Israeli",LANGUAGED
+6000,"Amharic, Ethiopian, etc.",LANGUAGED
+6100,Hamitic,LANGUAGED
+6110,Berber,LANGUAGED
+6120,"Chadic, Hamitic, Hausa",LANGUAGED
+6130,"Cushite, Beja, Somali",LANGUAGED
+6200,Other Afro-Asiatic languages,LANGUAGED
+6300,Nilotic,LANGUAGED
+6301,Nilo-Hamitic,LANGUAGED
+6302,Nubian,LANGUAGED
+6303,Saharan,LANGUAGED
+6304,"Nilo-Saharan, Fur, Songhai",LANGUAGED
+6305,Khoisan,LANGUAGED
+6306,Sudanic,LANGUAGED
+6307,Bantu (many subheads),LANGUAGED
+6308,Swahili,LANGUAGED
+6309,Mande,LANGUAGED
+6310,Fulani,LANGUAGED
+6311,Gur,LANGUAGED
+6312,Kru,LANGUAGED
+6313,"Efik, Ibibio, Tiv",LANGUAGED
+6314,"Mbum, Gbaya, Sango, Zande",LANGUAGED
+6320,Eastern Sudanic and Khoisan,LANGUAGED
+6321,Niger-Congo regions (many subheads),LANGUAGED
+6322,"Congo, Kongo, Luba, Ruanda, Rundi, Santali, Swahili",LANGUAGED
+6390,Other specified African languages,LANGUAGED
+6400,"African, n.s.",LANGUAGED
+7000,American Indian (all),LANGUAGED
+7100,"Aleut, Eskimo",LANGUAGED
+7110,Aleut,LANGUAGED
+7120,Pacific Gulf Yupik,LANGUAGED
+7130,Eskimo,LANGUAGED
+7140,"Inupik, Innuit",LANGUAGED
+7150,St. Lawrence Isl. Yupik,LANGUAGED
+7160,Yupik,LANGUAGED
+7200,Algonquian,LANGUAGED
+7201,Arapaho,LANGUAGED
+7202,"Atsina, Gros Ventre",LANGUAGED
+7203,Blackfoot,LANGUAGED
+7204,Cheyenne,LANGUAGED
+7205,Cree,LANGUAGED
+7206,"Delaware, Lenni-Lenape",LANGUAGED
+7207,"Fox, Sac",LANGUAGED
+7208,Kickapoo,LANGUAGED
+7209,Menomini,LANGUAGED
+7210,"Metis, French Cree",LANGUAGED
+7211,Miami,LANGUAGED
+7212,Micmac,LANGUAGED
+7213,"Ojibwa, Chippewa",LANGUAGED
+7214,Ottawa,LANGUAGED
+7215,"Passamaquoddy, Malecite",LANGUAGED
+7216,Penobscot,LANGUAGED
+7217,Abnaki,LANGUAGED
+7218,Potawatomi,LANGUAGED
+7219,Shawnee,LANGUAGED
+7300,"Salish, Flathead",LANGUAGED
+7301,Lower Chehalis,LANGUAGED
+7302,"Upper Chehalis, Chelalis, Satsop",LANGUAGED
+7303,Clallam,LANGUAGED
+7304,"Coeur dAlene, Skitsamish",LANGUAGED
+7305,"Columbia, Chelan, Wenatchee",LANGUAGED
+7306,Cowlitz,LANGUAGED
+7307,Nootsack,LANGUAGED
+7308,Okanogan,LANGUAGED
+7309,Puget Sound Salish,LANGUAGED
+7310,"Quinault, Queets",LANGUAGED
+7311,Tillamook,LANGUAGED
+7312,Twana,LANGUAGED
+7313,Kalispel,LANGUAGED
+7314,Spokane,LANGUAGED
+7400,Athapascan,LANGUAGED
+7401,Ahtena,LANGUAGED
+7402,Han,LANGUAGED
+7403,Ingalit,LANGUAGED
+7404,Koyukon,LANGUAGED
+7405,Kuchin,LANGUAGED
+7406,Upper Kuskokwim,LANGUAGED
+7407,Tanaina,LANGUAGED
+7408,"Tanana, Minto",LANGUAGED
+7409,Tanacross,LANGUAGED
+7410,"Upper Tanana, Nabesena, Tetlin",LANGUAGED
+7411,Tutchone,LANGUAGED
+7412,"Chasta Costa, Chetco, Coquille, Smith River Athapascan",LANGUAGED
+7413,Hupa,LANGUAGED
+7420,Apache,LANGUAGED
+7421,"Jicarilla, Lipan",LANGUAGED
+7422,"Chiricahua, Mescalero",LANGUAGED
+7423,"San Carlos, Cibecue, White Mountain",LANGUAGED
+7424,Kiowa-Apache,LANGUAGED
+7430,Kiowa,LANGUAGED
+7440,Eyak,LANGUAGED
+7450,"Other Athapascan-Eyak, Cahto, Mattole, Wailaki",LANGUAGED
+7490,Other Algonquin languages,LANGUAGED
+7500,Navajo,LANGUAGED
+7600,Penutian-Sahaptin,LANGUAGED
+7610,"Klamath, Modoc",LANGUAGED
+7620,Nez Perce,LANGUAGED
+7630,"Sahaptian, Celilo, Klikitat, Palouse, Tenino, Umatilla, Warm",LANGUAGED
+7700,"Mountain Maidu, Maidu",LANGUAGED
+7701,"Northwest Maidu, Concow",LANGUAGED
+7702,"Southern Maidu, Nisenan",LANGUAGED
+7703,"Coast Miwok, Bodega, Marin",LANGUAGED
+7704,Plains Miwok,LANGUAGED
+7705,"Sierra Miwok, Miwok",LANGUAGED
+7706,"Nomlaki, Tehama",LANGUAGED
+7707,"Patwin, Colouse, Suisun",LANGUAGED
+7708,Wintun,LANGUAGED
+7709,Foothill North Yokuts,LANGUAGED
+7710,Tachi,LANGUAGED
+7711,"Santiam, Calapooya, Wapatu",LANGUAGED
+7712,"Siuslaw, Coos, Lower Umpqua",LANGUAGED
+7713,Tsimshian,LANGUAGED
+7714,"Upper Chinook, Clackamas, Multnomah, Wasco, Wishram",LANGUAGED
+7715,Chinook Jargon,LANGUAGED
+7800,Zuni,LANGUAGED
+7900,Yuman,LANGUAGED
+7910,Upriver Yuman,LANGUAGED
+7920,Cocomaricopa,LANGUAGED
+7930,Mohave,LANGUAGED
+7940,Diegueno,LANGUAGED
+7950,Delta River Yuman,LANGUAGED
+7960,Upland Yuman,LANGUAGED
+7970,Havasupai,LANGUAGED
+7980,Walapai,LANGUAGED
+7990,Yavapai,LANGUAGED
+8000,Achumawi,LANGUAGED
+8010,Atsugewi,LANGUAGED
+8020,Karok,LANGUAGED
+8030,Pomo,LANGUAGED
+8040,Shastan,LANGUAGED
+8050,Washo,LANGUAGED
+8060,Chumash,LANGUAGED
+8100,Siouan languages,LANGUAGED
+8101,"Crow, Absaroke",LANGUAGED
+8102,Hidatsa,LANGUAGED
+8103,Mandan,LANGUAGED
+8104,"Dakota, Lakota, Nakota, Sioux",LANGUAGED
+8105,Chiwere,LANGUAGED
+8106,Winnebago,LANGUAGED
+8107,"Kansa, Kaw",LANGUAGED
+8108,Omaha,LANGUAGED
+8109,Osage,LANGUAGED
+8110,Ponca,LANGUAGED
+8111,"Quapaw, Arkansas",LANGUAGED
+8120,Iowa,LANGUAGED
+8200,Muskogean,LANGUAGED
+8210,Alabama,LANGUAGED
+8220,"Choctaw, Chickasaw",LANGUAGED
+8230,Mikasuki,LANGUAGED
+8240,"Hichita, Apalachicola",LANGUAGED
+8250,Koasati,LANGUAGED
+8260,"Muskogee, Creek, Seminole",LANGUAGED
+8300,Keres,LANGUAGED
+8400,Iroquoian,LANGUAGED
+8410,Mohawk,LANGUAGED
+8420,Oneida,LANGUAGED
+8430,Onondaga,LANGUAGED
+8440,Cayuga,LANGUAGED
+8450,Seneca,LANGUAGED
+8460,Tuscarora,LANGUAGED
+8470,"Wyandot, Huron",LANGUAGED
+8480,Cherokee,LANGUAGED
+8500,Caddoan,LANGUAGED
+8510,Arikara,LANGUAGED
+8520,Pawnee,LANGUAGED
+8530,Wichita,LANGUAGED
+8600,Shoshonean/Hopi,LANGUAGED
+8601,Comanche,LANGUAGED
+8602,"Mono, Owens Valley Paiute",LANGUAGED
+8603,Paiute,LANGUAGED
+8604,"Northern Paiute, Bannock, Num, Snake",LANGUAGED
+8605,Southern Paiute,LANGUAGED
+8606,Chemehuevi,LANGUAGED
+8607,Kawaiisu,LANGUAGED
+8608,Ute,LANGUAGED
+8609,Shoshoni,LANGUAGED
+8610,Panamint,LANGUAGED
+8620,Hopi,LANGUAGED
+8630,Cahuilla,LANGUAGED
+8631,Cupeno,LANGUAGED
+8632,Luiseno,LANGUAGED
+8633,Serrano,LANGUAGED
+8640,Tubatulabal,LANGUAGED
+8700,"Pima, Papago",LANGUAGED
+8800,Yaqui,LANGUAGED
+8810,"Sonoran n.e.c., Cahita, Guasave, Huichole, Nayit, Tarahumar",LANGUAGED
+8820,Tarahumara,LANGUAGED
+8900,"Aztecan, Nahuatl, Uto-Aztecan",LANGUAGED
+8910,"Aztecan, Mexicano, Nahua",LANGUAGED
+9000,Tanoan languages,LANGUAGED
+9010,"Picuris, Northern Tiwa, Taos",LANGUAGED
+9020,"Tiwa, Isleta",LANGUAGED
+9030,Sandia,LANGUAGED
+9040,"Tewa, Hano, Hopi-Tewa, San Ildefonso, San Juan, Santa Clara",LANGUAGED
+9050,Towa,LANGUAGED
+9100,Wiyot,LANGUAGED
+9101,Yurok,LANGUAGED
+9110,Kwakiutl,LANGUAGED
+9111,Nootka,LANGUAGED
+9112,Makah,LANGUAGED
+9120,Kutenai,LANGUAGED
+9130,Haida,LANGUAGED
+9131,"Tlingit, Chilkat, Sitka, Tongass, Yakutat",LANGUAGED
+9140,Tonkawa,LANGUAGED
+9150,Yuchi,LANGUAGED
+9160,Chetemacha,LANGUAGED
+9170,Yuki,LANGUAGED
+9171,Wappo,LANGUAGED
+9200,Mayan languages,LANGUAGED
+9210,Misumalpan,LANGUAGED
+9211,Cakchiquel,LANGUAGED
+9212,Mam,LANGUAGED
+9213,Maya,LANGUAGED
+9214,Quekchi,LANGUAGED
+9215,Quiche,LANGUAGED
+9220,Tarascan,LANGUAGED
+9230,Mapuche,LANGUAGED
+9231,Araucanian,LANGUAGED
+9240,Oto-Manguen,LANGUAGED
+9241,Mixtec,LANGUAGED
+9242,Zapotec,LANGUAGED
+9250,Quechua,LANGUAGED
+9260,Aymara,LANGUAGED
+9270,Arawakian,LANGUAGED
+9271,Island Caribs,LANGUAGED
+9280,Chibchan,LANGUAGED
+9281,Cuna,LANGUAGED
+9282,Guaymi,LANGUAGED
+9290,Tupi-Guarani,LANGUAGED
+9291,Tupi,LANGUAGED
+9292,Guarani,LANGUAGED
+9300,"American Indian, n.s.",LANGUAGED
+9400,Native,LANGUAGED
+9410,Other specified American Indian languages,LANGUAGED
+9420,South/Central American Indian,LANGUAGED
+9500,No language,LANGUAGED
+9600,Other or not reported,LANGUAGED
+9601,Other n.e.c.,LANGUAGED
+9602,Other n.s.,LANGUAGED
+9999,,LANGUAGED
+0,N/A (Blank),SPEAKING
+1,Does not speak English,SPEAKING
+2,"Yes, speaks English...",SPEAKING
+3,"Yes, speaks only English",SPEAKING
+4,"Yes, speaks very well",SPEAKING
+5,"Yes, speaks well",SPEAKING
+6,"Yes, but not well",SPEAKING
+7,Unknown,SPEAKING
+8,Illegible,SPEAKING
+1,White,RACESING
+2,Black,RACESING
+3,American Indian/Alaska Native,RACESING
+4,Asian and/or Pacific Islander,RACESING
+5,"Other race, non-Hispanic",RACESING
+10,White,RACESINGD
+12,"""Other race"", Hispanic",RACESINGD
+20,Black,RACESINGD
+21,Mulatto,RACESINGD
+30,AI (American Indian),RACESINGD
+31,AN (Alaskan Native),RACESINGD
+32,AI/AN (American Indian/Alaskan Native),RACESINGD
+40,Asian Indian,RACESINGD
+41,Chinese,RACESINGD
+42,Filipino,RACESINGD
+43,Japanese,RACESINGD
+44,Korean,RACESINGD
+45,Asian,RACESINGD
+46,Hawaiian,RACESINGD
+47,PI (Pacific Islander),RACESINGD
+48,Asian and PI (Pacific Islander),RACESINGD
+50,"Other race, non-Hispanic",RACESINGD
+51,Other race,RACESINGD
+0,Accountants and auditors,OCC1950
+1,Actors and actresses,OCC1950
+2,Airplane pilots and navigators,OCC1950
+3,Architects,OCC1950
+4,Artists and art teachers,OCC1950
+5,Athletes,OCC1950
+6,Authors,OCC1950
+7,Chemists,OCC1950
+8,Chiropractors,OCC1950
+9,Clergymen,OCC1950
+10,College presidents and deans,OCC1950
+12,Agricultural sciences-Professors and instructors,OCC1950
+13,Biological sciences-Professors and instructors,OCC1950
+14,Chemistry-Professors and instructors,OCC1950
+15,Economics-Professors and instructors,OCC1950
+16,Engineering-Professors and instructors,OCC1950
+17,Geology and geophysics-Professors and instructors,OCC1950
+18,Mathematics-Professors and instructors,OCC1950
+19,Medical Sciences-Professors and instructors,OCC1950
+23,Physics-Professors and instructors,OCC1950
+24,Psychology-Professors and instructors,OCC1950
+25,Statistics-Professors and instructors,OCC1950
+26,Natural science (nec)-Professors and instructors,OCC1950
+27,Social sciences (nec)-Professors and instructors,OCC1950
+28,Non-scientific subjects-Professors and instructors,OCC1950
+29,Subject not specified-Professors and instructors,OCC1950
+31,Dancers and dancing teachers,OCC1950
+32,Dentists,OCC1950
+33,Designers,OCC1950
+34,Dietitians and nutritionists,OCC1950
+35,Draftsmen,OCC1950
+36,Editors and reporters,OCC1950
+41,Aeronautical-Engineers,OCC1950
+42,Chemical-Engineers,OCC1950
+43,Civil-Engineers,OCC1950
+44,Electrical-Engineers,OCC1950
+45,Industrial-Engineers,OCC1950
+46,Mechanical-Engineers,OCC1950
+47,"Metallurgical, metallurgists-Engineers",OCC1950
+48,Mining-Engineers,OCC1950
+49,Engineers (nec),OCC1950
+51,Entertainers (nec),OCC1950
+52,Farm and home management advisors,OCC1950
+53,Foresters and conservationists,OCC1950
+54,Funeral directors and embalmers,OCC1950
+55,Lawyers and judges,OCC1950
+56,Librarians,OCC1950
+57,Musicians and music teachers,OCC1950
+58,"Nurses, professional",OCC1950
+59,"Nurses, student professional",OCC1950
+61,Agricultural scientists,OCC1950
+62,Biological scientists,OCC1950
+63,Geologists and geophysicists,OCC1950
+67,Mathematicians,OCC1950
+68,Physicists,OCC1950
+69,Misc. natural scientists,OCC1950
+70,Optometrists,OCC1950
+71,Osteopaths,OCC1950
+72,Personnel and labor relations workers,OCC1950
+73,Pharmacists,OCC1950
+74,Photographers,OCC1950
+75,Physicians and surgeons,OCC1950
+76,Radio operators,OCC1950
+77,Recreation and group workers,OCC1950
+78,Religious workers,OCC1950
+79,"Social and welfare workers, except group",OCC1950
+81,Economists,OCC1950
+82,Psychologists,OCC1950
+83,Statisticians and actuaries,OCC1950
+84,Misc social scientists,OCC1950
+91,Sports instructors and officials,OCC1950
+92,Surveyors,OCC1950
+93,Teachers (n.e.c.),OCC1950
+94,Medical and dental-technicians,OCC1950
+95,Testing-technicians,OCC1950
+96,Technicians (nec),OCC1950
+97,Therapists and healers (nec),OCC1950
+98,Veterinarians,OCC1950
+99,"Professional, technical and kindred workers (nec)",OCC1950
+100,Farmers (owners and tenants),OCC1950
+123,Farm managers,OCC1950
+200,"Buyers and dept heads, store",OCC1950
+201,"Buyers and shippers, farm products",OCC1950
+203,"Conductors, railroad",OCC1950
+204,Credit men,OCC1950
+205,"Floormen and floor managers, store",OCC1950
+210,"Inspectors, public administration",OCC1950
+230,"Managers and superintendants, building",OCC1950
+240,"Officers, pilots, pursers and engineers, ship",OCC1950
+250,"Officials and administratators (nec), public administration",OCC1950
+260,"Officials, lodge, society, union, etc.",OCC1950
+270,Postmasters,OCC1950
+280,Purchasing agents and buyers (nec),OCC1950
+290,"Managers, officials, and proprietors (nec)",OCC1950
+300,Agents (nec),OCC1950
+301,"Attendants and assistants, library",OCC1950
+302,"Attendants, physicians and dentists office",OCC1950
+304,"Baggagemen, transportation",OCC1950
+305,Bank tellers,OCC1950
+310,Bookkeepers,OCC1950
+320,Cashiers,OCC1950
+321,"Collectors, bill and account",OCC1950
+322,"Dispatchers and starters, vehicle",OCC1950
+325,Express messengers and railway mail clerks,OCC1950
+335,Mail carriers,OCC1950
+340,Messengers and office boys,OCC1950
+341,Office machine operators,OCC1950
+342,Shipping and receiving clerks,OCC1950
+350,"Stenographers, typists, and secretaries",OCC1950
+360,Telegraph messengers,OCC1950
+365,Telegraph operators,OCC1950
+370,Telephone operators,OCC1950
+380,"Ticket, station, and express agents",OCC1950
+390,Clerical and kindred workers (n.e.c.),OCC1950
+400,Advertising agents and salesmen,OCC1950
+410,Auctioneers,OCC1950
+420,Demonstrators,OCC1950
+430,Hucksters and peddlers,OCC1950
+450,Insurance agents and brokers,OCC1950
+460,Newsboys,OCC1950
+470,Real estate agents and brokers,OCC1950
+480,Stock and bond salesmen,OCC1950
+490,Salesmen and sales clerks (nec),OCC1950
+500,Bakers,OCC1950
+501,Blacksmiths,OCC1950
+502,Bookbinders,OCC1950
+503,Boilermakers,OCC1950
+504,"Brickmasons,stonemasons, and tile setters",OCC1950
+505,Cabinetmakers,OCC1950
+510,Carpenters,OCC1950
+511,Cement and concrete finishers,OCC1950
+512,Compositors and typesetters,OCC1950
+513,"Cranemen,derrickmen, and hoistmen",OCC1950
+514,Decorators and window dressers,OCC1950
+515,Electricians,OCC1950
+520,Electrotypers and stereotypers,OCC1950
+521,"Engravers, except photoengravers",OCC1950
+522,"Excavating, grading, and road machinery operators",OCC1950
+523,Foremen (nec),OCC1950
+524,Forgemen and hammermen,OCC1950
+525,Furriers,OCC1950
+530,Glaziers,OCC1950
+531,"Heat treaters, annealers, temperers",OCC1950
+532,"Inspectors, scalers, and graders log and lumber",OCC1950
+533,Inspectors (nec),OCC1950
+534,"Jewelers, watchmakers, goldsmiths, and silversmiths",OCC1950
+535,"Job setters, metal",OCC1950
+540,"Linemen and servicemen, telegraph, telephone, and power",OCC1950
+541,Locomotive engineers,OCC1950
+542,Locomotive firemen,OCC1950
+543,Loom fixers,OCC1950
+544,Machinists,OCC1950
+545,Airplane-mechanics and repairmen,OCC1950
+550,Automobile-mechanics and repairmen,OCC1950
+551,Office machine-mechanics and repairmen,OCC1950
+552,Radio and television-mechanics and repairmen,OCC1950
+553,Railroad and car shop-mechanics and repairmen,OCC1950
+554,Mechanics and repairmen (nec),OCC1950
+555,"Millers, grain, flour, feed, etc",OCC1950
+560,Millwrights,OCC1950
+561,"Molders, metal",OCC1950
+562,Motion picture projectionists,OCC1950
+563,Opticians and lens grinders and polishers,OCC1950
+564,"Painters, construction and maintenance",OCC1950
+565,Paperhangers,OCC1950
+570,"Pattern and model makers, except paper",OCC1950
+571,Photoengravers and lithographers,OCC1950
+572,Piano and organ tuners and repairmen,OCC1950
+573,Plasterers,OCC1950
+574,Plumbers and pipe fitters,OCC1950
+575,"Pressmen and plate printers, printing",OCC1950
+580,"Rollers and roll hands, metal",OCC1950
+581,Roofers and slaters,OCC1950
+582,"Shoemakers and repairers, except factory",OCC1950
+583,Stationary engineers,OCC1950
+584,Stone cutters and stone carvers,OCC1950
+585,Structural metal workers,OCC1950
+590,Tailors and tailoresses,OCC1950
+591,"Tinsmiths, coppersmiths, and sheet metal workers",OCC1950
+592,"Tool makers, and die makers and setters",OCC1950
+593,Upholsterers,OCC1950
+594,Craftsmen and kindred workers (nec),OCC1950
+595,Members of the armed services,OCC1950
+600,Auto mechanics apprentice,OCC1950
+601,Bricklayers and masons apprentice,OCC1950
+602,Carpenters apprentice,OCC1950
+603,Electricians apprentice,OCC1950
+604,Machinists and toolmakers apprentice,OCC1950
+605,"Mechanics, except auto apprentice",OCC1950
+610,Plumbers and pipe fitters apprentice,OCC1950
+611,"Apprentices, building trades (nec)",OCC1950
+612,"Apprentices, metalworking trades (nec)",OCC1950
+613,"Apprentices, printing trades",OCC1950
+614,"Apprentices, other specified trades",OCC1950
+615,"Apprentices, trade not specified",OCC1950
+620,Asbestos and insulation workers,OCC1950
+621,"Attendants, auto service and parking",OCC1950
+622,Blasters and powdermen,OCC1950
+623,"Boatmen, canalmen, and lock keepers",OCC1950
+624,"Brakemen, railroad",OCC1950
+625,Bus drivers,OCC1950
+630,"Chainmen, rodmen, and axmen, surveying",OCC1950
+631,"Conductors, bus and street railway",OCC1950
+632,Deliverymen and routemen,OCC1950
+633,"Dressmakers and seamstresses, except factory",OCC1950
+634,Dyers,OCC1950
+635,"Filers, grinders, and polishers, metal",OCC1950
+640,"Fruit, nut, and vegetable graders, and packers, except facto",OCC1950
+641,"Furnacemen, smeltermen and pourers",OCC1950
+642,"Heaters, metal",OCC1950
+643,Laundry and dry cleaning Operatives,OCC1950
+644,"Meat cutters, except slaughter and packing house",OCC1950
+645,Milliners,OCC1950
+650,Mine operatives and laborers,OCC1950
+660,"Motormen, mine, factory, logging camp, etc",OCC1950
+661,"Motormen, street, subway, and elevated railway",OCC1950
+662,"Oilers and greaser, except auto",OCC1950
+670,"Painters, except construction or maintenance",OCC1950
+671,Photographic process workers,OCC1950
+672,Power station operators,OCC1950
+673,Sailors and deck hands,OCC1950
+674,Sawyers,OCC1950
+675,"Spinners, textile",OCC1950
+680,Stationary firemen,OCC1950
+681,"Switchmen, railroad",OCC1950
+682,Taxicab drivers and chauffeurs,OCC1950
+683,Truck and tractor drivers,OCC1950
+684,"Weavers, textile",OCC1950
+685,Welders and flame cutters,OCC1950
+690,Operative and kindred workers (nec),OCC1950
+700,"Housekeepers, private household",OCC1950
+710,"Laundresses, private household",OCC1950
+720,Private household workers (nec),OCC1950
+730,"Attendants, hospital and other institution",OCC1950
+731,"Attendants, professional and personal service (nec)",OCC1950
+732,"Attendants, recreation and amusement",OCC1950
+740,"Barbers, beauticians, and manicurists",OCC1950
+750,Bartenders,OCC1950
+751,Bootblacks,OCC1950
+752,Boarding and lodging house keepers,OCC1950
+753,Charwomen and cleaners,OCC1950
+754,"Cooks, except private household",OCC1950
+760,Counter and fountain workers,OCC1950
+761,Elevator operators,OCC1950
+762,"Firemen, fire protection",OCC1950
+763,"Guards, watchmen, and doorkeepers",OCC1950
+764,"Housekeepers and stewards, except private household",OCC1950
+770,Janitors and sextons,OCC1950
+771,Marshals and constables,OCC1950
+772,Midwives,OCC1950
+773,Policemen and detectives,OCC1950
+780,Porters,OCC1950
+781,Practical nurses,OCC1950
+782,Sheriffs and bailiffs,OCC1950
+783,"Ushers, recreation and amusement",OCC1950
+784,Waiters and waitresses,OCC1950
+785,Watchmen (crossing) and bridge tenders,OCC1950
+790,"Service workers, except private household (nec)",OCC1950
+810,Farm foremen,OCC1950
+820,"Farm laborers, wage workers",OCC1950
+830,"Farm laborers, unpaid family workers",OCC1950
+840,"Farm service laborers, self-employed",OCC1950
+910,Fishermen and oystermen,OCC1950
+920,Garage laborers and car washers and greasers,OCC1950
+930,"Gardeners, except farm and groundskeepers",OCC1950
+940,Longshoremen and stevedores,OCC1950
+950,"Lumbermen, raftsmen, and woodchoppers",OCC1950
+960,Teamsters,OCC1950
+970,Laborers (nec),OCC1950
+979,Not yet classified,OCC1950
+980,Keeps house/housekeeping at home/housewife,OCC1950
+981,Imputed keeping house (1850-1900),OCC1950
+982,Helping at home/helps parents/housework,OCC1950
+983,At school/student,OCC1950
+984,Retired,OCC1950
+985,Unemployed/without occupation,OCC1950
+986,Invalid/disabled w/ no occupation reported,OCC1950
+987,Inmate,OCC1950
+990,New Worker,OCC1950
+991,Gentleman/lady/at leisure,OCC1950
+995,Other non-occupation,OCC1950
+997,Occupation missing/unknown,OCC1950
+999,N/A (blank),OCC1950
+0,N/A or none reported,IND1950
+105,Agriculture,IND1950
+116,Forestry,IND1950
+126,Fisheries,IND1950
+206,Metal mining,IND1950
+216,Coal mining,IND1950
+226,Crude petroleum and natural gas extraction,IND1950
+236,"Nonmettalic mining and quarrying, except fuel",IND1950
+239,"Mining, not specified",IND1950
+246,Construction,IND1950
+306,Logging,IND1950
+307,"Sawmills, planing mills, and mill work",IND1950
+308,Misc wood products,IND1950
+309,Furniture and fixtures,IND1950
+316,Glass and glass products,IND1950
+317,"Cement, concrete, gypsum and plaster products",IND1950
+318,Structural clay products,IND1950
+319,Pottery and related prods,IND1950
+326,Misc nonmetallic mineral and stone products,IND1950
+336,"Blast furnaces, steel works, and rolling mills",IND1950
+337,Other primary iron and steel industries,IND1950
+338,Primary nonferrous industries,IND1950
+346,Fabricated steel products,IND1950
+347,Fabricated nonferrous metal products,IND1950
+348,Not specified metal industries,IND1950
+356,Agricultural machinery and tractors,IND1950
+357,Office and store machines,IND1950
+358,Misc machinery,IND1950
+367,"Electrical machinery, equipment and supplies",IND1950
+376,Motor vehicles and motor vehicle equipment,IND1950
+377,Aircraft and parts,IND1950
+378,Ship and boat building and repairing,IND1950
+379,Railroad and misc transportation equipment,IND1950
+386,Professional equipment,IND1950
+387,Photographic equipment and supplies,IND1950
+388,"Watches, clocks, and clockwork-operated devices",IND1950
+399,Misc manufacturing industries,IND1950
+406,Meat products,IND1950
+407,Dairy products,IND1950
+408,"Canning and preserving fruits, vegetables, and seafoods",IND1950
+409,Grain-mill products,IND1950
+416,Bakery products,IND1950
+417,Confectionery and related products,IND1950
+418,Beverage industries,IND1950
+419,Misc food preparations and kindred products,IND1950
+426,Not specified food industries,IND1950
+429,Tobacco manufactures,IND1950
+436,Knitting mills,IND1950
+437,"Dyeing and finishing textiles, except knit goods",IND1950
+438,"Carpets, rugs, and other floor coverings",IND1950
+439,"Yarn, thread, and fabric",IND1950
+446,Misc textile mill products,IND1950
+448,Apparel and accessories,IND1950
+449,Misc fabricated textile products,IND1950
+456,"Pulp, paper, and paper-board mills",IND1950
+457,Paperboard containers and boxes,IND1950
+458,Misc paper and pulp products,IND1950
+459,"Printing, publishing, and allied industries",IND1950
+466,Synthetic fibers,IND1950
+467,Drugs and medicines,IND1950
+468,"Paints, varnishes, and related products",IND1950
+469,Misc chemicals and allied products,IND1950
+476,Petroleum refining,IND1950
+477,Misc petroleum and coal products,IND1950
+478,Rubber products,IND1950
+487,"Leather: tanned, curried, and finished",IND1950
+488,"Footwear, except rubber",IND1950
+489,"Leather products, except footwear",IND1950
+499,Not specified manufacturing industries,IND1950
+506,Railroads and railway,IND1950
+516,Street railways and bus lines,IND1950
+526,Trucking service,IND1950
+527,Warehousing and storage,IND1950
+536,Taxicab service,IND1950
+546,Water transportation,IND1950
+556,Air transportation,IND1950
+567,Petroleum and gasoline pipe lines,IND1950
+568,Services incidental to transportation,IND1950
+578,Telephone,IND1950
+579,Telegraph,IND1950
+586,Electric light and power,IND1950
+587,Gas and steam supply systems,IND1950
+588,Electric-gas utilities,IND1950
+596,Water supply,IND1950
+597,Sanitary services,IND1950
+598,Other and not specified utilities,IND1950
+606,Motor vehicles and equipment,IND1950
+607,"Drugs, chemicals, and allied products",IND1950
+608,Dry goods apparel,IND1950
+609,Food and related products,IND1950
+616,"Electrical goods, hardware, and plumbing equipment",IND1950
+617,"Machinery, equipment, and supplies",IND1950
+618,Petroleum products,IND1950
+619,Farm prods--raw materials,IND1950
+626,Misc wholesale trade,IND1950
+627,Not specified wholesale trade,IND1950
+636,"Food stores, except dairy",IND1950
+637,Dairy prods stores and milk retailing,IND1950
+646,General merchandise,IND1950
+647,Five and ten cent stores,IND1950
+656,"Apparel and accessories stores, except shoe",IND1950
+657,Shoe stores,IND1950
+658,Furniture and house furnishings stores,IND1950
+659,Household appliance and radio stores,IND1950
+667,Motor vehicles and accessories retailing,IND1950
+668,Gasoline service stations,IND1950
+669,Drug stores,IND1950
+679,Eating and drinking places,IND1950
+686,Hardware and farm implement stores,IND1950
+687,Lumber and building material retailing,IND1950
+688,Liquor stores,IND1950
+689,Retail florists,IND1950
+696,Jewelry stores,IND1950
+697,Fuel and ice retailing,IND1950
+698,Misc retail stores,IND1950
+699,Not specified retail trade,IND1950
+716,Banking and credit,IND1950
+726,Security and commodity brokerage and invest companies,IND1950
+736,Insurance,IND1950
+746,Real estate,IND1950
+756,Real estate-insurance-law offices,IND1950
+806,Advertising,IND1950
+807,"Accounting, auditing, and bookkeeping services",IND1950
+808,Misc business services,IND1950
+816,Auto repair services and garages,IND1950
+817,Misc repair services,IND1950
+826,Private households,IND1950
+836,Hotels and lodging places,IND1950
+846,"Laundering, cleaning, and dyeing",IND1950
+847,Dressmaking shops,IND1950
+848,Shoe repair shops,IND1950
+849,Misc personal services,IND1950
+856,Radio broadcasting and television,IND1950
+857,Theaters and motion pictures,IND1950
+858,"Bowling alleys, and billiard and pool parlors",IND1950
+859,Misc entertainment and recreation services,IND1950
+868,"Medical and other health services, except hospitals",IND1950
+869,Hospitals,IND1950
+879,Legal services,IND1950
+888,Educational services,IND1950
+896,Welfare and religious services,IND1950
+897,Nonprofit membership organizs.,IND1950
+898,Engineering and architectural services,IND1950
+899,Misc professional and related,IND1950
+906,Postal service,IND1950
+916,Federal public administration,IND1950
+926,State public administration,IND1950
+936,Local public administration,IND1950
+946,"Public Administration, level not specified",IND1950
+976,Common or general laborer,IND1950
+979,Not yet specified,IND1950
+980,Unpaid domestic work,IND1950
+982,Housework at home,IND1950
+983,"School response (students, etc.)",IND1950
+984,Retired,IND1950
+986,Sick/disabled,IND1950
+987,Institution response,IND1950
+991,Lady/Man of leisure,IND1950
+995,Non-industrial response,IND1950
+997,Nonclassifiable,IND1950
+998,Industry not reported,IND1950
+999,Blank or blank equivalent,IND1950
