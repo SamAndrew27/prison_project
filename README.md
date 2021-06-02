@@ -65,6 +65,8 @@
 * 985 in IND1950
 * DONT SEEM TO SEE ANY SIMPLE EXPLANATION IN VARIABLE DOCUMENTATION, PERHAPS A GOOGLE WILL HELP?
 
+* there were no unmatched in the sample set 
+
 ## Variable Descriptions
 ### HHWT
 HHWT indicates how many households in the U.S. population are represented by a given household in an IPUMS sample.

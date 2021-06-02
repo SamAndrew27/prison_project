@@ -43,6 +43,8 @@ def load_and_clean(all_data = True, sample=True, drop_unused_cols=True, drop_ref
             file = filename
 
     codes = pd.read_csv('../../data/original_data/IPUMS_codes.csv')
+    if all_data:
+        codes = codes[codes['Variable'] != 'SAMPLE']
 
     for variable in codes['Variable'].unique():
         code_dict = {}
@@ -70,8 +72,28 @@ def code_apply(x, code_dict):
         return x
     else:
         return code_dict.get(x, 'Unmatched Code')
-if __name__=="__main__":
-    # def load_and_clean(all_data = True, sample=True, drop_unused_cols=True, drop_reformatted_cols=True, save=False, filename='Default'):
 
-    load_and_clean(all_data=True, sample=False, save=True)
-    load_and_clean(all_data=False, sample=False, save=True)
+def find_unmatched(all_data=True, drop_unused_cols=True, sample=False):
+    df = load_and_clean(all_data=all_data, drop_unused_cols=drop_unused_cols,  sample=sample, drop_reformatted_cols=False)
+    unmatched_counts = {}
+    unmatched_codes = set()
+    cleaned_cols = []
+    for col in df.columns:
+        if 'cleaned' in col:
+            cleaned_cols.append(col)
+    for idx, row in df.iterrows():
+        for col in cleaned_cols:
+            if row[col] == 'Unmatched Code':
+                original_col = col.replace('_cleaned', '')
+                unmatched_codes.add(f'{original_col}:{row[original_col]}')
+                if original_col in unmatched_counts:
+                    unmatched_counts[original_col] += 1
+                else:
+                    unmatched_counts[original_col] = 1
+    return unmatched_counts, unmatched_codes
+                
+
+
+if __name__=="__main__":
+
+    load_and_clean(all_data = False, sample=False, drop_unused_cols=True, drop_reformatted_cols=True, save=True, filename='Default')

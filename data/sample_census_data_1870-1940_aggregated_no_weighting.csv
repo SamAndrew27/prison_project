@@ -1,0 +1,2386 @@
+,variable,year,sample,population
+0,White,1870,1870 1%,369
+1,Black/African American/Negro,1870,1870 1%,2
+2,American Indian or Alaska Native,1870,1870 1%,1
+3,White,1870,1870 1% sample with black oversample,375
+4,Black/African American/Negro,1870,1870 1% sample with black oversample,4
+5,American Indian or Alaska Native,1870,1870 1% sample with black oversample,1
+6,White,1880,1880 1%,1942
+7,Black/African American/Negro,1880,1880 1%,125
+8,Chinese,1880,1880 1%,7
+9,American Indian or Alaska Native,1880,1880 1%,1
+10,White,1880,1880 10%,20714
+11,Chinese,1880,1880 10%,61
+12,Black/African American/Negro,1880,1880 10%,648
+13,American Indian or Alaska Native,1880,1880 10%,20
+14,White,1900,1900 5%,27219
+15,Black/African American/Negro,1900,1900 5%,425
+16,Chinese,1900,1900 5%,47
+17,Japanese,1900,1900 5%,1
+18,American Indian or Alaska Native,1900,1900 5%,2
+19,White,1900,1900 1%,5336
+20,Chinese,1900,1900 1%,13
+21,Black/African American/Negro,1900,1900 1%,82
+22,American Indian or Alaska Native,1900,1900 1%,12
+23,White,1900,1900 1% sample with oversamples,5336
+24,Chinese,1900,1900 1% sample with oversamples,13
+25,Black/African American/Negro,1900,1900 1% sample with oversamples,82
+26,American Indian or Alaska Native,1900,1900 1% sample with oversamples,280
+27,White,1910,1910 1%,7813
+28,Black/African American/Negro,1910,1910 1%,115
+29,Japanese,1910,1910 1%,8
+30,American Indian or Alaska Native,1910,1910 1%,15
+31,White,1910,1910 1.4% sample with oversamples,10894
+32,Black/African American/Negro,1910,1910 1.4% sample with oversamples,152
+33,Japanese,1910,1910 1.4% sample with oversamples,11
+34,American Indian or Alaska Native,1910,1910 1.4% sample with oversamples,159
+35,"Other race, nec",1910,1910 1.4% sample with oversamples,17
+36,White,1920,1920 1%,9460
+37,Black/African American/Negro,1920,1920 1%,131
+38,Japanese,1920,1920 1%,34
+39,Other Asian or Pacific Islander,1920,1920 1%,2
+40,American Indian or Alaska Native,1920,1920 1%,13
+41,Chinese,1920,1920 1%,3
+42,White,1930,1930 1%,10255
+43,Japanese,1930,1930 1%,28
+44,Other Asian or Pacific Islander,1930,1930 1%,3
+45,Black/African American/Negro,1930,1930 1%,105
+46,Chinese,1930,1930 1%,13
+47,American Indian or Alaska Native,1930,1930 1%,1
+48,White,1930,1930 5%,50758
+49,Japanese,1930,1930 5%,156
+50,Black/African American/Negro,1930,1930 5%,517
+51,Other Asian or Pacific Islander,1930,1930 5%,10
+52,American Indian or Alaska Native,1930,1930 5%,35
+53,Chinese,1930,1930 5%,17
+54,White,1940,1940 1%,10850
+55,Black/African American/Negro,1940,1940 1%,103
+56,Other Asian or Pacific Islander,1940,1940 1%,10
+57,Japanese,1940,1940 1%,39
+58,American Indian or Alaska Native,1940,1940 1%,7
+59,Chinese,1940,1940 1%,2
+60,White,1870,1870 1%,369
+61,Mulatto,1870,1870 1%,2
+62,American Indian/Alaska Native,1870,1870 1%,1
+63,White,1870,1870 1% sample with black oversample,375
+64,Black/African American/Negro,1870,1870 1% sample with black oversample,2
+65,Mulatto,1870,1870 1% sample with black oversample,2
+66,American Indian/Alaska Native,1870,1870 1% sample with black oversample,1
+67,White,1880,1880 1%,1942
+68,Black/African American/Negro,1880,1880 1%,27
+69,Chinese,1880,1880 1%,7
+70,Mulatto,1880,1880 1%,98
+71,American Indian/Alaska Native,1880,1880 1%,1
+72,White,1880,1880 10%,20714
+73,Chinese,1880,1880 10%,61
+74,Black/African American/Negro,1880,1880 10%,318
+75,Mulatto,1880,1880 10%,330
+76,American Indian/Alaska Native,1880,1880 10%,20
+77,White,1900,1900 5%,27122
+78,Black/African American/Negro,1900,1900 5%,425
+79,Chinese,1900,1900 5%,47
+80,Japanese,1900,1900 5%,1
+81,American Indian/Alaska Native,1900,1900 5%,2
+82,Portuguese,1900,1900 5%,97
+83,White,1900,1900 1%,5336
+84,Chinese,1900,1900 1%,13
+85,Black/African American/Negro,1900,1900 1%,82
+86,American Indian/Alaska Native,1900,1900 1%,12
+87,White,1900,1900 1% sample with oversamples,5336
+88,Chinese,1900,1900 1% sample with oversamples,13
+89,Black/African American/Negro,1900,1900 1% sample with oversamples,82
+90,American Indian/Alaska Native,1900,1900 1% sample with oversamples,280
+91,White,1910,1910 1%,7813
+92,Black/African American/Negro,1910,1910 1%,84
+93,Japanese,1910,1910 1%,8
+94,Mulatto,1910,1910 1%,31
+95,American Indian/Alaska Native,1910,1910 1%,15
+96,White,1910,1910 1.4% sample with oversamples,10894
+97,Black/African American/Negro,1910,1910 1.4% sample with oversamples,110
+98,Japanese,1910,1910 1.4% sample with oversamples,11
+99,Mulatto,1910,1910 1.4% sample with oversamples,42
+100,American Indian/Alaska Native,1910,1910 1.4% sample with oversamples,159
+101,"Other race, n.e.c.",1910,1910 1.4% sample with oversamples,17
+102,White,1920,1920 1%,9460
+103,Black/African American/Negro,1920,1920 1%,104
+104,Japanese,1920,1920 1%,34
+105,Filipino,1920,1920 1%,2
+106,Mulatto,1920,1920 1%,27
+107,American Indian/Alaska Native,1920,1920 1%,13
+108,Chinese,1920,1920 1%,3
+109,White,1930,1930 1%,9622
+110,Japanese,1930,1930 1%,28
+111,Mexican (1930),1930,1930 1%,633
+112,Asian Indian (Hindu 1920_1940),1930,1930 1%,1
+113,Filipino,1930,1930 1%,2
+114,Black/African American/Negro,1930,1930 1%,105
+115,Chinese,1930,1930 1%,13
+116,American Indian/Alaska Native,1930,1930 1%,1
+117,White,1930,1930 5%,47811
+118,Japanese,1930,1930 5%,156
+119,Mexican (1930),1930,1930 5%,2947
+120,Black/African American/Negro,1930,1930 5%,517
+121,Asian Indian (Hindu 1920_1940),1930,1930 5%,1
+122,Korean,1930,1930 5%,2
+123,Filipino,1930,1930 5%,7
+124,American Indian/Alaska Native,1930,1930 5%,35
+125,Chinese,1930,1930 5%,17
+126,White,1940,1940 1%,10850
+127,Black/African American/Negro,1940,1940 1%,103
+128,Filipino,1940,1940 1%,2
+129,Japanese,1940,1940 1%,39
+130,Korean,1940,1940 1%,4
+131,American Indian/Alaska Native,1940,1940 1%,7
+132,Chinese,1940,1940 1%,2
+133,Asian Indian (Hindu 1920_1940),1940,1940 1%,4
+134,Missouri,1870,1870 1%,15
+135,New York,1870,1870 1%,31
+136,Indiana,1870,1870 1%,9
+137,Pennsylvania,1870,1870 1%,11
+138,Germany,1870,1870 1%,10
+139,Ireland,1870,1870 1%,18
+140,Illinois,1870,1870 1%,15
+141,Massachusetts,1870,1870 1%,13
+142,Maine,1870,1870 1%,5
+143,Austria,1870,1870 1%,1
+144,Colorado,1870,1870 1%,47
+145,New Mexico,1870,1870 1%,88
+146,Kansas,1870,1870 1%,3
+147,England,1870,1870 1%,25
+148,Ohio,1870,1870 1%,16
+149,Nebraska,1870,1870 1%,2
+150,New Jersey,1870,1870 1%,4
+151,Maryland,1870,1870 1%,1
+152,Connecticut,1870,1870 1%,1
+153,Tennessee,1870,1870 1%,1
+154,Virginia,1870,1870 1%,11
+155,Kentucky,1870,1870 1%,9
+156,Wisconsin,1870,1870 1%,4
+157,Louisiana,1870,1870 1%,1
+158,Canada,1870,1870 1%,4
+159,Utah,1870,1870 1%,4
+160,Iowa,1870,1870 1%,12
+161,Michigan,1870,1870 1%,4
+162,Mexico,1870,1870 1%,1
+163,Scotland,1870,1870 1%,1
+164,North Carolina,1870,1870 1%,1
+165,Texas,1870,1870 1%,1
+166,Mississippi,1870,1870 1%,1
+167,Other USSR/Russia,1870,1870 1%,1
+168,New Hampshire,1870,1870 1%,1
+169,Missouri,1870,1870 1% sample with black oversample,15
+170,New York,1870,1870 1% sample with black oversample,33
+171,Colorado,1870,1870 1% sample with black oversample,48
+172,Pennsylvania,1870,1870 1% sample with black oversample,12
+173,Delaware,1870,1870 1% sample with black oversample,2
+174,Ohio,1870,1870 1% sample with black oversample,17
+175,Indiana,1870,1870 1% sample with black oversample,9
+176,Germany,1870,1870 1% sample with black oversample,10
+177,Ireland,1870,1870 1% sample with black oversample,18
+178,Illinois,1870,1870 1% sample with black oversample,15
+179,Massachusetts,1870,1870 1% sample with black oversample,13
+180,Maine,1870,1870 1% sample with black oversample,5
+181,Austria,1870,1870 1% sample with black oversample,1
+182,New Mexico,1870,1870 1% sample with black oversample,88
+183,Kansas,1870,1870 1% sample with black oversample,3
+184,England,1870,1870 1% sample with black oversample,25
+185,Nebraska,1870,1870 1% sample with black oversample,2
+186,New Jersey,1870,1870 1% sample with black oversample,4
+187,Maryland,1870,1870 1% sample with black oversample,1
+188,Connecticut,1870,1870 1% sample with black oversample,1
+189,Tennessee,1870,1870 1% sample with black oversample,1
+190,Virginia,1870,1870 1% sample with black oversample,11
+191,Kentucky,1870,1870 1% sample with black oversample,9
+192,Wisconsin,1870,1870 1% sample with black oversample,4
+193,Louisiana,1870,1870 1% sample with black oversample,1
+194,Canada,1870,1870 1% sample with black oversample,4
+195,Utah,1870,1870 1% sample with black oversample,4
+196,Iowa,1870,1870 1% sample with black oversample,12
+197,Michigan,1870,1870 1% sample with black oversample,4
+198,Mexico,1870,1870 1% sample with black oversample,1
+199,Scotland,1870,1870 1% sample with black oversample,1
+200,North Carolina,1870,1870 1% sample with black oversample,2
+201,Texas,1870,1870 1% sample with black oversample,1
+202,Mississippi,1870,1870 1% sample with black oversample,1
+203,Other USSR/Russia,1870,1870 1% sample with black oversample,1
+204,New Hampshire,1870,1870 1% sample with black oversample,1
+205,Canada,1880,1880 1%,46
+206,Ireland,1880,1880 1%,88
+207,Illinois,1880,1880 1%,133
+208,Georgia,1880,1880 1%,10
+209,Ohio,1880,1880 1%,145
+210,Virginia,1880,1880 1%,23
+211,Colorado,1880,1880 1%,301
+212,Germany,1880,1880 1%,62
+213,Wisconsin,1880,1880 1%,42
+214,Minnesota,1880,1880 1%,5
+215,Massachusetts,1880,1880 1%,42
+216,Maine,1880,1880 1%,33
+217,Pennsylvania,1880,1880 1%,129
+218,California,1880,1880 1%,10
+219,Sweden,1880,1880 1%,12
+220,Delaware,1880,1880 1%,2
+221,South Carolina,1880,1880 1%,2
+222,Vermont,1880,1880 1%,24
+223,New Hampshire,1880,1880 1%,9
+224,Missouri,1880,1880 1%,154
+225,England,1880,1880 1%,70
+226,Norway,1880,1880 1%,2
+227,Iowa,1880,1880 1%,84
+228,New York,1880,1880 1%,148
+229,Maryland,1880,1880 1%,13
+230,Montana,1880,1880 1%,1
+231,Nebraska,1880,1880 1%,19
+232,Denmark,1880,1880 1%,6
+233,Scotland,1880,1880 1%,14
+234,Indiana,1880,1880 1%,62
+235,France,1880,1880 1%,7
+236,AFRICA,1880,1880 1%,2
+237,New Jersey,1880,1880 1%,10
+238,Arkansas,1880,1880 1%,7
+239,Wyoming,1880,1880 1%,1
+240,Kansas,1880,1880 1%,39
+241,District of Columbia,1880,1880 1%,2
+242,Mexico,1880,1880 1%,2
+243,Michigan,1880,1880 1%,28
+244,China,1880,1880 1%,7
+245,Louisiana,1880,1880 1%,4
+246,Connecticut,1880,1880 1%,2
+247,Kentucky,1880,1880 1%,55
+248,Tennessee,1880,1880 1%,26
+249,"United States, ns",1880,1880 1%,2
+250,Poland,1880,1880 1%,5
+251,Luxembourg,1880,1880 1%,1
+252,Australia and New Zealand,1880,1880 1%,5
+253,Wales,1880,1880 1%,19
+254,Atlantic Islands,1880,1880 1%,1
+255,Italy,1880,1880 1%,7
+256,Texas,1880,1880 1%,8
+257,New Mexico,1880,1880 1%,110
+258,Rhode Island,1880,1880 1%,4
+259,Utah,1880,1880 1%,2
+260,North Carolina,1880,1880 1%,4
+261,Alabama,1880,1880 1%,3
+262,Other USSR/Russia,1880,1880 1%,1
+263,Switzerland,1880,1880 1%,3
+264,Florida,1880,1880 1%,1
+265,Spain,1880,1880 1%,1
+266,West Virginia,1880,1880 1%,2
+267,Mississippi,1880,1880 1%,2
+268,Cuba,1880,1880 1%,1
+269,Belgium,1880,1880 1%,2
+270,Greece,1880,1880 1%,1
+271,South Dakota,1880,1880 1%,5
+272,Nevada,1880,1880 1%,2
+273,Ireland,1880,1880 10%,855
+274,Iowa,1880,1880 10%,726
+275,Colorado,1880,1880 10%,3094
+276,Illinois,1880,1880 10%,1333
+277,New York,1880,1880 10%,1546
+278,Michigan,1880,1880 10%,419
+279,Pennsylvania,1880,1880 10%,1207
+280,Ohio,1880,1880 10%,1259
+281,Wisconsin,1880,1880 10%,334
+282,Missouri,1880,1880 10%,1373
+283,New Hampshire,1880,1880 10%,62
+284,Canada,1880,1880 10%,554
+285,Massachusetts,1880,1880 10%,382
+286,Germany,1880,1880 10%,761
+287,France,1880,1880 10%,100
+288,Austria,1880,1880 10%,53
+289,Kentucky,1880,1880 10%,401
+290,England,1880,1880 10%,888
+291,Indiana,1880,1880 10%,577
+292,Scotland,1880,1880 10%,155
+293,Connecticut,1880,1880 10%,140
+294,Maryland,1880,1880 10%,116
+295,China,1880,1880 10%,59
+296,Vermont,1880,1880 10%,164
+297,Switzerland,1880,1880 10%,75
+298,Kansas,1880,1880 10%,386
+299,Other USSR/Russia,1880,1880 10%,54
+300,Italy,1880,1880 10%,47
+301,Tennessee,1880,1880 10%,231
+302,Virginia,1880,1880 10%,289
+303,Washington,1880,1880 10%,11
+304,Wyoming,1880,1880 10%,24
+305,Maine,1880,1880 10%,254
+306,Sweden,1880,1880 10%,228
+307,South Carolina,1880,1880 10%,31
+308,Wales,1880,1880 10%,138
+309,California,1880,1880 10%,53
+310,Georgia,1880,1880 10%,114
+311,New Jersey,1880,1880 10%,155
+312,District of Columbia,1880,1880 10%,33
+313,Netherlands,1880,1880 10%,11
+314,Czechoslovakia,1880,1880 10%,16
+315,Belgium,1880,1880 10%,6
+316,Denmark,1880,1880 10%,53
+317,Rhode Island,1880,1880 10%,49
+318,"United States, ns",1880,1880 10%,6
+319,Alabama,1880,1880 10%,58
+320,Poland,1880,1880 10%,17
+321,Texas,1880,1880 10%,129
+322,Arkansas,1880,1880 10%,70
+323,Florida,1880,1880 10%,5
+324,Nebraska,1880,1880 10%,78
+325,Mexico,1880,1880 10%,29
+326,Mississippi,1880,1880 10%,50
+327,AFRICA,1880,1880 10%,3
+328,West Indies,1880,1880 10%,5
+329,Norway,1880,1880 10%,47
+330,Cuba,1880,1880 10%,4
+331,Minnesota,1880,1880 10%,61
+332,Utah,1880,1880 10%,36
+333,Abroad (unknown) or at sea,1880,1880 10%,1
+334,Louisiana,1880,1880 10%,50
+335,Japan,1880,1880 10%,1
+336,Delaware,1880,1880 10%,22
+337,Montana,1880,1880 10%,5
+338,West Virginia,1880,1880 10%,44
+339,New Mexico,1880,1880 10%,1758
+340,North Carolina,1880,1880 10%,79
+341,SOUTH AMERICA,1880,1880 10%,8
+342,Australia and New Zealand,1880,1880 10%,4
+343,Finland,1880,1880 10%,2
+344,Oklahoma,1880,1880 10%,8
+345,Oregon,1880,1880 10%,5
+346,"Europe, ns",1880,1880 10%,3
+347,Nevada,1880,1880 10%,15
+348,Portugal,1880,1880 10%,1
+349,Spain,1880,1880 10%,3
+350,Arizona,1880,1880 10%,3
+351,Hawaii,1880,1880 10%,1
+352,India,1880,1880 10%,2
+353,South Dakota,1880,1880 10%,2
+354,Idaho,1880,1880 10%,3
+355,Hungary,1880,1880 10%,6
+356,Central America,1880,1880 10%,1
+357,Greece,1880,1880 10%,1
+358,Iceland,1880,1880 10%,1
+359,Delaware,1900,1900 5%,18
+360,New Jersey,1900,1900 5%,153
+361,Nebraska,1900,1900 5%,623
+362,Colorado,1900,1900 5%,7926
+363,Missouri,1900,1900 5%,1610
+364,Illinois,1900,1900 5%,1714
+365,Pennsylvania,1900,1900 5%,1033
+366,Germany,1900,1900 5%,743
+367,Canada,1900,1900 5%,551
+368,Ireland,1900,1900 5%,486
+369,Tennessee,1900,1900 5%,173
+370,Connecticut,1900,1900 5%,87
+371,Wisconsin,1900,1900 5%,464
+372,Kansas,1900,1900 5%,1162
+373,New York,1900,1900 5%,1103
+374,Other USSR/Russia,1900,1900 5%,155
+375,Austria,1900,1900 5%,360
+376,Georgia,1900,1900 5%,104
+377,Maryland,1900,1900 5%,107
+378,Massachusetts,1900,1900 5%,250
+379,New Mexico,1900,1900 5%,532
+380,Czechoslovakia,1900,1900 5%,22
+381,Indiana,1900,1900 5%,800
+382,Scotland,1900,1900 5%,190
+383,Ohio,1900,1900 5%,1239
+384,England,1900,1900 5%,683
+385,Iowa,1900,1900 5%,1252
+386,Poland,1900,1900 5%,10
+387,Wales,1900,1900 5%,92
+388,Virginia,1900,1900 5%,171
+389,Kentucky,1900,1900 5%,368
+390,Italy,1900,1900 5%,426
+391,France,1900,1900 5%,45
+392,California,1900,1900 5%,79
+393,Sweden,1900,1900 5%,545
+394,Alabama,1900,1900 5%,51
+395,Michigan,1900,1900 5%,491
+396,Utah,1900,1900 5%,103
+397,Washington,1900,1900 5%,38
+398,Oregon,1900,1900 5%,25
+399,Maine,1900,1900 5%,133
+400,Minnesota,1900,1900 5%,161
+401,Wyoming,1900,1900 5%,41
+402,Arkansas,1900,1900 5%,127
+403,Louisiana,1900,1900 5%,39
+404,Mexico,1900,1900 5%,19
+405,SOUTH AMERICA,1900,1900 5%,2
+406,Texas,1900,1900 5%,185
+407,Mississippi,1900,1900 5%,48
+408,New Hampshire,1900,1900 5%,36
+409,Netherlands,1900,1900 5%,16
+410,China,1900,1900 5%,42
+411,Rhode Island,1900,1900 5%,25
+412,Hungary,1900,1900 5%,31
+413,Vermont,1900,1900 5%,100
+414,Greece,1900,1900 5%,1
+415,Switzerland,1900,1900 5%,65
+416,District of Columbia,1900,1900 5%,9
+417,Arizona,1900,1900 5%,7
+418,North Carolina,1900,1900 5%,99
+419,Florida,1900,1900 5%,12
+420,South Carolina,1900,1900 5%,23
+421,West Virginia,1900,1900 5%,103
+422,South Dakota,1900,1900 5%,44
+423,AFRICA,1900,1900 5%,2
+424,Denmark,1900,1900 5%,90
+425,North Dakota,1900,1900 5%,8
+426,Spain,1900,1900 5%,2
+427,Norway,1900,1900 5%,37
+428,Finland,1900,1900 5%,49
+429,Nevada,1900,1900 5%,16
+430,Australia and New Zealand,1900,1900 5%,13
+431,Montana,1900,1900 5%,23
+432,Japan,1900,1900 5%,3
+433,Oklahoma,1900,1900 5%,55
+434,West Indies,1900,1900 5%,1
+435,Luxembourg,1900,1900 5%,2
+436,Idaho,1900,1900 5%,20
+437,Belgium,1900,1900 5%,2
+438,India,1900,1900 5%,2
+439,"United States, ns",1900,1900 5%,6
+440,Portugal,1900,1900 5%,3
+441,Abroad (unknown) or at sea,1900,1900 5%,5
+442,Hawaii,1900,1900 5%,2
+443,Israel/Palestine,1900,1900 5%,1
+444,Germany,1900,1900 1%,158
+445,Colorado,1900,1900 1%,1468
+446,New York,1900,1900 1%,210
+447,Canada,1900,1900 1%,112
+448,Wisconsin,1900,1900 1%,97
+449,Other USSR/Russia,1900,1900 1%,61
+450,Austria,1900,1900 1%,44
+451,Iowa,1900,1900 1%,248
+452,Kansas,1900,1900 1%,211
+453,Indiana,1900,1900 1%,139
+454,Nebraska,1900,1900 1%,114
+455,Pennsylvania,1900,1900 1%,221
+456,Missouri,1900,1900 1%,333
+457,Tennessee,1900,1900 1%,37
+458,Ireland,1900,1900 1%,95
+459,Nevada,1900,1900 1%,2
+460,Illinois,1900,1900 1%,402
+461,England,1900,1900 1%,147
+462,Sweden,1900,1900 1%,112
+463,New Jersey,1900,1900 1%,32
+464,Ohio,1900,1900 1%,284
+465,Maine,1900,1900 1%,27
+466,China,1900,1900 1%,12
+467,Massachusetts,1900,1900 1%,54
+468,Vermont,1900,1900 1%,18
+469,Connecticut,1900,1900 1%,16
+470,Finland,1900,1900 1%,12
+471,Switzerland,1900,1900 1%,12
+472,Kentucky,1900,1900 1%,80
+473,Denmark,1900,1900 1%,17
+474,North Carolina,1900,1900 1%,18
+475,California,1900,1900 1%,21
+476,Maryland,1900,1900 1%,14
+477,Norway,1900,1900 1%,6
+478,France,1900,1900 1%,4
+479,Texas,1900,1900 1%,35
+480,Scotland,1900,1900 1%,55
+481,Michigan,1900,1900 1%,75
+482,Utah,1900,1900 1%,33
+483,Virginia,1900,1900 1%,38
+484,Arkansas,1900,1900 1%,19
+485,Georgia,1900,1900 1%,18
+486,Alabama,1900,1900 1%,12
+487,Wyoming,1900,1900 1%,13
+488,Mississippi,1900,1900 1%,8
+489,Minnesota,1900,1900 1%,19
+490,Poland,1900,1900 1%,7
+491,Italy,1900,1900 1%,61
+492,Louisiana,1900,1900 1%,10
+493,West Virginia,1900,1900 1%,14
+494,Oregon,1900,1900 1%,2
+495,Greece,1900,1900 1%,1
+496,Syria,1900,1900 1%,1
+497,"United States, ns",1900,1900 1%,7
+498,Delaware,1900,1900 1%,5
+499,Oklahoma,1900,1900 1%,6
+500,South Dakota,1900,1900 1%,16
+501,Hawaii,1900,1900 1%,1
+502,Wales,1900,1900 1%,9
+503,New Mexico,1900,1900 1%,100
+504,Netherlands,1900,1900 1%,3
+505,Idaho,1900,1900 1%,3
+506,New Hampshire,1900,1900 1%,4
+507,Rhode Island,1900,1900 1%,2
+508,Washington,1900,1900 1%,3
+509,Florida,1900,1900 1%,3
+510,North Dakota,1900,1900 1%,2
+511,West Indies,1900,1900 1%,1
+512,Indonesia,1900,1900 1%,1
+513,Montana,1900,1900 1%,4
+514,South Carolina,1900,1900 1%,5
+515,Mexico,1900,1900 1%,2
+516,SOUTH AMERICA,1900,1900 1%,1
+517,Hungary,1900,1900 1%,5
+518,Arizona,1900,1900 1%,1
+519,Germany,1900,1900 1% sample with oversamples,158
+520,Colorado,1900,1900 1% sample with oversamples,1477
+521,New York,1900,1900 1% sample with oversamples,210
+522,Canada,1900,1900 1% sample with oversamples,112
+523,Wisconsin,1900,1900 1% sample with oversamples,97
+524,Other USSR/Russia,1900,1900 1% sample with oversamples,61
+525,Austria,1900,1900 1% sample with oversamples,44
+526,Iowa,1900,1900 1% sample with oversamples,248
+527,Kansas,1900,1900 1% sample with oversamples,211
+528,Indiana,1900,1900 1% sample with oversamples,139
+529,Nebraska,1900,1900 1% sample with oversamples,114
+530,Pennsylvania,1900,1900 1% sample with oversamples,221
+531,Missouri,1900,1900 1% sample with oversamples,333
+532,Tennessee,1900,1900 1% sample with oversamples,37
+533,Ireland,1900,1900 1% sample with oversamples,95
+534,Nevada,1900,1900 1% sample with oversamples,3
+535,Illinois,1900,1900 1% sample with oversamples,402
+536,England,1900,1900 1% sample with oversamples,147
+537,Sweden,1900,1900 1% sample with oversamples,112
+538,New Jersey,1900,1900 1% sample with oversamples,32
+539,Ohio,1900,1900 1% sample with oversamples,284
+540,Maine,1900,1900 1% sample with oversamples,27
+541,China,1900,1900 1% sample with oversamples,12
+542,Massachusetts,1900,1900 1% sample with oversamples,54
+543,Vermont,1900,1900 1% sample with oversamples,18
+544,Connecticut,1900,1900 1% sample with oversamples,16
+545,Finland,1900,1900 1% sample with oversamples,12
+546,Switzerland,1900,1900 1% sample with oversamples,12
+547,Kentucky,1900,1900 1% sample with oversamples,80
+548,Denmark,1900,1900 1% sample with oversamples,17
+549,North Carolina,1900,1900 1% sample with oversamples,18
+550,California,1900,1900 1% sample with oversamples,24
+551,Maryland,1900,1900 1% sample with oversamples,14
+552,Norway,1900,1900 1% sample with oversamples,6
+553,France,1900,1900 1% sample with oversamples,4
+554,Texas,1900,1900 1% sample with oversamples,35
+555,Scotland,1900,1900 1% sample with oversamples,55
+556,Michigan,1900,1900 1% sample with oversamples,75
+557,Utah,1900,1900 1% sample with oversamples,131
+558,Virginia,1900,1900 1% sample with oversamples,38
+559,Arkansas,1900,1900 1% sample with oversamples,19
+560,Georgia,1900,1900 1% sample with oversamples,18
+561,Alabama,1900,1900 1% sample with oversamples,12
+562,Wyoming,1900,1900 1% sample with oversamples,13
+563,Mississippi,1900,1900 1% sample with oversamples,8
+564,Minnesota,1900,1900 1% sample with oversamples,19
+565,Poland,1900,1900 1% sample with oversamples,7
+566,Italy,1900,1900 1% sample with oversamples,61
+567,Louisiana,1900,1900 1% sample with oversamples,10
+568,West Virginia,1900,1900 1% sample with oversamples,14
+569,Oregon,1900,1900 1% sample with oversamples,2
+570,Greece,1900,1900 1% sample with oversamples,1
+571,Syria,1900,1900 1% sample with oversamples,1
+572,"United States, ns",1900,1900 1% sample with oversamples,101
+573,Delaware,1900,1900 1% sample with oversamples,5
+574,Oklahoma,1900,1900 1% sample with oversamples,6
+575,South Dakota,1900,1900 1% sample with oversamples,16
+576,Hawaii,1900,1900 1% sample with oversamples,1
+577,Wales,1900,1900 1% sample with oversamples,9
+578,New Mexico,1900,1900 1% sample with oversamples,133
+579,Netherlands,1900,1900 1% sample with oversamples,3
+580,Idaho,1900,1900 1% sample with oversamples,3
+581,New Hampshire,1900,1900 1% sample with oversamples,4
+582,Rhode Island,1900,1900 1% sample with oversamples,2
+583,Washington,1900,1900 1% sample with oversamples,3
+584,Florida,1900,1900 1% sample with oversamples,3
+585,North Dakota,1900,1900 1% sample with oversamples,2
+586,West Indies,1900,1900 1% sample with oversamples,1
+587,Indonesia,1900,1900 1% sample with oversamples,1
+588,Montana,1900,1900 1% sample with oversamples,4
+589,South Carolina,1900,1900 1% sample with oversamples,5
+590,Mexico,1900,1900 1% sample with oversamples,2
+591,SOUTH AMERICA,1900,1900 1% sample with oversamples,1
+592,Hungary,1900,1900 1% sample with oversamples,5
+593,Arizona,1900,1900 1% sample with oversamples,31
+594,Texas,1910,1910 1%,71
+595,Kentucky,1910,1910 1%,97
+596,Indiana,1910,1910 1%,157
+597,Kansas,1910,1910 1%,361
+598,England,1910,1910 1%,149
+599,Missouri,1910,1910 1%,470
+600,Michigan,1910,1910 1%,106
+601,Canada,1910,1910 1%,118
+602,Pennsylvania,1910,1910 1%,233
+603,Ireland,1910,1910 1%,109
+604,Colorado,1910,1910 1%,2276
+605,Illinois,1910,1910 1%,550
+606,Nebraska,1910,1910 1%,242
+607,Oklahoma,1910,1910 1%,39
+608,Virginia,1910,1910 1%,62
+609,New York,1910,1910 1%,268
+610,Utah,1910,1910 1%,20
+611,Denmark,1910,1910 1%,35
+612,Austria,1910,1910 1%,112
+613,Sweden,1910,1910 1%,155
+614,Vermont,1910,1910 1%,18
+615,Italy,1910,1910 1%,123
+616,Ohio,1910,1910 1%,295
+617,Germany,1910,1910 1%,159
+618,Wisconsin,1910,1910 1%,116
+619,West Virginia,1910,1910 1%,29
+620,Iowa,1910,1910 1%,444
+621,Scotland,1910,1910 1%,50
+622,Massachusetts,1910,1910 1%,46
+623,Montana,1910,1910 1%,9
+624,Florida,1910,1910 1%,3
+625,Tennessee,1910,1910 1%,77
+626,California,1910,1910 1%,29
+627,Louisiana,1910,1910 1%,10
+628,France,1910,1910 1%,9
+629,Oregon,1910,1910 1%,5
+630,New Mexico,1910,1910 1%,153
+631,Finland,1910,1910 1%,10
+632,Georgia,1910,1910 1%,25
+633,District of Columbia,1910,1910 1%,7
+634,Maryland,1910,1910 1%,16
+635,New Jersey,1910,1910 1%,33
+636,Arizona,1910,1910 1%,6
+637,Wyoming,1910,1910 1%,26
+638,Arkansas,1910,1910 1%,33
+639,South Dakota,1910,1910 1%,41
+640,Minnesota,1910,1910 1%,40
+641,Wales,1910,1910 1%,29
+642,Norway,1910,1910 1%,20
+643,Other USSR/Russia,1910,1910 1%,166
+644,Mexico,1910,1910 1%,20
+645,Switzerland,1910,1910 1%,13
+646,Cuba,1910,1910 1%,3
+647,New Hampshire,1910,1910 1%,13
+648,South Carolina,1910,1910 1%,3
+649,"United States, ns",1910,1910 1%,22
+650,North Carolina,1910,1910 1%,47
+651,Portugal,1910,1910 1%,1
+652,Alabama,1910,1910 1%,25
+653,SOUTH AMERICA,1910,1910 1%,5
+654,Japan,1910,1910 1%,8
+655,Connecticut,1910,1910 1%,22
+656,U.S. Virgin Islands,1910,1910 1%,1
+657,Maine,1910,1910 1%,33
+658,Hungary,1910,1910 1%,8
+659,Central America,1910,1910 1%,1
+660,Washington,1910,1910 1%,14
+661,Romania,1910,1910 1%,4
+662,Turkey,1910,1910 1%,2
+663,Mississippi,1910,1910 1%,8
+664,Netherlands,1910,1910 1%,5
+665,Rhode Island,1910,1910 1%,4
+666,Delaware,1910,1910 1%,4
+667,Belgium,1910,1910 1%,3
+668,Abroad (unknown) or at sea,1910,1910 1%,2
+669,North Dakota,1910,1910 1%,4
+670,Pacific Islands,1910,1910 1%,2
+671,Idaho,1910,1910 1%,4
+672,Poland,1910,1910 1%,2
+673,Yugoslavia,1910,1910 1%,6
+674,Greece,1910,1910 1%,5
+675,Texas,1910,1910 1.4% sample with oversamples,86
+676,Kentucky,1910,1910 1.4% sample with oversamples,130
+677,Indiana,1910,1910 1.4% sample with oversamples,239
+678,Kansas,1910,1910 1.4% sample with oversamples,494
+679,England,1910,1910 1.4% sample with oversamples,203
+680,Missouri,1910,1910 1.4% sample with oversamples,664
+681,Michigan,1910,1910 1.4% sample with oversamples,152
+682,Canada,1910,1910 1.4% sample with oversamples,158
+683,Pennsylvania,1910,1910 1.4% sample with oversamples,312
+684,Ireland,1910,1910 1.4% sample with oversamples,137
+685,Colorado,1910,1910 1.4% sample with oversamples,3409
+686,Illinois,1910,1910 1.4% sample with oversamples,761
+687,Nebraska,1910,1910 1.4% sample with oversamples,328
+688,Oklahoma,1910,1910 1.4% sample with oversamples,58
+689,Virginia,1910,1910 1.4% sample with oversamples,78
+690,New York,1910,1910 1.4% sample with oversamples,347
+691,Utah,1910,1910 1.4% sample with oversamples,26
+692,Denmark,1910,1910 1.4% sample with oversamples,56
+693,Austria,1910,1910 1.4% sample with oversamples,158
+694,Sweden,1910,1910 1.4% sample with oversamples,191
+695,Vermont,1910,1910 1.4% sample with oversamples,39
+696,Italy,1910,1910 1.4% sample with oversamples,190
+697,Ohio,1910,1910 1.4% sample with oversamples,413
+698,Germany,1910,1910 1.4% sample with oversamples,238
+699,Wisconsin,1910,1910 1.4% sample with oversamples,162
+700,West Virginia,1910,1910 1.4% sample with oversamples,45
+701,Iowa,1910,1910 1.4% sample with oversamples,617
+702,Scotland,1910,1910 1.4% sample with oversamples,62
+703,Massachusetts,1910,1910 1.4% sample with oversamples,64
+704,Montana,1910,1910 1.4% sample with oversamples,12
+705,Florida,1910,1910 1.4% sample with oversamples,3
+706,Tennessee,1910,1910 1.4% sample with oversamples,100
+707,California,1910,1910 1.4% sample with oversamples,37
+708,Louisiana,1910,1910 1.4% sample with oversamples,12
+709,France,1910,1910 1.4% sample with oversamples,10
+710,Oregon,1910,1910 1.4% sample with oversamples,9
+711,New Mexico,1910,1910 1.4% sample with oversamples,221
+712,Finland,1910,1910 1.4% sample with oversamples,11
+713,Georgia,1910,1910 1.4% sample with oversamples,35
+714,District of Columbia,1910,1910 1.4% sample with oversamples,7
+715,Maryland,1910,1910 1.4% sample with oversamples,26
+716,New Jersey,1910,1910 1.4% sample with oversamples,40
+717,Arizona,1910,1910 1.4% sample with oversamples,7
+718,Wyoming,1910,1910 1.4% sample with oversamples,35
+719,Arkansas,1910,1910 1.4% sample with oversamples,60
+720,South Dakota,1910,1910 1.4% sample with oversamples,57
+721,Minnesota,1910,1910 1.4% sample with oversamples,58
+722,Wales,1910,1910 1.4% sample with oversamples,33
+723,Norway,1910,1910 1.4% sample with oversamples,28
+724,Other USSR/Russia,1910,1910 1.4% sample with oversamples,221
+725,Mexico,1910,1910 1.4% sample with oversamples,30
+726,Switzerland,1910,1910 1.4% sample with oversamples,20
+727,Cuba,1910,1910 1.4% sample with oversamples,3
+728,New Hampshire,1910,1910 1.4% sample with oversamples,15
+729,South Carolina,1910,1910 1.4% sample with oversamples,3
+730,"United States, ns",1910,1910 1.4% sample with oversamples,24
+731,North Carolina,1910,1910 1.4% sample with oversamples,51
+732,Portugal,1910,1910 1.4% sample with oversamples,1
+733,Alabama,1910,1910 1.4% sample with oversamples,33
+734,SOUTH AMERICA,1910,1910 1.4% sample with oversamples,5
+735,Japan,1910,1910 1.4% sample with oversamples,11
+736,Connecticut,1910,1910 1.4% sample with oversamples,26
+737,U.S. Virgin Islands,1910,1910 1.4% sample with oversamples,1
+738,Maine,1910,1910 1.4% sample with oversamples,38
+739,Hungary,1910,1910 1.4% sample with oversamples,13
+740,Central America,1910,1910 1.4% sample with oversamples,1
+741,Washington,1910,1910 1.4% sample with oversamples,18
+742,Romania,1910,1910 1.4% sample with oversamples,4
+743,Turkey,1910,1910 1.4% sample with oversamples,3
+744,Mississippi,1910,1910 1.4% sample with oversamples,18
+745,Netherlands,1910,1910 1.4% sample with oversamples,9
+746,Rhode Island,1910,1910 1.4% sample with oversamples,12
+747,Delaware,1910,1910 1.4% sample with oversamples,4
+748,Belgium,1910,1910 1.4% sample with oversamples,3
+749,Abroad (unknown) or at sea,1910,1910 1.4% sample with oversamples,5
+750,North Dakota,1910,1910 1.4% sample with oversamples,6
+751,Pacific Islands,1910,1910 1.4% sample with oversamples,2
+752,Idaho,1910,1910 1.4% sample with oversamples,4
+753,Poland,1910,1910 1.4% sample with oversamples,2
+754,Yugoslavia,1910,1910 1.4% sample with oversamples,6
+755,Greece,1910,1910 1.4% sample with oversamples,12
+756,Bulgaria,1910,1910 1.4% sample with oversamples,1
+757,"Southwest Asia, nec/ns",1910,1910 1.4% sample with oversamples,1
+758,Nevada,1910,1910 1.4% sample with oversamples,3
+759,"Europe, ns",1910,1910 1.4% sample with oversamples,6
+760,Spain,1920,1920 1%,8
+761,Colorado,1920,1920 1%,3276
+762,Nebraska,1920,1920 1%,387
+763,Kansas,1920,1920 1%,549
+764,Indiana,1920,1920 1%,234
+765,Ohio,1920,1920 1%,283
+766,Missouri,1920,1920 1%,671
+767,Denmark,1920,1920 1%,50
+768,North Carolina,1920,1920 1%,30
+769,Other USSR/Russia,1920,1920 1%,166
+770,Canada,1920,1920 1%,138
+771,Kentucky,1920,1920 1%,122
+772,"United States, ns",1920,1920 1%,56
+773,Oregon,1920,1920 1%,13
+774,Pennsylvania,1920,1920 1%,197
+775,New York,1920,1920 1%,181
+776,Germany,1920,1920 1%,121
+777,Illinois,1920,1920 1%,525
+778,Iowa,1920,1920 1%,455
+779,California,1920,1920 1%,43
+780,Sweden,1920,1920 1%,95
+781,England,1920,1920 1%,103
+782,Montana,1920,1920 1%,15
+783,Poland,1920,1920 1%,12
+784,Washington,1920,1920 1%,18
+785,Finland,1920,1920 1%,12
+786,Italy,1920,1920 1%,138
+787,Switzerland,1920,1920 1%,21
+788,Japan,1920,1920 1%,18
+789,Oklahoma,1920,1920 1%,143
+790,West Virginia,1920,1920 1%,40
+791,Mississippi,1920,1920 1%,18
+792,Philippines,1920,1920 1%,3
+793,Massachusetts,1920,1920 1%,35
+794,Georgia,1920,1920 1%,27
+795,New Mexico,1920,1920 1%,172
+796,Mexico,1920,1920 1%,131
+797,Louisiana,1920,1920 1%,19
+798,Arkansas,1920,1920 1%,83
+799,Scotland,1920,1920 1%,25
+800,Florida,1920,1920 1%,6
+801,New Hampshire,1920,1920 1%,11
+802,Maine,1920,1920 1%,10
+803,Virginia,1920,1920 1%,49
+804,Tennessee,1920,1920 1%,66
+805,Maryland,1920,1920 1%,17
+806,Texas,1920,1920 1%,108
+807,Vermont,1920,1920 1%,12
+808,Wisconsin,1920,1920 1%,99
+809,District of Columbia,1920,1920 1%,8
+810,Idaho,1920,1920 1%,19
+811,Ireland,1920,1920 1%,59
+812,Czechoslovakia,1920,1920 1%,21
+813,Utah,1920,1920 1%,26
+814,Minnesota,1920,1920 1%,68
+815,Norway,1920,1920 1%,14
+816,South Dakota,1920,1920 1%,27
+817,Alabama,1920,1920 1%,19
+818,France,1920,1920 1%,14
+819,Nevada,1920,1920 1%,5
+820,Michigan,1920,1920 1%,99
+821,Austria,1920,1920 1%,61
+822,Wales,1920,1920 1%,13
+823,Wyoming,1920,1920 1%,38
+824,North Dakota,1920,1920 1%,7
+825,Greece,1920,1920 1%,8
+826,New Jersey,1920,1920 1%,25
+827,Netherlands,1920,1920 1%,8
+828,South Carolina,1920,1920 1%,3
+829,Connecticut,1920,1920 1%,13
+830,Belgium,1920,1920 1%,4
+831,Rhode Island,1920,1920 1%,6
+832,Portugal,1920,1920 1%,1
+833,China,1920,1920 1%,3
+834,Turkey,1920,1920 1%,1
+835,Hungary,1920,1920 1%,5
+836,Romania,1920,1920 1%,1
+837,Arizona,1920,1920 1%,11
+838,Syria,1920,1920 1%,8
+839,Yugoslavia,1920,1920 1%,9
+840,Lebanon,1920,1920 1%,2
+841,AFRICA,1920,1920 1%,1
+842,Bulgaria,1920,1920 1%,23
+843,Australia and New Zealand,1920,1920 1%,1
+844,Latvia,1920,1920 1%,1
+845,Iowa,1930,1930 1%,483
+846,Missouri,1930,1930 1%,644
+847,Oklahoma,1930,1930 1%,154
+848,Colorado,1930,1930 1%,4253
+849,Washington,1930,1930 1%,17
+850,New Mexico,1930,1930 1%,272
+851,Sweden,1930,1930 1%,95
+852,Japan,1930,1930 1%,13
+853,New York,1930,1930 1%,122
+854,Other USSR/Russia,1930,1930 1%,135
+855,Wyoming,1930,1930 1%,78
+856,Nebraska,1930,1930 1%,456
+857,Ohio,1930,1930 1%,199
+858,Nevada,1930,1930 1%,2
+859,Maine,1930,1930 1%,9
+860,Ireland,1930,1930 1%,34
+861,Kansas,1930,1930 1%,609
+862,Indiana,1930,1930 1%,211
+863,Michigan,1930,1930 1%,90
+864,Italy,1930,1930 1%,98
+865,Pennsylvania,1930,1930 1%,161
+866,Illinois,1930,1930 1%,510
+867,Austria,1930,1930 1%,30
+868,Yugoslavia,1930,1930 1%,32
+869,South Carolina,1930,1930 1%,3
+870,Florida,1930,1930 1%,1
+871,Greece,1930,1930 1%,14
+872,Wales,1930,1930 1%,13
+873,North Carolina,1930,1930 1%,17
+874,Oregon,1930,1930 1%,16
+875,Wisconsin,1930,1930 1%,86
+876,Maryland,1930,1930 1%,12
+877,Arkansas,1930,1930 1%,97
+878,Canada,1930,1930 1%,56
+879,West Virginia,1930,1930 1%,28
+880,Texas,1930,1930 1%,177
+881,Arizona,1930,1930 1%,11
+882,England,1930,1930 1%,68
+883,Tennessee,1930,1930 1%,83
+884,Kentucky,1930,1930 1%,108
+885,"United States, ns",1930,1930 1%,21
+886,Germany,1930,1930 1%,93
+887,Alabama,1930,1930 1%,31
+888,Mississippi,1930,1930 1%,16
+889,Virginia,1930,1930 1%,32
+890,Georgia,1930,1930 1%,19
+891,Idaho,1930,1930 1%,8
+892,Czechoslovakia,1930,1930 1%,14
+893,Minnesota,1930,1930 1%,67
+894,North Dakota,1930,1930 1%,14
+895,South Dakota,1930,1930 1%,48
+896,Louisiana,1930,1930 1%,12
+897,Massachusetts,1930,1930 1%,33
+898,Scotland,1930,1930 1%,26
+899,Denmark,1930,1930 1%,25
+900,Vermont,1930,1930 1%,8
+901,Connecticut,1930,1930 1%,11
+902,Poland,1930,1930 1%,21
+903,Lithuania,1930,1930 1%,2
+904,Montana,1930,1930 1%,28
+905,Mexico,1930,1930 1%,168
+906,Utah,1930,1930 1%,37
+907,Norway,1930,1930 1%,8
+908,France,1930,1930 1%,8
+909,Hungary,1930,1930 1%,2
+910,India,1930,1930 1%,1
+911,California,1930,1930 1%,56
+912,District of Columbia,1930,1930 1%,3
+913,Romania,1930,1930 1%,5
+914,Abroad (unknown) or at sea,1930,1930 1%,14
+915,Philippines,1930,1930 1%,3
+916,Switzerland,1930,1930 1%,10
+917,Netherlands,1930,1930 1%,10
+918,Delaware,1930,1930 1%,1
+919,SOUTH AMERICA,1930,1930 1%,6
+920,New Hampshire,1930,1930 1%,2
+921,"Europe, ns",1930,1930 1%,1
+922,New Jersey,1930,1930 1%,12
+923,Rhode Island,1930,1930 1%,4
+924,Spain,1930,1930 1%,1
+925,Finland,1930,1930 1%,5
+926,Native American,1930,1930 1%,1
+927,Australia and New Zealand,1930,1930 1%,1
+928,China,1930,1930 1%,12
+929,Bulgaria,1930,1930 1%,2
+930,Cuba,1930,1930 1%,1
+931,Belgium,1930,1930 1%,3
+932,Israel/Palestine,1930,1930 1%,1
+933,Turkey,1930,1930 1%,1
+934,Iowa,1930,1930 5%,2259
+935,Missouri,1930,1930 5%,3172
+936,Oklahoma,1930,1930 5%,886
+937,Colorado,1930,1930 5%,21072
+938,South Dakota,1930,1930 5%,190
+939,Kansas,1930,1930 5%,3036
+940,Mississippi,1930,1930 5%,87
+941,Pennsylvania,1930,1930 5%,850
+942,Ohio,1930,1930 5%,972
+943,New York,1930,1930 5%,698
+944,Nebraska,1930,1930 5%,2324
+945,Illinois,1930,1930 5%,2357
+946,Washington,1930,1930 5%,75
+947,Michigan,1930,1930 5%,442
+948,Maine,1930,1930 5%,50
+949,New Mexico,1930,1930 5%,1312
+950,Other USSR/Russia,1930,1930 5%,629
+951,Kentucky,1930,1930 5%,524
+952,Sweden,1930,1930 5%,424
+953,Austria,1930,1930 5%,145
+954,Germany,1930,1930 5%,457
+955,Japan,1930,1930 5%,65
+956,Hungary,1930,1930 5%,26
+957,Wyoming,1930,1930 5%,345
+958,Italy,1930,1930 5%,525
+959,Mexico,1930,1930 5%,720
+960,Estonia,1930,1930 5%,2
+961,Canada,1930,1930 5%,305
+962,Yugoslavia,1930,1930 5%,159
+963,Indiana,1930,1930 5%,949
+964,Arizona,1930,1930 5%,60
+965,Scotland,1930,1930 5%,147
+966,Montana,1930,1930 5%,125
+967,Nevada,1930,1930 5%,17
+968,North Dakota,1930,1930 5%,80
+969,New Jersey,1930,1930 5%,88
+970,Texas,1930,1930 5%,889
+971,Ireland,1930,1930 5%,159
+972,Oregon,1930,1930 5%,77
+973,Wisconsin,1930,1930 5%,510
+974,Maryland,1930,1930 5%,75
+975,Czechoslovakia,1930,1930 5%,72
+976,California,1930,1930 5%,240
+977,Tennessee,1930,1930 5%,381
+978,Vermont,1930,1930 5%,49
+979,Connecticut,1930,1930 5%,64
+980,Poland,1930,1930 5%,120
+981,Bulgaria,1930,1930 5%,18
+982,South Carolina,1930,1930 5%,26
+983,Florida,1930,1930 5%,33
+984,England,1930,1930 5%,352
+985,Idaho,1930,1930 5%,87
+986,Minnesota,1930,1930 5%,341
+987,Switzerland,1930,1930 5%,60
+988,Arkansas,1930,1930 5%,402
+989,Virginia,1930,1930 5%,191
+990,Louisiana,1930,1930 5%,87
+991,New Hampshire,1930,1930 5%,23
+992,North Carolina,1930,1930 5%,100
+993,Alabama,1930,1930 5%,136
+994,Greece,1930,1930 5%,75
+995,Wales,1930,1930 5%,59
+996,Finland,1930,1930 5%,26
+997,West Virginia,1930,1930 5%,157
+998,District of Columbia,1930,1930 5%,17
+999,Utah,1930,1930 5%,205
+1000,"United States, ns",1930,1930 5%,101
+1001,Georgia,1930,1930 5%,107
+1002,Norway,1930,1930 5%,66
+1003,Abroad (unknown) or at sea,1930,1930 5%,53
+1004,Belgium,1930,1930 5%,14
+1005,Hawaii,1930,1930 5%,5
+1006,Massachusetts,1930,1930 5%,174
+1007,Denmark,1930,1930 5%,133
+1008,Netherlands,1930,1930 5%,43
+1009,Lithuania,1930,1930 5%,9
+1010,Rhode Island,1930,1930 5%,15
+1011,France,1930,1930 5%,45
+1012,Delaware,1930,1930 5%,13
+1013,Australia and New Zealand,1930,1930 5%,9
+1014,India,1930,1930 5%,1
+1015,AFRICA,1930,1930 5%,3
+1016,Alaska,1930,1930 5%,3
+1017,Spain,1930,1930 5%,5
+1018,Korea,1930,1930 5%,2
+1019,Latvia,1930,1930 5%,6
+1020,Romania,1930,1930 5%,20
+1021,Native American,1930,1930 5%,2
+1022,Philippines,1930,1930 5%,9
+1023,Cuba,1930,1930 5%,5
+1024,SOUTH AMERICA,1930,1930 5%,13
+1025,"Europe, ns",1930,1930 5%,2
+1026,Turkey,1930,1930 5%,4
+1027,Central America,1930,1930 5%,1
+1028,China,1930,1930 5%,15
+1029,Syria,1930,1930 5%,3
+1030,"Persian Gulf States, n.s.",1930,1930 5%,1
+1031,"Central Europe, ns",1930,1930 5%,2
+1032,Luxembourg,1930,1930 5%,2
+1033,Israel/Palestine,1930,1930 5%,1
+1034,Puerto Rico,1930,1930 5%,1
+1035,Mississippi,1940,1940 1%,24
+1036,Colorado,1940,1940 1%,5118
+1037,Minnesota,1940,1940 1%,74
+1038,Texas,1940,1940 1%,193
+1039,Poland,1940,1940 1%,29
+1040,Kansas,1940,1940 1%,819
+1041,Iowa,1940,1940 1%,375
+1042,South Dakota,1940,1940 1%,57
+1043,Wyoming,1940,1940 1%,53
+1044,Nebraska,1940,1940 1%,530
+1045,Germany,1940,1940 1%,69
+1046,Canada,1940,1940 1%,46
+1047,Illinois,1940,1940 1%,386
+1048,Oklahoma,1940,1940 1%,268
+1049,Italy,1940,1940 1%,87
+1050,Missouri,1940,1940 1%,601
+1051,Pennsylvania,1940,1940 1%,120
+1052,New Hampshire,1940,1940 1%,9
+1053,New Jersey,1940,1940 1%,21
+1054,Netherlands,1940,1940 1%,10
+1055,California,1940,1940 1%,58
+1056,Denmark,1940,1940 1%,39
+1057,New York,1940,1940 1%,110
+1058,Indiana,1940,1940 1%,174
+1059,Maine,1940,1940 1%,14
+1060,Sweden,1940,1940 1%,52
+1061,Kentucky,1940,1940 1%,105
+1062,Alabama,1940,1940 1%,24
+1063,Ohio,1940,1940 1%,152
+1064,Other USSR/Russia,1940,1940 1%,119
+1065,Arizona,1940,1940 1%,11
+1066,Arkansas,1940,1940 1%,116
+1067,New Mexico,1940,1940 1%,295
+1068,West Virginia,1940,1940 1%,23
+1069,Florida,1940,1940 1%,9
+1070,North Carolina,1940,1940 1%,22
+1071,Michigan,1940,1940 1%,62
+1072,Georgia,1940,1940 1%,18
+1073,Mexico,1940,1940 1%,73
+1074,Idaho,1940,1940 1%,18
+1075,Norway,1940,1940 1%,10
+1076,Austria,1940,1940 1%,26
+1077,Oregon,1940,1940 1%,14
+1078,Yugoslavia,1940,1940 1%,23
+1079,Utah,1940,1940 1%,48
+1080,Massachusetts,1940,1940 1%,26
+1081,Maryland,1940,1940 1%,12
+1082,Missing/blank,1940,1940 1%,2
+1083,Wisconsin,1940,1940 1%,69
+1084,Montana,1940,1940 1%,23
+1085,Tennessee,1940,1940 1%,44
+1086,North Dakota,1940,1940 1%,29
+1087,Czechoslovakia,1940,1940 1%,13
+1088,Ireland,1940,1940 1%,23
+1089,Louisiana,1940,1940 1%,24
+1090,Connecticut,1940,1940 1%,6
+1091,Rhode Island,1940,1940 1%,5
+1092,Hawaii,1940,1940 1%,3
+1093,Virginia,1940,1940 1%,24
+1094,France,1940,1940 1%,9
+1095,Switzerland,1940,1940 1%,6
+1096,England,1940,1940 1%,52
+1097,Japan,1940,1940 1%,14
+1098,Washington,1940,1940 1%,20
+1099,Scotland,1940,1940 1%,27
+1100,Korea,1940,1940 1%,1
+1101,Greece,1940,1940 1%,9
+1102,Vermont,1940,1940 1%,6
+1103,Wales,1940,1940 1%,4
+1104,Abroad (unknown) or at sea,1940,1940 1%,3
+1105,Belgium,1940,1940 1%,4
+1106,Hungary,1940,1940 1%,10
+1107,District of Columbia,1940,1940 1%,3
+1108,Lithuania,1940,1940 1%,1
+1109,South Carolina,1940,1940 1%,6
+1110,"United States, ns",1940,1940 1%,5
+1111,SOUTH AMERICA,1940,1940 1%,2
+1112,Australia and New Zealand,1940,1940 1%,1
+1113,AFRICA,1940,1940 1%,1
+1114,Nevada,1940,1940 1%,4
+1115,Finland,1940,1940 1%,3
+1116,India,1940,1940 1%,3
+1117,Delaware,1940,1940 1%,2
+1118,Philippines,1940,1940 1%,1
+1119,China,1940,1940 1%,1
+1120,Turkey,1940,1940 1%,3
+1121,Central America,1940,1940 1%,1
+1122,Portugal,1940,1940 1%,1
+1123,Romania,1940,1940 1%,1
+1124,Missouri,1870,1870 1%,15
+1125,New York,1870,1870 1%,31
+1126,Indiana,1870,1870 1%,9
+1127,Pennsylvania,1870,1870 1%,11
+1128,Wurttemberg,1870,1870 1%,3
+1129,Ireland,1870,1870 1%,18
+1130,Illinois,1870,1870 1%,15
+1131,Massachusetts,1870,1870 1%,13
+1132,Maine,1870,1870 1%,5
+1133,Bavaria,1870,1870 1%,1
+1134,Austria,1870,1870 1%,1
+1135,Colorado,1870,1870 1%,47
+1136,New Mexico,1870,1870 1%,88
+1137,Kansas,1870,1870 1%,3
+1138,England,1870,1870 1%,25
+1139,Ohio,1870,1870 1%,16
+1140,Nebraska,1870,1870 1%,2
+1141,New Jersey,1870,1870 1%,4
+1142,Maryland,1870,1870 1%,1
+1143,Connecticut,1870,1870 1%,1
+1144,Tennessee,1870,1870 1%,1
+1145,Virginia,1870,1870 1%,11
+1146,Kentucky,1870,1870 1%,9
+1147,Wisconsin,1870,1870 1%,4
+1148,Louisiana,1870,1870 1%,1
+1149,Canada,1870,1870 1%,4
+1150,Hesse-Nassau,1870,1870 1%,3
+1151,Utah,1870,1870 1%,4
+1152,Iowa,1870,1870 1%,12
+1153,Saxony,1870,1870 1%,1
+1154,"Prussia, nec",1870,1870 1%,2
+1155,Michigan,1870,1870 1%,4
+1156,Mexico,1870,1870 1%,1
+1157,Scotland,1870,1870 1%,1
+1158,North Carolina,1870,1870 1%,1
+1159,Texas,1870,1870 1%,1
+1160,Mississippi,1870,1870 1%,1
+1161,Other USSR/Russia,1870,1870 1%,1
+1162,New Hampshire,1870,1870 1%,1
+1163,Missouri,1870,1870 1% sample with black oversample,15
+1164,New York,1870,1870 1% sample with black oversample,33
+1165,Colorado,1870,1870 1% sample with black oversample,48
+1166,Pennsylvania,1870,1870 1% sample with black oversample,12
+1167,Delaware,1870,1870 1% sample with black oversample,2
+1168,Ohio,1870,1870 1% sample with black oversample,17
+1169,Indiana,1870,1870 1% sample with black oversample,9
+1170,Wurttemberg,1870,1870 1% sample with black oversample,3
+1171,Ireland,1870,1870 1% sample with black oversample,18
+1172,Illinois,1870,1870 1% sample with black oversample,15
+1173,Massachusetts,1870,1870 1% sample with black oversample,13
+1174,Maine,1870,1870 1% sample with black oversample,5
+1175,Bavaria,1870,1870 1% sample with black oversample,1
+1176,Austria,1870,1870 1% sample with black oversample,1
+1177,New Mexico,1870,1870 1% sample with black oversample,88
+1178,Kansas,1870,1870 1% sample with black oversample,3
+1179,England,1870,1870 1% sample with black oversample,25
+1180,Nebraska,1870,1870 1% sample with black oversample,2
+1181,New Jersey,1870,1870 1% sample with black oversample,4
+1182,Maryland,1870,1870 1% sample with black oversample,1
+1183,Connecticut,1870,1870 1% sample with black oversample,1
+1184,Tennessee,1870,1870 1% sample with black oversample,1
+1185,Virginia,1870,1870 1% sample with black oversample,11
+1186,Kentucky,1870,1870 1% sample with black oversample,9
+1187,Wisconsin,1870,1870 1% sample with black oversample,4
+1188,Louisiana,1870,1870 1% sample with black oversample,1
+1189,Canada,1870,1870 1% sample with black oversample,4
+1190,Hesse-Nassau,1870,1870 1% sample with black oversample,3
+1191,Utah,1870,1870 1% sample with black oversample,4
+1192,Iowa,1870,1870 1% sample with black oversample,12
+1193,Saxony,1870,1870 1% sample with black oversample,1
+1194,"Prussia, nec",1870,1870 1% sample with black oversample,2
+1195,Michigan,1870,1870 1% sample with black oversample,4
+1196,Mexico,1870,1870 1% sample with black oversample,1
+1197,Scotland,1870,1870 1% sample with black oversample,1
+1198,North Carolina,1870,1870 1% sample with black oversample,2
+1199,Texas,1870,1870 1% sample with black oversample,1
+1200,Mississippi,1870,1870 1% sample with black oversample,1
+1201,Other USSR/Russia,1870,1870 1% sample with black oversample,1
+1202,New Hampshire,1870,1870 1% sample with black oversample,1
+1203,Canada,1880,1880 1%,38
+1204,Ireland,1880,1880 1%,88
+1205,Illinois,1880,1880 1%,133
+1206,Georgia,1880,1880 1%,10
+1207,Ohio,1880,1880 1%,145
+1208,Virginia,1880,1880 1%,23
+1209,Colorado,1880,1880 1%,301
+1210,Germany,1880,1880 1%,34
+1211,Wisconsin,1880,1880 1%,42
+1212,Minnesota,1880,1880 1%,5
+1213,Massachusetts,1880,1880 1%,42
+1214,Maine,1880,1880 1%,33
+1215,Pennsylvania,1880,1880 1%,129
+1216,California,1880,1880 1%,10
+1217,Sweden,1880,1880 1%,12
+1218,Delaware,1880,1880 1%,2
+1219,South Carolina,1880,1880 1%,2
+1220,Quebec,1880,1880 1%,1
+1221,Vermont,1880,1880 1%,24
+1222,New Hampshire,1880,1880 1%,9
+1223,Missouri,1880,1880 1%,154
+1224,England,1880,1880 1%,70
+1225,Norway,1880,1880 1%,2
+1226,Iowa,1880,1880 1%,84
+1227,Baden,1880,1880 1%,4
+1228,Hessen,1880,1880 1%,2
+1229,Mecklenburg,1880,1880 1%,1
+1230,Saxony,1880,1880 1%,1
+1231,Bavaria,1880,1880 1%,3
+1232,New York,1880,1880 1%,148
+1233,Maryland,1880,1880 1%,13
+1234,Montana,1880,1880 1%,1
+1235,Nebraska,1880,1880 1%,19
+1236,Denmark,1880,1880 1%,6
+1237,Scotland,1880,1880 1%,14
+1238,Indiana,1880,1880 1%,62
+1239,France,1880,1880 1%,6
+1240,"Africa, ns/nec",1880,1880 1%,2
+1241,New Jersey,1880,1880 1%,10
+1242,Arkansas,1880,1880 1%,7
+1243,Wyoming,1880,1880 1%,1
+1244,Kansas,1880,1880 1%,39
+1245,District of Columbia,1880,1880 1%,2
+1246,Mexico,1880,1880 1%,2
+1247,Michigan,1880,1880 1%,28
+1248,China,1880,1880 1%,7
+1249,Louisiana,1880,1880 1%,4
+1250,Hesse-Nassau,1880,1880 1%,1
+1251,Connecticut,1880,1880 1%,2
+1252,Kentucky,1880,1880 1%,55
+1253,Tennessee,1880,1880 1%,26
+1254,"United States, ns",1880,1880 1%,2
+1255,Poland,1880,1880 1%,5
+1256,"Prussia, nec",1880,1880 1%,11
+1257,Wurttemberg,1880,1880 1%,4
+1258,Alsace,1880,1880 1%,1
+1259,Luxembourg,1880,1880 1%,1
+1260,Australia,1880,1880 1%,1
+1261,Wales,1880,1880 1%,19
+1262,Bermuda,1880,1880 1%,1
+1263,Nova Scotia,1880,1880 1%,4
+1264,New Zealand,1880,1880 1%,4
+1265,Italy,1880,1880 1%,7
+1266,Texas,1880,1880 1%,8
+1267,New Mexico,1880,1880 1%,51
+1268,Rhode Island,1880,1880 1%,4
+1269,Utah,1880,1880 1%,1
+1270,North Carolina,1880,1880 1%,4
+1271,Alabama,1880,1880 1%,3
+1272,Other USSR/Russia,1880,1880 1%,1
+1273,Prince Edward Island,1880,1880 1%,2
+1274,Switzerland,1880,1880 1%,3
+1275,Florida,1880,1880 1%,1
+1276,Spain,1880,1880 1%,1
+1277,New Mexico Territory,1880,1880 1%,59
+1278,West Virginia,1880,1880 1%,2
+1279,Mississippi,1880,1880 1%,2
+1280,Cuba,1880,1880 1%,1
+1281,Belgium,1880,1880 1%,2
+1282,Greece,1880,1880 1%,1
+1283,Dakota Territory,1880,1880 1%,5
+1284,Utah Territory,1880,1880 1%,1
+1285,Nevada,1880,1880 1%,2
+1286,Hanover,1880,1880 1%,1
+1287,New Brunswick,1880,1880 1%,1
+1288,Ireland,1880,1880 10%,855
+1289,Iowa,1880,1880 10%,726
+1290,Colorado,1880,1880 10%,3094
+1291,Illinois,1880,1880 10%,1333
+1292,New York,1880,1880 10%,1546
+1293,Michigan,1880,1880 10%,419
+1294,Pennsylvania,1880,1880 10%,1207
+1295,Ohio,1880,1880 10%,1259
+1296,Wisconsin,1880,1880 10%,334
+1297,Missouri,1880,1880 10%,1373
+1298,New Hampshire,1880,1880 10%,62
+1299,Canada,1880,1880 10%,408
+1300,Massachusetts,1880,1880 10%,382
+1301,"Prussia, nec",1880,1880 10%,245
+1302,Wurttemberg,1880,1880 10%,23
+1303,France,1880,1880 10%,95
+1304,Austria,1880,1880 10%,53
+1305,Kentucky,1880,1880 10%,401
+1306,Hessen,1880,1880 10%,23
+1307,Bavaria,1880,1880 10%,48
+1308,Baden,1880,1880 10%,32
+1309,England,1880,1880 10%,885
+1310,Germany,1880,1880 10%,306
+1311,Indiana,1880,1880 10%,577
+1312,Scotland,1880,1880 10%,155
+1313,Connecticut,1880,1880 10%,140
+1314,Maryland,1880,1880 10%,116
+1315,China,1880,1880 10%,59
+1316,Vermont,1880,1880 10%,164
+1317,Saxony,1880,1880 10%,14
+1318,Switzerland,1880,1880 10%,75
+1319,Kansas,1880,1880 10%,386
+1320,Other USSR/Russia,1880,1880 10%,54
+1321,Italy,1880,1880 10%,47
+1322,Tennessee,1880,1880 10%,231
+1323,Virginia,1880,1880 10%,289
+1324,Washington,1880,1880 10%,11
+1325,Hanover,1880,1880 10%,15
+1326,Wyoming,1880,1880 10%,17
+1327,Maine,1880,1880 10%,254
+1328,Sweden,1880,1880 10%,228
+1329,South Carolina,1880,1880 10%,31
+1330,Wales,1880,1880 10%,138
+1331,California,1880,1880 10%,53
+1332,Georgia,1880,1880 10%,114
+1333,New Jersey,1880,1880 10%,155
+1334,District of Columbia,1880,1880 10%,33
+1335,Hesse-Nassau,1880,1880 10%,8
+1336,Netherlands,1880,1880 10%,11
+1337,Bohemia,1880,1880 10%,16
+1338,Prince Edward Island,1880,1880 10%,17
+1339,Nova Scotia,1880,1880 10%,57
+1340,Belgium,1880,1880 10%,6
+1341,Denmark,1880,1880 10%,53
+1342,Rhode Island,1880,1880 10%,49
+1343,"United States, ns",1880,1880 10%,6
+1344,Alabama,1880,1880 10%,58
+1345,Poland,1880,1880 10%,17
+1346,Texas,1880,1880 10%,129
+1347,Arkansas,1880,1880 10%,70
+1348,Florida,1880,1880 10%,5
+1349,Nebraska,1880,1880 10%,78
+1350,Mexico,1880,1880 10%,29
+1351,Mississippi,1880,1880 10%,50
+1352,Africa,1880,1880 10%,1
+1353,West Indies,1880,1880 10%,3
+1354,Norway,1880,1880 10%,47
+1355,Cuba,1880,1880 10%,4
+1356,Minnesota,1880,1880 10%,61
+1357,Utah,1880,1880 10%,34
+1358,New Brunswick,1880,1880 10%,46
+1359,At sea,1880,1880 10%,1
+1360,Louisiana,1880,1880 10%,50
+1361,Japan,1880,1880 10%,1
+1362,Delaware,1880,1880 10%,22
+1363,Hamburg,1880,1880 10%,5
+1364,Alsace,1880,1880 10%,4
+1365,Schleswig,1880,1880 10%,20
+1366,Montana,1880,1880 10%,5
+1367,Wyoming Territory,1880,1880 10%,7
+1368,West Virginia,1880,1880 10%,44
+1369,New Mexico,1880,1880 10%,1758
+1370,North Carolina,1880,1880 10%,79
+1371,South America,1880,1880 10%,1
+1372,Westphalia,1880,1880 10%,5
+1373,Quebec,1880,1880 10%,4
+1374,Ontario/Upper Canada,1880,1880 10%,9
+1375,Australia,1880,1880 10%,4
+1376,Anhalt,1880,1880 10%,4
+1377,Mecklenburg,1880,1880 10%,6
+1378,Finland,1880,1880 10%,2
+1379,Peru,1880,1880 10%,2
+1380,Indian Territory,1880,1880 10%,8
+1381,Newfoundland,1880,1880 10%,2
+1382,Oregon,1880,1880 10%,5
+1383,"Europe, ns.",1880,1880 10%,3
+1384,Brazil,1880,1880 10%,3
+1385,Oldenburg,1880,1880 10%,4
+1386,Nevada,1880,1880 10%,15
+1387,Portugal,1880,1880 10%,1
+1388,Isle of Man,1880,1880 10%,3
+1389,"South America, ns",1880,1880 10%,2
+1390,Spain,1880,1880 10%,3
+1391,Arizona,1880,1880 10%,3
+1392,Canada West,1880,1880 10%,4
+1393,Canada East,1880,1880 10%,7
+1394,Hawaii,1880,1880 10%,1
+1395,India,1880,1880 10%,2
+1396,"Africa, ns/nec",1880,1880 10%,2
+1397,Dakota Territory,1880,1880 10%,2
+1398,Utah Territory,1880,1880 10%,2
+1399,Jamaica,1880,1880 10%,1
+1400,St. Vincent,1880,1880 10%,1
+1401,Idaho Territory,1880,1880 10%,3
+1402,Hungary,1880,1880 10%,6
+1403,Lorraine,1880,1880 10%,1
+1404,Central America,1880,1880 10%,1
+1405,Berlin,1880,1880 10%,1
+1406,Greece,1880,1880 10%,1
+1407,Iceland,1880,1880 10%,1
+1408,Brandenburg,1880,1880 10%,1
+1409,Bremen,1880,1880 10%,1
+1410,Delaware,1900,1900 5%,18
+1411,New Jersey,1900,1900 5%,153
+1412,Nebraska,1900,1900 5%,623
+1413,Colorado,1900,1900 5%,7926
+1414,Missouri,1900,1900 5%,1610
+1415,Illinois,1900,1900 5%,1714
+1416,Pennsylvania,1900,1900 5%,1033
+1417,Germany,1900,1900 5%,739
+1418,English Canada,1900,1900 5%,376
+1419,Ireland,1900,1900 5%,486
+1420,Tennessee,1900,1900 5%,173
+1421,Connecticut,1900,1900 5%,87
+1422,Wisconsin,1900,1900 5%,464
+1423,Kansas,1900,1900 5%,1162
+1424,New York,1900,1900 5%,1103
+1425,Other USSR/Russia,1900,1900 5%,154
+1426,Austria,1900,1900 5%,360
+1427,Georgia,1900,1900 5%,104
+1428,French Canada,1900,1900 5%,48
+1429,Maryland,1900,1900 5%,107
+1430,Massachusetts,1900,1900 5%,250
+1431,New Mexico,1900,1900 5%,532
+1432,Bohemia-Moravia,1900,1900 5%,22
+1433,Indiana,1900,1900 5%,800
+1434,Canada,1900,1900 5%,114
+1435,Scotland,1900,1900 5%,190
+1436,Ohio,1900,1900 5%,1239
+1437,England,1900,1900 5%,679
+1438,Iowa,1900,1900 5%,1252
+1439,Russian Poland,1900,1900 5%,5
+1440,Wales,1900,1900 5%,92
+1441,Virginia,1900,1900 5%,171
+1442,Kentucky,1900,1900 5%,368
+1443,Italy,1900,1900 5%,426
+1444,France,1900,1900 5%,45
+1445,California,1900,1900 5%,79
+1446,Sweden,1900,1900 5%,545
+1447,Alabama,1900,1900 5%,51
+1448,Michigan,1900,1900 5%,491
+1449,Utah,1900,1900 5%,103
+1450,Washington,1900,1900 5%,38
+1451,Oregon,1900,1900 5%,25
+1452,Maine,1900,1900 5%,133
+1453,Minnesota,1900,1900 5%,161
+1454,Wyoming,1900,1900 5%,41
+1455,Arkansas,1900,1900 5%,127
+1456,Louisiana,1900,1900 5%,39
+1457,Mexico,1900,1900 5%,19
+1458,Chile,1900,1900 5%,1
+1459,Texas,1900,1900 5%,185
+1460,Mississippi,1900,1900 5%,48
+1461,New Hampshire,1900,1900 5%,36
+1462,Austrian Poland,1900,1900 5%,2
+1463,Netherlands,1900,1900 5%,16
+1464,China,1900,1900 5%,42
+1465,Rhode Island,1900,1900 5%,25
+1466,Hungary,1900,1900 5%,31
+1467,Vermont,1900,1900 5%,100
+1468,Greece,1900,1900 5%,1
+1469,Switzerland,1900,1900 5%,65
+1470,District of Columbia,1900,1900 5%,9
+1471,Arizona,1900,1900 5%,7
+1472,North Carolina,1900,1900 5%,99
+1473,Florida,1900,1900 5%,12
+1474,South Carolina,1900,1900 5%,23
+1475,West Virginia,1900,1900 5%,103
+1476,South Dakota,1900,1900 5%,34
+1477,Africa,1900,1900 5%,1
+1478,Denmark,1900,1900 5%,90
+1479,North Dakota,1900,1900 5%,8
+1480,Spain,1900,1900 5%,2
+1481,Norway,1900,1900 5%,37
+1482,Finland,1900,1900 5%,49
+1483,Nevada,1900,1900 5%,16
+1484,Australia,1900,1900 5%,12
+1485,Dakota Territory,1900,1900 5%,10
+1486,Montana,1900,1900 5%,23
+1487,Japan,1900,1900 5%,3
+1488,Indian Territory,1900,1900 5%,33
+1489,South America,1900,1900 5%,1
+1490,Isle of Man,1900,1900 5%,4
+1491,British West Indies,1900,1900 5%,1
+1492,Oklahoma,1900,1900 5%,22
+1493,Luxembourg,1900,1900 5%,2
+1494,"Prussia, nec",1900,1900 5%,4
+1495,Idaho,1900,1900 5%,17
+1496,Belgium,1900,1900 5%,2
+1497,New Zealand,1900,1900 5%,1
+1498,Armenia,1900,1900 5%,1
+1499,India,1900,1900 5%,2
+1500,Nova Scotia,1900,1900 5%,8
+1501,"United States, ns",1900,1900 5%,6
+1502,"Africa, ns/nec",1900,1900 5%,1
+1503,Portugal,1900,1900 5%,3
+1504,Prince Edward Island,1900,1900 5%,2
+1505,Idaho Territory,1900,1900 5%,3
+1506,At sea,1900,1900 5%,5
+1507,Hawaii,1900,1900 5%,2
+1508,Ontario/Upper Canada,1900,1900 5%,3
+1509,Palestine,1900,1900 5%,1
+1510,Poland,1900,1900 5%,3
+1511,Germany,1900,1900 1%,157
+1512,Colorado,1900,1900 1%,1468
+1513,New York,1900,1900 1%,210
+1514,English Canada,1900,1900 1%,74
+1515,Wisconsin,1900,1900 1%,97
+1516,Other USSR/Russia,1900,1900 1%,61
+1517,Austria,1900,1900 1%,44
+1518,Iowa,1900,1900 1%,248
+1519,Kansas,1900,1900 1%,211
+1520,Indiana,1900,1900 1%,139
+1521,Nebraska,1900,1900 1%,114
+1522,Pennsylvania,1900,1900 1%,221
+1523,Missouri,1900,1900 1%,333
+1524,Tennessee,1900,1900 1%,37
+1525,Ireland,1900,1900 1%,95
+1526,Nevada,1900,1900 1%,2
+1527,Illinois,1900,1900 1%,402
+1528,England,1900,1900 1%,147
+1529,Sweden,1900,1900 1%,112
+1530,New Jersey,1900,1900 1%,32
+1531,Ohio,1900,1900 1%,284
+1532,Maine,1900,1900 1%,27
+1533,China,1900,1900 1%,12
+1534,Massachusetts,1900,1900 1%,54
+1535,Vermont,1900,1900 1%,18
+1536,Connecticut,1900,1900 1%,16
+1537,Finland,1900,1900 1%,12
+1538,Switzerland,1900,1900 1%,12
+1539,Kentucky,1900,1900 1%,80
+1540,Denmark,1900,1900 1%,17
+1541,North Carolina,1900,1900 1%,18
+1542,California,1900,1900 1%,21
+1543,Maryland,1900,1900 1%,14
+1544,Norway,1900,1900 1%,6
+1545,France,1900,1900 1%,4
+1546,Texas,1900,1900 1%,35
+1547,Scotland,1900,1900 1%,55
+1548,Michigan,1900,1900 1%,75
+1549,Utah,1900,1900 1%,33
+1550,Virginia,1900,1900 1%,38
+1551,Arkansas,1900,1900 1%,19
+1552,French Canada,1900,1900 1%,12
+1553,Georgia,1900,1900 1%,18
+1554,Alabama,1900,1900 1%,12
+1555,Wyoming,1900,1900 1%,13
+1556,Mississippi,1900,1900 1%,8
+1557,Minnesota,1900,1900 1%,19
+1558,Austrian Poland,1900,1900 1%,2
+1559,Italy,1900,1900 1%,61
+1560,Louisiana,1900,1900 1%,10
+1561,West Virginia,1900,1900 1%,14
+1562,Canada,1900,1900 1%,19
+1563,Oregon,1900,1900 1%,2
+1564,Greece,1900,1900 1%,1
+1565,Syria,1900,1900 1%,1
+1566,"United States, ns",1900,1900 1%,7
+1567,Delaware,1900,1900 1%,5
+1568,Oklahoma,1900,1900 1%,2
+1569,Dakota Territory,1900,1900 1%,2
+1570,Hawaii,1900,1900 1%,1
+1571,Wales,1900,1900 1%,9
+1572,Russian Poland,1900,1900 1%,4
+1573,New Mexico,1900,1900 1%,100
+1574,Netherlands,1900,1900 1%,3
+1575,Idaho,1900,1900 1%,3
+1576,New Hampshire,1900,1900 1%,4
+1577,Rhode Island,1900,1900 1%,2
+1578,Washington,1900,1900 1%,3
+1579,Florida,1900,1900 1%,3
+1580,South Dakota,1900,1900 1%,14
+1581,North Dakota,1900,1900 1%,2
+1582,Indian Territory,1900,1900 1%,4
+1583,West Indies,1900,1900 1%,1
+1584,East Indies,1900,1900 1%,1
+1585,New Brunswick,1900,1900 1%,1
+1586,Montana,1900,1900 1%,4
+1587,South Carolina,1900,1900 1%,5
+1588,Mexico,1900,1900 1%,2
+1589,German Poland,1900,1900 1%,1
+1590,Colombia,1900,1900 1%,1
+1591,Hungary,1900,1900 1%,5
+1592,Nova Scotia,1900,1900 1%,6
+1593,Bavaria,1900,1900 1%,1
+1594,Arizona,1900,1900 1%,1
+1595,Germany,1900,1900 1% sample with oversamples,157
+1596,Colorado,1900,1900 1% sample with oversamples,1477
+1597,New York,1900,1900 1% sample with oversamples,210
+1598,English Canada,1900,1900 1% sample with oversamples,74
+1599,Wisconsin,1900,1900 1% sample with oversamples,97
+1600,Other USSR/Russia,1900,1900 1% sample with oversamples,61
+1601,Austria,1900,1900 1% sample with oversamples,44
+1602,Iowa,1900,1900 1% sample with oversamples,248
+1603,Kansas,1900,1900 1% sample with oversamples,211
+1604,Indiana,1900,1900 1% sample with oversamples,139
+1605,Nebraska,1900,1900 1% sample with oversamples,114
+1606,Pennsylvania,1900,1900 1% sample with oversamples,221
+1607,Missouri,1900,1900 1% sample with oversamples,333
+1608,Tennessee,1900,1900 1% sample with oversamples,37
+1609,Ireland,1900,1900 1% sample with oversamples,95
+1610,Nevada,1900,1900 1% sample with oversamples,3
+1611,Illinois,1900,1900 1% sample with oversamples,402
+1612,England,1900,1900 1% sample with oversamples,147
+1613,Sweden,1900,1900 1% sample with oversamples,112
+1614,New Jersey,1900,1900 1% sample with oversamples,32
+1615,Ohio,1900,1900 1% sample with oversamples,284
+1616,Maine,1900,1900 1% sample with oversamples,27
+1617,China,1900,1900 1% sample with oversamples,12
+1618,Massachusetts,1900,1900 1% sample with oversamples,54
+1619,Vermont,1900,1900 1% sample with oversamples,18
+1620,Connecticut,1900,1900 1% sample with oversamples,16
+1621,Finland,1900,1900 1% sample with oversamples,12
+1622,Switzerland,1900,1900 1% sample with oversamples,12
+1623,Kentucky,1900,1900 1% sample with oversamples,80
+1624,Denmark,1900,1900 1% sample with oversamples,17
+1625,North Carolina,1900,1900 1% sample with oversamples,18
+1626,California,1900,1900 1% sample with oversamples,24
+1627,Maryland,1900,1900 1% sample with oversamples,14
+1628,Norway,1900,1900 1% sample with oversamples,6
+1629,France,1900,1900 1% sample with oversamples,4
+1630,Texas,1900,1900 1% sample with oversamples,35
+1631,Scotland,1900,1900 1% sample with oversamples,55
+1632,Michigan,1900,1900 1% sample with oversamples,75
+1633,Utah,1900,1900 1% sample with oversamples,131
+1634,Virginia,1900,1900 1% sample with oversamples,38
+1635,Arkansas,1900,1900 1% sample with oversamples,19
+1636,French Canada,1900,1900 1% sample with oversamples,12
+1637,Georgia,1900,1900 1% sample with oversamples,18
+1638,Alabama,1900,1900 1% sample with oversamples,12
+1639,Wyoming,1900,1900 1% sample with oversamples,13
+1640,Mississippi,1900,1900 1% sample with oversamples,8
+1641,Minnesota,1900,1900 1% sample with oversamples,19
+1642,Austrian Poland,1900,1900 1% sample with oversamples,2
+1643,Italy,1900,1900 1% sample with oversamples,61
+1644,Louisiana,1900,1900 1% sample with oversamples,10
+1645,West Virginia,1900,1900 1% sample with oversamples,14
+1646,Canada,1900,1900 1% sample with oversamples,19
+1647,Oregon,1900,1900 1% sample with oversamples,2
+1648,Greece,1900,1900 1% sample with oversamples,1
+1649,Syria,1900,1900 1% sample with oversamples,1
+1650,"United States, ns",1900,1900 1% sample with oversamples,101
+1651,Delaware,1900,1900 1% sample with oversamples,5
+1652,Oklahoma,1900,1900 1% sample with oversamples,2
+1653,Dakota Territory,1900,1900 1% sample with oversamples,2
+1654,Hawaii,1900,1900 1% sample with oversamples,1
+1655,Wales,1900,1900 1% sample with oversamples,9
+1656,Russian Poland,1900,1900 1% sample with oversamples,4
+1657,New Mexico,1900,1900 1% sample with oversamples,133
+1658,Netherlands,1900,1900 1% sample with oversamples,3
+1659,Idaho,1900,1900 1% sample with oversamples,3
+1660,New Hampshire,1900,1900 1% sample with oversamples,4
+1661,Rhode Island,1900,1900 1% sample with oversamples,2
+1662,Washington,1900,1900 1% sample with oversamples,3
+1663,Florida,1900,1900 1% sample with oversamples,3
+1664,South Dakota,1900,1900 1% sample with oversamples,14
+1665,North Dakota,1900,1900 1% sample with oversamples,2
+1666,Indian Territory,1900,1900 1% sample with oversamples,4
+1667,West Indies,1900,1900 1% sample with oversamples,1
+1668,East Indies,1900,1900 1% sample with oversamples,1
+1669,New Brunswick,1900,1900 1% sample with oversamples,1
+1670,Montana,1900,1900 1% sample with oversamples,4
+1671,South Carolina,1900,1900 1% sample with oversamples,5
+1672,Mexico,1900,1900 1% sample with oversamples,2
+1673,German Poland,1900,1900 1% sample with oversamples,1
+1674,Colombia,1900,1900 1% sample with oversamples,1
+1675,Hungary,1900,1900 1% sample with oversamples,5
+1676,Nova Scotia,1900,1900 1% sample with oversamples,6
+1677,Bavaria,1900,1900 1% sample with oversamples,1
+1678,Arizona,1900,1900 1% sample with oversamples,31
+1679,Texas,1910,1910 1%,71
+1680,Kentucky,1910,1910 1%,97
+1681,Indiana,1910,1910 1%,157
+1682,Kansas,1910,1910 1%,361
+1683,England,1910,1910 1%,149
+1684,Missouri,1910,1910 1%,470
+1685,Michigan,1910,1910 1%,106
+1686,Canada,1910,1910 1%,112
+1687,Pennsylvania,1910,1910 1%,233
+1688,Ireland,1910,1910 1%,109
+1689,Colorado,1910,1910 1%,2276
+1690,Illinois,1910,1910 1%,550
+1691,Nebraska,1910,1910 1%,242
+1692,Oklahoma,1910,1910 1%,36
+1693,Virginia,1910,1910 1%,62
+1694,New York,1910,1910 1%,268
+1695,Utah,1910,1910 1%,20
+1696,Denmark,1910,1910 1%,35
+1697,Austria,1910,1910 1%,112
+1698,Sweden,1910,1910 1%,155
+1699,Vermont,1910,1910 1%,18
+1700,Italy,1910,1910 1%,123
+1701,Ohio,1910,1910 1%,295
+1702,Germany,1910,1910 1%,157
+1703,Wisconsin,1910,1910 1%,116
+1704,West Virginia,1910,1910 1%,29
+1705,Iowa,1910,1910 1%,444
+1706,Scotland,1910,1910 1%,50
+1707,Massachusetts,1910,1910 1%,46
+1708,Montana,1910,1910 1%,9
+1709,Florida,1910,1910 1%,3
+1710,Tennessee,1910,1910 1%,77
+1711,California,1910,1910 1%,29
+1712,Louisiana,1910,1910 1%,10
+1713,France,1910,1910 1%,9
+1714,Oregon,1910,1910 1%,5
+1715,New Mexico,1910,1910 1%,153
+1716,Finland,1910,1910 1%,10
+1717,Georgia,1910,1910 1%,25
+1718,District of Columbia,1910,1910 1%,7
+1719,Maryland,1910,1910 1%,16
+1720,New Jersey,1910,1910 1%,33
+1721,Arizona,1910,1910 1%,6
+1722,Wyoming,1910,1910 1%,26
+1723,Arkansas,1910,1910 1%,33
+1724,South Dakota,1910,1910 1%,38
+1725,Minnesota,1910,1910 1%,40
+1726,Wales,1910,1910 1%,29
+1727,Norway,1910,1910 1%,20
+1728,Other USSR/Russia,1910,1910 1%,166
+1729,Mexico,1910,1910 1%,20
+1730,Switzerland,1910,1910 1%,13
+1731,Cuba,1910,1910 1%,3
+1732,New Hampshire,1910,1910 1%,13
+1733,South Carolina,1910,1910 1%,3
+1734,"United States, ns",1910,1910 1%,22
+1735,North Carolina,1910,1910 1%,47
+1736,Portugal,1910,1910 1%,1
+1737,Alabama,1910,1910 1%,25
+1738,Argentina,1910,1910 1%,5
+1739,Japan,1910,1910 1%,8
+1740,Connecticut,1910,1910 1%,22
+1741,St. Croix,1910,1910 1%,1
+1742,Maine,1910,1910 1%,33
+1743,Hungary,1910,1910 1%,8
+1744,Panama,1910,1910 1%,1
+1745,Washington,1910,1910 1%,14
+1746,Romania,1910,1910 1%,4
+1747,Turkey,1910,1910 1%,2
+1748,Mississippi,1910,1910 1%,8
+1749,Nova Scotia,1910,1910 1%,4
+1750,New Brunswick,1910,1910 1%,1
+1751,Netherlands,1910,1910 1%,5
+1752,Rhode Island,1910,1910 1%,4
+1753,Delaware,1910,1910 1%,4
+1754,"Prussia, nec",1910,1910 1%,2
+1755,Newfoundland,1910,1910 1%,1
+1756,Indian Territory,1910,1910 1%,3
+1757,Belgium,1910,1910 1%,3
+1758,At sea,1910,1910 1%,2
+1759,North Dakota,1910,1910 1%,4
+1760,Pacific Islands,1910,1910 1%,2
+1761,Idaho,1910,1910 1%,4
+1762,Poland,1910,1910 1%,2
+1763,Croatia,1910,1910 1%,5
+1764,Greece,1910,1910 1%,5
+1765,Montenegro,1910,1910 1%,1
+1766,Dakota Territory,1910,1910 1%,3
+1767,Texas,1910,1910 1.4% sample with oversamples,86
+1768,Kentucky,1910,1910 1.4% sample with oversamples,130
+1769,Indiana,1910,1910 1.4% sample with oversamples,239
+1770,Kansas,1910,1910 1.4% sample with oversamples,494
+1771,England,1910,1910 1.4% sample with oversamples,203
+1772,Missouri,1910,1910 1.4% sample with oversamples,664
+1773,Michigan,1910,1910 1.4% sample with oversamples,152
+1774,Canada,1910,1910 1.4% sample with oversamples,152
+1775,Pennsylvania,1910,1910 1.4% sample with oversamples,312
+1776,Ireland,1910,1910 1.4% sample with oversamples,137
+1777,Colorado,1910,1910 1.4% sample with oversamples,3409
+1778,Illinois,1910,1910 1.4% sample with oversamples,761
+1779,Nebraska,1910,1910 1.4% sample with oversamples,328
+1780,Oklahoma,1910,1910 1.4% sample with oversamples,55
+1781,Virginia,1910,1910 1.4% sample with oversamples,78
+1782,New York,1910,1910 1.4% sample with oversamples,347
+1783,Utah,1910,1910 1.4% sample with oversamples,26
+1784,Denmark,1910,1910 1.4% sample with oversamples,56
+1785,Austria,1910,1910 1.4% sample with oversamples,158
+1786,Sweden,1910,1910 1.4% sample with oversamples,191
+1787,Vermont,1910,1910 1.4% sample with oversamples,39
+1788,Italy,1910,1910 1.4% sample with oversamples,190
+1789,Ohio,1910,1910 1.4% sample with oversamples,413
+1790,Germany,1910,1910 1.4% sample with oversamples,236
+1791,Wisconsin,1910,1910 1.4% sample with oversamples,162
+1792,West Virginia,1910,1910 1.4% sample with oversamples,45
+1793,Iowa,1910,1910 1.4% sample with oversamples,617
+1794,Scotland,1910,1910 1.4% sample with oversamples,62
+1795,Massachusetts,1910,1910 1.4% sample with oversamples,64
+1796,Montana,1910,1910 1.4% sample with oversamples,12
+1797,Florida,1910,1910 1.4% sample with oversamples,3
+1798,Tennessee,1910,1910 1.4% sample with oversamples,100
+1799,California,1910,1910 1.4% sample with oversamples,37
+1800,Louisiana,1910,1910 1.4% sample with oversamples,12
+1801,France,1910,1910 1.4% sample with oversamples,10
+1802,Oregon,1910,1910 1.4% sample with oversamples,9
+1803,New Mexico,1910,1910 1.4% sample with oversamples,221
+1804,Finland,1910,1910 1.4% sample with oversamples,11
+1805,Georgia,1910,1910 1.4% sample with oversamples,35
+1806,District of Columbia,1910,1910 1.4% sample with oversamples,7
+1807,Maryland,1910,1910 1.4% sample with oversamples,26
+1808,New Jersey,1910,1910 1.4% sample with oversamples,40
+1809,Arizona,1910,1910 1.4% sample with oversamples,7
+1810,Wyoming,1910,1910 1.4% sample with oversamples,35
+1811,Arkansas,1910,1910 1.4% sample with oversamples,60
+1812,South Dakota,1910,1910 1.4% sample with oversamples,54
+1813,Minnesota,1910,1910 1.4% sample with oversamples,58
+1814,Wales,1910,1910 1.4% sample with oversamples,33
+1815,Norway,1910,1910 1.4% sample with oversamples,28
+1816,Other USSR/Russia,1910,1910 1.4% sample with oversamples,221
+1817,Mexico,1910,1910 1.4% sample with oversamples,30
+1818,Switzerland,1910,1910 1.4% sample with oversamples,20
+1819,Cuba,1910,1910 1.4% sample with oversamples,3
+1820,New Hampshire,1910,1910 1.4% sample with oversamples,15
+1821,South Carolina,1910,1910 1.4% sample with oversamples,3
+1822,"United States, ns",1910,1910 1.4% sample with oversamples,24
+1823,North Carolina,1910,1910 1.4% sample with oversamples,51
+1824,Portugal,1910,1910 1.4% sample with oversamples,1
+1825,Alabama,1910,1910 1.4% sample with oversamples,33
+1826,Argentina,1910,1910 1.4% sample with oversamples,5
+1827,Japan,1910,1910 1.4% sample with oversamples,11
+1828,Connecticut,1910,1910 1.4% sample with oversamples,26
+1829,St. Croix,1910,1910 1.4% sample with oversamples,1
+1830,Maine,1910,1910 1.4% sample with oversamples,38
+1831,Hungary,1910,1910 1.4% sample with oversamples,13
+1832,Panama,1910,1910 1.4% sample with oversamples,1
+1833,Washington,1910,1910 1.4% sample with oversamples,18
+1834,Romania,1910,1910 1.4% sample with oversamples,4
+1835,Turkey,1910,1910 1.4% sample with oversamples,2
+1836,Mississippi,1910,1910 1.4% sample with oversamples,18
+1837,Nova Scotia,1910,1910 1.4% sample with oversamples,4
+1838,New Brunswick,1910,1910 1.4% sample with oversamples,1
+1839,Netherlands,1910,1910 1.4% sample with oversamples,9
+1840,Rhode Island,1910,1910 1.4% sample with oversamples,12
+1841,Delaware,1910,1910 1.4% sample with oversamples,4
+1842,"Prussia, nec",1910,1910 1.4% sample with oversamples,2
+1843,Newfoundland,1910,1910 1.4% sample with oversamples,1
+1844,Indian Territory,1910,1910 1.4% sample with oversamples,3
+1845,Belgium,1910,1910 1.4% sample with oversamples,3
+1846,At sea,1910,1910 1.4% sample with oversamples,4
+1847,North Dakota,1910,1910 1.4% sample with oversamples,6
+1848,Pacific Islands,1910,1910 1.4% sample with oversamples,2
+1849,Idaho,1910,1910 1.4% sample with oversamples,4
+1850,Poland,1910,1910 1.4% sample with oversamples,2
+1851,Croatia,1910,1910 1.4% sample with oversamples,5
+1852,Greece,1910,1910 1.4% sample with oversamples,12
+1853,Montenegro,1910,1910 1.4% sample with oversamples,1
+1854,Dakota Territory,1910,1910 1.4% sample with oversamples,3
+1855,Bulgaria,1910,1910 1.4% sample with oversamples,1
+1856,"Southwest Asia, nec/ns",1910,1910 1.4% sample with oversamples,1
+1857,Nevada,1910,1910 1.4% sample with oversamples,3
+1858,Abroad (US citizen),1910,1910 1.4% sample with oversamples,1
+1859,"Europe, ns.",1910,1910 1.4% sample with oversamples,6
+1860,European Turkey,1910,1910 1.4% sample with oversamples,1
+1861,Spain,1920,1920 1%,8
+1862,Colorado,1920,1920 1%,3276
+1863,Nebraska,1920,1920 1%,387
+1864,Kansas,1920,1920 1%,549
+1865,Indiana,1920,1920 1%,234
+1866,Ohio,1920,1920 1%,283
+1867,Missouri,1920,1920 1%,671
+1868,Denmark,1920,1920 1%,50
+1869,North Carolina,1920,1920 1%,30
+1870,Other USSR/Russia,1920,1920 1%,160
+1871,Canada,1920,1920 1%,70
+1872,Kentucky,1920,1920 1%,122
+1873,"United States, ns",1920,1920 1%,56
+1874,Oregon,1920,1920 1%,13
+1875,Pennsylvania,1920,1920 1%,197
+1876,New York,1920,1920 1%,181
+1877,Germany,1920,1920 1%,89
+1878,Illinois,1920,1920 1%,525
+1879,Iowa,1920,1920 1%,455
+1880,California,1920,1920 1%,43
+1881,Sweden,1920,1920 1%,95
+1882,England,1920,1920 1%,102
+1883,Montana,1920,1920 1%,15
+1884,Poland,1920,1920 1%,6
+1885,Washington,1920,1920 1%,18
+1886,Finland,1920,1920 1%,12
+1887,Italy,1920,1920 1%,138
+1888,Switzerland,1920,1920 1%,21
+1889,Japan,1920,1920 1%,18
+1890,Oklahoma,1920,1920 1%,141
+1891,Hamburg,1920,1920 1%,3
+1892,West Virginia,1920,1920 1%,40
+1893,Mississippi,1920,1920 1%,18
+1894,Philippines,1920,1920 1%,3
+1895,Massachusetts,1920,1920 1%,35
+1896,Georgia,1920,1920 1%,27
+1897,New Mexico,1920,1920 1%,172
+1898,Mexico,1920,1920 1%,131
+1899,Louisiana,1920,1920 1%,19
+1900,Arkansas,1920,1920 1%,83
+1901,Scotland,1920,1920 1%,25
+1902,Florida,1920,1920 1%,6
+1903,New Hampshire,1920,1920 1%,11
+1904,Maine,1920,1920 1%,10
+1905,Virginia,1920,1920 1%,49
+1906,Tennessee,1920,1920 1%,66
+1907,Maryland,1920,1920 1%,17
+1908,Texas,1920,1920 1%,108
+1909,Vermont,1920,1920 1%,12
+1910,Wisconsin,1920,1920 1%,99
+1911,District of Columbia,1920,1920 1%,8
+1912,Idaho,1920,1920 1%,19
+1913,Ireland,1920,1920 1%,59
+1914,Bohemia,1920,1920 1%,9
+1915,Utah,1920,1920 1%,26
+1916,Minnesota,1920,1920 1%,68
+1917,Norway,1920,1920 1%,14
+1918,South Dakota,1920,1920 1%,26
+1919,Alabama,1920,1920 1%,19
+1920,France,1920,1920 1%,12
+1921,Baden,1920,1920 1%,3
+1922,Nevada,1920,1920 1%,5
+1923,Michigan,1920,1920 1%,99
+1924,Austria,1920,1920 1%,51
+1925,Wales,1920,1920 1%,13
+1926,Austria-Vienna,1920,1920 1%,2
+1927,Wyoming,1920,1920 1%,38
+1928,Austria-Kaernsten,1920,1920 1%,2
+1929,Alsace-Lorraine,1920,1920 1%,2
+1930,Isle of Man,1920,1920 1%,1
+1931,Hesse-Nassau,1920,1920 1%,5
+1932,Nova Scotia,1920,1920 1%,65
+1933,North Dakota,1920,1920 1%,7
+1934,Bohemia-Moravia,1920,1920 1%,3
+1935,British Columbia,1920,1920 1%,1
+1936,Greece,1920,1920 1%,5
+1937,New Jersey,1920,1920 1%,25
+1938,Indian Territory,1920,1920 1%,2
+1939,Netherlands,1920,1920 1%,8
+1940,South Carolina,1920,1920 1%,3
+1941,Turkey Greece,1920,1920 1%,2
+1942,Bavaria,1920,1920 1%,4
+1943,Saxony,1920,1920 1%,2
+1944,Connecticut,1920,1920 1%,13
+1945,Hanover,1920,1920 1%,1
+1946,Belgium,1920,1920 1%,4
+1947,Ukraine,1920,1920 1%,4
+1948,Dakota Territory,1920,1920 1%,1
+1949,Rheinland,1920,1920 1%,2
+1950,Rhode Island,1920,1920 1%,6
+1951,Portugal,1920,1920 1%,1
+1952,Galicia,1920,1920 1%,2
+1953,Russian Poland,1920,1920 1%,2
+1954,New Brunswick,1920,1920 1%,1
+1955,China,1920,1920 1%,3
+1956,Turkey,1920,1920 1%,1
+1957,Hungary,1920,1920 1%,5
+1958,Byelorussia,1920,1920 1%,1
+1959,Romania,1920,1920 1%,1
+1960,"Prussia, nec",1920,1920 1%,4
+1961,Arizona,1920,1920 1%,11
+1962,Armenia,1920,1920 1%,1
+1963,Slovakia,1920,1920 1%,8
+1964,Brandenburg,1920,1920 1%,1
+1965,West Prussia,1920,1920 1%,1
+1966,Syria,1920,1920 1%,8
+1967,Slovenia,1920,1920 1%,2
+1968,Austria-Tyrol,1920,1920 1%,6
+1969,Prince Edward Island,1920,1920 1%,1
+1970,Bremen,1920,1920 1%,1
+1971,German Poland,1920,1920 1%,1
+1972,Berlin,1920,1920 1%,3
+1973,Macedonia,1920,1920 1%,1
+1974,Lebanon,1920,1920 1%,2
+1975,Yugoslavia,1920,1920 1%,7
+1976,Czechoslovakia,1920,1920 1%,1
+1977,Wurttemberg,1920,1920 1%,3
+1978,Egypt/United Arab Rep.,1920,1920 1%,1
+1979,Bulgaria,1920,1920 1%,23
+1980,Australia,1920,1920 1%,1
+1981,Latvia,1920,1920 1%,1
+1982,Iowa,1930,1930 1%,483
+1983,Missouri,1930,1930 1%,644
+1984,Oklahoma,1930,1930 1%,154
+1985,Colorado,1930,1930 1%,4253
+1986,Washington,1930,1930 1%,17
+1987,New Mexico,1930,1930 1%,272
+1988,Sweden,1930,1930 1%,95
+1989,Japan,1930,1930 1%,13
+1990,New York,1930,1930 1%,122
+1991,Other USSR/Russia,1930,1930 1%,135
+1992,Wyoming,1930,1930 1%,78
+1993,Nebraska,1930,1930 1%,456
+1994,Ohio,1930,1930 1%,199
+1995,Nevada,1930,1930 1%,2
+1996,Maine,1930,1930 1%,9
+1997,Northern Ireland,1930,1930 1%,7
+1998,Kansas,1930,1930 1%,609
+1999,Indiana,1930,1930 1%,211
+2000,Michigan,1930,1930 1%,90
+2001,Italy,1930,1930 1%,98
+2002,Pennsylvania,1930,1930 1%,161
+2003,Illinois,1930,1930 1%,510
+2004,Austria,1930,1930 1%,26
+2005,Serbia,1930,1930 1%,2
+2006,South Carolina,1930,1930 1%,3
+2007,Florida,1930,1930 1%,1
+2008,Greece,1930,1930 1%,14
+2009,Wales,1930,1930 1%,13
+2010,North Carolina,1930,1930 1%,17
+2011,Oregon,1930,1930 1%,16
+2012,Wisconsin,1930,1930 1%,86
+2013,Maryland,1930,1930 1%,12
+2014,Arkansas,1930,1930 1%,97
+2015,English Canada,1930,1930 1%,49
+2016,West Virginia,1930,1930 1%,28
+2017,Texas,1930,1930 1%,177
+2018,Arizona,1930,1930 1%,11
+2019,England,1930,1930 1%,67
+2020,Tennessee,1930,1930 1%,83
+2021,Kentucky,1930,1930 1%,108
+2022,"United States, ns",1930,1930 1%,21
+2023,Germany,1930,1930 1%,88
+2024,Alabama,1930,1930 1%,31
+2025,Ireland,1930,1930 1%,27
+2026,Mississippi,1930,1930 1%,16
+2027,Virginia,1930,1930 1%,32
+2028,Georgia,1930,1930 1%,19
+2029,Idaho,1930,1930 1%,8
+2030,Czechoslovakia,1930,1930 1%,10
+2031,Minnesota,1930,1930 1%,67
+2032,North Dakota,1930,1930 1%,14
+2033,South Dakota,1930,1930 1%,48
+2034,Louisiana,1930,1930 1%,12
+2035,Massachusetts,1930,1930 1%,33
+2036,Scotland,1930,1930 1%,26
+2037,Denmark,1930,1930 1%,25
+2038,Vermont,1930,1930 1%,8
+2039,Connecticut,1930,1930 1%,11
+2040,Poland,1930,1930 1%,20
+2041,Lithuania,1930,1930 1%,2
+2042,Montana,1930,1930 1%,28
+2043,Mexico,1930,1930 1%,168
+2044,Yugoslavia,1930,1930 1%,30
+2045,Utah,1930,1930 1%,37
+2046,Norway,1930,1930 1%,8
+2047,Alsace-Lorraine,1930,1930 1%,2
+2048,Hungary,1930,1930 1%,2
+2049,India,1930,1930 1%,1
+2050,California,1930,1930 1%,56
+2051,District of Columbia,1930,1930 1%,3
+2052,Romania,1930,1930 1%,5
+2053,Abroad (US citizen),1930,1930 1%,12
+2054,Philippines,1930,1930 1%,3
+2055,Switzerland,1930,1930 1%,10
+2056,Netherlands,1930,1930 1%,10
+2057,Delaware,1930,1930 1%,1
+2058,France,1930,1930 1%,6
+2059,Ecuador,1930,1930 1%,1
+2060,At sea,1930,1930 1%,2
+2061,New Hampshire,1930,1930 1%,2
+2062,"Europe, ns.",1930,1930 1%,1
+2063,New Jersey,1930,1930 1%,12
+2064,Rhode Island,1930,1930 1%,4
+2065,French Canada,1930,1930 1%,6
+2066,Spain,1930,1930 1%,1
+2067,Finland,1930,1930 1%,5
+2068,Native American,1930,1930 1%,1
+2069,Canada,1930,1930 1%,1
+2070,Australia,1930,1930 1%,1
+2071,China,1930,1930 1%,12
+2072,South America,1930,1930 1%,1
+2073,Bohemia,1930,1930 1%,2
+2074,Bohemia-Moravia,1930,1930 1%,2
+2075,Brazil,1930,1930 1%,1
+2076,Hamburg,1930,1930 1%,1
+2077,Baden,1930,1930 1%,1
+2078,Austria-Tyrol,1930,1930 1%,4
+2079,Silesia,1930,1930 1%,1
+2080,Bulgaria,1930,1930 1%,2
+2081,Argentina,1930,1930 1%,3
+2082,Cuba,1930,1930 1%,1
+2083,Belgium,1930,1930 1%,3
+2084,Saxony,1930,1930 1%,1
+2085,Wittenberg,1930,1930 1%,1
+2086,"Prussia, nec",1930,1930 1%,1
+2087,Israel,1930,1930 1%,1
+2088,Isle of Man,1930,1930 1%,1
+2089,Turkey,1930,1930 1%,1
+2090,Iowa,1930,1930 5%,2259
+2091,Missouri,1930,1930 5%,3172
+2092,Oklahoma,1930,1930 5%,886
+2093,Colorado,1930,1930 5%,21072
+2094,South Dakota,1930,1930 5%,190
+2095,Kansas,1930,1930 5%,3036
+2096,Mississippi,1930,1930 5%,87
+2097,Pennsylvania,1930,1930 5%,850
+2098,Ohio,1930,1930 5%,972
+2099,New York,1930,1930 5%,698
+2100,Nebraska,1930,1930 5%,2324
+2101,Illinois,1930,1930 5%,2357
+2102,Washington,1930,1930 5%,75
+2103,Michigan,1930,1930 5%,442
+2104,Maine,1930,1930 5%,50
+2105,New Mexico,1930,1930 5%,1312
+2106,Other USSR/Russia,1930,1930 5%,625
+2107,Kentucky,1930,1930 5%,524
+2108,Sweden,1930,1930 5%,424
+2109,Austria-Hungary,1930,1930 5%,5
+2110,Wurttemberg,1930,1930 5%,2
+2111,Japan,1930,1930 5%,65
+2112,Hungary,1930,1930 5%,26
+2113,Germany,1930,1930 5%,444
+2114,Wyoming,1930,1930 5%,345
+2115,Italy,1930,1930 5%,525
+2116,Mexico,1930,1930 5%,720
+2117,Estonia,1930,1930 5%,2
+2118,English Canada,1930,1930 5%,265
+2119,Yugoslavia,1930,1930 5%,147
+2120,Indiana,1930,1930 5%,949
+2121,Arizona,1930,1930 5%,60
+2122,Scotland,1930,1930 5%,147
+2123,Montana,1930,1930 5%,125
+2124,Nevada,1930,1930 5%,17
+2125,North Dakota,1930,1930 5%,80
+2126,New Jersey,1930,1930 5%,88
+2127,Texas,1930,1930 5%,889
+2128,Northern Ireland,1930,1930 5%,25
+2129,Oregon,1930,1930 5%,77
+2130,Wisconsin,1930,1930 5%,510
+2131,Maryland,1930,1930 5%,75
+2132,Bohemia,1930,1930 5%,3
+2133,California,1930,1930 5%,240
+2134,Tennessee,1930,1930 5%,381
+2135,Vermont,1930,1930 5%,49
+2136,Connecticut,1930,1930 5%,64
+2137,Poland,1930,1930 5%,117
+2138,Austria,1930,1930 5%,135
+2139,Bulgaria,1930,1930 5%,18
+2140,Serbia,1930,1930 5%,6
+2141,South Carolina,1930,1930 5%,26
+2142,Florida,1930,1930 5%,33
+2143,England,1930,1930 5%,350
+2144,Idaho,1930,1930 5%,87
+2145,Minnesota,1930,1930 5%,341
+2146,Switzerland,1930,1930 5%,60
+2147,Arkansas,1930,1930 5%,402
+2148,Virginia,1930,1930 5%,191
+2149,Louisiana,1930,1930 5%,87
+2150,New Hampshire,1930,1930 5%,23
+2151,North Carolina,1930,1930 5%,100
+2152,Alabama,1930,1930 5%,136
+2153,Greece,1930,1930 5%,75
+2154,Wales,1930,1930 5%,59
+2155,French Canada,1930,1930 5%,24
+2156,Ireland,1930,1930 5%,134
+2157,Finland,1930,1930 5%,26
+2158,West Virginia,1930,1930 5%,157
+2159,District of Columbia,1930,1930 5%,17
+2160,Utah,1930,1930 5%,205
+2161,"United States, ns",1930,1930 5%,101
+2162,Georgia,1930,1930 5%,107
+2163,Norway,1930,1930 5%,66
+2164,Czechoslovakia,1930,1930 5%,51
+2165,Abroad (US citizen),1930,1930 5%,48
+2166,Belgium,1930,1930 5%,14
+2167,Hawaii,1930,1930 5%,5
+2168,Massachusetts,1930,1930 5%,174
+2169,Denmark,1930,1930 5%,133
+2170,Bohemia-Moravia,1930,1930 5%,18
+2171,Netherlands,1930,1930 5%,43
+2172,Lithuania,1930,1930 5%,9
+2173,Rhode Island,1930,1930 5%,15
+2174,France,1930,1930 5%,36
+2175,Alsace-Lorraine,1930,1930 5%,7
+2176,Delaware,1930,1930 5%,13
+2177,Australia,1930,1930 5%,7
+2178,India,1930,1930 5%,1
+2179,Algeria,1930,1930 5%,1
+2180,Alaska,1930,1930 5%,3
+2181,Spain,1930,1930 5%,5
+2182,Korea,1930,1930 5%,2
+2183,Canada,1930,1930 5%,10
+2184,Latvia,1930,1930 5%,6
+2185,Ukraine,1930,1930 5%,1
+2186,Romania,1930,1930 5%,20
+2187,Native American,1930,1930 5%,2
+2188,Philippines,1930,1930 5%,9
+2189,Newfoundland,1930,1930 5%,2
+2190,Montenegro,1930,1930 5%,1
+2191,At sea,1930,1930 5%,5
+2192,Cuba,1930,1930 5%,5
+2193,New Zealand,1930,1930 5%,2
+2194,Ecuador,1930,1930 5%,1
+2195,"Prussia, nec",1930,1930 5%,2
+2196,Armenia,1930,1930 5%,3
+2197,"Europe, ns.",1930,1930 5%,2
+2198,Ontario/Upper Canada,1930,1930 5%,2
+2199,Libya,1930,1930 5%,1
+2200,Turkey,1930,1930 5%,4
+2201,Alsace,1930,1930 5%,2
+2202,Bavaria,1930,1930 5%,3
+2203,Central America,1930,1930 5%,1
+2204,Peru,1930,1930 5%,1
+2205,China,1930,1930 5%,15
+2206,Brazil,1930,1930 5%,3
+2207,South America,1930,1930 5%,3
+2208,Galicia,1930,1930 5%,2
+2209,"Africa, ns/nec",1930,1930 5%,1
+2210,Austria-Tyrol,1930,1930 5%,5
+2211,Syria,1930,1930 5%,3
+2212,Hamburg,1930,1930 5%,1
+2213,Nova Scotia,1930,1930 5%,2
+2214,"Persian Gulf States, ns",1930,1930 5%,1
+2215,Baden,1930,1930 5%,1
+2216,"Central Europe, ns",1930,1930 5%,2
+2217,Mecklenburg,1930,1930 5%,1
+2218,Saxony,1930,1930 5%,2
+2219,Silesia,1930,1930 5%,1
+2220,Argentina,1930,1930 5%,5
+2221,Luxembourg,1930,1930 5%,2
+2222,Wittenberg,1930,1930 5%,1
+2223,Israel,1930,1930 5%,1
+2224,Isle of Man,1930,1930 5%,2
+2225,Croatia,1930,1930 5%,5
+2226,Puerto Rico,1930,1930 5%,1
+2227,Mississippi,1940,1940 1%,24
+2228,Colorado,1940,1940 1%,5118
+2229,Minnesota,1940,1940 1%,74
+2230,Texas,1940,1940 1%,193
+2231,Poland,1940,1940 1%,29
+2232,Kansas,1940,1940 1%,819
+2233,Iowa,1940,1940 1%,375
+2234,South Dakota,1940,1940 1%,57
+2235,Wyoming,1940,1940 1%,53
+2236,Nebraska,1940,1940 1%,530
+2237,Germany,1940,1940 1%,69
+2238,English Canada,1940,1940 1%,44
+2239,Illinois,1940,1940 1%,386
+2240,Oklahoma,1940,1940 1%,268
+2241,Italy,1940,1940 1%,87
+2242,Missouri,1940,1940 1%,601
+2243,Pennsylvania,1940,1940 1%,120
+2244,New Hampshire,1940,1940 1%,9
+2245,New Jersey,1940,1940 1%,21
+2246,Netherlands,1940,1940 1%,10
+2247,California,1940,1940 1%,58
+2248,Denmark,1940,1940 1%,39
+2249,New York,1940,1940 1%,110
+2250,Indiana,1940,1940 1%,174
+2251,Maine,1940,1940 1%,14
+2252,Sweden,1940,1940 1%,52
+2253,Kentucky,1940,1940 1%,105
+2254,Alabama,1940,1940 1%,24
+2255,Ohio,1940,1940 1%,152
+2256,Other USSR/Russia,1940,1940 1%,119
+2257,Arizona,1940,1940 1%,11
+2258,Arkansas,1940,1940 1%,116
+2259,New Mexico,1940,1940 1%,295
+2260,West Virginia,1940,1940 1%,23
+2261,Florida,1940,1940 1%,9
+2262,North Carolina,1940,1940 1%,22
+2263,Michigan,1940,1940 1%,62
+2264,Georgia,1940,1940 1%,18
+2265,Mexico,1940,1940 1%,73
+2266,Idaho,1940,1940 1%,18
+2267,Norway,1940,1940 1%,10
+2268,Austria,1940,1940 1%,26
+2269,Oregon,1940,1940 1%,14
+2270,Yugoslavia,1940,1940 1%,23
+2271,Utah,1940,1940 1%,48
+2272,Massachusetts,1940,1940 1%,26
+2273,Maryland,1940,1940 1%,12
+2274,Missing/blank,1940,1940 1%,2
+2275,Wisconsin,1940,1940 1%,69
+2276,Montana,1940,1940 1%,23
+2277,Tennessee,1940,1940 1%,44
+2278,North Dakota,1940,1940 1%,29
+2279,Czechoslovakia,1940,1940 1%,13
+2280,Ireland,1940,1940 1%,14
+2281,Louisiana,1940,1940 1%,24
+2282,Connecticut,1940,1940 1%,6
+2283,Rhode Island,1940,1940 1%,5
+2284,Hawaii,1940,1940 1%,3
+2285,Northern Ireland,1940,1940 1%,9
+2286,Virginia,1940,1940 1%,24
+2287,France,1940,1940 1%,9
+2288,Switzerland,1940,1940 1%,6
+2289,England,1940,1940 1%,52
+2290,Japan,1940,1940 1%,14
+2291,Washington,1940,1940 1%,20
+2292,Scotland,1940,1940 1%,27
+2293,Korea,1940,1940 1%,1
+2294,Greece,1940,1940 1%,9
+2295,Vermont,1940,1940 1%,6
+2296,Wales,1940,1940 1%,4
+2297,Abroad (unknown) or at sea,1940,1940 1%,3
+2298,Belgium,1940,1940 1%,4
+2299,Hungary,1940,1940 1%,10
+2300,District of Columbia,1940,1940 1%,3
+2301,Lithuania,1940,1940 1%,1
+2302,South Carolina,1940,1940 1%,6
+2303,"United States, ns",1940,1940 1%,5
+2304,Argentina,1940,1940 1%,1
+2305,French Canada,1940,1940 1%,2
+2306,New Zealand,1940,1940 1%,1
+2307,"Africa, ns/nec",1940,1940 1%,1
+2308,Nevada,1940,1940 1%,4
+2309,Finland,1940,1940 1%,3
+2310,India,1940,1940 1%,3
+2311,Delaware,1940,1940 1%,2
+2312,Philippines,1940,1940 1%,1
+2313,China,1940,1940 1%,1
+2314,Turkey,1940,1940 1%,3
+2315,"South America, ns",1940,1940 1%,1
+2316,Canal Zone,1940,1940 1%,1
+2317,Portugal,1940,1940 1%,1
+2318,Romania,1940,1940 1%,1
+2319,"Native born, and both parents native born",1870,1870 1%,260
+2320,Foreign born,1870,1870 1%,61
+2321,"Native born, and both parents foreign",1870,1870 1%,37
+2322,"Native born, and father foreign, mother native",1870,1870 1%,2
+2323,"Native born, and mother foreign, father native",1870,1870 1%,12
+2324,"Native born, and both parents native born",1870,1870 1% sample with black oversample,268
+2325,Foreign born,1870,1870 1% sample with black oversample,61
+2326,"Native born, and both parents foreign",1870,1870 1% sample with black oversample,37
+2327,"Native born, and father foreign, mother native",1870,1870 1% sample with black oversample,2
+2328,"Native born, and mother foreign, father native",1870,1870 1% sample with black oversample,12
+2329,Foreign born,1880,1880 1%,365
+2330,"Native born, and mother foreign, father native",1880,1880 1%,56
+2331,"Native born, and both parents foreign",1880,1880 1%,279
+2332,"Native born, and both parents native born",1880,1880 1%,1304
+2333,"Native born, and father foreign, mother native",1880,1880 1%,71
+2334,Foreign born,1880,1880 10%,4192
+2335,"Native born, and mother foreign, father native",1880,1880 10%,492
+2336,"Native born, and both parents native born",1880,1880 10%,13387
+2337,"Native born, and both parents foreign",1880,1880 10%,2530
+2338,"Native born, and father foreign, mother native",1880,1880 10%,842
+2339,"Native born, and both parents native born",1900,1900 5%,16247
+2340,"Native born, and both parents foreign",1900,1900 5%,4236
+2341,Foreign born,1900,1900 5%,4696
+2342,"Native born, and father foreign, mother native",1900,1900 5%,1688
+2343,"Native born, and mother foreign, father native",1900,1900 5%,827
+2344,Foreign born,1900,1900 1%,939
+2345,"Native born, and both parents foreign",1900,1900 1%,805
+2346,"Native born, and both parents native born",1900,1900 1%,3189
+2347,"Native born, and father foreign, mother native",1900,1900 1%,341
+2348,"Native born, and mother foreign, father native",1900,1900 1%,169
+2349,Foreign born,1900,1900 1% sample with oversamples,939
+2350,"Native born, and both parents foreign",1900,1900 1% sample with oversamples,805
+2351,"Native born, and both parents native born",1900,1900 1% sample with oversamples,3457
+2352,"Native born, and father foreign, mother native",1900,1900 1% sample with oversamples,341
+2353,"Native born, and mother foreign, father native",1900,1900 1% sample with oversamples,169
+2354,"Native born, and both parents native born",1910,1910 1%,4663
+2355,"Native born, and father foreign, mother native",1910,1910 1%,463
+2356,Foreign born,1910,1910 1%,1335
+2357,"Native born, and both parents foreign",1910,1910 1%,1212
+2358,"Native born, and mother foreign, father native",1910,1910 1%,278
+2359,"Native born, and both parents native born",1910,1910 1.4% sample with oversamples,6688
+2360,"Native born, and father foreign, mother native",1910,1910 1.4% sample with oversamples,650
+2361,Foreign born,1910,1910 1.4% sample with oversamples,1835
+2362,"Native born, and both parents foreign",1910,1910 1.4% sample with oversamples,1693
+2363,"Native born, and mother foreign, father native",1910,1910 1.4% sample with oversamples,367
+2364,Foreign born,1920,1920 1%,1299
+2365,"Native born, and both parents foreign",1920,1920 1%,1332
+2366,"Native born, and both parents native born",1920,1920 1%,6216
+2367,"Native born, and father foreign, mother native",1920,1920 1%,531
+2368,"Native born, and mother foreign, father native",1920,1920 1%,265
+2369,"Native born, and both parents native born",1930,1930 1%,7106
+2370,"Native born, and father foreign, mother native",1930,1930 1%,613
+2371,Foreign born,1930,1930 1%,1032
+2372,"Native born, and both parents foreign",1930,1930 1%,1422
+2373,"Native born, and mother foreign, father native",1930,1930 1%,232
+2374,"Native born, and both parents native born",1930,1930 5%,35247
+2375,"Native born, and both parents foreign",1930,1930 5%,6962
+2376,"Native born, and father foreign, mother native",1930,1930 5%,2991
+2377,Foreign born,1930,1930 5%,5013
+2378,"Native born, and mother foreign, father native",1930,1930 5%,1280
+2379,nan,1940,1940 1%,7739
+2380,"Native born, and both parents native born",1940,1940 1%,2391
+2381,Foreign born,1940,1940 1%,302
+2382,"Native born, and both parents foreign",1940,1940 1%,336
+2383,"Native born, and father foreign, mother native",1940,1940 1%,162
+2384,"Native born, and mother foreign, father native",1940,1940 1%,81
