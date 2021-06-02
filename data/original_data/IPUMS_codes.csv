@@ -1622,15 +1622,15 @@ Code,Label,Variable
 9601,Other n.e.c.,LANGUAGED
 9602,Other n.s.,LANGUAGED
 9999,,LANGUAGED
-0,N/A (Blank),SPEAKING
-1,Does not speak English,SPEAKING
-2,"Yes, speaks English...",SPEAKING
-3,"Yes, speaks only English",SPEAKING
-4,"Yes, speaks very well",SPEAKING
-5,"Yes, speaks well",SPEAKING
-6,"Yes, but not well",SPEAKING
-7,Unknown,SPEAKING
-8,Illegible,SPEAKING
+0,N/A (Blank),SPEAKENG
+1,Does not speak English,SPEAKENG
+2,"Yes, speaks English...",SPEAKENG
+3,"Yes, speaks only English",SPEAKENG
+4,"Yes, speaks very well",SPEAKENG
+5,"Yes, speaks well",SPEAKENG
+6,"Yes, but not well",SPEAKENG
+7,Unknown,SPEAKENG
+8,Illegible,SPEAKENG
 1,White,RACESING
 2,Black,RACESING
 3,American Indian/Alaska Native,RACESING

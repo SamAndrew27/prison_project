@@ -1,2 +1,3 @@
-data/original_data/entire_census_dataset.csv
-data/original_data/census_data_1900.csv
+data/original_data/census_data_1870-1940.csv
+data/census_data_1870-1940_cleaned.csv
+data/sample_census_data_1870-1940_cleaned.csv
