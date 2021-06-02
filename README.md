@@ -33,3 +33,20 @@
 * West Indies split between Cuba, Jamaica, and Porto Rico
 * Wales, Scotland, England -> United Kingdom 
 
+# Books previously used for Race & Foreign Data
+## Historical statistics of the states of the United States : two centuries of the census, 1790-1990 / compiled by Donald B. Dodd.
+* ISBN: 978-0-313-28309-3
+* LCCN: 93025014 //r94
+* Publication Date: 1993
+## Historical Statistics of the United States: Millenial Edition (maybe the right one? not totally sure)
+* Authors: Heffer, Jean
+* Publication Year: 2008
+* ISSN: 0982-1783 1957-7745
+### Possible Alternative: Historical Statistics of the United States: Earliest Times to the Present-Millenial Edition.
+* Authors: Bulson, Christine
+* ISSN: 0006-7385
+* Source: Booklist. 9/15/2006, Vol. 103 Issue 2, p92. 1p. 1 Color Photograph
+## 100 Years of Census
+* No idea what book I was referring to here, would probably need to dig through library sources 
+
+
