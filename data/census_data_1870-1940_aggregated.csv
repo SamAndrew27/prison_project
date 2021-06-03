@@ -1,2122 +1,2192 @@
-,variable,year,population
-0,White,1870,39342
-1,Black/African American/Negro,1870,436
-2,Chinese,1870,7
-3,American Indian or Alaska Native,1870,41
-4,White,1880,190148
-5,Black/African American/Negro,1880,3694
-6,Chinese,1880,611
-7,American Indian or Alaska Native,1880,35
-8,White,1900,529574
-9,Black/African American/Negro,1900,8313
-10,Chinese,1900,589
-11,Japanese,1900,48
-12,American Indian or Alaska Native,1900,1047
-13,White,1910,787438
-14,Black/African American/Negro,1910,11569
-15,American Indian or Alaska Native,1910,1437
-16,Japanese,1910,2079
-17,Other Asian or Pacific Islander,1910,151
-18,Chinese,1910,356
-19,White,1920,926004
-20,Black/African American/Negro,1920,11644
-21,Japanese,1920,2450
-22,American Indian or Alaska Native,1920,1273
-23,Other Asian or Pacific Islander,1920,206
-24,Chinese,1920,278
-25,White,1930,1019132
-26,Japanese,1930,3224
-27,Black/African American/Negro,1930,11875
-28,Other Asian or Pacific Islander,1930,315
-29,American Indian or Alaska Native,1930,1384
-30,Chinese,1930,234
-31,White,1940,1108910
-32,Japanese,1940,2584
-33,Other Asian or Pacific Islander,1940,295
-34,American Indian or Alaska Native,1940,1270
-35,Black/African American/Negro,1940,12118
-36,Chinese,1940,222
-37,White,1870,39342
-38,Mulatto,1870,170
-39,Black/African American/Negro,1870,266
-40,Chinese,1870,7
-41,American Indian/Alaska Native,1870,41
-42,White,1880,190148
-43,Black/African American/Negro,1880,1663
-44,Chinese,1880,611
-45,Mulatto,1880,2031
-46,American Indian/Alaska Native,1880,35
-47,White,1900,529574
-48,Black/African American/Negro,1900,8313
-49,Chinese,1900,589
-50,Japanese,1900,48
-51,American Indian/Alaska Native,1900,1047
-52,White,1910,786341
-53,Mulatto,1910,3727
-54,American Indian/Alaska Native,1910,1437
-55,Black/African American/Negro,1910,7842
-56,Japanese,1910,2079
-57,Mexican (1930),1910,1094
-58,Filipino,1910,5
-59,Chinese,1910,356
-60,"Asian, not specified",1910,145
-61,Spanish write_in,1910,3
-62,Korean,1910,1
-63,White,1920,925511
-64,Black/African American/Negro,1920,8607
-65,Japanese,1920,2450
-66,Mexican (1930),1920,489
-67,Puerto Rican (1910 Hawaii),1920,2
-68,Mulatto,1920,3037
-69,American Indian/Alaska Native,1920,1273
-70,Korean,1920,8
-71,Filipino,1920,198
-72,Chinese,1920,278
-73,Spanish write_in,1920,2
-74,White,1930,961385
-75,Mexican (1930),1930,57747
-76,Japanese,1930,3224
-77,Black/African American/Negro,1930,11875
-78,Filipino,1930,255
-79,Korean,1930,49
-80,American Indian/Alaska Native,1930,1384
-81,Chinese,1930,234
-82,Asian Indian (Hindu 1920_1940),1930,10
-83,Hawaiian,1930,1
-84,White,1940,1108910
-85,Japanese,1940,2584
-86,Filipino,1940,279
-87,American Indian/Alaska Native,1940,1270
-88,Black/African American/Negro,1940,12118
-89,Asian Indian (Hindu 1920_1940),1940,4
-90,Chinese,1940,222
-91,Korean,1940,12
-92,Pennsylvania,1870,1572
-93,Vermont,1870,375
-94,Missouri,1870,1721
-95,Kansas,1870,269
-96,Colorado,1870,6334
-97,Iowa,1870,1314
-98,Ireland,1870,1702
-99,Virginia,1870,510
-100,Maryland,1870,197
-101,Illinois,1870,1826
-102,Mexico,1870,115
-103,Germany,1870,1315
-104,New York,1870,2796
-105,North Carolina,1870,201
-106,Ohio,1870,2072
-107,Kentucky,1870,727
-108,Tennessee,1870,291
-109,Denmark,1870,47
-110,New Hampshire,1870,138
-111,Massachusetts,1870,629
-112,Maine,1870,357
-113,France,1870,207
-114,Indiana,1870,817
-115,Canada,1870,749
-116,Michigan,1870,529
-117,Switzerland,1870,143
-118,Louisiana,1870,34
-119,Wisconsin,1870,627
-120,Mississippi,1870,42
-121,Alabama,1870,59
-122,Wales,1870,163
-123,New Jersey,1870,177
-124,California,1870,52
-125,Nebraska,1870,183
-126,Delaware,1870,27
-127,Georgia,1870,260
-128,Scotland,1870,195
-129,Arkansas,1870,90
-130,Wyoming,1870,54
-131,Connecticut,1870,211
-132,New Mexico,1870,8383
-133,Sweden,1870,182
-134,Rhode Island,1870,86
-135,England,1870,1371
-136,West Indies,1870,18
-137,Minnesota,1870,82
-138,Czechoslovakia,1870,15
-139,West Virginia,1870,12
-140,Texas,1870,143
-141,Abroad (unknown) or at sea,1870,8
-142,Utah,1870,67
-143,Norway,1870,40
-144,Oregon,1870,5
-145,Netherlands,1870,17
-146,Austria,1870,52
-147,Poland,1870,49
-148,South Carolina,1870,33
-149,Other USSR/Russia,1870,17
-150,District of Columbia,1870,20
-151,Oklahoma,1870,2
-152,SOUTH AMERICA,1870,11
-153,Australia and New Zealand,1870,5
-154,Hawaii,1870,2
-155,Belgium,1870,11
-156,Malta,1870,2
-157,Montana,1870,11
-158,Hungary,1870,2
-159,China,1870,7
-160,Spain,1870,5
-161,Italy,1870,17
-162,Florida,1870,7
-163,Nevada,1870,3
-164,South Dakota,1870,4
-165,Native American,1870,1
-166,Idaho,1870,1
-167,Indonesia,1870,2
-168,"United States, ns",1870,1
-169,Luxembourg,1870,3
-170,Alaska,1870,1
-171,Cuba,1870,1
-172,Ireland,1880,8314
-173,Iowa,1880,7558
-174,Colorado,1880,26058
-175,Illinois,1880,13026
-176,New York,1880,15551
-177,Michigan,1880,3673
-178,Pennsylvania,1880,11408
-179,Ohio,1880,11776
-180,Wisconsin,1880,3899
-181,Missouri,1880,12609
-182,New Hampshire,1880,739
-183,Canada,1880,5821
-184,Massachusetts,1880,3666
-185,Italy,1880,335
-186,Kansas,1880,4035
-187,Germany,1880,6889
-188,Switzerland,1880,528
-189,Virginia,1880,2456
-190,Austria,1880,438
-191,Tennessee,1880,1979
-192,Scotland,1880,1681
-193,New Jersey,1880,1479
-194,Indiana,1880,5233
-195,Nebraska,1880,952
-196,England,1880,8830
-197,Poland,1880,173
-198,Wales,1880,1231
-199,Other USSR/Russia,1880,296
-200,Belgium,1880,49
-201,France,1880,888
-202,Maryland,1880,1076
-203,Minnesota,1880,694
-204,California,1880,636
-205,Kentucky,1880,3795
-206,Netherlands,1880,114
-207,Czechoslovakia,1880,96
-208,New Mexico,1880,9524
-209,Louisiana,1880,421
-210,Connecticut,1880,1226
-211,Arkansas,1880,759
-212,China,1880,610
-213,Maine,1880,2621
-214,Alabama,1880,453
-215,Denmark,1880,511
-216,Rhode Island,1880,380
-217,Georgia,1880,925
-218,Vermont,1880,1571
-219,Delaware,1880,234
-220,Norway,1880,360
-221,Florida,1880,66
-222,North Carolina,1880,861
-223,Texas,1880,1053
-224,Australia and New Zealand,1880,51
-225,Mississippi,1880,492
-226,Nevada,1880,87
-227,Montana,1880,50
-228,Hungary,1880,48
-229,Arizona,1880,13
-230,Abroad (unknown) or at sea,1880,34
-231,Wyoming,1880,240
-232,Washington,1880,28
-233,Sweden,1880,2176
-234,South Carolina,1880,201
-235,Utah,1880,239
-236,Malta,1880,2
-237,SOUTH AMERICA,1880,39
-238,Portugal,1880,13
-239,Mexico,1880,190
-240,District of Columbia,1880,156
-241,West Virginia,1880,410
-242,AFRICA,1880,14
-243,Luxembourg,1880,9
-244,"United States, ns",1880,40
-245,Oregon,1880,80
-246,West Indies,1880,22
-247,Oklahoma,1880,83
-248,Cuba,1880,16
-249,South Dakota,1880,56
-250,Spain,1880,32
-251,Japan,1880,1
-252,"Europe, ns",1880,12
-253,Finland,1880,12
-254,Indonesia,1880,13
-255,Atlantic Islands,1880,7
-256,India,1880,16
-257,Greece,1880,3
-258,Idaho,1880,24
-259,Romania,1880,1
-260,Native American,1880,8
-261,Yugoslavia,1880,1
-262,Thailand,1880,2
-263,Hawaii,1880,4
-264,"Asia Minor, ns",1880,1
-265,"Lapland, n.s.",1880,1
-266,Turkey,1880,1
-267,Central America,1880,1
-268,"Asia, nec/ns",1880,1
-269,Iceland,1880,2
-270,Germany,1900,14768
-271,Wisconsin,1900,8826
-272,Colorado,1900,151960
-273,New York,1900,22663
-274,Ohio,1900,25207
-275,Iowa,1900,25390
-276,Pennsylvania,1900,20074
-277,Illinois,1900,34510
-278,Scotland,1900,4169
-279,Missouri,1900,31545
-280,Minnesota,1900,2638
-281,Canada,1900,10673
-282,West Virginia,1900,1830
-283,Indiana,1900,14540
-284,Nebraska,1900,11739
-285,South Dakota,1900,881
-286,Wales,1900,1979
-287,England,1900,13805
-288,Michigan,1900,8153
-289,Switzerland,1900,1505
-290,Alabama,1900,1316
-291,Kansas,1900,21192
-292,Utah,1900,2371
-293,Other USSR/Russia,1900,2957
-294,Maryland,1900,1905
-295,Kentucky,1900,7294
-296,South Carolina,1900,473
-297,Ireland,1900,10361
-298,California,1900,1910
-299,Virginia,1900,3752
-300,Delaware,1900,332
-301,Austria,1900,6004
-302,Vermont,1900,2062
-303,Connecticut,1900,1638
-304,New Jersey,1900,2521
-305,Tennessee,1900,4234
-306,New Mexico,1900,10244
-307,New Hampshire,1900,935
-308,Maine,1900,2869
-309,Massachusetts,1900,4604
-310,Sweden,1900,10842
-311,Texas,1900,3608
-312,Montana,1900,495
-313,France,1900,1175
-314,Idaho,1900,348
-315,Norway,1900,1159
-316,Georgia,1900,1804
-317,Rhode Island,1900,521
-318,Wyoming,1900,1306
-319,Poland,1900,618
-320,Romania,1900,28
-321,Denmark,1900,2065
-322,Hungary,1900,564
-323,Czechoslovakia,1900,339
-324,Arkansas,1900,1976
-325,China,1900,585
-326,Mississippi,1900,907
-327,District of Columbia,1900,696
-328,Oregon,1900,467
-329,Florida,1900,177
-330,Louisiana,1900,739
-331,Italy,1900,6979
-332,Portugal,1900,31
-333,North Carolina,1900,1871
-334,Turkey,1900,34
-335,Luxembourg,1900,6
-336,Netherlands,1900,262
-337,Spain,1900,36
-338,Oklahoma,1900,990
-339,Belgium,1900,172
-340,Arizona,1900,203
-341,Australia and New Zealand,1900,124
-342,India,1900,35
-343,Nevada,1900,278
-344,AFRICA,1900,14
-345,"United States, ns",1900,593
-346,Greece,1900,37
-347,Japan,1900,56
-348,Mexico,1900,331
-349,Finland,1900,839
-350,Alaska,1900,4
-351,Cuba,1900,27
-352,SOUTH AMERICA,1900,36
-353,Syria,1900,68
-354,Atlantic Islands,1900,7
-355,West Indies,1900,54
-356,"Europe, ns",1900,8
-357,North Dakota,1900,167
-358,Indonesia,1900,3
-359,Philippines,1900,1
-360,Yugoslavia,1900,11
-361,Hawaii,1900,8
-362,Central America,1900,1
-363,Thailand,1900,1
-364,Iceland,1900,2
-365,Iran,1900,1
-366,Native American,1900,2
-367,"Southwest Asia, nec/ns",1900,19
-368,"Asia, nec/ns",1900,8
-369,"United Kingdom, ns",1900,1
-370,Abroad (unknown) or at sea,1900,3
-371,Colorado,1910,236465
-372,Pennsylvania,1910,23340
-373,New Mexico,1910,12020
-374,"United States, ns",1910,6192
-375,Texas,1910,6705
-376,Iowa,1910,44481
-377,Ohio,1910,30750
-378,Kansas,1910,37443
-379,Missouri,1910,50667
-380,North Carolina,1910,2691
-381,Kentucky,1910,10130
-382,Massachusetts,1910,4806
-383,Minnesota,1910,5407
-384,Arkansas,1910,3679
-385,New York,1910,23961
-386,Illinois,1910,50303
-387,Indiana,1910,21098
-388,Oklahoma,1910,4666
-389,Canada,1910,10203
-390,Virginia,1910,4590
-391,Nebraska,1910,24338
-392,Michigan,1910,11097
-393,Wisconsin,1910,11821
-394,Scotland,1910,4347
-395,West Virginia,1910,3274
-396,Ireland,1910,8898
-397,Finland,1910,1277
-398,Germany,1910,17562
-399,England,1910,13113
-400,Sweden,1910,12674
-401,Other USSR/Russia,1910,13206
-402,South Dakota,1910,2215
-403,Romania,1910,300
-404,Utah,1910,2308
-405,Tennessee,1910,6267
-406,Spain,1910,161
-407,Mexico,1910,2688
-408,France,1910,1387
-409,Denmark,1910,2739
-410,Abroad (unknown) or at sea,1910,1809
-411,South Carolina,1910,545
-412,Alabama,1910,2254
-413,Washington,1910,802
-414,California,1910,2309
-415,Norway,1910,1817
-416,New Jersey,1910,2935
-417,Maryland,1910,1997
-418,Louisiana,1910,1231
-419,Maine,1910,2611
-420,Wyoming,1910,2149
-421,Idaho,1910,586
-422,Greece,1910,2040
-423,Netherlands,1910,712
-424,New Hampshire,1910,946
-425,Connecticut,1910,1729
-426,Hungary,1910,1493
-427,Vermont,1910,2025
-428,SOUTH AMERICA,1910,57
-429,North Dakota,1910,584
-430,Wales,1910,2009
-431,Florida,1910,349
-432,Turkey,1910,376
-433,Austria,1910,13042
-434,Nevada,1910,257
-435,Georgia,1910,2360
-436,Mississippi,1910,1250
-437,Arizona,1910,496
-438,Italy,1910,14456
-439,Japan,1910,2231
-440,Switzerland,1910,1700
-441,Rhode Island,1910,503
-442,Oregon,1910,702
-443,Belgium,1910,374
-444,India,1910,40
-445,Montana,1910,716
-446,District of Columbia,1910,324
-447,Yugoslavia,1910,158
-448,Alaska,1910,12
-449,Delaware,1910,409
-450,Cuba,1910,37
-451,Czechoslovakia,1910,120
-452,Poland,1910,132
-453,Luxembourg,1910,21
-454,Syria,1910,40
-455,Hawaii,1910,23
-456,AFRICA,1910,37
-457,Puerto Rico,1910,3
-458,Philippines,1910,14
-459,China,1910,314
-460,Bulgaria,1910,420
-461,Portugal,1910,34
-462,West Indies,1910,52
-463,Australia and New Zealand,1910,47
-464,"Europe, ns",1910,19
-465,Lithuania,1910,2
-466,Central America,1910,5
-467,"Asia, nec/ns",1910,14
-468,Israel/Palestine,1910,1
-469,Indonesia,1910,2
-470,Atlantic Islands,1910,2
-471,U.S. Virgin Islands,1910,3
-472,Pacific Islands,1910,1
-473,Iran,1910,1
-474,"Central Europe, ns",1910,3
-475,American Samoa,1910,1
-476,Native American,1910,2
-477,Korea,1910,5
-478,"Middle East, ns",1910,11
-479,Kansas,1920,55320
-480,New York,1920,19597
-481,Colorado,1920,319618
-482,New Jersey,1920,2819
-483,Missouri,1920,64119
-484,Kentucky,1920,11495
-485,Denmark,1920,2737
-486,Norway,1920,1537
-487,Nebraska,1920,37035
-488,Pennsylvania,1920,20183
-489,Ohio,1920,26508
-490,Iowa,1920,45773
-491,Arkansas,1920,6539
-492,England,1920,9712
-493,Ireland,1920,6331
-494,Sweden,1920,10220
-495,Minnesota,1920,6113
-496,Germany,1920,11927
-497,Alabama,1920,2836
-498,Texas,1920,13480
-499,South Dakota,1920,2719
-500,North Dakota,1920,922
-501,Italy,1920,12051
-502,Illinois,1920,52912
-503,Indiana,1920,21329
-504,Oklahoma,1920,14236
-505,Wisconsin,1920,11619
-506,California,1920,3745
-507,Michigan,1920,10460
-508,Spain,1920,300
-509,Maryland,1920,1736
-510,Tennessee,1920,7216
-511,South Carolina,1920,672
-512,Virginia,1920,4145
-513,Switzerland,1920,1505
-514,Canada,1920,9048
-515,Massachusetts,1920,4210
-516,Maine,1920,1855
-517,SOUTH AMERICA,1920,268
-518,New Mexico,1920,16229
-519,Mississippi,1920,1907
-520,West Virginia,1920,3423
-521,Georgia,1920,2581
-522,Scotland,1920,3467
-523,Other USSR/Russia,1920,16898
-524,Vermont,1920,1515
-525,Montana,1920,1386
-526,Florida,1920,524
-527,Arizona,1920,677
-528,North Carolina,1920,2557
-529,New Hampshire,1920,671
-530,Washington,1920,1684
-531,Connecticut,1920,1456
-532,Hungary,1920,1131
-533,Abroad (unknown) or at sea,1920,108
-534,Mexico,1920,11293
-535,Utah,1920,3284
-536,Austria,1920,6831
-537,Wyoming,1920,3364
-538,Japan,1920,1807
-539,District of Columbia,1920,343
-540,Bulgaria,1920,344
-541,Oregon,1920,1346
-542,Romania,1920,349
-543,Idaho,1920,1191
-544,Louisiana,1920,1614
-545,Poland,1920,1823
-546,"United States, ns",1920,4235
-547,Czechoslovakia,1920,1689
-548,Belgium,1920,448
-549,Delaware,1920,334
-550,Yugoslavia,1920,1708
-551,Greece,1920,1773
-552,Hawaii,1920,37
-553,Australia and New Zealand,1920,143
-554,France,1920,1450
-555,Netherlands,1920,878
-556,Finland,1920,880
-557,Rhode Island,1920,435
-558,Central America,1920,10
-559,AFRICA,1920,65
-560,Syria,1920,291
-561,Turkey,1920,75
-562,Lithuania,1920,119
-563,Korea,1920,16
-564,Nevada,1920,337
-565,Portugal,1920,40
-566,Wales,1920,1521
-567,Luxembourg,1920,100
-568,Philippines,1920,49
-569,China,1920,223
-570,India,1920,46
-571,West Indies,1920,77
-572,Israel/Palestine,1920,30
-573,"United Kingdom, ns",1920,5
-574,Puerto Rico,1920,19
-575,Cuba,1920,62
-576,Alaska,1920,38
-577,Albania,1920,9
-578,Estonia,1920,2
-579,Atlantic Islands,1920,11
-580,Iran,1920,2
-581,Indonesia,1920,7
-582,Latvia,1920,2
-583,"Europe, ns",1920,12
-584,American Samoa,1920,4
-585,Gibraltar,1920,1
-586,Malta,1920,4
-587,Lebanon,1920,5
-588,"Asia Minor, ns",1920,1
-589,Oman,1920,1
-590,U.S. Virgin Islands,1920,1
-591,Monaco,1920,1
-592,Native American,1920,1
-593,"Middle East, ns",1920,5
-594,"Southwest Asia, nec/ns",1920,1
-595,Iceland,1920,1
-596,"Eastern Europe, ns",1920,1
-597,Kansas,1930,63845
-598,Colorado,1930,419405
-599,Missouri,1930,65835
-600,Arkansas,1930,8324
-601,Denmark,1930,2379
-602,Massachusetts,1930,3091
-603,Wisconsin,1930,10140
-604,Nebraska,1930,47689
-605,Ohio,1930,20514
-606,Iowa,1930,45582
-607,Illinois,1930,46954
-608,California,1930,4500
-609,Pennsylvania,1930,16114
-610,Oregon,1930,1520
-611,Indiana,1930,18119
-612,Michigan,1930,8901
-613,New York,1930,14229
-614,Minnesota,1930,6919
-615,Utah,1930,4527
-616,Wyoming,1930,6051
-617,Mississippi,1930,2067
-618,Kentucky,1930,10731
-619,New Jersey,1930,2269
-620,North Dakota,1930,1525
-621,Texas,1930,16522
-622,Hungary,1930,690
-623,"United States, ns",1930,2115
-624,Lithuania,1930,254
-625,South Carolina,1930,568
-626,Alabama,1930,2601
-627,Sweden,1930,8337
-628,Georgia,1930,2404
-629,Canada,1930,6801
-630,Idaho,1930,1708
-631,Switzerland,1930,1211
-632,Germany,1930,9988
-633,Oklahoma,1930,18237
-634,South Dakota,1930,3803
-635,Other USSR/Russia,1930,13065
-636,New Mexico,1930,27624
-637,Washington,1930,1852
-638,Czechoslovakia,1930,1737
-639,Montana,1930,2189
-640,SOUTH AMERICA,1930,242
-641,Norway,1930,1270
-642,Virginia,1930,3301
-643,Ireland,1930,4115
-644,Tennessee,1930,7056
-645,Florida,1930,641
-646,Mexico,1930,13248
-647,North Carolina,1930,2174
-648,Austria,1930,2590
-649,Italy,1930,10613
-650,Romania,1930,441
-651,Poland,1930,2472
-652,Maine,1930,1300
-653,Japan,1930,1396
-654,Vermont,1930,1009
-655,West Virginia,1930,3212
-656,Delaware,1930,216
-657,Maryland,1930,1401
-658,Netherlands,1930,808
-659,Scotland,1930,2884
-660,England,1930,6919
-661,Arizona,1930,1192
-662,Philippines,1930,234
-663,Hawaii,1930,58
-664,Belgium,1930,391
-665,Louisiana,1930,1802
-666,Connecticut,1930,1193
-667,Yugoslavia,1930,3641
-668,New Hampshire,1930,497
-669,Greece,1930,1241
-670,Estonia,1930,12
-671,Bulgaria,1930,270
-672,District of Columbia,1930,416
-673,Rhode Island,1930,351
-674,Nevada,1930,395
-675,Gibraltar,1930,1
-676,France,1930,1082
-677,West Indies,1930,50
-678,Puerto Rico,1930,39
-679,Wales,1930,1066
-680,Finland,1930,565
-681,Korea,1930,46
-682,Spain,1930,226
-683,China,1930,187
-684,Turkey,1930,87
-685,India,1930,57
-686,Syria,1930,254
-687,Portugal,1930,19
-688,Central America,1930,28
-689,Australia and New Zealand,1930,144
-690,Latvia,1930,54
-691,AFRICA,1930,58
-692,Cuba,1930,41
-693,Israel/Palestine,1930,28
-694,Luxembourg,1930,52
-695,Alaska,1930,42
-696,"Middle East, ns",1930,3
-697,"Lapland, n.s.",1930,1
-698,Abroad (unknown) or at sea,1930,14
-699,Indonesia,1930,12
-700,Albania,1930,9
-701,Atlantic Islands,1930,9
-702,Iran,1930,5
-703,"Asia, nec/ns",1930,4
-704,Iceland,1930,1
-705,"Europe, ns",1930,25
-706,"United Kingdom, ns",1930,3
-707,U.S. Virgin Islands,1930,7
-708,Pacific Islands,1930,2
-709,"Southwest Asia, nec/ns",1930,2
-710,Thailand,1930,1
-711,Lebanon,1930,1
-712,Afghanistan,1930,2
-713,Nebraska,1940,58094
-714,Colorado,1940,525446
-715,Pennsylvania,1940,12901
-716,Illinois,1940,41670
-717,Wisconsin,1940,8524
-718,Iowa,1940,42152
-719,Louisiana,1940,1776
-720,Missouri,1940,64400
-721,North Dakota,1940,2371
-722,Oklahoma,1940,25714
-723,New York,1940,11201
-724,Kansas,1940,79388
-725,Poland,1940,1825
-726,Romania,1940,323
-727,Wyoming,1940,7372
-728,South Carolina,1940,558
-729,Georgia,1940,2222
-730,Sweden,1940,5888
-731,Kentucky,1940,9442
-732,Ohio,1940,15772
-733,New Jersey,1940,1977
-734,Germany,1940,7076
-735,Hungary,1940,671
-736,Lithuania,1940,213
-737,Texas,1940,19657
-738,New Mexico,1940,26309
-739,Other USSR/Russia,1940,11293
-740,Indiana,1940,14868
-741,California,1940,5852
-742,Michigan,1940,8036
-743,Virginia,1940,2686
-744,Norway,1940,953
-745,Minnesota,1940,7264
-746,SOUTH AMERICA,1940,250
-747,Switzerland,1940,853
-748,Denmark,1940,1856
-749,Canada,1940,4415
-750,Connecticut,1940,1136
-751,Washington,1940,2132
-752,South Dakota,1940,5416
-753,Florida,1940,763
-754,Oregon,1940,1671
-755,Alabama,1940,2695
-756,North Carolina,1940,1921
-757,Italy,1940,8448
-758,Tennessee,1940,6073
-759,Arkansas,1940,9959
-760,Ireland,1940,2531
-761,Maine,1940,986
-762,Japan,1940,914
-763,West Virginia,1940,2923
-764,Guam,1940,85
-765,Netherlands,1940,679
-766,Vermont,1940,681
-767,Maryland,1940,1145
-768,Scotland,1940,2083
-769,Arizona,1940,1606
-770,Montana,1940,3065
-771,Mexico,1940,6466
-772,Delaware,1940,205
-773,England,1940,4776
-774,Belgium,1940,342
-775,Philippines,1940,218
-776,Idaho,1940,2086
-777,Utah,1940,5649
-778,Massachusetts,1940,2658
-779,Bulgaria,1940,222
-780,Hawaii,1940,85
-781,Mississippi,1940,2179
-782,Greece,1940,1048
-783,Austria,1940,3233
-784,"United States, ns",1940,150
-785,Wales,1940,580
-786,Finland,1940,413
-787,France,1940,800
-788,Czechoslovakia,1940,1038
-789,Nevada,1940,439
-790,District of Columbia,1940,519
-791,Yugoslavia,1940,2220
-792,Puerto Rico,1940,29
-793,Central America,1940,51
-794,Turkey,1940,80
-795,Rhode Island,1940,282
-796,China,1940,145
-797,New Hampshire,1940,350
-798,Korea,1940,12
-799,Spain,1940,164
-800,Abroad (unknown) or at sea,1940,27
-801,India,1940,52
-802,West Indies,1940,55
-803,Australia and New Zealand,1940,122
-804,Alaska,1940,48
-805,Syria,1940,167
-806,U.S. Virgin Islands,1940,4
-807,Israel/Palestine,1940,29
-808,Luxembourg,1940,50
-809,"Europe, ns",1940,13
-810,American Samoa,1940,2
-811,Portugal,1940,14
-812,Latvia,1940,38
-813,AFRICA,1940,61
-814,Cuba,1940,23
-815,Iran,1940,7
-816,Malta,1940,1
-817,"Eastern Europe, ns",1940,1
-818,"United Kingdom, ns",1940,11
-819,Iceland,1940,2
-820,"North America, ns",1940,2
-821,Albania,1940,16
-822,"Central Europe, ns",1940,3
-823,Indonesia,1940,3
-824,"Asia, nec/ns",1940,4
-825,Estonia,1940,8
-826,Atlantic Islands,1940,4
-827,Saudi Arabia,1940,1
-828,"Asia Minor, ns",1940,3
-829,Pacific Islands,1940,1
-830,Lebanon,1940,5
-831,Cyprus,1940,1
-832,Singapore,1940,1
-833,Oman,1940,1
-834,Pennsylvania,1870,1572
-835,Vermont,1870,375
-836,Missouri,1870,1721
-837,Kansas,1870,269
-838,Colorado,1870,6334
-839,Iowa,1870,1314
-840,Ireland,1870,1702
-841,Virginia,1870,510
-842,Maryland,1870,197
-843,Illinois,1870,1826
-844,Mexico,1870,115
-845,"Prussia, nec",1870,668
-846,New York,1870,2796
-847,North Carolina,1870,201
-848,Ohio,1870,2072
-849,Kentucky,1870,727
-850,Tennessee,1870,291
-851,Denmark,1870,47
-852,New Hampshire,1870,138
-853,Massachusetts,1870,629
-854,Maine,1870,357
-855,Schleswig,1870,45
-856,France,1870,207
-857,Baden,1870,142
-858,Indiana,1870,817
-859,Bavaria,1870,169
-860,Canada,1870,671
-861,Michigan,1870,529
-862,Switzerland,1870,143
-863,Louisiana,1870,34
-864,Wisconsin,1870,627
-865,Mississippi,1870,42
-866,Alabama,1870,59
-867,Wales,1870,163
-868,New Jersey,1870,177
-869,California,1870,52
-870,Nebraska,1870,183
-871,Delaware,1870,27
-872,Georgia,1870,260
-873,Scotland,1870,195
-874,Arkansas,1870,90
-875,Wyoming,1870,54
-876,Connecticut,1870,211
-877,New Mexico,1870,8383
-878,Sweden,1870,182
-879,Rhode Island,1870,86
-880,England,1870,1343
-881,"West Indies, ns",1870,4
-882,Nova Scotia,1870,52
-883,Minnesota,1870,82
-884,Bohemia,1870,15
-885,West Virginia,1870,12
-886,Germany,1870,25
-887,New Brunswick,1870,23
-888,Texas,1870,143
-889,At sea,1870,8
-890,Utah,1870,67
-891,Hanover,1870,73
-892,Norway,1870,40
-893,Oregon,1870,5
-894,Hessen,1870,71
-895,Netherlands,1870,17
-896,Austria,1870,52
-897,Poland,1870,47
-898,Hesse-Nassau,1870,29
-899,Hamburg,1870,8
-900,South Carolina,1870,33
-901,Thuringian States,1870,68
-902,Other USSR/Russia,1870,17
-903,District of Columbia,1870,20
-904,Indian Territory,1870,2
-905,"South America, ns",1870,2
-906,Mecklenburg,1870,6
-907,Australia,1870,5
-908,Hawaii,1870,2
-909,Belgium,1870,11
-910,Malta,1870,2
-911,Montana,1870,11
-912,Chile,1870,3
-913,Hungary,1870,2
-914,Bahamas,1870,14
-915,China,1870,7
-916,Isle of Man,1870,28
-917,Peru,1870,5
-918,Spain,1870,5
-919,Braunschweig,1870,2
-920,Bremen,1870,3
-921,Italy,1870,17
-922,Wurttemberg,1870,1
-923,Florida,1870,7
-924,Nevada,1870,3
-925,Dakota Territory,1870,4
-926,Native American,1870,1
-927,Idaho,1870,1
-928,East Indies,1870,2
-929,"United States, ns",1870,1
-930,Luxembourg,1870,3
-931,Berlin,1870,5
-932,Russian Poland,1870,2
-933,Newfoundland,1870,3
-934,Alaska,1870,1
-935,Cuba,1870,1
-936,Brazil,1870,1
-937,Ireland,1880,8313
-938,Iowa,1880,7558
-939,Colorado,1880,26058
-940,Illinois,1880,13026
-941,New York,1880,15551
-942,Michigan,1880,3673
-943,Pennsylvania,1880,11408
-944,Ohio,1880,11776
-945,Wisconsin,1880,3899
-946,Missouri,1880,12609
-947,New Hampshire,1880,739
-948,Canada,1880,4619
-949,Massachusetts,1880,3666
-950,Italy,1880,335
-951,Kansas,1880,4035
-952,Wurttemberg,1880,264
-953,Bavaria,1880,454
-954,Switzerland,1880,528
-955,"Prussia, nec",1880,1647
-956,Baden,1880,392
-957,Hessen,1880,107
-958,Virginia,1880,2456
-959,Austria,1880,437
-960,Tennessee,1880,1979
-961,Scotland,1880,1681
-962,New Jersey,1880,1479
-963,Indiana,1880,5233
-964,Nebraska,1880,952
-965,England,1880,8779
-966,Poland,1880,148
-967,Wales,1880,1231
-968,Other USSR/Russia,1880,296
-969,Belgium,1880,49
-970,France,1880,823
-971,Maryland,1880,1076
-972,Germany,1880,3388
-973,Saxony,1880,174
-974,Minnesota,1880,694
-975,California,1880,636
-976,Hanover,1880,190
-977,Kentucky,1880,3795
-978,Netherlands,1880,114
-979,Bohemia,1880,95
-980,New Mexico,1880,9524
-981,Louisiana,1880,421
-982,Connecticut,1880,1226
-983,Arkansas,1880,759
-984,China,1880,610
-985,Maine,1880,2621
-986,Alabama,1880,453
-987,Denmark,1880,511
-988,Rhode Island,1880,380
-989,West Prussia,1880,3
-990,Georgia,1880,925
-991,Vermont,1880,1571
-992,Nova Scotia,1880,631
-993,Delaware,1880,234
-994,Norway,1880,360
-995,Florida,1880,66
-996,North Carolina,1880,861
-997,New Brunswick,1880,270
-998,Texas,1880,1053
-999,Australia,1880,46
-1000,Mississippi,1880,492
-1001,Nevada,1880,87
-1002,Montana,1880,50
-1003,Hungary,1880,48
-1004,Arizona,1880,13
-1005,At sea,1880,29
-1006,Prince Edward Island,1880,112
-1007,Wyoming,1880,171
-1008,Washington,1880,28
-1009,Sweden,1880,2176
-1010,Hamburg,1880,47
-1011,South Carolina,1880,201
-1012,Berlin,1880,15
-1013,Quebec,1880,23
-1014,British Columbia,1880,5
-1015,Utah,1880,230
-1016,Malta,1880,2
-1017,Chile,1880,4
-1018,Portugal,1880,12
-1019,Northern Ireland,1880,1
-1020,Mexico,1880,190
-1021,District of Columbia,1880,156
-1022,Hesse-Nassau,1880,13
-1023,West Virginia,1880,410
-1024,Schleswig,1880,108
-1025,"Africa, ns/nec",1880,8
-1026,Canada West,1880,56
-1027,Wyoming Territory,1880,69
-1028,Mecklenburg,1880,36
-1029,Luxembourg,1880,9
-1030,"United States, ns",1880,40
-1031,Nordrhein-Westfalen,1880,2
-1032,Westphalia,1880,13
-1033,"Abroad, ns",1880,5
-1034,"South America, ns",1880,10
-1035,Oregon,1880,80
-1036,West Indies,1880,5
-1037,Indian Territory,1880,82
-1038,Austria-Vienna,1880,1
-1039,Cuba,1880,16
-1040,Brazil,1880,9
-1041,Dakota Territory,1880,48
-1042,Spain,1880,32
-1043,Madeira Islands,1880,1
-1044,Japan,1880,1
-1045,Isle of Man,1880,45
-1046,Alsace,1880,55
-1047,"Europe, ns.",1880,12
-1048,South Dakota,1880,8
-1049,Waldeck,1880,2
-1050,Jamaica,1880,6
-1051,Pomerania,1880,5
-1052,Ontario/Upper Canada,1880,46
-1053,Channel Islands,1880,4
-1054,Russian Poland,1880,7
-1055,Silesia,1880,4
-1056,Lippe,1880,2
-1057,Oldenburg,1880,12
-1058,South Africa (Union of),1880,3
-1059,Guernsey,1880,1
-1060,Jersey,1880,1
-1061,Newfoundland,1880,14
-1062,Argentina,1880,9
-1063,Finland,1880,12
-1064,East Indies,1880,7
-1065,Bremen,1880,10
-1066,Posen,1880,5
-1067,"West Indies, ns",1880,10
-1068,Indonesia,1880,6
-1069,Bermuda,1880,4
-1070,India,1880,15
-1071,Braunschweig,1880,2
-1072,Lorraine,1880,8
-1073,Greece,1880,3
-1074,Peru,1880,6
-1075,St. Helena and Ascension,1880,2
-1076,Idaho,1880,19
-1077,Alsace-Lorraine,1880,2
-1078,Romania,1880,1
-1079,Canada East,1880,37
-1080,New Zealand,1880,5
-1081,Lower Canada,1880,2
-1082,Upper Canada,1880,3
-1083,Rheinland,1880,7
-1084,Native American,1880,8
-1085,Dalmatia,1880,1
-1086,Utah Territory,1880,9
-1087,Thailand,1880,2
-1088,Hawaii,1880,4
-1089,Idaho Territory,1880,5
-1090,Algeria,1880,1
-1091,Thuringian States,1880,2
-1092,English Canada,1880,2
-1093,"Asia Minor, ns",1880,1
-1094,"Lapland, ns",1880,1
-1095,St. Vincent,1880,1
-1096,Venezuela,1880,1
-1097,"Western Africa, ns",1880,1
-1098,Turkey,1880,1
-1099,"Central America, ns",1880,1
-1100,Cape Breton,1880,1
-1101,Egypt/United Arab Rep.,1880,1
-1102,German Poland,1880,1
-1103,Canary Islands,1880,1
-1104,Bohemia-Moravia,1880,1
-1105,Oklahoma,1880,1
-1106,"Asia, nec/ns",1880,1
-1107,Sri Lanka (Ceylon),1880,1
-1108,Iceland,1880,2
-1109,Brandenburg,1880,2
-1110,Germany,1900,14739
-1111,Wisconsin,1900,8826
-1112,Colorado,1900,151960
-1113,New York,1900,22663
-1114,Ohio,1900,25207
-1115,Iowa,1900,25390
-1116,Pennsylvania,1900,20074
-1117,Illinois,1900,34510
-1118,Scotland,1900,4169
-1119,Missouri,1900,31545
-1120,Minnesota,1900,2638
-1121,Canada,1900,4763
-1122,West Virginia,1900,1830
-1123,Indiana,1900,14540
-1124,Nebraska,1900,11739
-1125,South Dakota,1900,768
-1126,Wales,1900,1979
-1127,England,1900,13776
-1128,Michigan,1900,8153
-1129,Switzerland,1900,1505
-1130,Alabama,1900,1316
-1131,Kansas,1900,21192
-1132,Utah,1900,2371
-1133,Other USSR/Russia,1900,2956
-1134,Maryland,1900,1905
-1135,Kentucky,1900,7294
-1136,South Carolina,1900,473
-1137,Ireland,1900,10361
-1138,California,1900,1910
-1139,Virginia,1900,3752
-1140,Delaware,1900,332
-1141,Austria,1900,6002
-1142,Vermont,1900,2062
-1143,Connecticut,1900,1638
-1144,New Jersey,1900,2521
-1145,Tennessee,1900,4234
-1146,New Mexico,1900,10244
-1147,New Hampshire,1900,935
-1148,Maine,1900,2869
-1149,Massachusetts,1900,4604
-1150,Sweden,1900,10842
-1151,Texas,1900,3608
-1152,Montana,1900,495
-1153,France,1900,1175
-1154,Idaho,1900,348
-1155,Norway,1900,1159
-1156,Georgia,1900,1804
-1157,Rhode Island,1900,521
-1158,Wyoming,1900,1306
-1159,Russian Poland,1900,467
-1160,Romania,1900,28
-1161,Denmark,1900,2065
-1162,Hungary,1900,564
-1163,Dakota Territory,1900,113
-1164,Bohemia,1900,339
-1165,Nova Scotia,1900,862
-1166,Arkansas,1900,1976
-1167,China,1900,585
-1168,Mississippi,1900,907
-1169,District of Columbia,1900,696
-1170,Oregon,1900,467
-1171,Florida,1900,177
-1172,Louisiana,1900,739
-1173,Italy,1900,6979
-1174,Portugal,1900,29
-1175,North Carolina,1900,1871
-1176,Turkey,1900,34
-1177,Luxembourg,1900,6
-1178,Netherlands,1900,262
-1179,Spain,1900,36
-1180,Indian Territory,1900,594
-1181,Belgium,1900,172
-1182,Arizona,1900,203
-1183,Australia,1900,98
-1184,India,1900,35
-1185,Nevada,1900,278
-1186,"Africa, ns/nec",1900,5
-1187,"United States, ns",1900,593
-1188,Greece,1900,37
-1189,Japan,1900,56
-1190,Mexico,1900,331
-1191,English Canada,1900,4893
-1192,Finland,1900,839
-1193,Newfoundland,1900,17
-1194,Alaska,1900,4
-1195,Cuba,1900,27
-1196,Chile,1900,5
-1197,Syria,1900,68
-1198,Bermuda,1900,7
-1199,"West Indies, ns",1900,30
-1200,"Europe, ns.",1900,8
-1201,German Poland,1900,54
-1202,Prince Edward Island,1900,39
-1203,New Brunswick,1900,75
-1204,North Dakota,1900,167
-1205,Austrian Poland,1900,25
-1206,New Zealand,1900,26
-1207,French Canada,1900,6
-1208,Jamaica,1900,5
-1209,Argentina,1900,3
-1210,Poland,1900,66
-1211,Oklahoma,1900,396
-1212,Indonesia,1900,1
-1213,Bavaria,1900,19
-1214,"South America, ns",1900,12
-1215,British Columbia,1900,6
-1216,Brazil,1900,10
-1217,Schleswig,1900,1
-1218,Peru,1900,3
-1219,Barbados,1900,1
-1220,Armenia,1900,1
-1221,Philippines,1900,1
-1222,Ontario/Upper Canada,1900,8
-1223,Algeria,1900,1
-1224,South Africa (Union of),1900,6
-1225,Egypt/United Arab Rep.,1900,2
-1226,Dalmatia,1900,1
-1227,Slovenia,1900,4
-1228,Manitoba,1900,3
-1229,Isle of Man,1900,27
-1230,Hawaii,1900,8
-1231,Costa Rica,1900,1
-1232,East Indies,1900,2
-1233,Thailand,1900,1
-1234,Rheinland,1900,2
-1235,Posen,1900,6
-1236,"Prussia, nec",1900,5
-1237,"Br. Virgin Islands, ns",1900,1
-1238,Jersey,1900,1
-1239,Mecklenburg,1900,1
-1240,Iceland,1900,2
-1241,Austria-Tyrol,1900,1
-1242,Slovonia,1900,4
-1243,Iran,1900,1
-1244,Native American,1900,2
-1245,Quebec,1900,1
-1246,Colombia,1900,3
-1247,"Southwest Asia, nec/ns",1900,19
-1248,Azores,1900,2
-1249,Austria-Hungary,1900,1
-1250,"Asia, nec/ns",1900,8
-1251,Croatia,1900,2
-1252,"United Kingdom, ns",1900,1
-1253,Channel Islands,1900,1
-1254,Saxony,1900,1
-1255,"Abroad, ns",1900,2
-1256,At sea (US citizen),1900,1
-1257,Haiti,1900,17
-1258,Colorado,1910,236465
-1259,Pennsylvania,1910,23340
-1260,New Mexico,1910,11992
-1261,"United States, ns",1910,6192
-1262,Texas,1910,6705
-1263,Iowa,1910,44481
-1264,Ohio,1910,30750
-1265,Kansas,1910,37443
-1266,Missouri,1910,50667
-1267,North Carolina,1910,2691
-1268,Kentucky,1910,10130
-1269,Massachusetts,1910,4806
-1270,Minnesota,1910,5407
-1271,Arkansas,1910,3679
-1272,New York,1910,23961
-1273,Illinois,1910,50303
-1274,Indiana,1910,21098
-1275,Oklahoma,1910,4650
-1276,Canada,1910,6427
-1277,Virginia,1910,4590
-1278,Nebraska,1910,24338
-1279,Michigan,1910,11097
-1280,Wisconsin,1910,11821
-1281,Scotland,1910,4347
-1282,West Virginia,1910,3274
-1283,Ireland,1910,8898
-1284,Finland,1910,1277
-1285,Germany,1910,17528
-1286,England,1910,13107
-1287,Sweden,1910,12674
-1288,Other USSR/Russia,1910,13202
-1289,South Dakota,1910,2212
-1290,Romania,1910,300
-1291,Utah,1910,2308
-1292,Tennessee,1910,6267
-1293,Spain,1910,161
-1294,Mexico,1910,2688
-1295,France,1910,1387
-1296,Denmark,1910,2739
-1297,"Abroad, ns",1910,1797
-1298,South Carolina,1910,545
-1299,Alabama,1910,2254
-1300,Washington,1910,802
-1301,California,1910,2309
-1302,Norway,1910,1817
-1303,New Jersey,1910,2935
-1304,Maryland,1910,1997
-1305,Louisiana,1910,1231
-1306,Maine,1910,2611
-1307,Wyoming,1910,2149
-1308,Idaho,1910,586
-1309,Greece,1910,2025
-1310,Netherlands,1910,712
-1311,New Hampshire,1910,946
-1312,Connecticut,1910,1729
-1313,Hungary,1910,1493
-1314,Vermont,1910,2025
-1315,Brazil,1910,9
-1316,Argentina,1910,11
-1317,North Dakota,1910,584
-1318,Wales,1910,2009
-1319,Florida,1910,349
-1320,Turkey,1910,364
-1321,Austria,1910,12868
-1322,Nevada,1910,257
-1323,Georgia,1910,2360
-1324,Mississippi,1910,1250
-1325,Arizona,1910,496
-1326,Italy,1910,14456
-1327,Japan,1910,2231
-1328,Switzerland,1910,1700
-1329,English Canada,1910,3333
-1330,Rhode Island,1910,503
-1331,Oregon,1910,702
-1332,Belgium,1910,374
-1333,India,1910,40
-1334,Montana,1910,716
-1335,French Canada,1910,323
-1336,Indian Territory,1910,16
-1337,District of Columbia,1910,324
-1338,Serbia,1910,40
-1339,Alaska,1910,12
-1340,Delaware,1910,409
-1341,Cuba,1910,37
-1342,Bohemia,1910,104
-1343,Poland,1910,120
-1344,Luxembourg,1910,21
-1345,Nova Scotia,1910,76
-1346,Newfoundland,1910,22
-1347,Syria,1910,40
-1348,Hawaii,1910,23
-1349,"Africa, ns/nec",1910,19
-1350,Puerto Rico,1910,3
-1351,Philippines,1910,14
-1352,China,1910,314
-1353,Bulgaria,1910,420
-1354,Austria-Vienna,1910,73
-1355,Portugal,1910,32
-1356,"West Indies, ns",1910,42
-1357,At sea,1910,10
-1358,"Prussia, nec",1910,15
-1359,Ontario/Upper Canada,1910,7
-1360,"South America, ns",1910,32
-1361,Isle of Man,1910,6
-1362,Austria-Hungary,1910,32
-1363,Russian Poland,1910,8
-1364,Armenia,1910,3
-1365,Australia,1910,40
-1366,Bavaria,1910,8
-1367,Haiti,1910,1
-1368,Asian Turkey,1910,9
-1369,Bolivia,1910,1
-1370,New Zealand,1910,7
-1371,"Europe, ns.",1910,19
-1372,South Africa (Union of),1910,14
-1373,Jamaica,1910,2
-1374,Egypt/United Arab Rep.,1910,2
-1375,Lithuania,1910,2
-1376,Chile,1910,3
-1377,"Central America, ns",1910,4
-1378,"Asia, nec/ns",1910,14
-1379,Azores,1910,2
-1380,New Brunswick,1910,13
-1381,Israel/Palestine,1910,1
-1382,East Indies,1910,2
-1383,Abroad (US citizen),1910,2
-1384,Bermuda,1910,2
-1385,Barbados,1910,2
-1386,Macedonia,1910,15
-1387,St. Thomas,1910,2
-1388,British Columbia,1910,2
-1389,West Indies,1910,2
-1390,Nicaragua,1910,1
-1391,Sudan,1910,1
-1392,"Br. Virgin Islands, ns",1910,2
-1393,Slovakia,1910,16
-1394,Dalmatia,1910,2
-1395,Marshall Islands,1910,1
-1396,Iran,1910,1
-1397,West Prussia,1910,1
-1398,Slovenia,1910,7
-1399,Colombia,1910,1
-1400,Austria-Tyrol,1910,69
-1401,Montenegro,1910,84
-1402,New Mexico Territory,1910,28
-1403,Galicia,1910,3
-1404,Hessen,1910,1
-1405,"Central Europe, ns",1910,3
-1406,American Samoa,1910,1
-1407,Native American,1910,2
-1408,Dakota Territory,1910,3
-1409,Trinidad and Tobago,1910,1
-1410,Korea,1910,5
-1411,U.S. Virgin Islands,1910,1
-1412,East Germany,1910,7
-1413,Brandenburg,1910,1
-1414,"Middle East, ns",1910,11
-1415,Moldavia,1910,1
-1416,European Turkey,1910,3
-1417,Algeria,1910,1
-1418,Croatia,1910,25
-1419,Hesse-Nassau,1910,1
-1420,Hamburg,1910,1
-1421,Kansas,1920,55320
-1422,New York,1920,19597
-1423,Colorado,1920,319618
-1424,New Jersey,1920,2819
-1425,Missouri,1920,64119
-1426,Kentucky,1920,11495
-1427,Denmark,1920,2737
-1428,Norway,1920,1537
-1429,Nebraska,1920,37035
-1430,Pennsylvania,1920,20183
-1431,Ohio,1920,26508
-1432,Iowa,1920,45773
-1433,Arkansas,1920,6539
-1434,England,1920,9705
-1435,Ireland,1920,6331
-1436,Sweden,1920,10220
-1437,Minnesota,1920,6113
-1438,Germany,1920,10883
-1439,Alabama,1920,2836
-1440,Texas,1920,13480
-1441,South Dakota,1920,2719
-1442,North Dakota,1920,922
-1443,Italy,1920,12051
-1444,Illinois,1920,52912
-1445,Indiana,1920,21329
-1446,Oklahoma,1920,14181
-1447,Wisconsin,1920,11619
-1448,California,1920,3745
-1449,Michigan,1920,10460
-1450,Spain,1920,300
-1451,Maryland,1920,1736
-1452,Tennessee,1920,7216
-1453,South Carolina,1920,672
-1454,Virginia,1920,4145
-1455,Switzerland,1920,1505
-1456,Canada,1920,7966
-1457,Massachusetts,1920,4210
-1458,"Prussia, nec",1920,185
-1459,Maine,1920,1855
-1460,Argentina,1920,75
-1461,New Mexico,1920,16229
-1462,Mississippi,1920,1907
-1463,West Virginia,1920,3423
-1464,Georgia,1920,2581
-1465,Baden,1920,104
-1466,Bavaria,1920,240
-1467,Scotland,1920,3467
-1468,Other USSR/Russia,1920,16851
-1469,Thuringian States,1920,92
-1470,Vermont,1920,1515
-1471,Montana,1920,1386
-1472,Florida,1920,524
-1473,Arizona,1920,677
-1474,North Carolina,1920,2557
-1475,New Hampshire,1920,671
-1476,Washington,1920,1684
-1477,Connecticut,1920,1456
-1478,Hungary,1920,1131
-1479,"Abroad, ns",1920,56
-1480,Mexico,1920,11293
-1481,Utah,1920,3284
-1482,Austria,1920,6491
-1483,Wyoming,1920,3364
-1484,Japan,1920,1807
-1485,District of Columbia,1920,343
-1486,Bulgaria,1920,344
-1487,Oregon,1920,1346
-1488,Romania,1920,332
-1489,Idaho,1920,1191
-1490,Louisiana,1920,1614
-1491,Austria-Hungary,1920,20
-1492,Poland,1920,981
-1493,"United States, ns",1920,4235
-1494,Bohemia,1920,823
-1495,Belgium,1920,448
-1496,Siberia,1920,3
-1497,Delaware,1920,334
-1498,Nova Scotia,1920,822
-1499,At sea,1920,39
-1500,Slovenia,1920,173
-1501,Quebec,1920,17
-1502,Brazil,1920,35
-1503,Indian Territory,1920,55
-1504,Greece,1920,1737
-1505,Hawaii,1920,37
-1506,Australia,1920,115
-1507,France,1920,1183
-1508,Netherlands,1920,878
-1509,Finland,1920,880
-1510,Rhode Island,1920,435
-1511,Austrian Poland,1920,63
-1512,Ontario/Upper Canada,1920,95
-1513,Russian Poland,1920,412
-1514,Alsace-Lorraine,1920,212
-1515,Wurttemberg,1920,109
-1516,Serbia,1920,155
-1517,Honduras,1920,2
-1518,Morocco,1920,4
-1519,Syria,1920,291
-1520,Croatia,1920,420
-1521,Turkey,1920,75
-1522,Lithuania,1920,119
-1523,Korea,1920,15
-1524,New Zealand,1920,27
-1525,Nevada,1920,337
-1526,Portugal,1920,36
-1527,Wales,1920,1521
-1528,British Columbia,1920,14
-1529,Chile,1920,9
-1530,Dalmatia,1920,69
-1531,Luxembourg,1920,100
-1532,Yugoslavia,1920,786
-1533,Bremen,1920,15
-1534,Lorraine,1920,12
-1535,Posen,1920,30
-1536,New Brunswick,1920,49
-1537,Austria-Vienna,1920,41
-1538,Slovakia,1920,787
-1539,West Prussia,1920,51
-1540,Ukraine,1920,9
-1541,Hamburg,1920,71
-1542,Czechoslovakia,1920,76
-1543,Philippines,1920,49
-1544,China,1920,223
-1545,Newfoundland,1920,48
-1546,India,1920,45
-1547,Jamaica,1920,20
-1548,Bahamas,1920,9
-1549,Israel/Palestine,1920,9
-1550,"South America, ns",1920,36
-1551,"United Kingdom, ns",1920,5
-1552,"West Indies, ns",1920,18
-1553,Manitoba,1920,4
-1554,Puerto Rico,1920,19
-1555,Cuba,1920,62
-1556,East Prussia,1920,21
-1557,Armenia,1920,33
-1558,Brandenburg,1920,24
-1559,Mecklenburg,1920,20
-1560,Braunschweig,1920,4
-1561,Silesia,1920,59
-1562,Rheinland,1920,30
-1563,Schleswig,1920,74
-1564,Alaska,1920,38
-1565,Prince Edward Island,1920,26
-1566,Hesse-Nassau,1920,7
-1567,Austria-Tyrol,1920,279
-1568,Macedonia,1920,36
-1569,Colombia,1920,101
-1570,Galicia,1920,131
-1571,Transylvania,1920,17
-1572,Westphalia,1920,46
-1573,Montenegro,1920,32
-1574,German Poland,1920,43
-1575,Liberia,1920,18
-1576,Carniola,1920,14
-1577,Pomerania,1920,31
-1578,Bohemia-Moravia,1920,3
-1579,South Africa (Union of),1920,17
-1580,Slovonia,1920,9
-1581,Sigmaringen,1920,2
-1582,At sea (US citizen),1920,2
-1583,Peru,1920,6
-1584,Alsace,1920,43
-1585,Albania,1920,9
-1586,Hanover,1920,4
-1587,Estonia,1920,2
-1588,Hessen,1920,11
-1589,Falkland Islands,1920,2
-1590,Berlin,1920,4
-1591,Bermuda,1920,7
-1592,Palestine,1920,21
-1593,Iran,1920,2
-1594,East Indies,1920,3
-1595,Isle of Man,1920,7
-1596,Latvia,1920,2
-1597,"Europe, ns.",1920,12
-1598,American Samoa,1920,4
-1599,Indonesia,1920,4
-1600,Gibraltar,1920,1
-1601,Malta,1920,4
-1602,Bolivia,1920,3
-1603,Lebanon,1920,5
-1604,South America,1920,1
-1605,Madeira Islands,1920,1
-1606,"Africa, ns/nec",1920,10
-1607,Egypt/United Arab Rep.,1920,12
-1608,"Asia Minor, ns",1920,1
-1609,Byelorussia,1920,1
-1610,Christmas Island,1920,1
-1611,Cape Verde,1920,2
-1612,Oman,1920,1
-1613,Dominica,1920,3
-1614,Bosnia,1920,50
-1615,"Central America, ns",1920,2
-1616,Sri Lanka (Ceylon),1920,1
-1617,Martinique,1920,2
-1618,Haiti,1920,6
-1619,Costa Rica,1920,3
-1620,St. Thomas,1920,1
-1621,Barbados,1920,4
-1622,Saxony,1920,1
-1623,Saskatchewan,1920,5
-1624,South Korea,1920,1
-1625,West Indies,1920,1
-1626,English Canada,1920,2
-1627,Guatemala,1920,3
-1628,Grenada,1920,2
-1629,Trinidad and Tobago,1920,5
-1630,Monaco,1920,1
-1631,Antigua-Barbuda,1920,1
-1632,Cameroon,1920,1
-1633,Native American,1920,1
-1634,Anguilla,1920,5
-1635,Libya,1920,1
-1636,British West Indies,1920,1
-1637,At sea or abroad (U.S. citizen),1920,7
-1638,Oldenburg,1920,1
-1639,Comoros,1920,2
-1640,Abroad (US citizen),1920,4
-1641,Azores,1920,3
-1642,"Middle East, ns",1920,5
-1643,Venezuela,1920,2
-1644,"Southwest Asia, nec/ns",1920,1
-1645,Azerbaijan,1920,1
-1646,Iceland,1920,1
-1647,Prussian Poland,1920,1
-1648,"Eastern Europe, ns",1920,1
-1649,Kansas,1930,63845
-1650,Colorado,1930,419405
-1651,Missouri,1930,65835
-1652,Arkansas,1930,8324
-1653,Denmark,1930,2379
-1654,Massachusetts,1930,3091
-1655,Wisconsin,1930,10140
-1656,Nebraska,1930,47689
-1657,Ohio,1930,20514
-1658,Iowa,1930,45582
-1659,Illinois,1930,46954
-1660,California,1930,4500
-1661,Pennsylvania,1930,16114
-1662,Oregon,1930,1520
-1663,Indiana,1930,18119
-1664,Michigan,1930,8901
-1665,New York,1930,14229
-1666,Minnesota,1930,6919
-1667,Utah,1930,4527
-1668,Wyoming,1930,6051
-1669,Mississippi,1930,2067
-1670,Kentucky,1930,10731
-1671,New Jersey,1930,2269
-1672,North Dakota,1930,1525
-1673,Texas,1930,16522
-1674,Hungary,1930,690
-1675,"United States, ns",1930,2115
-1676,Lithuania,1930,254
-1677,South Carolina,1930,568
-1678,Alabama,1930,2601
-1679,Sweden,1930,8337
-1680,Georgia,1930,2404
-1681,English Canada,1930,735
-1682,Idaho,1930,1708
-1683,Switzerland,1930,1211
-1684,Germany,1930,9877
-1685,Oklahoma,1930,18234
-1686,South Dakota,1930,3803
-1687,Other USSR/Russia,1930,12953
-1688,New Mexico,1930,27624
-1689,Washington,1930,1852
-1690,Czechoslovakia,1930,1510
-1691,Montana,1930,2189
-1692,Canada,1930,5725
-1693,Argentina,1930,88
-1694,Norway,1930,1270
-1695,Virginia,1930,3301
-1696,Ireland,1930,3508
-1697,Nova Scotia,1930,153
-1698,Tennessee,1930,7056
-1699,Florida,1930,641
-1700,Mexico,1930,13248
-1701,North Carolina,1930,2174
-1702,Bohemia,1930,206
-1703,Bavaria,1930,42
-1704,Austria,1930,2546
-1705,Italy,1930,10613
-1706,Romania,1930,440
-1707,Poland,1930,2436
-1708,Maine,1930,1300
-1709,Japan,1930,1396
-1710,Vermont,1930,1009
-1711,West Virginia,1930,3212
-1712,Delaware,1930,216
-1713,Maryland,1930,1401
-1714,Netherlands,1930,808
-1715,Scotland,1930,2884
-1716,England,1930,6891
-1717,Arizona,1930,1192
-1718,Philippines,1930,234
-1719,Hawaii,1930,58
-1720,Brazil,1930,42
-1721,Belgium,1930,391
-1722,Louisiana,1930,1802
-1723,Connecticut,1930,1193
-1724,Austria-Hungary,1930,28
-1725,Yugoslavia,1930,3435
-1726,New Hampshire,1930,497
-1727,Greece,1930,1224
-1728,Chile,1930,15
-1729,Estonia,1930,12
-1730,Bulgaria,1930,270
-1731,District of Columbia,1930,416
-1732,Rhode Island,1930,351
-1733,Nevada,1930,395
-1734,Gibraltar,1930,1
-1735,Northern Ireland,1930,607
-1736,France,1930,990
-1737,"West Indies, ns",1930,20
-1738,Puerto Rico,1930,39
-1739,Wales,1930,1066
-1740,Alsace-Lorraine,1930,86
-1741,Finland,1930,565
-1742,Armenia,1930,37
-1743,Serbia,1930,59
-1744,Korea,1930,46
-1745,Croatia,1930,104
-1746,Spain,1930,226
-1747,Galicia,1930,23
-1748,China,1930,187
-1749,Turkey,1930,87
-1750,India,1930,53
-1751,Syria,1930,254
-1752,Portugal,1930,16
-1753,Nicaragua,1930,1
-1754,Australia,1930,118
-1755,Latvia,1930,54
-1756,"Br. Virgin Islands, ns",1930,9
-1757,Berlin,1930,5
-1758,"Africa, ns/nec",1930,16
-1759,Siberia,1930,11
-1760,Cuba,1930,41
-1761,Austria-Vienna,1930,2
-1762,Palestine,1930,25
-1763,Indian Territory,1930,3
-1764,Luxembourg,1930,52
-1765,Alaska,1930,42
-1766,Azores,1930,2
-1767,Ecuador,1930,6
-1768,Newfoundland,1930,26
-1769,"Middle East, ns",1930,3
-1770,French Canada,1930,107
-1771,Saxony,1930,14
-1772,"Lapland, ns",1930,1
-1773,Burma (Myanmar),1930,3
-1774,Jamaica,1930,12
-1775,"South America, ns",1930,76
-1776,Slovakia,1930,16
-1777,Hamburg,1930,2
-1778,Barbados,1930,2
-1779,Slovonia,1930,8
-1780,Slovenia,1930,15
-1781,Russian Poland,1930,5
-1782,British Columbia,1930,21
-1783,South Africa (Union of),1930,27
-1784,Libya,1930,1
-1785,Macedonia,1930,17
-1786,"Central America, ns",1930,10
-1787,Abroad (US citizen),1930,5
-1788,Isle of Man,1930,23
-1789,Bolivia,1930,2
-1790,Ontario/Upper Canada,1930,11
-1791,"Prussia, nec",1930,28
-1792,Rheinland,1930,1
-1793,New Brunswick,1930,13
-1794,Indonesia,1930,6
-1795,Bohemia-Moravia,1930,5
-1796,Algeria,1930,4
-1797,New Zealand,1930,26
-1798,Dalmatia,1930,8
-1799,Albania,1930,9
-1800,Prince Edward Island,1930,9
-1801,Egypt/United Arab Rep.,1930,7
-1802,Venezuela,1930,1
-1803,Bermuda,1930,5
-1804,West Prussia,1930,1
-1805,Schleswig,1930,5
-1806,Colombia,1930,4
-1807,Iran,1930,5
-1808,Jersey,1930,5
-1809,Bahamas,1930,2
-1810,Byelorussia,1930,14
-1811,Ukraine,1930,49
-1812,"Asia, nec/ns",1930,4
-1813,Israel/Palestine,1930,2
-1814,Iceland,1930,1
-1815,Trinidad and Tobago,1930,3
-1816,Guatemala,1930,2
-1817,Montenegro,1930,12
-1818,Baden,1930,3
-1819,Hanover,1930,5
-1820,Honduras,1930,4
-1821,Alsace,1930,5
-1822,At sea (US citizen),1930,1
-1823,East Indies,1930,6
-1824,At sea or abroad (U.S. citizen),1930,4
-1825,At sea,1930,3
-1826,Posen,1930,1
-1827,St. Kitts-Nevis,1930,1
-1828,Lubeck,1930,1
-1829,"Europe, ns.",1930,25
-1830,"United Kingdom, ns",1930,3
-1831,Canal Zone,1930,4
-1832,U.S. Virgin Islands,1930,7
-1833,Guyana/British Guiana,1930,1
-1834,Peru,1930,4
-1835,"Micronesia, ns",1930,1
-1836,Manitoba,1930,1
-1837,Zimbabwe,1930,1
-1838,South America,1930,1
-1839,Antigua-Barbuda,1930,1
-1840,"Southwest Asia, nec/ns",1930,2
-1841,Madeira Islands,1930,1
-1842,Costa Rica,1930,6
-1843,Transylvania,1930,1
-1844,Sri Lanka (Ceylon),1930,1
-1845,Austria-Tyrol,1930,14
-1846,Thailand,1930,1
-1847,Silesia,1930,5
-1848,Westphalia,1930,1
-1849,Falkland Islands,1930,2
-1850,Wurttemberg,1930,3
-1851,Pacific Islands,1930,1
-1852,Uruguay,1930,1
-1853,Bessarabia,1930,1
-1854,Greenland,1930,2
-1855,Suriname,1930,1
-1856,Congo,1930,1
-1857,Zaire,1930,1
-1858,Lorraine,1930,1
-1859,Oldenburg,1930,1
-1860,Lebanon,1930,1
-1861,Israel,1930,1
-1862,Afghanistan,1930,2
-1863,El Salvador,1930,1
-1864,Abroad (unknown) or at sea,1930,1
-1865,Pomerania,1930,1
-1866,Nebraska,1940,58094
-1867,Colorado,1940,525446
-1868,Pennsylvania,1940,12901
-1869,Illinois,1940,41670
-1870,Wisconsin,1940,8524
-1871,Iowa,1940,42152
-1872,Louisiana,1940,1776
-1873,Missouri,1940,64400
-1874,North Dakota,1940,2371
-1875,Oklahoma,1940,25636
-1876,New York,1940,11201
-1877,Kansas,1940,79388
-1878,Poland,1940,1812
-1879,Romania,1940,323
-1880,Wyoming,1940,7372
-1881,South Carolina,1940,558
-1882,Georgia,1940,2222
-1883,Sweden,1940,5888
-1884,Kentucky,1940,9442
-1885,Ohio,1940,15772
-1886,New Jersey,1940,1977
-1887,Germany,1940,7024
-1888,Hungary,1940,671
-1889,Lithuania,1940,213
-1890,Texas,1940,19657
-1891,New Mexico,1940,26309
-1892,Other USSR/Russia,1940,11255
-1893,Indiana,1940,14868
-1894,California,1940,5852
-1895,Michigan,1940,8036
-1896,Virginia,1940,2686
-1897,Norway,1940,953
-1898,Minnesota,1940,7264
-1899,Argentina,1940,82
-1900,Switzerland,1940,853
-1901,Denmark,1940,1856
-1902,Canada,1940,1444
-1903,Connecticut,1940,1136
-1904,Washington,1940,2132
-1905,South Dakota,1940,5412
-1906,Florida,1940,763
-1907,Oregon,1940,1671
-1908,Alabama,1940,2695
-1909,North Carolina,1940,1921
-1910,Italy,1940,8448
-1911,Tennessee,1940,6073
-1912,Arkansas,1940,9959
-1913,Ireland,1940,2139
-1914,Maine,1940,986
-1915,Japan,1940,914
-1916,Brazil,1940,50
-1917,West Virginia,1940,2923
-1918,Guam,1940,85
-1919,Netherlands,1940,679
-1920,Vermont,1940,681
-1921,Maryland,1940,1145
-1922,Scotland,1940,2083
-1923,Arizona,1940,1606
-1924,Montana,1940,3065
-1925,English Canada,1940,2380
-1926,Mexico,1940,6466
-1927,Delaware,1940,205
-1928,England,1940,4744
-1929,Belgium,1940,342
-1930,Philippines,1940,218
-1931,Idaho,1940,2086
-1932,Utah,1940,5649
-1933,Massachusetts,1940,2658
-1934,Bulgaria,1940,222
-1935,Hawaii,1940,85
-1936,Mississippi,1940,2179
-1937,Greece,1940,1037
-1938,Austria,1940,3127
-1939,"United States, ns",1940,150
-1940,Wales,1940,580
-1941,Northern Ireland,1940,392
-1942,Finland,1940,413
-1943,France,1940,765
-1944,Czechoslovakia,1940,728
-1945,Nevada,1940,439
-1946,District of Columbia,1940,519
-1947,French Canada,1940,334
-1948,Yugoslavia,1940,2120
-1949,Bohemia,1940,184
-1950,Puerto Rico,1940,29
-1951,Panama,1940,12
-1952,Turkey,1940,80
-1953,Rhode Island,1940,282
-1954,Nova Scotia,1940,141
-1955,China,1940,145
-1956,Indian Territory,1940,78
-1957,Honduras,1940,11
-1958,New Hampshire,1940,350
-1959,Austria-Hungary,1940,84
-1960,Slovenia,1940,10
-1961,Slovakia,1940,115
-1962,Korea,1940,12
-1963,Croatia,1940,54
-1964,Spain,1940,164
-1965,Canal Zone,1940,16
-1966,At sea,1940,26
-1967,India,1940,48
-1968,Siberia,1940,4
-1969,Bahamas,1940,7
-1970,Australia,1940,93
-1971,Alaska,1940,48
-1972,Syria,1940,167
-1973,U.S. Virgin Islands,1940,4
-1974,Austria-Vienna,1940,11
-1975,Palestine,1940,29
-1976,Serbia,1940,26
-1977,"West Indies, ns",1940,8
-1978,Hamburg,1940,6
-1979,"South America, ns",1940,67
-1980,Luxembourg,1940,50
-1981,Ecuador,1940,3
-1982,"Europe, ns.",1940,13
-1983,American Samoa,1940,2
-1984,Portugal,1940,14
-1985,Latvia,1940,38
-1986,New Brunswick,1940,6
-1987,Egypt/United Arab Rep.,1940,8
-1988,Saxony,1940,3
-1989,Africa,1940,10
-1990,Cuba,1940,23
-1991,Iran,1940,7
-1992,Ontario/Upper Canada,1940,42
-1993,Bavaria,1940,18
-1994,New Zealand,1940,28
-1995,Malta,1940,1
-1996,Alsace-Lorraine,1940,28
-1997,Isle of Man,1940,24
-1998,"Eastern Europe, ns",1940,1
-1999,"United Kingdom, ns",1940,11
-2000,Liberia,1940,4
-2001,British Columbia,1940,13
-2002,Macedonia,1940,11
-2003,German Poland,1940,3
-2004,South Africa (Union of),1940,25
-2005,Alsace,1940,7
-2006,British West Indies,1940,8
-2007,Bohemia-Moravia,1940,11
-2008,Newfoundland,1940,24
-2009,Colombia,1940,20
-2010,Armenia,1940,26
-2011,Peru,1940,4
-2012,Iceland,1940,2
-2013,Dakota Territory,1940,4
-2014,"North America, ns",1940,2
-2015,"Prussia, nec",1940,17
-2016,Chile,1940,17
-2017,Barbados,1940,5
-2018,Albania,1940,16
-2019,Brandenburg,1940,1
-2020,Berlin,1940,3
-2021,Austrian Poland,1940,1
-2022,Hohenzollern,1940,1
-2023,Manitoba,1940,1
-2024,Jamaica,1940,4
-2025,"Central Europe, ns",1940,3
-2026,East Indies,1940,1
-2027,Schleswig,1940,1
-2028,Quebec,1940,11
-2029,Comoros,1940,1
-2030,Jersey,1940,7
-2031,Alberta,1940,5
-2032,Austria-Tyrol,1940,11
-2033,"USSR, ns",1940,4
-2034,Russian Poland,1940,8
-2035,Botswana,1940,1
-2036,Prince Edward Island,1940,11
-2037,Sudan,1940,1
-2038,"Asia, nec/ns",1940,4
-2039,Burma (Myanmar),1940,4
-2040,Estonia,1940,8
-2041,Dominica,1940,1
-2042,Costa Rica,1940,2
-2043,Falkland Islands,1940,2
-2044,"Western Africa, ns",1940,1
-2045,Montenegro,1940,7
-2046,Morocco,1940,3
-2047,Saudi Arabia,1940,1
-2048,Guatemala,1940,4
-2049,Aruba,1940,1
-2050,Trinidad and Tobago,1940,15
-2051,Saskatchewan,1940,2
-2052,South America,1940,1
-2053,Guernsey,1940,1
-2054,Dalmatia,1940,1
-2055,Ukraine,1940,4
-2056,"Asia Minor, ns",1940,3
-2057,Uruguay,1940,1
-2058,Bolivia,1940,1
-2059,Nicaragua,1940,4
-2060,Bosnia,1940,2
-2061,Papua New Guinea,1940,1
-2062,At sea or abroad (U.S. citizen),1940,1
-2063,"Central America, ns",1940,2
-2064,Baden,1940,1
-2065,Lebanon,1940,5
-2066,Galicia,1940,1
-2067,Netherlands Antilles,1940,2
-2068,Indonesia,1940,2
-2069,Bremen,1940,1
-2070,Cyprus,1940,1
-2071,Guyana/British Guiana,1940,1
-2072,Venezuela,1940,3
-2073,St. Lucia,1940,2
-2074,Bermuda,1940,2
-2075,Swaziland,1940,2
-2076,West Indies,1940,1
-2077,Algeria,1940,4
-2078,Lesotho,1940,1
-2079,Singapore,1940,1
-2080,Christmas Island,1940,1
-2081,"Dutch Caribbean, ns",1940,1
-2082,Oman,1940,1
-2083,Canada East,1940,1
-2084,"Native born, and father foreign, mother native",1870,872
-2085,"Native born, and both parents native born",1870,28857
-2086,"Native born, and both parents foreign",1870,2951
-2087,Foreign born,1870,6471
-2088,"Native born, and mother foreign, father native",1870,531
-2089,nan,1870,144
-2090,Foreign born,1880,39885
-2091,"Native born, and mother foreign, father native",1880,4287
-2092,"Native born, and both parents native born",1880,117836
-2093,"Native born, and both parents foreign",1880,24410
-2094,"Native born, and father foreign, mother native",1880,8070
-2095,Foreign born,1900,92803
-2096,"Native born, and both parents foreign",1900,83069
-2097,"Native born, and father foreign, mother native",1900,32070
-2098,"Native born, and both parents native born",1900,314838
-2099,"Native born, and mother foreign, father native",1900,16791
-2100,"Native born, and both parents foreign",1910,118806
-2101,"Native born, and both parents native born",1910,482212
-2102,Foreign born,1910,132210
-2103,"Native born, and father foreign, mother native",1910,45879
-2104,"Native born, and mother foreign, father native",1910,23923
-2105,"Native born, and both parents native born",1920,612919
-2106,"Native born, and father foreign, mother native",1920,51337
-2107,Foreign born,1920,121475
-2108,"Native born, and both parents foreign",1920,130082
-2109,"Native born, and mother foreign, father native",1920,26042
-2110,"Native born, and both parents native born",1930,712376
-2111,"Native born, and mother foreign, father native",1930,26988
-2112,Foreign born,1930,101434
-2113,"Native born, and both parents foreign",1930,137053
-2114,"Native born, and father foreign, mother native",1930,58313
-2115,"Native born, and both parents native born",1940,42317
-2116,nan,1940,1069178
-2117,"Native born, and both parents foreign",1940,5932
-2118,"Native born, and father foreign, mother native",1940,2954
-2119,Foreign born,1940,3722
-2120,"Native born, and mother foreign, father native",1940,1296
+,variable,column,year,population
+0,White,RACE,1870,39342
+1,Black/African American/Negro,RACE,1870,436
+2,Chinese,RACE,1870,7
+3,American Indian or Alaska Native,RACE,1870,41
+4,White,RACE,1880,190148
+5,Black/African American/Negro,RACE,1880,3694
+6,Chinese,RACE,1880,611
+7,American Indian or Alaska Native,RACE,1880,35
+8,White,RACE,1900,529574
+9,Black/African American/Negro,RACE,1900,8313
+10,Chinese,RACE,1900,589
+11,Japanese,RACE,1900,48
+12,American Indian or Alaska Native,RACE,1900,1047
+13,White,RACE,1910,787438
+14,Black/African American/Negro,RACE,1910,11569
+15,American Indian or Alaska Native,RACE,1910,1437
+16,Japanese,RACE,1910,2079
+17,Other Asian or Pacific Islander,RACE,1910,151
+18,Chinese,RACE,1910,356
+19,White,RACE,1920,926004
+20,Black/African American/Negro,RACE,1920,11644
+21,Japanese,RACE,1920,2450
+22,American Indian or Alaska Native,RACE,1920,1273
+23,Other Asian or Pacific Islander,RACE,1920,206
+24,Chinese,RACE,1920,278
+25,White,RACE,1930,1019132
+26,Japanese,RACE,1930,3224
+27,Black/African American/Negro,RACE,1930,11875
+28,Other Asian or Pacific Islander,RACE,1930,315
+29,American Indian or Alaska Native,RACE,1930,1384
+30,Chinese,RACE,1930,234
+31,White,RACE,1940,1108910
+32,Japanese,RACE,1940,2584
+33,Other Asian or Pacific Islander,RACE,1940,295
+34,American Indian or Alaska Native,RACE,1940,1270
+35,Black/African American/Negro,RACE,1940,12118
+36,Chinese,RACE,1940,222
+37,White,RACED,1870,39342
+38,Mulatto,RACED,1870,170
+39,Black/African American/Negro,RACED,1870,266
+40,Chinese,RACED,1870,7
+41,American Indian/Alaska Native,RACED,1870,41
+42,White,RACED,1880,190148
+43,Black/African American/Negro,RACED,1880,1663
+44,Chinese,RACED,1880,611
+45,Mulatto,RACED,1880,2031
+46,American Indian/Alaska Native,RACED,1880,35
+47,White,RACED,1900,529574
+48,Black/African American/Negro,RACED,1900,8313
+49,Chinese,RACED,1900,589
+50,Japanese,RACED,1900,48
+51,American Indian/Alaska Native,RACED,1900,1047
+52,White,RACED,1910,786341
+53,Mulatto,RACED,1910,3727
+54,American Indian/Alaska Native,RACED,1910,1437
+55,Black/African American/Negro,RACED,1910,7842
+56,Japanese,RACED,1910,2079
+57,Mexican (1930),RACED,1910,1094
+58,Filipino,RACED,1910,5
+59,Chinese,RACED,1910,356
+60,"Asian, not specified",RACED,1910,145
+61,Spanish write_in,RACED,1910,3
+62,Korean,RACED,1910,1
+63,White,RACED,1920,925511
+64,Black/African American/Negro,RACED,1920,8607
+65,Japanese,RACED,1920,2450
+66,Mexican (1930),RACED,1920,489
+67,Puerto Rican (1910 Hawaii),RACED,1920,2
+68,Mulatto,RACED,1920,3037
+69,American Indian/Alaska Native,RACED,1920,1273
+70,Korean,RACED,1920,8
+71,Filipino,RACED,1920,198
+72,Chinese,RACED,1920,278
+73,Spanish write_in,RACED,1920,2
+74,White,RACED,1930,961385
+75,Mexican (1930),RACED,1930,57747
+76,Japanese,RACED,1930,3224
+77,Black/African American/Negro,RACED,1930,11875
+78,Filipino,RACED,1930,255
+79,Korean,RACED,1930,49
+80,American Indian/Alaska Native,RACED,1930,1384
+81,Chinese,RACED,1930,234
+82,Asian Indian (Hindu 1920_1940),RACED,1930,10
+83,Hawaiian,RACED,1930,1
+84,White,RACED,1940,1108910
+85,Japanese,RACED,1940,2584
+86,Filipino,RACED,1940,279
+87,American Indian/Alaska Native,RACED,1940,1270
+88,Black/African American/Negro,RACED,1940,12118
+89,Asian Indian (Hindu 1920_1940),RACED,1940,4
+90,Chinese,RACED,1940,222
+91,Korean,RACED,1940,12
+92,White,RACESING,1870,39342
+93,Black,RACESING,1870,436
+94,Asian and/or Pacific Islander,RACESING,1870,7
+95,American Indian/Alaska Native,RACESING,1870,41
+96,White,RACESING,1880,190148
+97,Black,RACESING,1880,3694
+98,Asian and/or Pacific Islander,RACESING,1880,611
+99,American Indian/Alaska Native,RACESING,1880,35
+100,White,RACESING,1900,529574
+101,Black,RACESING,1900,8313
+102,Asian and/or Pacific Islander,RACESING,1900,637
+103,American Indian/Alaska Native,RACESING,1900,1047
+104,White,RACESING,1910,787438
+105,Black,RACESING,1910,11569
+106,American Indian/Alaska Native,RACESING,1910,1437
+107,Asian and/or Pacific Islander,RACESING,1910,2586
+108,White,RACESING,1920,926004
+109,Black,RACESING,1920,11644
+110,Asian and/or Pacific Islander,RACESING,1920,2934
+111,American Indian/Alaska Native,RACESING,1920,1273
+112,White,RACESING,1930,1019132
+113,Asian and/or Pacific Islander,RACESING,1930,3773
+114,Black,RACESING,1930,11875
+115,American Indian/Alaska Native,RACESING,1930,1384
+116,nan,RACESING,1940,1125399
+117,White,RACESINGD,1870,39342
+118,Mulatto,RACESINGD,1870,170
+119,Black,RACESINGD,1870,266
+120,Chinese,RACESINGD,1870,7
+121,AI/AN (American Indian/Alaskan Native),RACESINGD,1870,41
+122,White,RACESINGD,1880,190148
+123,Black,RACESINGD,1880,1663
+124,Chinese,RACESINGD,1880,611
+125,Mulatto,RACESINGD,1880,2031
+126,AI/AN (American Indian/Alaskan Native),RACESINGD,1880,35
+127,White,RACESINGD,1900,529574
+128,Black,RACESINGD,1900,8313
+129,Chinese,RACESINGD,1900,589
+130,Japanese,RACESINGD,1900,48
+131,AI/AN (American Indian/Alaskan Native),RACESINGD,1900,1047
+132,White,RACESINGD,1910,786341
+133,Mulatto,RACESINGD,1910,3727
+134,AI/AN (American Indian/Alaskan Native),RACESINGD,1910,1437
+135,Black,RACESINGD,1910,7842
+136,Japanese,RACESINGD,1910,2079
+137,"""Other race"", Hispanic",RACESINGD,1910,1097
+138,Filipino,RACESINGD,1910,5
+139,Chinese,RACESINGD,1910,356
+140,Asian,RACESINGD,1910,145
+141,Korean,RACESINGD,1910,1
+142,White,RACESINGD,1920,925511
+143,Black,RACESINGD,1920,8607
+144,Japanese,RACESINGD,1920,2450
+145,"""Other race"", Hispanic",RACESINGD,1920,493
+146,Mulatto,RACESINGD,1920,3037
+147,AI/AN (American Indian/Alaskan Native),RACESINGD,1920,1273
+148,Korean,RACESINGD,1920,8
+149,Filipino,RACESINGD,1920,198
+150,Chinese,RACESINGD,1920,278
+151,White,RACESINGD,1930,961385
+152,"""Other race"", Hispanic",RACESINGD,1930,57747
+153,Japanese,RACESINGD,1930,3224
+154,Black,RACESINGD,1930,11875
+155,Filipino,RACESINGD,1930,255
+156,Korean,RACESINGD,1930,49
+157,AI/AN (American Indian/Alaskan Native),RACESINGD,1930,1384
+158,Chinese,RACESINGD,1930,234
+159,Asian Indian,RACESINGD,1930,10
+160,Hawaiian,RACESINGD,1930,1
+161,nan,RACESINGD,1940,1125399
+162,Pennsylvania,BPL,1870,1572
+163,Vermont,BPL,1870,375
+164,Missouri,BPL,1870,1721
+165,Kansas,BPL,1870,269
+166,Colorado,BPL,1870,6334
+167,Iowa,BPL,1870,1314
+168,Ireland,BPL,1870,1702
+169,Virginia,BPL,1870,510
+170,Maryland,BPL,1870,197
+171,Illinois,BPL,1870,1826
+172,Mexico,BPL,1870,115
+173,Germany,BPL,1870,1315
+174,New York,BPL,1870,2796
+175,North Carolina,BPL,1870,201
+176,Ohio,BPL,1870,2072
+177,Kentucky,BPL,1870,727
+178,Tennessee,BPL,1870,291
+179,Denmark,BPL,1870,47
+180,New Hampshire,BPL,1870,138
+181,Massachusetts,BPL,1870,629
+182,Maine,BPL,1870,357
+183,France,BPL,1870,207
+184,Indiana,BPL,1870,817
+185,Canada,BPL,1870,749
+186,Michigan,BPL,1870,529
+187,Switzerland,BPL,1870,143
+188,Louisiana,BPL,1870,34
+189,Wisconsin,BPL,1870,627
+190,Mississippi,BPL,1870,42
+191,Alabama,BPL,1870,59
+192,Wales,BPL,1870,163
+193,New Jersey,BPL,1870,177
+194,California,BPL,1870,52
+195,Nebraska,BPL,1870,183
+196,Delaware,BPL,1870,27
+197,Georgia,BPL,1870,260
+198,Scotland,BPL,1870,195
+199,Arkansas,BPL,1870,90
+200,Wyoming,BPL,1870,54
+201,Connecticut,BPL,1870,211
+202,New Mexico,BPL,1870,8383
+203,Sweden,BPL,1870,182
+204,Rhode Island,BPL,1870,86
+205,England,BPL,1870,1371
+206,West Indies,BPL,1870,18
+207,Minnesota,BPL,1870,82
+208,Czechoslovakia,BPL,1870,15
+209,West Virginia,BPL,1870,12
+210,Texas,BPL,1870,143
+211,Abroad (unknown) or at sea,BPL,1870,8
+212,Utah,BPL,1870,67
+213,Norway,BPL,1870,40
+214,Oregon,BPL,1870,5
+215,Netherlands,BPL,1870,17
+216,Austria,BPL,1870,52
+217,Poland,BPL,1870,49
+218,South Carolina,BPL,1870,33
+219,Other USSR/Russia,BPL,1870,17
+220,District of Columbia,BPL,1870,20
+221,Oklahoma,BPL,1870,2
+222,SOUTH AMERICA,BPL,1870,11
+223,Australia and New Zealand,BPL,1870,5
+224,Hawaii,BPL,1870,2
+225,Belgium,BPL,1870,11
+226,Malta,BPL,1870,2
+227,Montana,BPL,1870,11
+228,Hungary,BPL,1870,2
+229,China,BPL,1870,7
+230,Spain,BPL,1870,5
+231,Italy,BPL,1870,17
+232,Florida,BPL,1870,7
+233,Nevada,BPL,1870,3
+234,South Dakota,BPL,1870,4
+235,Native American,BPL,1870,1
+236,Idaho,BPL,1870,1
+237,Indonesia,BPL,1870,2
+238,"United States, ns",BPL,1870,1
+239,Luxembourg,BPL,1870,3
+240,Alaska,BPL,1870,1
+241,Cuba,BPL,1870,1
+242,Ireland,BPL,1880,8314
+243,Iowa,BPL,1880,7558
+244,Colorado,BPL,1880,26058
+245,Illinois,BPL,1880,13026
+246,New York,BPL,1880,15551
+247,Michigan,BPL,1880,3673
+248,Pennsylvania,BPL,1880,11408
+249,Ohio,BPL,1880,11776
+250,Wisconsin,BPL,1880,3899
+251,Missouri,BPL,1880,12609
+252,New Hampshire,BPL,1880,739
+253,Canada,BPL,1880,5821
+254,Massachusetts,BPL,1880,3666
+255,Italy,BPL,1880,335
+256,Kansas,BPL,1880,4035
+257,Germany,BPL,1880,6889
+258,Switzerland,BPL,1880,528
+259,Virginia,BPL,1880,2456
+260,Austria,BPL,1880,438
+261,Tennessee,BPL,1880,1979
+262,Scotland,BPL,1880,1681
+263,New Jersey,BPL,1880,1479
+264,Indiana,BPL,1880,5233
+265,Nebraska,BPL,1880,952
+266,England,BPL,1880,8830
+267,Poland,BPL,1880,173
+268,Wales,BPL,1880,1231
+269,Other USSR/Russia,BPL,1880,296
+270,Belgium,BPL,1880,49
+271,France,BPL,1880,888
+272,Maryland,BPL,1880,1076
+273,Minnesota,BPL,1880,694
+274,California,BPL,1880,636
+275,Kentucky,BPL,1880,3795
+276,Netherlands,BPL,1880,114
+277,Czechoslovakia,BPL,1880,96
+278,New Mexico,BPL,1880,9524
+279,Louisiana,BPL,1880,421
+280,Connecticut,BPL,1880,1226
+281,Arkansas,BPL,1880,759
+282,China,BPL,1880,610
+283,Maine,BPL,1880,2621
+284,Alabama,BPL,1880,453
+285,Denmark,BPL,1880,511
+286,Rhode Island,BPL,1880,380
+287,Georgia,BPL,1880,925
+288,Vermont,BPL,1880,1571
+289,Delaware,BPL,1880,234
+290,Norway,BPL,1880,360
+291,Florida,BPL,1880,66
+292,North Carolina,BPL,1880,861
+293,Texas,BPL,1880,1053
+294,Australia and New Zealand,BPL,1880,51
+295,Mississippi,BPL,1880,492
+296,Nevada,BPL,1880,87
+297,Montana,BPL,1880,50
+298,Hungary,BPL,1880,48
+299,Arizona,BPL,1880,13
+300,Abroad (unknown) or at sea,BPL,1880,34
+301,Wyoming,BPL,1880,240
+302,Washington,BPL,1880,28
+303,Sweden,BPL,1880,2176
+304,South Carolina,BPL,1880,201
+305,Utah,BPL,1880,239
+306,Malta,BPL,1880,2
+307,SOUTH AMERICA,BPL,1880,39
+308,Portugal,BPL,1880,13
+309,Mexico,BPL,1880,190
+310,District of Columbia,BPL,1880,156
+311,West Virginia,BPL,1880,410
+312,AFRICA,BPL,1880,14
+313,Luxembourg,BPL,1880,9
+314,"United States, ns",BPL,1880,40
+315,Oregon,BPL,1880,80
+316,West Indies,BPL,1880,22
+317,Oklahoma,BPL,1880,83
+318,Cuba,BPL,1880,16
+319,South Dakota,BPL,1880,56
+320,Spain,BPL,1880,32
+321,Japan,BPL,1880,1
+322,"Europe, ns",BPL,1880,12
+323,Finland,BPL,1880,12
+324,Indonesia,BPL,1880,13
+325,Atlantic Islands,BPL,1880,7
+326,India,BPL,1880,16
+327,Greece,BPL,1880,3
+328,Idaho,BPL,1880,24
+329,Romania,BPL,1880,1
+330,Native American,BPL,1880,8
+331,Yugoslavia,BPL,1880,1
+332,Thailand,BPL,1880,2
+333,Hawaii,BPL,1880,4
+334,"Asia Minor, ns",BPL,1880,1
+335,"Lapland, n.s.",BPL,1880,1
+336,Turkey,BPL,1880,1
+337,Central America,BPL,1880,1
+338,"Asia, nec/ns",BPL,1880,1
+339,Iceland,BPL,1880,2
+340,Germany,BPL,1900,14768
+341,Wisconsin,BPL,1900,8826
+342,Colorado,BPL,1900,151960
+343,New York,BPL,1900,22663
+344,Ohio,BPL,1900,25207
+345,Iowa,BPL,1900,25390
+346,Pennsylvania,BPL,1900,20074
+347,Illinois,BPL,1900,34510
+348,Scotland,BPL,1900,4169
+349,Missouri,BPL,1900,31545
+350,Minnesota,BPL,1900,2638
+351,Canada,BPL,1900,10673
+352,West Virginia,BPL,1900,1830
+353,Indiana,BPL,1900,14540
+354,Nebraska,BPL,1900,11739
+355,South Dakota,BPL,1900,881
+356,Wales,BPL,1900,1979
+357,England,BPL,1900,13805
+358,Michigan,BPL,1900,8153
+359,Switzerland,BPL,1900,1505
+360,Alabama,BPL,1900,1316
+361,Kansas,BPL,1900,21192
+362,Utah,BPL,1900,2371
+363,Other USSR/Russia,BPL,1900,2957
+364,Maryland,BPL,1900,1905
+365,Kentucky,BPL,1900,7294
+366,South Carolina,BPL,1900,473
+367,Ireland,BPL,1900,10361
+368,California,BPL,1900,1910
+369,Virginia,BPL,1900,3752
+370,Delaware,BPL,1900,332
+371,Austria,BPL,1900,6004
+372,Vermont,BPL,1900,2062
+373,Connecticut,BPL,1900,1638
+374,New Jersey,BPL,1900,2521
+375,Tennessee,BPL,1900,4234
+376,New Mexico,BPL,1900,10244
+377,New Hampshire,BPL,1900,935
+378,Maine,BPL,1900,2869
+379,Massachusetts,BPL,1900,4604
+380,Sweden,BPL,1900,10842
+381,Texas,BPL,1900,3608
+382,Montana,BPL,1900,495
+383,France,BPL,1900,1175
+384,Idaho,BPL,1900,348
+385,Norway,BPL,1900,1159
+386,Georgia,BPL,1900,1804
+387,Rhode Island,BPL,1900,521
+388,Wyoming,BPL,1900,1306
+389,Poland,BPL,1900,618
+390,Romania,BPL,1900,28
+391,Denmark,BPL,1900,2065
+392,Hungary,BPL,1900,564
+393,Czechoslovakia,BPL,1900,339
+394,Arkansas,BPL,1900,1976
+395,China,BPL,1900,585
+396,Mississippi,BPL,1900,907
+397,District of Columbia,BPL,1900,696
+398,Oregon,BPL,1900,467
+399,Florida,BPL,1900,177
+400,Louisiana,BPL,1900,739
+401,Italy,BPL,1900,6979
+402,Portugal,BPL,1900,31
+403,North Carolina,BPL,1900,1871
+404,Turkey,BPL,1900,34
+405,Luxembourg,BPL,1900,6
+406,Netherlands,BPL,1900,262
+407,Spain,BPL,1900,36
+408,Oklahoma,BPL,1900,990
+409,Belgium,BPL,1900,172
+410,Arizona,BPL,1900,203
+411,Australia and New Zealand,BPL,1900,124
+412,India,BPL,1900,35
+413,Nevada,BPL,1900,278
+414,AFRICA,BPL,1900,14
+415,"United States, ns",BPL,1900,593
+416,Greece,BPL,1900,37
+417,Japan,BPL,1900,56
+418,Mexico,BPL,1900,331
+419,Finland,BPL,1900,839
+420,Alaska,BPL,1900,4
+421,Cuba,BPL,1900,27
+422,SOUTH AMERICA,BPL,1900,36
+423,Syria,BPL,1900,68
+424,Atlantic Islands,BPL,1900,7
+425,West Indies,BPL,1900,54
+426,"Europe, ns",BPL,1900,8
+427,North Dakota,BPL,1900,167
+428,Indonesia,BPL,1900,3
+429,Philippines,BPL,1900,1
+430,Yugoslavia,BPL,1900,11
+431,Hawaii,BPL,1900,8
+432,Central America,BPL,1900,1
+433,Thailand,BPL,1900,1
+434,Iceland,BPL,1900,2
+435,Iran,BPL,1900,1
+436,Native American,BPL,1900,2
+437,"Southwest Asia, nec/ns",BPL,1900,19
+438,"Asia, nec/ns",BPL,1900,8
+439,"United Kingdom, ns",BPL,1900,1
+440,Abroad (unknown) or at sea,BPL,1900,3
+441,Colorado,BPL,1910,236465
+442,Pennsylvania,BPL,1910,23340
+443,New Mexico,BPL,1910,12020
+444,"United States, ns",BPL,1910,6192
+445,Texas,BPL,1910,6705
+446,Iowa,BPL,1910,44481
+447,Ohio,BPL,1910,30750
+448,Kansas,BPL,1910,37443
+449,Missouri,BPL,1910,50667
+450,North Carolina,BPL,1910,2691
+451,Kentucky,BPL,1910,10130
+452,Massachusetts,BPL,1910,4806
+453,Minnesota,BPL,1910,5407
+454,Arkansas,BPL,1910,3679
+455,New York,BPL,1910,23961
+456,Illinois,BPL,1910,50303
+457,Indiana,BPL,1910,21098
+458,Oklahoma,BPL,1910,4666
+459,Canada,BPL,1910,10203
+460,Virginia,BPL,1910,4590
+461,Nebraska,BPL,1910,24338
+462,Michigan,BPL,1910,11097
+463,Wisconsin,BPL,1910,11821
+464,Scotland,BPL,1910,4347
+465,West Virginia,BPL,1910,3274
+466,Ireland,BPL,1910,8898
+467,Finland,BPL,1910,1277
+468,Germany,BPL,1910,17562
+469,England,BPL,1910,13113
+470,Sweden,BPL,1910,12674
+471,Other USSR/Russia,BPL,1910,13206
+472,South Dakota,BPL,1910,2215
+473,Romania,BPL,1910,300
+474,Utah,BPL,1910,2308
+475,Tennessee,BPL,1910,6267
+476,Spain,BPL,1910,161
+477,Mexico,BPL,1910,2688
+478,France,BPL,1910,1387
+479,Denmark,BPL,1910,2739
+480,Abroad (unknown) or at sea,BPL,1910,1809
+481,South Carolina,BPL,1910,545
+482,Alabama,BPL,1910,2254
+483,Washington,BPL,1910,802
+484,California,BPL,1910,2309
+485,Norway,BPL,1910,1817
+486,New Jersey,BPL,1910,2935
+487,Maryland,BPL,1910,1997
+488,Louisiana,BPL,1910,1231
+489,Maine,BPL,1910,2611
+490,Wyoming,BPL,1910,2149
+491,Idaho,BPL,1910,586
+492,Greece,BPL,1910,2040
+493,Netherlands,BPL,1910,712
+494,New Hampshire,BPL,1910,946
+495,Connecticut,BPL,1910,1729
+496,Hungary,BPL,1910,1493
+497,Vermont,BPL,1910,2025
+498,SOUTH AMERICA,BPL,1910,57
+499,North Dakota,BPL,1910,584
+500,Wales,BPL,1910,2009
+501,Florida,BPL,1910,349
+502,Turkey,BPL,1910,376
+503,Austria,BPL,1910,13042
+504,Nevada,BPL,1910,257
+505,Georgia,BPL,1910,2360
+506,Mississippi,BPL,1910,1250
+507,Arizona,BPL,1910,496
+508,Italy,BPL,1910,14456
+509,Japan,BPL,1910,2231
+510,Switzerland,BPL,1910,1700
+511,Rhode Island,BPL,1910,503
+512,Oregon,BPL,1910,702
+513,Belgium,BPL,1910,374
+514,India,BPL,1910,40
+515,Montana,BPL,1910,716
+516,District of Columbia,BPL,1910,324
+517,Yugoslavia,BPL,1910,158
+518,Alaska,BPL,1910,12
+519,Delaware,BPL,1910,409
+520,Cuba,BPL,1910,37
+521,Czechoslovakia,BPL,1910,120
+522,Poland,BPL,1910,132
+523,Luxembourg,BPL,1910,21
+524,Syria,BPL,1910,40
+525,Hawaii,BPL,1910,23
+526,AFRICA,BPL,1910,37
+527,Puerto Rico,BPL,1910,3
+528,Philippines,BPL,1910,14
+529,China,BPL,1910,314
+530,Bulgaria,BPL,1910,420
+531,Portugal,BPL,1910,34
+532,West Indies,BPL,1910,52
+533,Australia and New Zealand,BPL,1910,47
+534,"Europe, ns",BPL,1910,19
+535,Lithuania,BPL,1910,2
+536,Central America,BPL,1910,5
+537,"Asia, nec/ns",BPL,1910,14
+538,Israel/Palestine,BPL,1910,1
+539,Indonesia,BPL,1910,2
+540,Atlantic Islands,BPL,1910,2
+541,U.S. Virgin Islands,BPL,1910,3
+542,Pacific Islands,BPL,1910,1
+543,Iran,BPL,1910,1
+544,"Central Europe, ns",BPL,1910,3
+545,American Samoa,BPL,1910,1
+546,Native American,BPL,1910,2
+547,Korea,BPL,1910,5
+548,"Middle East, ns",BPL,1910,11
+549,Kansas,BPL,1920,55320
+550,New York,BPL,1920,19597
+551,Colorado,BPL,1920,319618
+552,New Jersey,BPL,1920,2819
+553,Missouri,BPL,1920,64119
+554,Kentucky,BPL,1920,11495
+555,Denmark,BPL,1920,2737
+556,Norway,BPL,1920,1537
+557,Nebraska,BPL,1920,37035
+558,Pennsylvania,BPL,1920,20183
+559,Ohio,BPL,1920,26508
+560,Iowa,BPL,1920,45773
+561,Arkansas,BPL,1920,6539
+562,England,BPL,1920,9712
+563,Ireland,BPL,1920,6331
+564,Sweden,BPL,1920,10220
+565,Minnesota,BPL,1920,6113
+566,Germany,BPL,1920,11927
+567,Alabama,BPL,1920,2836
+568,Texas,BPL,1920,13480
+569,South Dakota,BPL,1920,2719
+570,North Dakota,BPL,1920,922
+571,Italy,BPL,1920,12051
+572,Illinois,BPL,1920,52912
+573,Indiana,BPL,1920,21329
+574,Oklahoma,BPL,1920,14236
+575,Wisconsin,BPL,1920,11619
+576,California,BPL,1920,3745
+577,Michigan,BPL,1920,10460
+578,Spain,BPL,1920,300
+579,Maryland,BPL,1920,1736
+580,Tennessee,BPL,1920,7216
+581,South Carolina,BPL,1920,672
+582,Virginia,BPL,1920,4145
+583,Switzerland,BPL,1920,1505
+584,Canada,BPL,1920,9048
+585,Massachusetts,BPL,1920,4210
+586,Maine,BPL,1920,1855
+587,SOUTH AMERICA,BPL,1920,268
+588,New Mexico,BPL,1920,16229
+589,Mississippi,BPL,1920,1907
+590,West Virginia,BPL,1920,3423
+591,Georgia,BPL,1920,2581
+592,Scotland,BPL,1920,3467
+593,Other USSR/Russia,BPL,1920,16898
+594,Vermont,BPL,1920,1515
+595,Montana,BPL,1920,1386
+596,Florida,BPL,1920,524
+597,Arizona,BPL,1920,677
+598,North Carolina,BPL,1920,2557
+599,New Hampshire,BPL,1920,671
+600,Washington,BPL,1920,1684
+601,Connecticut,BPL,1920,1456
+602,Hungary,BPL,1920,1131
+603,Abroad (unknown) or at sea,BPL,1920,108
+604,Mexico,BPL,1920,11293
+605,Utah,BPL,1920,3284
+606,Austria,BPL,1920,6831
+607,Wyoming,BPL,1920,3364
+608,Japan,BPL,1920,1807
+609,District of Columbia,BPL,1920,343
+610,Bulgaria,BPL,1920,344
+611,Oregon,BPL,1920,1346
+612,Romania,BPL,1920,349
+613,Idaho,BPL,1920,1191
+614,Louisiana,BPL,1920,1614
+615,Poland,BPL,1920,1823
+616,"United States, ns",BPL,1920,4235
+617,Czechoslovakia,BPL,1920,1689
+618,Belgium,BPL,1920,448
+619,Delaware,BPL,1920,334
+620,Yugoslavia,BPL,1920,1708
+621,Greece,BPL,1920,1773
+622,Hawaii,BPL,1920,37
+623,Australia and New Zealand,BPL,1920,143
+624,France,BPL,1920,1450
+625,Netherlands,BPL,1920,878
+626,Finland,BPL,1920,880
+627,Rhode Island,BPL,1920,435
+628,Central America,BPL,1920,10
+629,AFRICA,BPL,1920,65
+630,Syria,BPL,1920,291
+631,Turkey,BPL,1920,75
+632,Lithuania,BPL,1920,119
+633,Korea,BPL,1920,16
+634,Nevada,BPL,1920,337
+635,Portugal,BPL,1920,40
+636,Wales,BPL,1920,1521
+637,Luxembourg,BPL,1920,100
+638,Philippines,BPL,1920,49
+639,China,BPL,1920,223
+640,India,BPL,1920,46
+641,West Indies,BPL,1920,77
+642,Israel/Palestine,BPL,1920,30
+643,"United Kingdom, ns",BPL,1920,5
+644,Puerto Rico,BPL,1920,19
+645,Cuba,BPL,1920,62
+646,Alaska,BPL,1920,38
+647,Albania,BPL,1920,9
+648,Estonia,BPL,1920,2
+649,Atlantic Islands,BPL,1920,11
+650,Iran,BPL,1920,2
+651,Indonesia,BPL,1920,7
+652,Latvia,BPL,1920,2
+653,"Europe, ns",BPL,1920,12
+654,American Samoa,BPL,1920,4
+655,Gibraltar,BPL,1920,1
+656,Malta,BPL,1920,4
+657,Lebanon,BPL,1920,5
+658,"Asia Minor, ns",BPL,1920,1
+659,Oman,BPL,1920,1
+660,U.S. Virgin Islands,BPL,1920,1
+661,Monaco,BPL,1920,1
+662,Native American,BPL,1920,1
+663,"Middle East, ns",BPL,1920,5
+664,"Southwest Asia, nec/ns",BPL,1920,1
+665,Iceland,BPL,1920,1
+666,"Eastern Europe, ns",BPL,1920,1
+667,Kansas,BPL,1930,63845
+668,Colorado,BPL,1930,419405
+669,Missouri,BPL,1930,65835
+670,Arkansas,BPL,1930,8324
+671,Denmark,BPL,1930,2379
+672,Massachusetts,BPL,1930,3091
+673,Wisconsin,BPL,1930,10140
+674,Nebraska,BPL,1930,47689
+675,Ohio,BPL,1930,20514
+676,Iowa,BPL,1930,45582
+677,Illinois,BPL,1930,46954
+678,California,BPL,1930,4500
+679,Pennsylvania,BPL,1930,16114
+680,Oregon,BPL,1930,1520
+681,Indiana,BPL,1930,18119
+682,Michigan,BPL,1930,8901
+683,New York,BPL,1930,14229
+684,Minnesota,BPL,1930,6919
+685,Utah,BPL,1930,4527
+686,Wyoming,BPL,1930,6051
+687,Mississippi,BPL,1930,2067
+688,Kentucky,BPL,1930,10731
+689,New Jersey,BPL,1930,2269
+690,North Dakota,BPL,1930,1525
+691,Texas,BPL,1930,16522
+692,Hungary,BPL,1930,690
+693,"United States, ns",BPL,1930,2115
+694,Lithuania,BPL,1930,254
+695,South Carolina,BPL,1930,568
+696,Alabama,BPL,1930,2601
+697,Sweden,BPL,1930,8337
+698,Georgia,BPL,1930,2404
+699,Canada,BPL,1930,6801
+700,Idaho,BPL,1930,1708
+701,Switzerland,BPL,1930,1211
+702,Germany,BPL,1930,9988
+703,Oklahoma,BPL,1930,18237
+704,South Dakota,BPL,1930,3803
+705,Other USSR/Russia,BPL,1930,13065
+706,New Mexico,BPL,1930,27624
+707,Washington,BPL,1930,1852
+708,Czechoslovakia,BPL,1930,1737
+709,Montana,BPL,1930,2189
+710,SOUTH AMERICA,BPL,1930,242
+711,Norway,BPL,1930,1270
+712,Virginia,BPL,1930,3301
+713,Ireland,BPL,1930,4115
+714,Tennessee,BPL,1930,7056
+715,Florida,BPL,1930,641
+716,Mexico,BPL,1930,13248
+717,North Carolina,BPL,1930,2174
+718,Austria,BPL,1930,2590
+719,Italy,BPL,1930,10613
+720,Romania,BPL,1930,441
+721,Poland,BPL,1930,2472
+722,Maine,BPL,1930,1300
+723,Japan,BPL,1930,1396
+724,Vermont,BPL,1930,1009
+725,West Virginia,BPL,1930,3212
+726,Delaware,BPL,1930,216
+727,Maryland,BPL,1930,1401
+728,Netherlands,BPL,1930,808
+729,Scotland,BPL,1930,2884
+730,England,BPL,1930,6919
+731,Arizona,BPL,1930,1192
+732,Philippines,BPL,1930,234
+733,Hawaii,BPL,1930,58
+734,Belgium,BPL,1930,391
+735,Louisiana,BPL,1930,1802
+736,Connecticut,BPL,1930,1193
+737,Yugoslavia,BPL,1930,3641
+738,New Hampshire,BPL,1930,497
+739,Greece,BPL,1930,1241
+740,Estonia,BPL,1930,12
+741,Bulgaria,BPL,1930,270
+742,District of Columbia,BPL,1930,416
+743,Rhode Island,BPL,1930,351
+744,Nevada,BPL,1930,395
+745,Gibraltar,BPL,1930,1
+746,France,BPL,1930,1082
+747,West Indies,BPL,1930,50
+748,Puerto Rico,BPL,1930,39
+749,Wales,BPL,1930,1066
+750,Finland,BPL,1930,565
+751,Korea,BPL,1930,46
+752,Spain,BPL,1930,226
+753,China,BPL,1930,187
+754,Turkey,BPL,1930,87
+755,India,BPL,1930,57
+756,Syria,BPL,1930,254
+757,Portugal,BPL,1930,19
+758,Central America,BPL,1930,28
+759,Australia and New Zealand,BPL,1930,144
+760,Latvia,BPL,1930,54
+761,AFRICA,BPL,1930,58
+762,Cuba,BPL,1930,41
+763,Israel/Palestine,BPL,1930,28
+764,Luxembourg,BPL,1930,52
+765,Alaska,BPL,1930,42
+766,"Middle East, ns",BPL,1930,3
+767,"Lapland, n.s.",BPL,1930,1
+768,Abroad (unknown) or at sea,BPL,1930,14
+769,Indonesia,BPL,1930,12
+770,Albania,BPL,1930,9
+771,Atlantic Islands,BPL,1930,9
+772,Iran,BPL,1930,5
+773,"Asia, nec/ns",BPL,1930,4
+774,Iceland,BPL,1930,1
+775,"Europe, ns",BPL,1930,25
+776,"United Kingdom, ns",BPL,1930,3
+777,U.S. Virgin Islands,BPL,1930,7
+778,Pacific Islands,BPL,1930,2
+779,"Southwest Asia, nec/ns",BPL,1930,2
+780,Thailand,BPL,1930,1
+781,Lebanon,BPL,1930,1
+782,Afghanistan,BPL,1930,2
+783,Nebraska,BPL,1940,58094
+784,Colorado,BPL,1940,525446
+785,Pennsylvania,BPL,1940,12901
+786,Illinois,BPL,1940,41670
+787,Wisconsin,BPL,1940,8524
+788,Iowa,BPL,1940,42152
+789,Louisiana,BPL,1940,1776
+790,Missouri,BPL,1940,64400
+791,North Dakota,BPL,1940,2371
+792,Oklahoma,BPL,1940,25714
+793,New York,BPL,1940,11201
+794,Kansas,BPL,1940,79388
+795,Poland,BPL,1940,1825
+796,Romania,BPL,1940,323
+797,Wyoming,BPL,1940,7372
+798,South Carolina,BPL,1940,558
+799,Georgia,BPL,1940,2222
+800,Sweden,BPL,1940,5888
+801,Kentucky,BPL,1940,9442
+802,Ohio,BPL,1940,15772
+803,New Jersey,BPL,1940,1977
+804,Germany,BPL,1940,7076
+805,Hungary,BPL,1940,671
+806,Lithuania,BPL,1940,213
+807,Texas,BPL,1940,19657
+808,New Mexico,BPL,1940,26309
+809,Other USSR/Russia,BPL,1940,11293
+810,Indiana,BPL,1940,14868
+811,California,BPL,1940,5852
+812,Michigan,BPL,1940,8036
+813,Virginia,BPL,1940,2686
+814,Norway,BPL,1940,953
+815,Minnesota,BPL,1940,7264
+816,SOUTH AMERICA,BPL,1940,250
+817,Switzerland,BPL,1940,853
+818,Denmark,BPL,1940,1856
+819,Canada,BPL,1940,4415
+820,Connecticut,BPL,1940,1136
+821,Washington,BPL,1940,2132
+822,South Dakota,BPL,1940,5416
+823,Florida,BPL,1940,763
+824,Oregon,BPL,1940,1671
+825,Alabama,BPL,1940,2695
+826,North Carolina,BPL,1940,1921
+827,Italy,BPL,1940,8448
+828,Tennessee,BPL,1940,6073
+829,Arkansas,BPL,1940,9959
+830,Ireland,BPL,1940,2531
+831,Maine,BPL,1940,986
+832,Japan,BPL,1940,914
+833,West Virginia,BPL,1940,2923
+834,Guam,BPL,1940,85
+835,Netherlands,BPL,1940,679
+836,Vermont,BPL,1940,681
+837,Maryland,BPL,1940,1145
+838,Scotland,BPL,1940,2083
+839,Arizona,BPL,1940,1606
+840,Montana,BPL,1940,3065
+841,Mexico,BPL,1940,6466
+842,Delaware,BPL,1940,205
+843,England,BPL,1940,4776
+844,Belgium,BPL,1940,342
+845,Philippines,BPL,1940,218
+846,Idaho,BPL,1940,2086
+847,Utah,BPL,1940,5649
+848,Massachusetts,BPL,1940,2658
+849,Bulgaria,BPL,1940,222
+850,Hawaii,BPL,1940,85
+851,Mississippi,BPL,1940,2179
+852,Greece,BPL,1940,1048
+853,Austria,BPL,1940,3233
+854,"United States, ns",BPL,1940,150
+855,Wales,BPL,1940,580
+856,Finland,BPL,1940,413
+857,France,BPL,1940,800
+858,Czechoslovakia,BPL,1940,1038
+859,Nevada,BPL,1940,439
+860,District of Columbia,BPL,1940,519
+861,Yugoslavia,BPL,1940,2220
+862,Puerto Rico,BPL,1940,29
+863,Central America,BPL,1940,51
+864,Turkey,BPL,1940,80
+865,Rhode Island,BPL,1940,282
+866,China,BPL,1940,145
+867,New Hampshire,BPL,1940,350
+868,Korea,BPL,1940,12
+869,Spain,BPL,1940,164
+870,Abroad (unknown) or at sea,BPL,1940,27
+871,India,BPL,1940,52
+872,West Indies,BPL,1940,55
+873,Australia and New Zealand,BPL,1940,122
+874,Alaska,BPL,1940,48
+875,Syria,BPL,1940,167
+876,U.S. Virgin Islands,BPL,1940,4
+877,Israel/Palestine,BPL,1940,29
+878,Luxembourg,BPL,1940,50
+879,"Europe, ns",BPL,1940,13
+880,American Samoa,BPL,1940,2
+881,Portugal,BPL,1940,14
+882,Latvia,BPL,1940,38
+883,AFRICA,BPL,1940,61
+884,Cuba,BPL,1940,23
+885,Iran,BPL,1940,7
+886,Malta,BPL,1940,1
+887,"Eastern Europe, ns",BPL,1940,1
+888,"United Kingdom, ns",BPL,1940,11
+889,Iceland,BPL,1940,2
+890,"North America, ns",BPL,1940,2
+891,Albania,BPL,1940,16
+892,"Central Europe, ns",BPL,1940,3
+893,Indonesia,BPL,1940,3
+894,"Asia, nec/ns",BPL,1940,4
+895,Estonia,BPL,1940,8
+896,Atlantic Islands,BPL,1940,4
+897,Saudi Arabia,BPL,1940,1
+898,"Asia Minor, ns",BPL,1940,3
+899,Pacific Islands,BPL,1940,1
+900,Lebanon,BPL,1940,5
+901,Cyprus,BPL,1940,1
+902,Singapore,BPL,1940,1
+903,Oman,BPL,1940,1
+904,Pennsylvania,BPLD,1870,1572
+905,Vermont,BPLD,1870,375
+906,Missouri,BPLD,1870,1721
+907,Kansas,BPLD,1870,269
+908,Colorado,BPLD,1870,6334
+909,Iowa,BPLD,1870,1314
+910,Ireland,BPLD,1870,1702
+911,Virginia,BPLD,1870,510
+912,Maryland,BPLD,1870,197
+913,Illinois,BPLD,1870,1826
+914,Mexico,BPLD,1870,115
+915,"Prussia, nec",BPLD,1870,668
+916,New York,BPLD,1870,2796
+917,North Carolina,BPLD,1870,201
+918,Ohio,BPLD,1870,2072
+919,Kentucky,BPLD,1870,727
+920,Tennessee,BPLD,1870,291
+921,Denmark,BPLD,1870,47
+922,New Hampshire,BPLD,1870,138
+923,Massachusetts,BPLD,1870,629
+924,Maine,BPLD,1870,357
+925,Schleswig,BPLD,1870,45
+926,France,BPLD,1870,207
+927,Baden,BPLD,1870,142
+928,Indiana,BPLD,1870,817
+929,Bavaria,BPLD,1870,169
+930,Canada,BPLD,1870,671
+931,Michigan,BPLD,1870,529
+932,Switzerland,BPLD,1870,143
+933,Louisiana,BPLD,1870,34
+934,Wisconsin,BPLD,1870,627
+935,Mississippi,BPLD,1870,42
+936,Alabama,BPLD,1870,59
+937,Wales,BPLD,1870,163
+938,New Jersey,BPLD,1870,177
+939,California,BPLD,1870,52
+940,Nebraska,BPLD,1870,183
+941,Delaware,BPLD,1870,27
+942,Georgia,BPLD,1870,260
+943,Scotland,BPLD,1870,195
+944,Arkansas,BPLD,1870,90
+945,Wyoming,BPLD,1870,54
+946,Connecticut,BPLD,1870,211
+947,New Mexico,BPLD,1870,8383
+948,Sweden,BPLD,1870,182
+949,Rhode Island,BPLD,1870,86
+950,England,BPLD,1870,1343
+951,"West Indies, ns",BPLD,1870,4
+952,Nova Scotia,BPLD,1870,52
+953,Minnesota,BPLD,1870,82
+954,Bohemia,BPLD,1870,15
+955,West Virginia,BPLD,1870,12
+956,Germany,BPLD,1870,25
+957,New Brunswick,BPLD,1870,23
+958,Texas,BPLD,1870,143
+959,At sea,BPLD,1870,8
+960,Utah,BPLD,1870,67
+961,Hanover,BPLD,1870,73
+962,Norway,BPLD,1870,40
+963,Oregon,BPLD,1870,5
+964,Hessen,BPLD,1870,71
+965,Netherlands,BPLD,1870,17
+966,Austria,BPLD,1870,52
+967,Poland,BPLD,1870,47
+968,Hesse-Nassau,BPLD,1870,29
+969,Hamburg,BPLD,1870,8
+970,South Carolina,BPLD,1870,33
+971,Thuringian States,BPLD,1870,68
+972,Other USSR/Russia,BPLD,1870,17
+973,District of Columbia,BPLD,1870,20
+974,Indian Territory,BPLD,1870,2
+975,"South America, ns",BPLD,1870,2
+976,Mecklenburg,BPLD,1870,6
+977,Australia,BPLD,1870,5
+978,Hawaii,BPLD,1870,2
+979,Belgium,BPLD,1870,11
+980,Malta,BPLD,1870,2
+981,Montana,BPLD,1870,11
+982,Chile,BPLD,1870,3
+983,Hungary,BPLD,1870,2
+984,Bahamas,BPLD,1870,14
+985,China,BPLD,1870,7
+986,Isle of Man,BPLD,1870,28
+987,Peru,BPLD,1870,5
+988,Spain,BPLD,1870,5
+989,Braunschweig,BPLD,1870,2
+990,Bremen,BPLD,1870,3
+991,Italy,BPLD,1870,17
+992,Wurttemberg,BPLD,1870,1
+993,Florida,BPLD,1870,7
+994,Nevada,BPLD,1870,3
+995,Dakota Territory,BPLD,1870,4
+996,Native American,BPLD,1870,1
+997,Idaho,BPLD,1870,1
+998,East Indies,BPLD,1870,2
+999,"United States, ns",BPLD,1870,1
+1000,Luxembourg,BPLD,1870,3
+1001,Berlin,BPLD,1870,5
+1002,Russian Poland,BPLD,1870,2
+1003,Newfoundland,BPLD,1870,3
+1004,Alaska,BPLD,1870,1
+1005,Cuba,BPLD,1870,1
+1006,Brazil,BPLD,1870,1
+1007,Ireland,BPLD,1880,8313
+1008,Iowa,BPLD,1880,7558
+1009,Colorado,BPLD,1880,26058
+1010,Illinois,BPLD,1880,13026
+1011,New York,BPLD,1880,15551
+1012,Michigan,BPLD,1880,3673
+1013,Pennsylvania,BPLD,1880,11408
+1014,Ohio,BPLD,1880,11776
+1015,Wisconsin,BPLD,1880,3899
+1016,Missouri,BPLD,1880,12609
+1017,New Hampshire,BPLD,1880,739
+1018,Canada,BPLD,1880,4619
+1019,Massachusetts,BPLD,1880,3666
+1020,Italy,BPLD,1880,335
+1021,Kansas,BPLD,1880,4035
+1022,Wurttemberg,BPLD,1880,264
+1023,Bavaria,BPLD,1880,454
+1024,Switzerland,BPLD,1880,528
+1025,"Prussia, nec",BPLD,1880,1647
+1026,Baden,BPLD,1880,392
+1027,Hessen,BPLD,1880,107
+1028,Virginia,BPLD,1880,2456
+1029,Austria,BPLD,1880,437
+1030,Tennessee,BPLD,1880,1979
+1031,Scotland,BPLD,1880,1681
+1032,New Jersey,BPLD,1880,1479
+1033,Indiana,BPLD,1880,5233
+1034,Nebraska,BPLD,1880,952
+1035,England,BPLD,1880,8779
+1036,Poland,BPLD,1880,148
+1037,Wales,BPLD,1880,1231
+1038,Other USSR/Russia,BPLD,1880,296
+1039,Belgium,BPLD,1880,49
+1040,France,BPLD,1880,823
+1041,Maryland,BPLD,1880,1076
+1042,Germany,BPLD,1880,3388
+1043,Saxony,BPLD,1880,174
+1044,Minnesota,BPLD,1880,694
+1045,California,BPLD,1880,636
+1046,Hanover,BPLD,1880,190
+1047,Kentucky,BPLD,1880,3795
+1048,Netherlands,BPLD,1880,114
+1049,Bohemia,BPLD,1880,95
+1050,New Mexico,BPLD,1880,9524
+1051,Louisiana,BPLD,1880,421
+1052,Connecticut,BPLD,1880,1226
+1053,Arkansas,BPLD,1880,759
+1054,China,BPLD,1880,610
+1055,Maine,BPLD,1880,2621
+1056,Alabama,BPLD,1880,453
+1057,Denmark,BPLD,1880,511
+1058,Rhode Island,BPLD,1880,380
+1059,West Prussia,BPLD,1880,3
+1060,Georgia,BPLD,1880,925
+1061,Vermont,BPLD,1880,1571
+1062,Nova Scotia,BPLD,1880,631
+1063,Delaware,BPLD,1880,234
+1064,Norway,BPLD,1880,360
+1065,Florida,BPLD,1880,66
+1066,North Carolina,BPLD,1880,861
+1067,New Brunswick,BPLD,1880,270
+1068,Texas,BPLD,1880,1053
+1069,Australia,BPLD,1880,46
+1070,Mississippi,BPLD,1880,492
+1071,Nevada,BPLD,1880,87
+1072,Montana,BPLD,1880,50
+1073,Hungary,BPLD,1880,48
+1074,Arizona,BPLD,1880,13
+1075,At sea,BPLD,1880,29
+1076,Prince Edward Island,BPLD,1880,112
+1077,Wyoming,BPLD,1880,171
+1078,Washington,BPLD,1880,28
+1079,Sweden,BPLD,1880,2176
+1080,Hamburg,BPLD,1880,47
+1081,South Carolina,BPLD,1880,201
+1082,Berlin,BPLD,1880,15
+1083,Quebec,BPLD,1880,23
+1084,British Columbia,BPLD,1880,5
+1085,Utah,BPLD,1880,230
+1086,Malta,BPLD,1880,2
+1087,Chile,BPLD,1880,4
+1088,Portugal,BPLD,1880,12
+1089,Northern Ireland,BPLD,1880,1
+1090,Mexico,BPLD,1880,190
+1091,District of Columbia,BPLD,1880,156
+1092,Hesse-Nassau,BPLD,1880,13
+1093,West Virginia,BPLD,1880,410
+1094,Schleswig,BPLD,1880,108
+1095,"Africa, ns/nec",BPLD,1880,8
+1096,Canada West,BPLD,1880,56
+1097,Wyoming Territory,BPLD,1880,69
+1098,Mecklenburg,BPLD,1880,36
+1099,Luxembourg,BPLD,1880,9
+1100,"United States, ns",BPLD,1880,40
+1101,Nordrhein-Westfalen,BPLD,1880,2
+1102,Westphalia,BPLD,1880,13
+1103,"Abroad, ns",BPLD,1880,5
+1104,"South America, ns",BPLD,1880,10
+1105,Oregon,BPLD,1880,80
+1106,West Indies,BPLD,1880,5
+1107,Indian Territory,BPLD,1880,82
+1108,Austria-Vienna,BPLD,1880,1
+1109,Cuba,BPLD,1880,16
+1110,Brazil,BPLD,1880,9
+1111,Dakota Territory,BPLD,1880,48
+1112,Spain,BPLD,1880,32
+1113,Madeira Islands,BPLD,1880,1
+1114,Japan,BPLD,1880,1
+1115,Isle of Man,BPLD,1880,45
+1116,Alsace,BPLD,1880,55
+1117,"Europe, ns.",BPLD,1880,12
+1118,South Dakota,BPLD,1880,8
+1119,Waldeck,BPLD,1880,2
+1120,Jamaica,BPLD,1880,6
+1121,Pomerania,BPLD,1880,5
+1122,Ontario/Upper Canada,BPLD,1880,46
+1123,Channel Islands,BPLD,1880,4
+1124,Russian Poland,BPLD,1880,7
+1125,Silesia,BPLD,1880,4
+1126,Lippe,BPLD,1880,2
+1127,Oldenburg,BPLD,1880,12
+1128,South Africa (Union of),BPLD,1880,3
+1129,Guernsey,BPLD,1880,1
+1130,Jersey,BPLD,1880,1
+1131,Newfoundland,BPLD,1880,14
+1132,Argentina,BPLD,1880,9
+1133,Finland,BPLD,1880,12
+1134,East Indies,BPLD,1880,7
+1135,Bremen,BPLD,1880,10
+1136,Posen,BPLD,1880,5
+1137,"West Indies, ns",BPLD,1880,10
+1138,Indonesia,BPLD,1880,6
+1139,Bermuda,BPLD,1880,4
+1140,India,BPLD,1880,15
+1141,Braunschweig,BPLD,1880,2
+1142,Lorraine,BPLD,1880,8
+1143,Greece,BPLD,1880,3
+1144,Peru,BPLD,1880,6
+1145,St. Helena and Ascension,BPLD,1880,2
+1146,Idaho,BPLD,1880,19
+1147,Alsace-Lorraine,BPLD,1880,2
+1148,Romania,BPLD,1880,1
+1149,Canada East,BPLD,1880,37
+1150,New Zealand,BPLD,1880,5
+1151,Lower Canada,BPLD,1880,2
+1152,Upper Canada,BPLD,1880,3
+1153,Rheinland,BPLD,1880,7
+1154,Native American,BPLD,1880,8
+1155,Dalmatia,BPLD,1880,1
+1156,Utah Territory,BPLD,1880,9
+1157,Thailand,BPLD,1880,2
+1158,Hawaii,BPLD,1880,4
+1159,Idaho Territory,BPLD,1880,5
+1160,Algeria,BPLD,1880,1
+1161,Thuringian States,BPLD,1880,2
+1162,English Canada,BPLD,1880,2
+1163,"Asia Minor, ns",BPLD,1880,1
+1164,"Lapland, ns",BPLD,1880,1
+1165,St. Vincent,BPLD,1880,1
+1166,Venezuela,BPLD,1880,1
+1167,"Western Africa, ns",BPLD,1880,1
+1168,Turkey,BPLD,1880,1
+1169,"Central America, ns",BPLD,1880,1
+1170,Cape Breton,BPLD,1880,1
+1171,Egypt/United Arab Rep.,BPLD,1880,1
+1172,German Poland,BPLD,1880,1
+1173,Canary Islands,BPLD,1880,1
+1174,Bohemia-Moravia,BPLD,1880,1
+1175,Oklahoma,BPLD,1880,1
+1176,"Asia, nec/ns",BPLD,1880,1
+1177,Sri Lanka (Ceylon),BPLD,1880,1
+1178,Iceland,BPLD,1880,2
+1179,Brandenburg,BPLD,1880,2
+1180,Germany,BPLD,1900,14739
+1181,Wisconsin,BPLD,1900,8826
+1182,Colorado,BPLD,1900,151960
+1183,New York,BPLD,1900,22663
+1184,Ohio,BPLD,1900,25207
+1185,Iowa,BPLD,1900,25390
+1186,Pennsylvania,BPLD,1900,20074
+1187,Illinois,BPLD,1900,34510
+1188,Scotland,BPLD,1900,4169
+1189,Missouri,BPLD,1900,31545
+1190,Minnesota,BPLD,1900,2638
+1191,Canada,BPLD,1900,4763
+1192,West Virginia,BPLD,1900,1830
+1193,Indiana,BPLD,1900,14540
+1194,Nebraska,BPLD,1900,11739
+1195,South Dakota,BPLD,1900,768
+1196,Wales,BPLD,1900,1979
+1197,England,BPLD,1900,13776
+1198,Michigan,BPLD,1900,8153
+1199,Switzerland,BPLD,1900,1505
+1200,Alabama,BPLD,1900,1316
+1201,Kansas,BPLD,1900,21192
+1202,Utah,BPLD,1900,2371
+1203,Other USSR/Russia,BPLD,1900,2956
+1204,Maryland,BPLD,1900,1905
+1205,Kentucky,BPLD,1900,7294
+1206,South Carolina,BPLD,1900,473
+1207,Ireland,BPLD,1900,10361
+1208,California,BPLD,1900,1910
+1209,Virginia,BPLD,1900,3752
+1210,Delaware,BPLD,1900,332
+1211,Austria,BPLD,1900,6002
+1212,Vermont,BPLD,1900,2062
+1213,Connecticut,BPLD,1900,1638
+1214,New Jersey,BPLD,1900,2521
+1215,Tennessee,BPLD,1900,4234
+1216,New Mexico,BPLD,1900,10244
+1217,New Hampshire,BPLD,1900,935
+1218,Maine,BPLD,1900,2869
+1219,Massachusetts,BPLD,1900,4604
+1220,Sweden,BPLD,1900,10842
+1221,Texas,BPLD,1900,3608
+1222,Montana,BPLD,1900,495
+1223,France,BPLD,1900,1175
+1224,Idaho,BPLD,1900,348
+1225,Norway,BPLD,1900,1159
+1226,Georgia,BPLD,1900,1804
+1227,Rhode Island,BPLD,1900,521
+1228,Wyoming,BPLD,1900,1306
+1229,Russian Poland,BPLD,1900,467
+1230,Romania,BPLD,1900,28
+1231,Denmark,BPLD,1900,2065
+1232,Hungary,BPLD,1900,564
+1233,Dakota Territory,BPLD,1900,113
+1234,Bohemia,BPLD,1900,339
+1235,Nova Scotia,BPLD,1900,862
+1236,Arkansas,BPLD,1900,1976
+1237,China,BPLD,1900,585
+1238,Mississippi,BPLD,1900,907
+1239,District of Columbia,BPLD,1900,696
+1240,Oregon,BPLD,1900,467
+1241,Florida,BPLD,1900,177
+1242,Louisiana,BPLD,1900,739
+1243,Italy,BPLD,1900,6979
+1244,Portugal,BPLD,1900,29
+1245,North Carolina,BPLD,1900,1871
+1246,Turkey,BPLD,1900,34
+1247,Luxembourg,BPLD,1900,6
+1248,Netherlands,BPLD,1900,262
+1249,Spain,BPLD,1900,36
+1250,Indian Territory,BPLD,1900,594
+1251,Belgium,BPLD,1900,172
+1252,Arizona,BPLD,1900,203
+1253,Australia,BPLD,1900,98
+1254,India,BPLD,1900,35
+1255,Nevada,BPLD,1900,278
+1256,"Africa, ns/nec",BPLD,1900,5
+1257,"United States, ns",BPLD,1900,593
+1258,Greece,BPLD,1900,37
+1259,Japan,BPLD,1900,56
+1260,Mexico,BPLD,1900,331
+1261,English Canada,BPLD,1900,4893
+1262,Finland,BPLD,1900,839
+1263,Newfoundland,BPLD,1900,17
+1264,Alaska,BPLD,1900,4
+1265,Cuba,BPLD,1900,27
+1266,Chile,BPLD,1900,5
+1267,Syria,BPLD,1900,68
+1268,Bermuda,BPLD,1900,7
+1269,"West Indies, ns",BPLD,1900,30
+1270,"Europe, ns.",BPLD,1900,8
+1271,German Poland,BPLD,1900,54
+1272,Prince Edward Island,BPLD,1900,39
+1273,New Brunswick,BPLD,1900,75
+1274,North Dakota,BPLD,1900,167
+1275,Austrian Poland,BPLD,1900,25
+1276,New Zealand,BPLD,1900,26
+1277,French Canada,BPLD,1900,6
+1278,Jamaica,BPLD,1900,5
+1279,Argentina,BPLD,1900,3
+1280,Poland,BPLD,1900,66
+1281,Oklahoma,BPLD,1900,396
+1282,Indonesia,BPLD,1900,1
+1283,Bavaria,BPLD,1900,19
+1284,"South America, ns",BPLD,1900,12
+1285,British Columbia,BPLD,1900,6
+1286,Brazil,BPLD,1900,10
+1287,Schleswig,BPLD,1900,1
+1288,Peru,BPLD,1900,3
+1289,Barbados,BPLD,1900,1
+1290,Armenia,BPLD,1900,1
+1291,Philippines,BPLD,1900,1
+1292,Ontario/Upper Canada,BPLD,1900,8
+1293,Algeria,BPLD,1900,1
+1294,South Africa (Union of),BPLD,1900,6
+1295,Egypt/United Arab Rep.,BPLD,1900,2
+1296,Dalmatia,BPLD,1900,1
+1297,Slovenia,BPLD,1900,4
+1298,Manitoba,BPLD,1900,3
+1299,Isle of Man,BPLD,1900,27
+1300,Hawaii,BPLD,1900,8
+1301,Costa Rica,BPLD,1900,1
+1302,East Indies,BPLD,1900,2
+1303,Thailand,BPLD,1900,1
+1304,Rheinland,BPLD,1900,2
+1305,Posen,BPLD,1900,6
+1306,"Prussia, nec",BPLD,1900,5
+1307,"Br. Virgin Islands, ns",BPLD,1900,1
+1308,Jersey,BPLD,1900,1
+1309,Mecklenburg,BPLD,1900,1
+1310,Iceland,BPLD,1900,2
+1311,Austria-Tyrol,BPLD,1900,1
+1312,Slovonia,BPLD,1900,4
+1313,Iran,BPLD,1900,1
+1314,Native American,BPLD,1900,2
+1315,Quebec,BPLD,1900,1
+1316,Colombia,BPLD,1900,3
+1317,"Southwest Asia, nec/ns",BPLD,1900,19
+1318,Azores,BPLD,1900,2
+1319,Austria-Hungary,BPLD,1900,1
+1320,"Asia, nec/ns",BPLD,1900,8
+1321,Croatia,BPLD,1900,2
+1322,"United Kingdom, ns",BPLD,1900,1
+1323,Channel Islands,BPLD,1900,1
+1324,Saxony,BPLD,1900,1
+1325,"Abroad, ns",BPLD,1900,2
+1326,At sea (US citizen),BPLD,1900,1
+1327,Haiti,BPLD,1900,17
+1328,Colorado,BPLD,1910,236465
+1329,Pennsylvania,BPLD,1910,23340
+1330,New Mexico,BPLD,1910,11992
+1331,"United States, ns",BPLD,1910,6192
+1332,Texas,BPLD,1910,6705
+1333,Iowa,BPLD,1910,44481
+1334,Ohio,BPLD,1910,30750
+1335,Kansas,BPLD,1910,37443
+1336,Missouri,BPLD,1910,50667
+1337,North Carolina,BPLD,1910,2691
+1338,Kentucky,BPLD,1910,10130
+1339,Massachusetts,BPLD,1910,4806
+1340,Minnesota,BPLD,1910,5407
+1341,Arkansas,BPLD,1910,3679
+1342,New York,BPLD,1910,23961
+1343,Illinois,BPLD,1910,50303
+1344,Indiana,BPLD,1910,21098
+1345,Oklahoma,BPLD,1910,4650
+1346,Canada,BPLD,1910,6427
+1347,Virginia,BPLD,1910,4590
+1348,Nebraska,BPLD,1910,24338
+1349,Michigan,BPLD,1910,11097
+1350,Wisconsin,BPLD,1910,11821
+1351,Scotland,BPLD,1910,4347
+1352,West Virginia,BPLD,1910,3274
+1353,Ireland,BPLD,1910,8898
+1354,Finland,BPLD,1910,1277
+1355,Germany,BPLD,1910,17528
+1356,England,BPLD,1910,13107
+1357,Sweden,BPLD,1910,12674
+1358,Other USSR/Russia,BPLD,1910,13202
+1359,South Dakota,BPLD,1910,2212
+1360,Romania,BPLD,1910,300
+1361,Utah,BPLD,1910,2308
+1362,Tennessee,BPLD,1910,6267
+1363,Spain,BPLD,1910,161
+1364,Mexico,BPLD,1910,2688
+1365,France,BPLD,1910,1387
+1366,Denmark,BPLD,1910,2739
+1367,"Abroad, ns",BPLD,1910,1797
+1368,South Carolina,BPLD,1910,545
+1369,Alabama,BPLD,1910,2254
+1370,Washington,BPLD,1910,802
+1371,California,BPLD,1910,2309
+1372,Norway,BPLD,1910,1817
+1373,New Jersey,BPLD,1910,2935
+1374,Maryland,BPLD,1910,1997
+1375,Louisiana,BPLD,1910,1231
+1376,Maine,BPLD,1910,2611
+1377,Wyoming,BPLD,1910,2149
+1378,Idaho,BPLD,1910,586
+1379,Greece,BPLD,1910,2025
+1380,Netherlands,BPLD,1910,712
+1381,New Hampshire,BPLD,1910,946
+1382,Connecticut,BPLD,1910,1729
+1383,Hungary,BPLD,1910,1493
+1384,Vermont,BPLD,1910,2025
+1385,Brazil,BPLD,1910,9
+1386,Argentina,BPLD,1910,11
+1387,North Dakota,BPLD,1910,584
+1388,Wales,BPLD,1910,2009
+1389,Florida,BPLD,1910,349
+1390,Turkey,BPLD,1910,364
+1391,Austria,BPLD,1910,12868
+1392,Nevada,BPLD,1910,257
+1393,Georgia,BPLD,1910,2360
+1394,Mississippi,BPLD,1910,1250
+1395,Arizona,BPLD,1910,496
+1396,Italy,BPLD,1910,14456
+1397,Japan,BPLD,1910,2231
+1398,Switzerland,BPLD,1910,1700
+1399,English Canada,BPLD,1910,3333
+1400,Rhode Island,BPLD,1910,503
+1401,Oregon,BPLD,1910,702
+1402,Belgium,BPLD,1910,374
+1403,India,BPLD,1910,40
+1404,Montana,BPLD,1910,716
+1405,French Canada,BPLD,1910,323
+1406,Indian Territory,BPLD,1910,16
+1407,District of Columbia,BPLD,1910,324
+1408,Serbia,BPLD,1910,40
+1409,Alaska,BPLD,1910,12
+1410,Delaware,BPLD,1910,409
+1411,Cuba,BPLD,1910,37
+1412,Bohemia,BPLD,1910,104
+1413,Poland,BPLD,1910,120
+1414,Luxembourg,BPLD,1910,21
+1415,Nova Scotia,BPLD,1910,76
+1416,Newfoundland,BPLD,1910,22
+1417,Syria,BPLD,1910,40
+1418,Hawaii,BPLD,1910,23
+1419,"Africa, ns/nec",BPLD,1910,19
+1420,Puerto Rico,BPLD,1910,3
+1421,Philippines,BPLD,1910,14
+1422,China,BPLD,1910,314
+1423,Bulgaria,BPLD,1910,420
+1424,Austria-Vienna,BPLD,1910,73
+1425,Portugal,BPLD,1910,32
+1426,"West Indies, ns",BPLD,1910,42
+1427,At sea,BPLD,1910,10
+1428,"Prussia, nec",BPLD,1910,15
+1429,Ontario/Upper Canada,BPLD,1910,7
+1430,"South America, ns",BPLD,1910,32
+1431,Isle of Man,BPLD,1910,6
+1432,Austria-Hungary,BPLD,1910,32
+1433,Russian Poland,BPLD,1910,8
+1434,Armenia,BPLD,1910,3
+1435,Australia,BPLD,1910,40
+1436,Bavaria,BPLD,1910,8
+1437,Haiti,BPLD,1910,1
+1438,Asian Turkey,BPLD,1910,9
+1439,Bolivia,BPLD,1910,1
+1440,New Zealand,BPLD,1910,7
+1441,"Europe, ns.",BPLD,1910,19
+1442,South Africa (Union of),BPLD,1910,14
+1443,Jamaica,BPLD,1910,2
+1444,Egypt/United Arab Rep.,BPLD,1910,2
+1445,Lithuania,BPLD,1910,2
+1446,Chile,BPLD,1910,3
+1447,"Central America, ns",BPLD,1910,4
+1448,"Asia, nec/ns",BPLD,1910,14
+1449,Azores,BPLD,1910,2
+1450,New Brunswick,BPLD,1910,13
+1451,Israel/Palestine,BPLD,1910,1
+1452,East Indies,BPLD,1910,2
+1453,Abroad (US citizen),BPLD,1910,2
+1454,Bermuda,BPLD,1910,2
+1455,Barbados,BPLD,1910,2
+1456,Macedonia,BPLD,1910,15
+1457,St. Thomas,BPLD,1910,2
+1458,British Columbia,BPLD,1910,2
+1459,West Indies,BPLD,1910,2
+1460,Nicaragua,BPLD,1910,1
+1461,Sudan,BPLD,1910,1
+1462,"Br. Virgin Islands, ns",BPLD,1910,2
+1463,Slovakia,BPLD,1910,16
+1464,Dalmatia,BPLD,1910,2
+1465,Marshall Islands,BPLD,1910,1
+1466,Iran,BPLD,1910,1
+1467,West Prussia,BPLD,1910,1
+1468,Slovenia,BPLD,1910,7
+1469,Colombia,BPLD,1910,1
+1470,Austria-Tyrol,BPLD,1910,69
+1471,Montenegro,BPLD,1910,84
+1472,New Mexico Territory,BPLD,1910,28
+1473,Galicia,BPLD,1910,3
+1474,Hessen,BPLD,1910,1
+1475,"Central Europe, ns",BPLD,1910,3
+1476,American Samoa,BPLD,1910,1
+1477,Native American,BPLD,1910,2
+1478,Dakota Territory,BPLD,1910,3
+1479,Trinidad and Tobago,BPLD,1910,1
+1480,Korea,BPLD,1910,5
+1481,U.S. Virgin Islands,BPLD,1910,1
+1482,East Germany,BPLD,1910,7
+1483,Brandenburg,BPLD,1910,1
+1484,"Middle East, ns",BPLD,1910,11
+1485,Moldavia,BPLD,1910,1
+1486,European Turkey,BPLD,1910,3
+1487,Algeria,BPLD,1910,1
+1488,Croatia,BPLD,1910,25
+1489,Hesse-Nassau,BPLD,1910,1
+1490,Hamburg,BPLD,1910,1
+1491,Kansas,BPLD,1920,55320
+1492,New York,BPLD,1920,19597
+1493,Colorado,BPLD,1920,319618
+1494,New Jersey,BPLD,1920,2819
+1495,Missouri,BPLD,1920,64119
+1496,Kentucky,BPLD,1920,11495
+1497,Denmark,BPLD,1920,2737
+1498,Norway,BPLD,1920,1537
+1499,Nebraska,BPLD,1920,37035
+1500,Pennsylvania,BPLD,1920,20183
+1501,Ohio,BPLD,1920,26508
+1502,Iowa,BPLD,1920,45773
+1503,Arkansas,BPLD,1920,6539
+1504,England,BPLD,1920,9705
+1505,Ireland,BPLD,1920,6331
+1506,Sweden,BPLD,1920,10220
+1507,Minnesota,BPLD,1920,6113
+1508,Germany,BPLD,1920,10883
+1509,Alabama,BPLD,1920,2836
+1510,Texas,BPLD,1920,13480
+1511,South Dakota,BPLD,1920,2719
+1512,North Dakota,BPLD,1920,922
+1513,Italy,BPLD,1920,12051
+1514,Illinois,BPLD,1920,52912
+1515,Indiana,BPLD,1920,21329
+1516,Oklahoma,BPLD,1920,14181
+1517,Wisconsin,BPLD,1920,11619
+1518,California,BPLD,1920,3745
+1519,Michigan,BPLD,1920,10460
+1520,Spain,BPLD,1920,300
+1521,Maryland,BPLD,1920,1736
+1522,Tennessee,BPLD,1920,7216
+1523,South Carolina,BPLD,1920,672
+1524,Virginia,BPLD,1920,4145
+1525,Switzerland,BPLD,1920,1505
+1526,Canada,BPLD,1920,7966
+1527,Massachusetts,BPLD,1920,4210
+1528,"Prussia, nec",BPLD,1920,185
+1529,Maine,BPLD,1920,1855
+1530,Argentina,BPLD,1920,75
+1531,New Mexico,BPLD,1920,16229
+1532,Mississippi,BPLD,1920,1907
+1533,West Virginia,BPLD,1920,3423
+1534,Georgia,BPLD,1920,2581
+1535,Baden,BPLD,1920,104
+1536,Bavaria,BPLD,1920,240
+1537,Scotland,BPLD,1920,3467
+1538,Other USSR/Russia,BPLD,1920,16851
+1539,Thuringian States,BPLD,1920,92
+1540,Vermont,BPLD,1920,1515
+1541,Montana,BPLD,1920,1386
+1542,Florida,BPLD,1920,524
+1543,Arizona,BPLD,1920,677
+1544,North Carolina,BPLD,1920,2557
+1545,New Hampshire,BPLD,1920,671
+1546,Washington,BPLD,1920,1684
+1547,Connecticut,BPLD,1920,1456
+1548,Hungary,BPLD,1920,1131
+1549,"Abroad, ns",BPLD,1920,56
+1550,Mexico,BPLD,1920,11293
+1551,Utah,BPLD,1920,3284
+1552,Austria,BPLD,1920,6491
+1553,Wyoming,BPLD,1920,3364
+1554,Japan,BPLD,1920,1807
+1555,District of Columbia,BPLD,1920,343
+1556,Bulgaria,BPLD,1920,344
+1557,Oregon,BPLD,1920,1346
+1558,Romania,BPLD,1920,332
+1559,Idaho,BPLD,1920,1191
+1560,Louisiana,BPLD,1920,1614
+1561,Austria-Hungary,BPLD,1920,20
+1562,Poland,BPLD,1920,981
+1563,"United States, ns",BPLD,1920,4235
+1564,Bohemia,BPLD,1920,823
+1565,Belgium,BPLD,1920,448
+1566,Siberia,BPLD,1920,3
+1567,Delaware,BPLD,1920,334
+1568,Nova Scotia,BPLD,1920,822
+1569,At sea,BPLD,1920,39
+1570,Slovenia,BPLD,1920,173
+1571,Quebec,BPLD,1920,17
+1572,Brazil,BPLD,1920,35
+1573,Indian Territory,BPLD,1920,55
+1574,Greece,BPLD,1920,1737
+1575,Hawaii,BPLD,1920,37
+1576,Australia,BPLD,1920,115
+1577,France,BPLD,1920,1183
+1578,Netherlands,BPLD,1920,878
+1579,Finland,BPLD,1920,880
+1580,Rhode Island,BPLD,1920,435
+1581,Austrian Poland,BPLD,1920,63
+1582,Ontario/Upper Canada,BPLD,1920,95
+1583,Russian Poland,BPLD,1920,412
+1584,Alsace-Lorraine,BPLD,1920,212
+1585,Wurttemberg,BPLD,1920,109
+1586,Serbia,BPLD,1920,155
+1587,Honduras,BPLD,1920,2
+1588,Morocco,BPLD,1920,4
+1589,Syria,BPLD,1920,291
+1590,Croatia,BPLD,1920,420
+1591,Turkey,BPLD,1920,75
+1592,Lithuania,BPLD,1920,119
+1593,Korea,BPLD,1920,15
+1594,New Zealand,BPLD,1920,27
+1595,Nevada,BPLD,1920,337
+1596,Portugal,BPLD,1920,36
+1597,Wales,BPLD,1920,1521
+1598,British Columbia,BPLD,1920,14
+1599,Chile,BPLD,1920,9
+1600,Dalmatia,BPLD,1920,69
+1601,Luxembourg,BPLD,1920,100
+1602,Yugoslavia,BPLD,1920,786
+1603,Bremen,BPLD,1920,15
+1604,Lorraine,BPLD,1920,12
+1605,Posen,BPLD,1920,30
+1606,New Brunswick,BPLD,1920,49
+1607,Austria-Vienna,BPLD,1920,41
+1608,Slovakia,BPLD,1920,787
+1609,West Prussia,BPLD,1920,51
+1610,Ukraine,BPLD,1920,9
+1611,Hamburg,BPLD,1920,71
+1612,Czechoslovakia,BPLD,1920,76
+1613,Philippines,BPLD,1920,49
+1614,China,BPLD,1920,223
+1615,Newfoundland,BPLD,1920,48
+1616,India,BPLD,1920,45
+1617,Jamaica,BPLD,1920,20
+1618,Bahamas,BPLD,1920,9
+1619,Israel/Palestine,BPLD,1920,9
+1620,"South America, ns",BPLD,1920,36
+1621,"United Kingdom, ns",BPLD,1920,5
+1622,"West Indies, ns",BPLD,1920,18
+1623,Manitoba,BPLD,1920,4
+1624,Puerto Rico,BPLD,1920,19
+1625,Cuba,BPLD,1920,62
+1626,East Prussia,BPLD,1920,21
+1627,Armenia,BPLD,1920,33
+1628,Brandenburg,BPLD,1920,24
+1629,Mecklenburg,BPLD,1920,20
+1630,Braunschweig,BPLD,1920,4
+1631,Silesia,BPLD,1920,59
+1632,Rheinland,BPLD,1920,30
+1633,Schleswig,BPLD,1920,74
+1634,Alaska,BPLD,1920,38
+1635,Prince Edward Island,BPLD,1920,26
+1636,Hesse-Nassau,BPLD,1920,7
+1637,Austria-Tyrol,BPLD,1920,279
+1638,Macedonia,BPLD,1920,36
+1639,Colombia,BPLD,1920,101
+1640,Galicia,BPLD,1920,131
+1641,Transylvania,BPLD,1920,17
+1642,Westphalia,BPLD,1920,46
+1643,Montenegro,BPLD,1920,32
+1644,German Poland,BPLD,1920,43
+1645,Liberia,BPLD,1920,18
+1646,Carniola,BPLD,1920,14
+1647,Pomerania,BPLD,1920,31
+1648,Bohemia-Moravia,BPLD,1920,3
+1649,South Africa (Union of),BPLD,1920,17
+1650,Slovonia,BPLD,1920,9
+1651,Sigmaringen,BPLD,1920,2
+1652,At sea (US citizen),BPLD,1920,2
+1653,Peru,BPLD,1920,6
+1654,Alsace,BPLD,1920,43
+1655,Albania,BPLD,1920,9
+1656,Hanover,BPLD,1920,4
+1657,Estonia,BPLD,1920,2
+1658,Hessen,BPLD,1920,11
+1659,Falkland Islands,BPLD,1920,2
+1660,Berlin,BPLD,1920,4
+1661,Bermuda,BPLD,1920,7
+1662,Palestine,BPLD,1920,21
+1663,Iran,BPLD,1920,2
+1664,East Indies,BPLD,1920,3
+1665,Isle of Man,BPLD,1920,7
+1666,Latvia,BPLD,1920,2
+1667,"Europe, ns.",BPLD,1920,12
+1668,American Samoa,BPLD,1920,4
+1669,Indonesia,BPLD,1920,4
+1670,Gibraltar,BPLD,1920,1
+1671,Malta,BPLD,1920,4
+1672,Bolivia,BPLD,1920,3
+1673,Lebanon,BPLD,1920,5
+1674,South America,BPLD,1920,1
+1675,Madeira Islands,BPLD,1920,1
+1676,"Africa, ns/nec",BPLD,1920,10
+1677,Egypt/United Arab Rep.,BPLD,1920,12
+1678,"Asia Minor, ns",BPLD,1920,1
+1679,Byelorussia,BPLD,1920,1
+1680,Christmas Island,BPLD,1920,1
+1681,Cape Verde,BPLD,1920,2
+1682,Oman,BPLD,1920,1
+1683,Dominica,BPLD,1920,3
+1684,Bosnia,BPLD,1920,50
+1685,"Central America, ns",BPLD,1920,2
+1686,Sri Lanka (Ceylon),BPLD,1920,1
+1687,Martinique,BPLD,1920,2
+1688,Haiti,BPLD,1920,6
+1689,Costa Rica,BPLD,1920,3
+1690,St. Thomas,BPLD,1920,1
+1691,Barbados,BPLD,1920,4
+1692,Saxony,BPLD,1920,1
+1693,Saskatchewan,BPLD,1920,5
+1694,South Korea,BPLD,1920,1
+1695,West Indies,BPLD,1920,1
+1696,English Canada,BPLD,1920,2
+1697,Guatemala,BPLD,1920,3
+1698,Grenada,BPLD,1920,2
+1699,Trinidad and Tobago,BPLD,1920,5
+1700,Monaco,BPLD,1920,1
+1701,Antigua-Barbuda,BPLD,1920,1
+1702,Cameroon,BPLD,1920,1
+1703,Native American,BPLD,1920,1
+1704,Anguilla,BPLD,1920,5
+1705,Libya,BPLD,1920,1
+1706,British West Indies,BPLD,1920,1
+1707,At sea or abroad (U.S. citizen),BPLD,1920,7
+1708,Oldenburg,BPLD,1920,1
+1709,Comoros,BPLD,1920,2
+1710,Abroad (US citizen),BPLD,1920,4
+1711,Azores,BPLD,1920,3
+1712,"Middle East, ns",BPLD,1920,5
+1713,Venezuela,BPLD,1920,2
+1714,"Southwest Asia, nec/ns",BPLD,1920,1
+1715,Azerbaijan,BPLD,1920,1
+1716,Iceland,BPLD,1920,1
+1717,Prussian Poland,BPLD,1920,1
+1718,"Eastern Europe, ns",BPLD,1920,1
+1719,Kansas,BPLD,1930,63845
+1720,Colorado,BPLD,1930,419405
+1721,Missouri,BPLD,1930,65835
+1722,Arkansas,BPLD,1930,8324
+1723,Denmark,BPLD,1930,2379
+1724,Massachusetts,BPLD,1930,3091
+1725,Wisconsin,BPLD,1930,10140
+1726,Nebraska,BPLD,1930,47689
+1727,Ohio,BPLD,1930,20514
+1728,Iowa,BPLD,1930,45582
+1729,Illinois,BPLD,1930,46954
+1730,California,BPLD,1930,4500
+1731,Pennsylvania,BPLD,1930,16114
+1732,Oregon,BPLD,1930,1520
+1733,Indiana,BPLD,1930,18119
+1734,Michigan,BPLD,1930,8901
+1735,New York,BPLD,1930,14229
+1736,Minnesota,BPLD,1930,6919
+1737,Utah,BPLD,1930,4527
+1738,Wyoming,BPLD,1930,6051
+1739,Mississippi,BPLD,1930,2067
+1740,Kentucky,BPLD,1930,10731
+1741,New Jersey,BPLD,1930,2269
+1742,North Dakota,BPLD,1930,1525
+1743,Texas,BPLD,1930,16522
+1744,Hungary,BPLD,1930,690
+1745,"United States, ns",BPLD,1930,2115
+1746,Lithuania,BPLD,1930,254
+1747,South Carolina,BPLD,1930,568
+1748,Alabama,BPLD,1930,2601
+1749,Sweden,BPLD,1930,8337
+1750,Georgia,BPLD,1930,2404
+1751,English Canada,BPLD,1930,735
+1752,Idaho,BPLD,1930,1708
+1753,Switzerland,BPLD,1930,1211
+1754,Germany,BPLD,1930,9877
+1755,Oklahoma,BPLD,1930,18234
+1756,South Dakota,BPLD,1930,3803
+1757,Other USSR/Russia,BPLD,1930,12953
+1758,New Mexico,BPLD,1930,27624
+1759,Washington,BPLD,1930,1852
+1760,Czechoslovakia,BPLD,1930,1510
+1761,Montana,BPLD,1930,2189
+1762,Canada,BPLD,1930,5725
+1763,Argentina,BPLD,1930,88
+1764,Norway,BPLD,1930,1270
+1765,Virginia,BPLD,1930,3301
+1766,Ireland,BPLD,1930,3508
+1767,Nova Scotia,BPLD,1930,153
+1768,Tennessee,BPLD,1930,7056
+1769,Florida,BPLD,1930,641
+1770,Mexico,BPLD,1930,13248
+1771,North Carolina,BPLD,1930,2174
+1772,Bohemia,BPLD,1930,206
+1773,Bavaria,BPLD,1930,42
+1774,Austria,BPLD,1930,2546
+1775,Italy,BPLD,1930,10613
+1776,Romania,BPLD,1930,440
+1777,Poland,BPLD,1930,2436
+1778,Maine,BPLD,1930,1300
+1779,Japan,BPLD,1930,1396
+1780,Vermont,BPLD,1930,1009
+1781,West Virginia,BPLD,1930,3212
+1782,Delaware,BPLD,1930,216
+1783,Maryland,BPLD,1930,1401
+1784,Netherlands,BPLD,1930,808
+1785,Scotland,BPLD,1930,2884
+1786,England,BPLD,1930,6891
+1787,Arizona,BPLD,1930,1192
+1788,Philippines,BPLD,1930,234
+1789,Hawaii,BPLD,1930,58
+1790,Brazil,BPLD,1930,42
+1791,Belgium,BPLD,1930,391
+1792,Louisiana,BPLD,1930,1802
+1793,Connecticut,BPLD,1930,1193
+1794,Austria-Hungary,BPLD,1930,28
+1795,Yugoslavia,BPLD,1930,3435
+1796,New Hampshire,BPLD,1930,497
+1797,Greece,BPLD,1930,1224
+1798,Chile,BPLD,1930,15
+1799,Estonia,BPLD,1930,12
+1800,Bulgaria,BPLD,1930,270
+1801,District of Columbia,BPLD,1930,416
+1802,Rhode Island,BPLD,1930,351
+1803,Nevada,BPLD,1930,395
+1804,Gibraltar,BPLD,1930,1
+1805,Northern Ireland,BPLD,1930,607
+1806,France,BPLD,1930,990
+1807,"West Indies, ns",BPLD,1930,20
+1808,Puerto Rico,BPLD,1930,39
+1809,Wales,BPLD,1930,1066
+1810,Alsace-Lorraine,BPLD,1930,86
+1811,Finland,BPLD,1930,565
+1812,Armenia,BPLD,1930,37
+1813,Serbia,BPLD,1930,59
+1814,Korea,BPLD,1930,46
+1815,Croatia,BPLD,1930,104
+1816,Spain,BPLD,1930,226
+1817,Galicia,BPLD,1930,23
+1818,China,BPLD,1930,187
+1819,Turkey,BPLD,1930,87
+1820,India,BPLD,1930,53
+1821,Syria,BPLD,1930,254
+1822,Portugal,BPLD,1930,16
+1823,Nicaragua,BPLD,1930,1
+1824,Australia,BPLD,1930,118
+1825,Latvia,BPLD,1930,54
+1826,"Br. Virgin Islands, ns",BPLD,1930,9
+1827,Berlin,BPLD,1930,5
+1828,"Africa, ns/nec",BPLD,1930,16
+1829,Siberia,BPLD,1930,11
+1830,Cuba,BPLD,1930,41
+1831,Austria-Vienna,BPLD,1930,2
+1832,Palestine,BPLD,1930,25
+1833,Indian Territory,BPLD,1930,3
+1834,Luxembourg,BPLD,1930,52
+1835,Alaska,BPLD,1930,42
+1836,Azores,BPLD,1930,2
+1837,Ecuador,BPLD,1930,6
+1838,Newfoundland,BPLD,1930,26
+1839,"Middle East, ns",BPLD,1930,3
+1840,French Canada,BPLD,1930,107
+1841,Saxony,BPLD,1930,14
+1842,"Lapland, ns",BPLD,1930,1
+1843,Burma (Myanmar),BPLD,1930,3
+1844,Jamaica,BPLD,1930,12
+1845,"South America, ns",BPLD,1930,76
+1846,Slovakia,BPLD,1930,16
+1847,Hamburg,BPLD,1930,2
+1848,Barbados,BPLD,1930,2
+1849,Slovonia,BPLD,1930,8
+1850,Slovenia,BPLD,1930,15
+1851,Russian Poland,BPLD,1930,5
+1852,British Columbia,BPLD,1930,21
+1853,South Africa (Union of),BPLD,1930,27
+1854,Libya,BPLD,1930,1
+1855,Macedonia,BPLD,1930,17
+1856,"Central America, ns",BPLD,1930,10
+1857,Abroad (US citizen),BPLD,1930,5
+1858,Isle of Man,BPLD,1930,23
+1859,Bolivia,BPLD,1930,2
+1860,Ontario/Upper Canada,BPLD,1930,11
+1861,"Prussia, nec",BPLD,1930,28
+1862,Rheinland,BPLD,1930,1
+1863,New Brunswick,BPLD,1930,13
+1864,Indonesia,BPLD,1930,6
+1865,Bohemia-Moravia,BPLD,1930,5
+1866,Algeria,BPLD,1930,4
+1867,New Zealand,BPLD,1930,26
+1868,Dalmatia,BPLD,1930,8
+1869,Albania,BPLD,1930,9
+1870,Prince Edward Island,BPLD,1930,9
+1871,Egypt/United Arab Rep.,BPLD,1930,7
+1872,Venezuela,BPLD,1930,1
+1873,Bermuda,BPLD,1930,5
+1874,West Prussia,BPLD,1930,1
+1875,Schleswig,BPLD,1930,5
+1876,Colombia,BPLD,1930,4
+1877,Iran,BPLD,1930,5
+1878,Jersey,BPLD,1930,5
+1879,Bahamas,BPLD,1930,2
+1880,Byelorussia,BPLD,1930,14
+1881,Ukraine,BPLD,1930,49
+1882,"Asia, nec/ns",BPLD,1930,4
+1883,Israel/Palestine,BPLD,1930,2
+1884,Iceland,BPLD,1930,1
+1885,Trinidad and Tobago,BPLD,1930,3
+1886,Guatemala,BPLD,1930,2
+1887,Montenegro,BPLD,1930,12
+1888,Baden,BPLD,1930,3
+1889,Hanover,BPLD,1930,5
+1890,Honduras,BPLD,1930,4
+1891,Alsace,BPLD,1930,5
+1892,At sea (US citizen),BPLD,1930,1
+1893,East Indies,BPLD,1930,6
+1894,At sea or abroad (U.S. citizen),BPLD,1930,4
+1895,At sea,BPLD,1930,3
+1896,Posen,BPLD,1930,1
+1897,St. Kitts-Nevis,BPLD,1930,1
+1898,Lubeck,BPLD,1930,1
+1899,"Europe, ns.",BPLD,1930,25
+1900,"United Kingdom, ns",BPLD,1930,3
+1901,Canal Zone,BPLD,1930,4
+1902,U.S. Virgin Islands,BPLD,1930,7
+1903,Guyana/British Guiana,BPLD,1930,1
+1904,Peru,BPLD,1930,4
+1905,"Micronesia, ns",BPLD,1930,1
+1906,Manitoba,BPLD,1930,1
+1907,Zimbabwe,BPLD,1930,1
+1908,South America,BPLD,1930,1
+1909,Antigua-Barbuda,BPLD,1930,1
+1910,"Southwest Asia, nec/ns",BPLD,1930,2
+1911,Madeira Islands,BPLD,1930,1
+1912,Costa Rica,BPLD,1930,6
+1913,Transylvania,BPLD,1930,1
+1914,Sri Lanka (Ceylon),BPLD,1930,1
+1915,Austria-Tyrol,BPLD,1930,14
+1916,Thailand,BPLD,1930,1
+1917,Silesia,BPLD,1930,5
+1918,Westphalia,BPLD,1930,1
+1919,Falkland Islands,BPLD,1930,2
+1920,Wurttemberg,BPLD,1930,3
+1921,Pacific Islands,BPLD,1930,1
+1922,Uruguay,BPLD,1930,1
+1923,Bessarabia,BPLD,1930,1
+1924,Greenland,BPLD,1930,2
+1925,Suriname,BPLD,1930,1
+1926,Congo,BPLD,1930,1
+1927,Zaire,BPLD,1930,1
+1928,Lorraine,BPLD,1930,1
+1929,Oldenburg,BPLD,1930,1
+1930,Lebanon,BPLD,1930,1
+1931,Israel,BPLD,1930,1
+1932,Afghanistan,BPLD,1930,2
+1933,El Salvador,BPLD,1930,1
+1934,Abroad (unknown) or at sea,BPLD,1930,1
+1935,Pomerania,BPLD,1930,1
+1936,Nebraska,BPLD,1940,58094
+1937,Colorado,BPLD,1940,525446
+1938,Pennsylvania,BPLD,1940,12901
+1939,Illinois,BPLD,1940,41670
+1940,Wisconsin,BPLD,1940,8524
+1941,Iowa,BPLD,1940,42152
+1942,Louisiana,BPLD,1940,1776
+1943,Missouri,BPLD,1940,64400
+1944,North Dakota,BPLD,1940,2371
+1945,Oklahoma,BPLD,1940,25636
+1946,New York,BPLD,1940,11201
+1947,Kansas,BPLD,1940,79388
+1948,Poland,BPLD,1940,1812
+1949,Romania,BPLD,1940,323
+1950,Wyoming,BPLD,1940,7372
+1951,South Carolina,BPLD,1940,558
+1952,Georgia,BPLD,1940,2222
+1953,Sweden,BPLD,1940,5888
+1954,Kentucky,BPLD,1940,9442
+1955,Ohio,BPLD,1940,15772
+1956,New Jersey,BPLD,1940,1977
+1957,Germany,BPLD,1940,7024
+1958,Hungary,BPLD,1940,671
+1959,Lithuania,BPLD,1940,213
+1960,Texas,BPLD,1940,19657
+1961,New Mexico,BPLD,1940,26309
+1962,Other USSR/Russia,BPLD,1940,11255
+1963,Indiana,BPLD,1940,14868
+1964,California,BPLD,1940,5852
+1965,Michigan,BPLD,1940,8036
+1966,Virginia,BPLD,1940,2686
+1967,Norway,BPLD,1940,953
+1968,Minnesota,BPLD,1940,7264
+1969,Argentina,BPLD,1940,82
+1970,Switzerland,BPLD,1940,853
+1971,Denmark,BPLD,1940,1856
+1972,Canada,BPLD,1940,1444
+1973,Connecticut,BPLD,1940,1136
+1974,Washington,BPLD,1940,2132
+1975,South Dakota,BPLD,1940,5412
+1976,Florida,BPLD,1940,763
+1977,Oregon,BPLD,1940,1671
+1978,Alabama,BPLD,1940,2695
+1979,North Carolina,BPLD,1940,1921
+1980,Italy,BPLD,1940,8448
+1981,Tennessee,BPLD,1940,6073
+1982,Arkansas,BPLD,1940,9959
+1983,Ireland,BPLD,1940,2139
+1984,Maine,BPLD,1940,986
+1985,Japan,BPLD,1940,914
+1986,Brazil,BPLD,1940,50
+1987,West Virginia,BPLD,1940,2923
+1988,Guam,BPLD,1940,85
+1989,Netherlands,BPLD,1940,679
+1990,Vermont,BPLD,1940,681
+1991,Maryland,BPLD,1940,1145
+1992,Scotland,BPLD,1940,2083
+1993,Arizona,BPLD,1940,1606
+1994,Montana,BPLD,1940,3065
+1995,English Canada,BPLD,1940,2380
+1996,Mexico,BPLD,1940,6466
+1997,Delaware,BPLD,1940,205
+1998,England,BPLD,1940,4744
+1999,Belgium,BPLD,1940,342
+2000,Philippines,BPLD,1940,218
+2001,Idaho,BPLD,1940,2086
+2002,Utah,BPLD,1940,5649
+2003,Massachusetts,BPLD,1940,2658
+2004,Bulgaria,BPLD,1940,222
+2005,Hawaii,BPLD,1940,85
+2006,Mississippi,BPLD,1940,2179
+2007,Greece,BPLD,1940,1037
+2008,Austria,BPLD,1940,3127
+2009,"United States, ns",BPLD,1940,150
+2010,Wales,BPLD,1940,580
+2011,Northern Ireland,BPLD,1940,392
+2012,Finland,BPLD,1940,413
+2013,France,BPLD,1940,765
+2014,Czechoslovakia,BPLD,1940,728
+2015,Nevada,BPLD,1940,439
+2016,District of Columbia,BPLD,1940,519
+2017,French Canada,BPLD,1940,334
+2018,Yugoslavia,BPLD,1940,2120
+2019,Bohemia,BPLD,1940,184
+2020,Puerto Rico,BPLD,1940,29
+2021,Panama,BPLD,1940,12
+2022,Turkey,BPLD,1940,80
+2023,Rhode Island,BPLD,1940,282
+2024,Nova Scotia,BPLD,1940,141
+2025,China,BPLD,1940,145
+2026,Indian Territory,BPLD,1940,78
+2027,Honduras,BPLD,1940,11
+2028,New Hampshire,BPLD,1940,350
+2029,Austria-Hungary,BPLD,1940,84
+2030,Slovenia,BPLD,1940,10
+2031,Slovakia,BPLD,1940,115
+2032,Korea,BPLD,1940,12
+2033,Croatia,BPLD,1940,54
+2034,Spain,BPLD,1940,164
+2035,Canal Zone,BPLD,1940,16
+2036,At sea,BPLD,1940,26
+2037,India,BPLD,1940,48
+2038,Siberia,BPLD,1940,4
+2039,Bahamas,BPLD,1940,7
+2040,Australia,BPLD,1940,93
+2041,Alaska,BPLD,1940,48
+2042,Syria,BPLD,1940,167
+2043,U.S. Virgin Islands,BPLD,1940,4
+2044,Austria-Vienna,BPLD,1940,11
+2045,Palestine,BPLD,1940,29
+2046,Serbia,BPLD,1940,26
+2047,"West Indies, ns",BPLD,1940,8
+2048,Hamburg,BPLD,1940,6
+2049,"South America, ns",BPLD,1940,67
+2050,Luxembourg,BPLD,1940,50
+2051,Ecuador,BPLD,1940,3
+2052,"Europe, ns.",BPLD,1940,13
+2053,American Samoa,BPLD,1940,2
+2054,Portugal,BPLD,1940,14
+2055,Latvia,BPLD,1940,38
+2056,New Brunswick,BPLD,1940,6
+2057,Egypt/United Arab Rep.,BPLD,1940,8
+2058,Saxony,BPLD,1940,3
+2059,Africa,BPLD,1940,10
+2060,Cuba,BPLD,1940,23
+2061,Iran,BPLD,1940,7
+2062,Ontario/Upper Canada,BPLD,1940,42
+2063,Bavaria,BPLD,1940,18
+2064,New Zealand,BPLD,1940,28
+2065,Malta,BPLD,1940,1
+2066,Alsace-Lorraine,BPLD,1940,28
+2067,Isle of Man,BPLD,1940,24
+2068,"Eastern Europe, ns",BPLD,1940,1
+2069,"United Kingdom, ns",BPLD,1940,11
+2070,Liberia,BPLD,1940,4
+2071,British Columbia,BPLD,1940,13
+2072,Macedonia,BPLD,1940,11
+2073,German Poland,BPLD,1940,3
+2074,South Africa (Union of),BPLD,1940,25
+2075,Alsace,BPLD,1940,7
+2076,British West Indies,BPLD,1940,8
+2077,Bohemia-Moravia,BPLD,1940,11
+2078,Newfoundland,BPLD,1940,24
+2079,Colombia,BPLD,1940,20
+2080,Armenia,BPLD,1940,26
+2081,Peru,BPLD,1940,4
+2082,Iceland,BPLD,1940,2
+2083,Dakota Territory,BPLD,1940,4
+2084,"North America, ns",BPLD,1940,2
+2085,"Prussia, nec",BPLD,1940,17
+2086,Chile,BPLD,1940,17
+2087,Barbados,BPLD,1940,5
+2088,Albania,BPLD,1940,16
+2089,Brandenburg,BPLD,1940,1
+2090,Berlin,BPLD,1940,3
+2091,Austrian Poland,BPLD,1940,1
+2092,Hohenzollern,BPLD,1940,1
+2093,Manitoba,BPLD,1940,1
+2094,Jamaica,BPLD,1940,4
+2095,"Central Europe, ns",BPLD,1940,3
+2096,East Indies,BPLD,1940,1
+2097,Schleswig,BPLD,1940,1
+2098,Quebec,BPLD,1940,11
+2099,Comoros,BPLD,1940,1
+2100,Jersey,BPLD,1940,7
+2101,Alberta,BPLD,1940,5
+2102,Austria-Tyrol,BPLD,1940,11
+2103,"USSR, ns",BPLD,1940,4
+2104,Russian Poland,BPLD,1940,8
+2105,Botswana,BPLD,1940,1
+2106,Prince Edward Island,BPLD,1940,11
+2107,Sudan,BPLD,1940,1
+2108,"Asia, nec/ns",BPLD,1940,4
+2109,Burma (Myanmar),BPLD,1940,4
+2110,Estonia,BPLD,1940,8
+2111,Dominica,BPLD,1940,1
+2112,Costa Rica,BPLD,1940,2
+2113,Falkland Islands,BPLD,1940,2
+2114,"Western Africa, ns",BPLD,1940,1
+2115,Montenegro,BPLD,1940,7
+2116,Morocco,BPLD,1940,3
+2117,Saudi Arabia,BPLD,1940,1
+2118,Guatemala,BPLD,1940,4
+2119,Aruba,BPLD,1940,1
+2120,Trinidad and Tobago,BPLD,1940,15
+2121,Saskatchewan,BPLD,1940,2
+2122,South America,BPLD,1940,1
+2123,Guernsey,BPLD,1940,1
+2124,Dalmatia,BPLD,1940,1
+2125,Ukraine,BPLD,1940,4
+2126,"Asia Minor, ns",BPLD,1940,3
+2127,Uruguay,BPLD,1940,1
+2128,Bolivia,BPLD,1940,1
+2129,Nicaragua,BPLD,1940,4
+2130,Bosnia,BPLD,1940,2
+2131,Papua New Guinea,BPLD,1940,1
+2132,At sea or abroad (U.S. citizen),BPLD,1940,1
+2133,"Central America, ns",BPLD,1940,2
+2134,Baden,BPLD,1940,1
+2135,Lebanon,BPLD,1940,5
+2136,Galicia,BPLD,1940,1
+2137,Netherlands Antilles,BPLD,1940,2
+2138,Indonesia,BPLD,1940,2
+2139,Bremen,BPLD,1940,1
+2140,Cyprus,BPLD,1940,1
+2141,Guyana/British Guiana,BPLD,1940,1
+2142,Venezuela,BPLD,1940,3
+2143,St. Lucia,BPLD,1940,2
+2144,Bermuda,BPLD,1940,2
+2145,Swaziland,BPLD,1940,2
+2146,West Indies,BPLD,1940,1
+2147,Algeria,BPLD,1940,4
+2148,Lesotho,BPLD,1940,1
+2149,Singapore,BPLD,1940,1
+2150,Christmas Island,BPLD,1940,1
+2151,"Dutch Caribbean, ns",BPLD,1940,1
+2152,Oman,BPLD,1940,1
+2153,Canada East,BPLD,1940,1
+2154,"Native born, and father foreign, mother native",NATIVITY,1870,872
+2155,"Native born, and both parents native born",NATIVITY,1870,28857
+2156,"Native born, and both parents foreign",NATIVITY,1870,2951
+2157,Foreign born,NATIVITY,1870,6471
+2158,"Native born, and mother foreign, father native",NATIVITY,1870,531
+2159,nan,NATIVITY,1870,144
+2160,Foreign born,NATIVITY,1880,39885
+2161,"Native born, and mother foreign, father native",NATIVITY,1880,4287
+2162,"Native born, and both parents native born",NATIVITY,1880,117836
+2163,"Native born, and both parents foreign",NATIVITY,1880,24410
+2164,"Native born, and father foreign, mother native",NATIVITY,1880,8070
+2165,Foreign born,NATIVITY,1900,92803
+2166,"Native born, and both parents foreign",NATIVITY,1900,83069
+2167,"Native born, and father foreign, mother native",NATIVITY,1900,32070
+2168,"Native born, and both parents native born",NATIVITY,1900,314838
+2169,"Native born, and mother foreign, father native",NATIVITY,1900,16791
+2170,"Native born, and both parents foreign",NATIVITY,1910,118806
+2171,"Native born, and both parents native born",NATIVITY,1910,482212
+2172,Foreign born,NATIVITY,1910,132210
+2173,"Native born, and father foreign, mother native",NATIVITY,1910,45879
+2174,"Native born, and mother foreign, father native",NATIVITY,1910,23923
+2175,"Native born, and both parents native born",NATIVITY,1920,612919
+2176,"Native born, and father foreign, mother native",NATIVITY,1920,51337
+2177,Foreign born,NATIVITY,1920,121475
+2178,"Native born, and both parents foreign",NATIVITY,1920,130082
+2179,"Native born, and mother foreign, father native",NATIVITY,1920,26042
+2180,"Native born, and both parents native born",NATIVITY,1930,712376
+2181,"Native born, and mother foreign, father native",NATIVITY,1930,26988
+2182,Foreign born,NATIVITY,1930,101434
+2183,"Native born, and both parents foreign",NATIVITY,1930,137053
+2184,"Native born, and father foreign, mother native",NATIVITY,1930,58313
+2185,"Native born, and both parents native born",NATIVITY,1940,42317
+2186,nan,NATIVITY,1940,1069178
+2187,"Native born, and both parents foreign",NATIVITY,1940,5932
+2188,"Native born, and father foreign, mother native",NATIVITY,1940,2954
+2189,Foreign born,NATIVITY,1940,3722
+2190,"Native born, and mother foreign, father native",NATIVITY,1940,1296

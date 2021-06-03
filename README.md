@@ -110,3 +110,7 @@ For further explanation of the sample weights, see "Sample Designs" and "Sample 
 HISTID is a consistent individual-level identifier.
 
 The variables SERIAL and PERNUM uniquely identify individuals within a dataset. However, the specific respondents associated with those unique values can change as historical full count datasets are improved. HISTID allows researchers to track specific individuals regardless of any such changes as it is a unique identifier independent of household and position within household. Researchers can then merge their existing data with newer versions of the data file using HISTID and identify updates, corrections, or improvements that may have been applied to the data.
+
+# Determine whether prison stats include women (and if so, for which years - go thru biennial reports)
+
+# CONFIRM THAT WEIGHTING IS BEING DONE CORRECTLY!
