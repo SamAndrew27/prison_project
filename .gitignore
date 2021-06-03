@@ -1,6 +1,8 @@
 data/original_data/census_data_1870-1940.csv
 data/census_data_1870-1940_cleaned.csv
 data/sample_census_data_1870-1940_cleaned.csv
+data/census_data/census_data_1870-1940_sub_sample.csv
 **/__pycache__
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.gitignore
