@@ -113,4 +113,12 @@ The variables SERIAL and PERNUM uniquely identify individuals within a dataset. 
 
 # Determine whether prison stats include women (and if so, for which years - go thru biennial reports)
 
+# Determine whether prison stats include women (and if so, for which years - go thru biennial reports)
+
 # CONFIRM THAT WEIGHTING IS BEING DONE CORRECTLY!
+* Looks like it is: Multiply by PERWT to get roughly the entire population
+    * [PERWT Documentation](https://usa.ipums.org/usa/chapter2/chapter2.shtml#6070)
+    * look year by year to make sure this is done correctly
+        * but it seems like documentation explains methadology they used for the process, rather than how the user ought to deal with it 
+* Years:
+    * seems like 

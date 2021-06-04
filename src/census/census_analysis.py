@@ -2,15 +2,15 @@ import pandas as pd
 
 def load_cleaned_data(sample_set=True):
     if sample_set:
-        df = pd.read_csv('../../data/sample_census_data_1870-1940_cleaned.csv')
+        df = pd.read_csv('../../data/census_data/sample_census_data_1870-1940_cleaned.csv')
     else:
-        df = pd.read_csv('../../data/census_data_1870-1940_cleaned.csv')
+        df = pd.read_csv('../../data/census_data/census_data_1870-1940_cleaned.csv')
     df.drop(['Unnamed: 0'], axis=1, inplace=True)
     return df
 
 
 
-def variable_counts(sample_set=True, weights=False, save = False, filename='variable_counts'):
+def variable_counts(sample_set=True, weights=False, save = False, filename='variable_counts'): # could I just be doing groupby for all of this?
     df = load_cleaned_data(sample_set)
     years = list(df['YEAR'].unique())
     idx = 0
@@ -74,9 +74,11 @@ def variable_counts(sample_set=True, weights=False, save = False, filename='vari
         return results
 
 if __name__=="__main__":
-    # df = load_cleaned_data(False)
+    df = load_cleaned_data()
+    print(df.info())
+    # df = df[['YEAR', ]]
     # print(df['PERWT'].value_counts())
 
-    variable_counts(sample_set=True, weights=True, save=True, filename='sample_census_data_1870-1940_aggregated_weighted')
+    # variable_counts(sample_set=True, weights=True, save=True, filename='sample_census_data_1870-1940_aggregated_weighted')
     # variable_counts(sample_set=False, save=True, filename='census_data_1870-1940_aggregated')
 
