@@ -3,7 +3,11 @@ import pandas as pd
 import numpy as np 
 from sklearn.linear_model import LinearRegression
 
-def load_data(remove_unused_samples=True, only_racesing=True, only_black=True):
+
+# combine below into fewer functions? 
+
+
+def load_data(remove_unused_samples=True, only_racesing=True, only_bpl=False, only_black=False):
     df = pd.read_csv('../../data/census_data/sample_census_data_1870-1940_aggregated_weighted.csv')
     df.drop(['Unnamed: 0'], axis=1, inplace=True)
 
@@ -12,13 +16,17 @@ def load_data(remove_unused_samples=True, only_racesing=True, only_black=True):
             df = df[df['sample'] != sample ]
     if only_racesing:
         df = df[df['column'] == 'RACESING']
+    else:
+        if only_bpl:
+            df = df[df['column'] == 'BPL']
+
     if only_black:
         df = df[df['variable'] == 'Black']
     return df
 
 
 def interpolate_black_data():
-    df = load_data(True,True,True)
+    df = load_data(True,True, False, True)
     yr_range = list(range(1870,1941))
     all_year_series = pd.Series(index=yr_range)
 
@@ -32,7 +40,7 @@ def interpolate_black_data():
 
 
 def interpolate_all_racesing_data(save=False):
-    df = load_data(True, True, False)
+    df = load_data(True, True, False, False)
     yr_range = list(range(1870,1941))
     races = list(df['variable'].unique())
     result_df = pd.DataFrame(columns = races, index=yr_range, dtype='float')
@@ -46,52 +54,29 @@ def interpolate_all_racesing_data(save=False):
     else:
         return result_df
 
+def interpolate_all_bpl_data(save=False): # probably should just be combined w/ the above function 
+    df = load_data(True, False, True, False)
+    yr_range = list(range(1870,1941))
+    birth_places = list(df['variable'].unique())
+    result_df = pd.DataFrame(columns = birth_places, index=yr_range, dtype='float')
+    for idx, row in df.iterrows():
+        result_df.loc[row['year'], row['variable']] = row['population']
+    for bpl in birth_places:
+        first_index = result_df[bpl].first_valid_index()
+        last_index = result_df[bpl].last_valid_index()
 
+        result_df.loc[first_index:last_index, bpl] = result_df.loc[first_index:last_index, bpl].interpolate(method='linear')
+    if save:
+        result_df.to_csv('../../data/census_data/bpl_data_interpolated.csv')
+    else:
+        return result_df
 
 if __name__=="__main__":
-
-    # interpolate_all_racesing_data(True)
-    df = pd.read_csv('../../data/census_data/interpolated_racesing_data.csv')
-    df.rename(columns={'Unnamed: 0': 'year'}, inplace=True)
-    print(df.head())
-    print(df.info())
-    year_80 = df[df['year'] == 1880]
-    print(year_80['Black'] / year_80.sum(axis=1))
-
-
-
-    # df = load_data(True,True, False)
-    # print(df['variable'].unique())
-    # df = interpolate_all_racesing_data()
+    # df = interpolate_all_bpl_data()
     # print(df.info())
-
-    # print(df.iloc[:, 4])
-    # white = df['White']
-    # print(white)
-    # df['White'] = df['White'].interpolate(method='linear')
-    # print(df['White'].interpolate(method='linear', axis=0))
-    # print(df.info())
-    # print(df.head())
-
-
-    # df = load_data(True,True,False)
-    # print(df.info())
-    # print(df['variable'].unique())
-
-
-    # df = load_data(True, True, True)
-    # print(df.info())
-    
     # print(df.head(30))
-    # print(df['variable'].unique())
-    # X = np.array(df['year']).reshape(-1,1)
-    # y = np.array(df['population'])
-    # yr_range = np.array(range(1870, 1941)).reshape(-1,1)
-    # lr = LinearRegression().fit(X, y)
-    # pred = lr.predict(yr_range)
+    # print(df.columns)
+    # df.to_csv('test.csv')
+    # print(df['Missouri'].isna().sum())
+    interpolate_all_bpl_data(True)
 
-
-    # fig, ax = plt.subplots()
-    # ax.scatter(X, y, color='red')
-    # ax.plot(yr_range, pred)
-    # plt.show()
