@@ -50,7 +50,13 @@ def interpolate_all_racesing_data(save=False):
 
 if __name__=="__main__":
 
-    interpolate_all_racesing_data(True)
+    # interpolate_all_racesing_data(True)
+    df = pd.read_csv('../../data/census_data/interpolated_racesing_data.csv')
+    df.rename(columns={'Unnamed: 0': 'year'}, inplace=True)
+    print(df.head())
+    print(df.info())
+    year_80 = df[df['year'] == 1880]
+    print(year_80['Black'] / year_80.sum(axis=1))
 
 
 
