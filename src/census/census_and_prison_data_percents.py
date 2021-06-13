@@ -109,4 +109,36 @@ if __name__=="__main__":
     # print(df.info())
     # print(df.head(40))
 
-    percentize_bpl_data(True)
+    df = pd.read_csv('../../data/original_data/foreign_data.csv')
+    df.rename(columns={'Unnamed: 0': 'location'}, inplace=True)
+    result_index = list(range(len(df['location'].unique())))
+    result = pd.DataFrame(columns=['location', 'population'], index=result_index)
+    for idx, row in df.iterrows():
+        result.iloc[idx] = [row['location'], row.iloc[1:].sum()]
+    
+    result.sort_values('population', ascending=False, inplace=True)
+    print(result.head(20))
+
+
+    # TOP FOREIGN LOCATIONS  
+
+    # 43            Mexico (old)        853
+    # 29                 Germany        341
+    # 35                   Italy        293
+    # 34                 Ireland        279
+    # 25                 England        267
+    # 14                  Canada        217
+    # 6                  Austria        168
+    # 60                  Russia        125
+    # 62                Scotland         78
+    # 72                  Sweden         78
+    # 28                  France         54
+    # 30                  Greece         52
+    # 40  Jugo-Slovakia (slavia)         31
+    # 5                Australia         30
+    # 73             Switzerland         26
+    # 23                 Denmark         26
+    # 32                 Hungary         22
+    # 50                  Norway         19
+    # 54                  Poland         19
+    # 38                   Japan         16
