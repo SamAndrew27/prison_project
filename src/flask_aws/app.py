@@ -45,5 +45,5 @@ def crime_categories():
     return render_template('crime_categories.html')
 
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080, threaded=True, debug=False)
+# if __name__ == '__main__':
+#     app.run(host='0.0.0.0', port=8080, threaded=True, debug=False)
