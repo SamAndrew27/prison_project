@@ -3,6 +3,11 @@ import pandas as pd
 from join_years import load_all_years
 
 def crime_lists():
+    """Associates crimes with a category
+
+    Returns:
+        dict: keys are the categories, crimes are the values (stored in lists)
+    """    
     violent_crimes = [  'Assault w/ Intent to Kill', 
                         'Assault w/ Intent to Murder',
                         'Assisting to Kill',
@@ -81,6 +86,14 @@ def crime_lists():
     return result 
 
 def crime_categories(save=False):
+    """Creates a Dataframe counting each recorded crime, its category, the race & nativity of the prisoners imprisoned for it, and the number of prisoners imprisoned for it
+
+    Args:
+        save (bool, optional): If True saves as a csv, otherwise it returns as DF. Defaults to False.
+
+    Returns:
+        DF: As described in function description 
+    """    
     df = load_all_years()
     crime_category_dic = crime_lists()
     idx_length = 0

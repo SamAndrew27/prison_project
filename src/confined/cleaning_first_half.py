@@ -2,7 +2,12 @@
 import pandas as pd 
 
 def clean_all_first_half():
-    df = load_data_or_legend()
+    """Loads data and legend, applies cleaning functions to df
+
+    Returns:
+        DataFrame: DataFrame w/ data cleaned
+    """    
+    df = load_data_or_legend(True)
     legend = load_data_or_legend(False)
     df = clean_term(df, legend)
     df = clean_crime(df, legend)
@@ -116,6 +121,15 @@ def clean_crime_apply(x,dic):
 
 
 def clean_nativity(df, legend):
+    """ cleans nativity column
+
+    Args:
+        df (DataFrame): DataFrame uncleaned
+        legend (DataFrame): Legend for Data
+
+    Returns:
+        DataFrame: DataFrame w/ nativity cleaned
+    """    
     dic = {} 
     for elem in legend['Countries Legend'].dropna():
         elem = elem.split(':')
@@ -129,6 +143,15 @@ def clean_nativity(df, legend):
     return df 
 
 def clean_nativity_apply(x, dic):
+    """Apply function for nativity
+
+    Args:
+        x (string): original nativity
+        dic (dict): dictionary w/ legend loaded
+
+    Returns:
+        string: nativity cleaned 
+    """    
     x = x.strip()
     if x in dic:
         return dic[x]
@@ -136,6 +159,15 @@ def clean_nativity_apply(x, dic):
         return x 
 
 def clean_race(df, legend):
+    """ cleans race column
+
+    Args:
+        df (DataFrame): DataFrame uncleaned
+        legend (DataFrame): Legend for Data
+
+    Returns:
+        DataFrame: DataFrame w/ race cleaned
+    """    
     dic = {} 
     for elem in legend['Race Legend'].dropna():
         elem = elem.split(':')
@@ -145,6 +177,15 @@ def clean_race(df, legend):
     return df
 
 def clean_race_apply(x, dic):
+    """Apply function for race
+
+    Args:
+        x (string): original race
+        dic (dict): dictionary w/ legend loaded
+
+    Returns:
+        string: race cleaned 
+    """    
     x = x.strip()
     if x in dic:
         return dic[x]
@@ -152,6 +193,14 @@ def clean_race_apply(x, dic):
         return x
 
 def race_adjusted_apply(x):
+    """apply function for race - making a few classifications slightly less racist/antiquated 
+
+    Args:
+        x (str): race
+
+    Returns:
+        str: race
+    """    
     if x == 'Mulatto':
         return 'Black'
     if x == 'Mongolian':
@@ -160,6 +209,15 @@ def race_adjusted_apply(x):
         return x
 
 def nat_no_states(x, legend):
+    """replaces state names with 'United States'
+
+    Args:
+        x (str): nativity
+        legend (DataFrame): Legend for Data
+
+    Returns:
+        DataFrame: DataFrame w/ states converted
+    """    
     if x in list(legend['State Names'].dropna()):
         return 'United States'
     else:

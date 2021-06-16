@@ -3,6 +3,11 @@ import pandas as pd
 
 
 def clean_all_second_half():
+    """Loads data and legend, applies cleaning functions to df
+
+    Returns:
+        DataFrame: DataFrame w/ data cleaned
+    """    
     df = load_data_or_legend()
     legend = load_data_or_legend(False)
     df = clean_term(df, legend)
@@ -118,6 +123,15 @@ def clean_crime_apply(x,dic):
 
 
 def clean_nationality(df, legend):
+    """ cleans nationality column
+
+    Args:
+        df (DataFrame): DataFrame uncleaned
+        legend (DataFrame): Legend for Data
+
+    Returns:
+        DataFrame: DataFrame w/ nationality cleaned
+    """    
     dic = {} 
     for elem in legend['Nationality Legend'].dropna():
         elem = elem.split(':')
@@ -127,6 +141,15 @@ def clean_nationality(df, legend):
     return df 
 
 def clean_nationality_apply(x, dic):
+    """Apply function for nationality
+
+    Args:
+        x (string): original nationality
+        dic (dict): dictionary w/ legend loaded
+
+    Returns:
+        string: nationality cleaned 
+    """    
     x = x.strip()
     if x in dic:
         return dic[x]
@@ -138,6 +161,14 @@ def clean_nationality_apply(x, dic):
 
 
 def create_race_apply(x):
+    """Creates race column, as races and natiaonlity were used interchangeably for these prison years
+
+    Args:
+        x (str): orignial nativity
+
+    Returns:
+        str: converted nationality ---> race 
+    """    
     if x in ['Black','Mexican', '?']:
         return x
     if x in ['Japan', 'China']:
