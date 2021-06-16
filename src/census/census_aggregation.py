@@ -1,6 +1,14 @@
 import pandas as pd 
 
 def load_cleaned_data(sample_set=True):
+    """Loads cleaned census data
+
+    Args:
+        sample_set (bool, optional): If True uses a smaller subset of data, otherwise uses entire dataset. Use sample for testing. Defaults to True.
+
+    Returns:
+        DataFrame: DataFrame
+    """    
     if sample_set:
         df = pd.read_csv('../../data/census_data/sample_census_data_1870-1940_cleaned.csv')
     else:
@@ -10,7 +18,18 @@ def load_cleaned_data(sample_set=True):
 
 
 
-def variable_counts(sample_set=True, weights=False, save = False, filename='variable_counts'): # could I just be doing groupby for all of this?
+def variable_counts(sample_set=True, weights=True, save = False, filename='variable_counts'): # could I just be doing groupby for all of this?
+    """Gets the counts of each variable for each year
+
+    Args:
+        sample_set (bool, optional): If True will denote the sample the record was drawn from. Defaults to True. - Probably shouldn't even be an option not to include this. 
+        weights (bool, optional): If Weights the weights from PERWT are applied. Might as well always apply these, but for flat samples PERWT is irrelevant. Defaults to True.
+        save (bool, optional): If True saves as CSV, otherwise returns pandas DF. Defaults to False.
+        filename (str, optional): Name to save CSV file of in the case that 'save' is set to True. Defaults to 'variable_counts'.
+
+    Returns:
+        DataFrame: DataFrame with variables summed (and possibly weighted)
+    """    
     df = load_cleaned_data(sample_set)
     years = list(df['YEAR'].unique())
     idx = 0

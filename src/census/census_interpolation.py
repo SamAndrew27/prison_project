@@ -8,6 +8,17 @@ from sklearn.linear_model import LinearRegression
 
 
 def load_data(remove_unused_samples=True, only_racesing=True, only_bpl=False, only_black=False):
+    """Loads data we will be using
+
+    Args:
+        remove_unused_samples (bool, optional): Removes samples we have decided to not use - should probably always be True. Defaults to True.
+        only_racesing (bool, optional): Only uses Racesing data if True. Defaults to True - probably should always be true. 
+        only_bpl (bool, optional): Only uses bpl data, maybe we should combine racesing/bpl into a single bool as they are the only 2 features we interpolated. Defaults to False.
+        only_black (bool, optional): If True only loads black data. Ultimately did not use, should probably always be False. Defaults to False.
+
+    Returns:
+        [type]: [description]
+    """    
     df = pd.read_csv('../../data/census_data/sample_census_data_1870-1940_aggregated_weighted.csv')
     df.drop(['Unnamed: 0'], axis=1, inplace=True)
 
@@ -26,6 +37,11 @@ def load_data(remove_unused_samples=True, only_racesing=True, only_bpl=False, on
 
 
 def interpolate_black_data():
+    """Interploates all black data - probably could just remove this function
+
+    Returns:
+        Series: Series of Black population according to census figures 
+    """    
     df = load_data(True,True, False, True)
     yr_range = list(range(1870,1941))
     all_year_series = pd.Series(index=yr_range)
@@ -40,6 +56,14 @@ def interpolate_black_data():
 
 
 def interpolate_all_racesing_data(save=False):
+    """interpolates racesing census data
+
+    Args:
+        save (bool, optional): If True saves the DF to a csv, otherwise returns DF. Defaults to False.
+
+    Returns:
+        DF: interpolated racesing census data
+    """    
     df = load_data(True, True, False, False)
     yr_range = list(range(1870,1941))
     races = list(df['variable'].unique())
@@ -55,6 +79,14 @@ def interpolate_all_racesing_data(save=False):
         return result_df
 
 def interpolate_all_bpl_data(save=False): # probably should just be combined w/ the above function 
+    """interpolates bpl (birthplace) census data
+
+    Args:
+        save (bool, optional): If True saves the DF to a csv, otherwise returns DF. Defaults to False.
+
+    Returns:
+        DF: interpolated bpl census data
+    """    
     df = load_data(True, False, True, False)
     yr_range = list(range(1870,1941))
     birth_places = list(df['variable'].unique())

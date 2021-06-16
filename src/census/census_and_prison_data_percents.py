@@ -3,18 +3,33 @@ import pandas as pd
 import numpy as np 
 
 def load_interpolated_racesing_data():
+    """Loads interpolated racesing data
+
+    Returns:
+        DataFrame(DF): DataFrame
+    """    
     df = pd.read_csv('../../data/census_data/interpolated_racesing_data.csv')
     df.rename(columns={'Unnamed: 0': 'year'}, inplace=True)
     return df 
 
 
 def load_prison_race_data():
+    """Loads prison race data
+
+    Returns:
+        DF: race data for prison
+    """    
     df = pd.read_csv('../../data/race_data.csv')
     df.drop(columns=['Unnamed: 0'], axis=1, inplace=True)
     return df 
 
 
 def load_prison_birthplace_data():
+    """Loads prison birthplace data, foreign countries and US states combined
+
+    Returns:
+        DF: prison foreign & state birthplace data
+    """    
     foreign_data = pd.read_csv('../../data/original_data/foreign_data.csv')
     state_data = pd.read_csv('../../data/original_data/state_data.csv')
     combined = pd.concat([foreign_data, state_data])
@@ -22,13 +37,27 @@ def load_prison_birthplace_data():
     return combined
 
 def load_census_birthplace_data():
+    """Loads census birthplace data (interpolated)
+
+    Returns:
+        DF: birthplace data interpolated from census 
+    """    
     df = pd.read_csv('../../data/census_data/bpl_data_interpolated.csv')
     df.rename(columns={'Unnamed: 0': 'year'}, inplace=True)
 
     return df
 
 
-def percentize_race_data(save=False):
+def percentize_race_data(save=False): # COMBINE THIS W/ Below??? Mostly the same probably could have a boolean option and make into a single function 
+    """ gets prison race data & census race data, combining them into a single dataframe showing the source, year, race, population, and the % of the population 
+    that race comprised for that year, either of the census data or the prison data depending on the source
+
+    Args:
+        save (bool, optional): If save saves to csv, otherwise returns df. Defaults to False.
+
+    Returns:
+        DF: as described in function desc.
+    """    
     census_data = load_interpolated_racesing_data()
     prison_data = load_prison_race_data()
 
@@ -67,6 +96,14 @@ def percentize_race_data(save=False):
         return result 
 
 def percentize_bpl_data(save=False):
+    """Does the same as above, but for birthplace rather than race
+
+    Args:
+        save (bool, optional): If true saves as CSV, otherwise returns DF. Defaults to False.
+
+    Returns:
+        DF: birthplace data w/ percent added, see above function 
+    """    
     prison_data = load_prison_birthplace_data()
     prison_yrs = list(prison_data.columns)[1:]
     prison_locations = list(prison_data['location'].unique())

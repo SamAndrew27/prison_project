@@ -1,6 +1,17 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 def create_sample(sample_set= True, size=.01, save=True, filename='Default'):
+    """Creates subsample to troubleshoot with of census data (cus the census data is quite large)
+
+    Args:
+        sample_set (bool, optional): If True uses the sample census data, as distributed by IPUMS. Defaults to True.
+        size (float, optional): Size of sample relative to original data. Defaults to .01.
+        save (bool, optional): If True saves as csv, otherwise returns DF. Defaults to True.
+        filename (str, optional): Filename to be used if 'save' set to true - if unadjusted will use default file names. Defaults to 'Default' - which uses preloaded filenames
+
+    Returns:
+        DF: subsample of census data
+    """    
 
     if sample_set:
         df = pd.read_csv('../../data/original_data/sample_census_data_1870-1940.csv')
@@ -24,6 +35,19 @@ def create_sample(sample_set= True, size=.01, save=True, filename='Default'):
         return test
 
 def load_and_clean(sample_set = True, sub_sample=True, drop_unused_cols=True, drop_reformatted_cols=True, save=False, filename='Default'):
+    """Loads census data in original format, removes unused columns, & replaces variable codes w/ variable names
+
+    Args:
+        sample_set (bool, optional): If True loads sample sets, otherwise loads original census records. Defaults to True.
+        sub_sample (bool, optional): If True loads a subsample of data, otherwise uses entire dataset. Defaults to True.
+        drop_unused_cols (bool, optional): Drops the columns we have decided to ignore for now. Defaults to True.
+        drop_reformatted_cols (bool, optional): Drops columns w/ codes reformatted to show what they actually represent. Defaults to True.
+        save (bool, optional): If True saves df as CSV, otherwise returns DF. Defaults to False.
+        filename (str, optional): Name of file if file is saved - if nothing input uses preloads. Defaults to 'Default'.
+
+    Returns:
+        DF: cleaned census data
+    """    
     if sample_set:
         if sub_sample:
             df = pd.read_csv('../../data/census_data/sample_census_data_1870-1940_sub_sample.csv') 
@@ -73,11 +97,33 @@ def load_and_clean(sample_set = True, sub_sample=True, drop_unused_cols=True, dr
         return df
 
 def code_apply(x, code_dict):
+    """Replaces code with what it represents
+
+    Args:
+        x : original code
+        code_dict (dict): codes as keys, value of codes as values
+
+    Returns:
+        string: what the code represents
+    """    
     if pd.isnull(x):
         return x
     else:
         return code_dict.get(x, 'Unmatched Code')
+
+
 def find_unmatched(sample_set=True, drop_unused_cols=True, sub_sample=False): # Iteration most likely unecessary, I think just doing value counts would suffice, no?
+    """Finds unmatched codes for each column 
+
+    Args:
+        sample_set (bool, optional): If True loads sample sets, otherwise loads original census records. Defaults to True.
+        drop_unused_cols (bool, optional): Drops the columns we have decided to ignore for now. Defaults to True.
+        sub_sample (bool, optional): If True loads a subsample of data, otherwise uses entire dataset. Defaults to True.
+
+    Returns:
+        unmatched_counts (dict): dictionary containing the count of unmatched columns in each cleaned column
+        unmatched codes (set): codes which are unmatched
+    """
     df = load_and_clean(sample_set=sample_set, drop_unused_cols=drop_unused_cols,  sub_sample=sub_sample, drop_reformatted_cols=False)
     unmatched_counts = {}
     unmatched_codes = set()
