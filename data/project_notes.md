@@ -1,3 +1,12 @@
+# Gabe Tableau
+* reference gabe's sent link
+    * Employment by Education
+        * Do a dashboard like this?
+## Census Data
+* Put dates below the graph 
+* No grid lines
+* 
+
 # prison_project
 # changes made to general data (in 'state data' & 'foreign data')
 * putting porto rico in foreign 

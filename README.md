@@ -1,7 +1,10 @@
 # Overview
-In the summer of 2017 I received a grant through the Colorado College History Department to study the resources available at the Canon City Prison Museum archive. After completing a data science bootcamp during the spring of 2021 I decided to revisit that data and create some visualizations. Although still a work in progress, the visualizations are available to be viewed at this link: 54.219.125.140 
+In the summer of 2017 I received a grant through the Colorado College History Department to study the resources available at the Canon City Prison Museum archive. After completing a data science bootcamp during the spring of 2021 I decided to revisit that data and create some visualizations. Although still a work in progress, the visualizations are available to be viewed at this link: http://54.177.157.57/
 
 My hope is that I will be able to continue revisiting these visualizations and improve upon them, as well as the EC2 instance which currently hosts the site. I used Pandas and Python to deal with the data I collected, and Tableau to create the visualizations. Below you can read specifics about each of the sections available. 
+
+# Prisoner Birthplace
+The tabs under this category visualize the locations prisoners were born, both over time and cumulatively. The scales are all the same 
 
 # Domestic States/Regions 
 Birthplaces of prisoners born in the United States. The span of the years varies, but each tab represents the data from 4 Biennial Reports. Biennial Reports were published every 2 years. There are certainly prisoners who are counted in multiple Biennial reports, and as such prisoners with longer sentences are likely overrepresented. The final slide shows the distribution of prisoner birthplaces over all available years. It has a different scale than the previous slides smaller groups of years. 
